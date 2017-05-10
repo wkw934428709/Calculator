@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.tct.calculator.view.CurrencyDisplayOverlay xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/display"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <include layout="@layout/graph_display" />
+
+        <RelativeLayout
+            android:id="@+id/mainDisplay"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <com.tct.calculator.adapter.CurrencyHistoryRecyclerView
+                android:id="@+id/historyRecycler"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:background="@color/history_background_color"
+                android:fadeScrollbars="true"
+                android:scrollbars="vertical"
+                android:splitMotionEvents="false" />
+
+            <FrameLayout
+                android:id="@+id/ll_formula_result_container"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/historyRecycler"
+                >
+
+                <RelativeLayout
+                    android:id="@+id/ll_formula_result"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@android:color/white"
+                    android:paddingTop="@dimen/currency_keyboard_pad_top_multi">
+
+                    <FrameLayout
+                        android:id="@+id/blank_space"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@android:color/white"/>
+
+                    <RelativeLayout
+                        android:id="@+id/display_show_top"
+                        android:layout_width="match_parent"
+                        android:layout_height="18dp"
+                        android:orientation="horizontal"
+                        android:gravity="center_vertical"
+                        android:background="@android:color/white">
+
+                        <TextView
+                            android:id="@+id/currency_time"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:background="@color/color_keyboard_bg"
+                            android:fontFamily="sans-serif-light"
+                            android:paddingLeft="10dp"
+                            android:textColor="@color/color_green"
+                            android:visibility="gone"
+                            android:textSize="@dimen/currency_time_textSize"/>
+
+                        <ImageView
+                            android:id="@+id/currency_ic_xe"
+                            android:layout_marginTop="5dp"
+                            android:layout_marginRight="5dp"
+                            android:layout_alignParentRight="true"
+                            android:layout_width="wrap_content"
+                            android:layout_height="35dp"
+                            android:scaleType="center"
+                            android:src="@drawable/ic_currency_xe_small"/>
+
+                    </RelativeLayout>
+
+                    <include
+                        android:id="@+id/exchanged_layout"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@id/display_show_top"
+                        layout="@layout/exchange_item_layout_split"/>
+                    <!--      <com.tct.calculator.view.ExchangeItemLayout
+                              android:id="@+id/exchanged_layout"
+                              android:layout_width="match_parent"
+                              android:layout_height="wrap_content"
+                              android:layout_below="@id/display_show_top">
+                          </com.tct.calculator.view.ExchangeItemLayout>-->
+                </RelativeLayout>
+
+            </FrameLayout>
+
+        </RelativeLayout>
+
+    </FrameLayout>
+
+</com.tct.calculator.view.CurrencyDisplayOverlay>

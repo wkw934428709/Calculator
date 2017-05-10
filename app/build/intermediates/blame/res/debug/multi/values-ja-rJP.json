@@ -1,0 +1,3426 @@
+[
+    {
+        "outputFile": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ja-rJP/values-ja-rJP.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 38,
+                    "endOffset": 89
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 94,
+                    "endColumn": 42,
+                    "endOffset": 132
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 137,
+                    "endColumn": 37,
+                    "endOffset": 170
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 175,
+                    "endColumn": 50,
+                    "endOffset": 221
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 226,
+                    "endColumn": 56,
+                    "endOffset": 278
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 283,
+                    "endColumn": 54,
+                    "endOffset": 333
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 338,
+                    "endColumn": 41,
+                    "endOffset": 375
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 380,
+                    "endColumn": 53,
+                    "endOffset": 429
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 434,
+                    "endColumn": 52,
+                    "endOffset": 482
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 487,
+                    "endColumn": 50,
+                    "endOffset": 533
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 538,
+                    "endColumn": 37,
+                    "endOffset": 571
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 576,
+                    "endColumn": 58,
+                    "endOffset": 630
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 635,
+                    "endColumn": 59,
+                    "endOffset": 690
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 695,
+                    "endColumn": 52,
+                    "endOffset": 743
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 748,
+                    "endColumn": 56,
+                    "endOffset": 800
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 805,
+                    "endColumn": 56,
+                    "endOffset": 857
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 862,
+                    "endColumn": 54,
+                    "endOffset": 912
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 917,
+                    "endColumn": 54,
+                    "endOffset": 967
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 972,
+                    "endColumn": 51,
+                    "endOffset": 1019
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1024,
+                    "endColumn": 53,
+                    "endOffset": 1073
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1078,
+                    "endColumn": 56,
+                    "endOffset": 1130
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1135,
+                    "endColumn": 44,
+                    "endOffset": 1175
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1180,
+                    "endColumn": 60,
+                    "endOffset": 1236
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1241,
+                    "endColumn": 64,
+                    "endOffset": 1301
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1306,
+                    "endColumn": 52,
+                    "endOffset": 1354
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1359,
+                    "endColumn": 53,
+                    "endOffset": 1408
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1413,
+                    "endColumn": 49,
+                    "endOffset": 1458
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1463,
+                    "endColumn": 51,
+                    "endOffset": 1510
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1515,
+                    "endColumn": 45,
+                    "endOffset": 1556
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml",
+                    "position": {
+                        "startLine": 700,
+                        "startColumn": 1,
+                        "startOffset": 21849,
+                        "endColumn": 42,
+                        "endOffset": 21890
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1561,
+                    "endColumn": 46,
+                    "endOffset": 1603
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml",
+                    "position": {
+                        "startLine": 698,
+                        "startColumn": 1,
+                        "startOffset": 21794,
+                        "endColumn": 43,
+                        "endOffset": 21836
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 1608,
+                    "endColumn": 37,
+                    "endOffset": 1641
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 1646,
+                    "endColumn": 52,
+                    "endOffset": 1694
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 1699,
+                    "endColumn": 52,
+                    "endOffset": 1747
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 1752,
+                    "endColumn": 54,
+                    "endOffset": 1802
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 1807,
+                    "endColumn": 52,
+                    "endOffset": 1855
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 1860,
+                    "endColumn": 60,
+                    "endOffset": 1916
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 1921,
+                    "endColumn": 61,
+                    "endOffset": 1978
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 1983,
+                    "endColumn": 60,
+                    "endOffset": 2039
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 2044,
+                    "endColumn": 59,
+                    "endOffset": 2099
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 2104,
+                    "endColumn": 48,
+                    "endOffset": 2148
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 2153,
+                    "endColumn": 46,
+                    "endOffset": 2195
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 2200,
+                    "endColumn": 53,
+                    "endOffset": 2249
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 2254,
+                    "endColumn": 51,
+                    "endOffset": 2301
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 2306,
+                    "endColumn": 53,
+                    "endOffset": 2355
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 2360,
+                    "endColumn": 45,
+                    "endOffset": 2401
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 2406,
+                    "endColumn": 50,
+                    "endOffset": 2452
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 2457,
+                    "endColumn": 56,
+                    "endOffset": 2509
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 2514,
+                    "endColumn": 53,
+                    "endOffset": 2563
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 2568,
+                    "endColumn": 51,
+                    "endOffset": 2615
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 2620,
+                    "endColumn": 52,
+                    "endOffset": 2668
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 2673,
+                    "endColumn": 55,
+                    "endOffset": 2724
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 2729,
+                    "endColumn": 52,
+                    "endOffset": 2777
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 2782,
+                    "endColumn": 52,
+                    "endOffset": 2830
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 2835,
+                    "endColumn": 55,
+                    "endOffset": 2886
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 2891,
+                    "endColumn": 52,
+                    "endOffset": 2939
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 2944,
+                    "endColumn": 51,
+                    "endOffset": 2991
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 2996,
+                    "endColumn": 56,
+                    "endOffset": 3048
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 3053,
+                    "endColumn": 56,
+                    "endOffset": 3105
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 3110,
+                    "endColumn": 63,
+                    "endOffset": 3169
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 3174,
+                    "endColumn": 63,
+                    "endOffset": 3233
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 3238,
+                    "endColumn": 56,
+                    "endOffset": 3290
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 3295,
+                    "endColumn": 56,
+                    "endOffset": 3347
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 3352,
+                    "endColumn": 63,
+                    "endOffset": 3411
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 3416,
+                    "endColumn": 55,
+                    "endOffset": 3467
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 3472,
+                    "endColumn": 55,
+                    "endOffset": 3523
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 3528,
+                    "endColumn": 56,
+                    "endOffset": 3580
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 3585,
+                    "endColumn": 56,
+                    "endOffset": 3637
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 3642,
+                    "endColumn": 56,
+                    "endOffset": 3694
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 3699,
+                    "endColumn": 56,
+                    "endOffset": 3751
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 3756,
+                    "endColumn": 62,
+                    "endOffset": 3814
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 3819,
+                    "endColumn": 62,
+                    "endOffset": 3877
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 73,
+                    "startColumn": 4,
+                    "startOffset": 3882,
+                    "endColumn": 60,
+                    "endOffset": 3938
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 3943,
+                    "endColumn": 60,
+                    "endOffset": 3999
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 75,
+                    "startColumn": 4,
+                    "startOffset": 4004,
+                    "endColumn": 45,
+                    "endOffset": 4045
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 76,
+                    "startColumn": 4,
+                    "startOffset": 4050,
+                    "endColumn": 78,
+                    "endOffset": 4124
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 77,
+                    "startColumn": 4,
+                    "startOffset": 4129,
+                    "endColumn": 78,
+                    "endOffset": 4203
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 78,
+                    "startColumn": 4,
+                    "startOffset": 4208,
+                    "endColumn": 65,
+                    "endOffset": 4269
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 79,
+                    "startColumn": 4,
+                    "startOffset": 4274,
+                    "endColumn": 75,
+                    "endOffset": 4345
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 80,
+                    "startColumn": 4,
+                    "startOffset": 4350,
+                    "endColumn": 61,
+                    "endOffset": 4407
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 81,
+                    "startColumn": 4,
+                    "startOffset": 4412,
+                    "endColumn": 61,
+                    "endOffset": 4469
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 82,
+                    "startColumn": 4,
+                    "startOffset": 4474,
+                    "endColumn": 47,
+                    "endOffset": 4517
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 4522,
+                    "endColumn": 55,
+                    "endOffset": 4573
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 4578,
+                    "endColumn": 51,
+                    "endOffset": 4625
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 85,
+                    "startColumn": 4,
+                    "startOffset": 4630,
+                    "endColumn": 51,
+                    "endOffset": 4677
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 86,
+                    "startColumn": 4,
+                    "startOffset": 4682,
+                    "endColumn": 54,
+                    "endOffset": 4732
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 87,
+                    "startColumn": 4,
+                    "startOffset": 4737,
+                    "endColumn": 50,
+                    "endOffset": 4783
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 88,
+                    "startColumn": 4,
+                    "startOffset": 4788,
+                    "endColumn": 51,
+                    "endOffset": 4835
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 89,
+                    "startColumn": 4,
+                    "startOffset": 4840,
+                    "endColumn": 51,
+                    "endOffset": 4887
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 90,
+                    "startColumn": 4,
+                    "startOffset": 4892,
+                    "endColumn": 54,
+                    "endOffset": 4942
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 91,
+                    "startColumn": 4,
+                    "startOffset": 4947,
+                    "endColumn": 51,
+                    "endOffset": 4994
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 92,
+                    "startColumn": 4,
+                    "startOffset": 4999,
+                    "endColumn": 44,
+                    "endOffset": 5039
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 93,
+                    "startColumn": 4,
+                    "startOffset": 5044,
+                    "endColumn": 50,
+                    "endOffset": 5090
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 94,
+                    "startColumn": 4,
+                    "startOffset": 5095,
+                    "endColumn": 48,
+                    "endOffset": 5139
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 95,
+                    "startColumn": 4,
+                    "startOffset": 5144,
+                    "endColumn": 51,
+                    "endOffset": 5191
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 96,
+                    "startColumn": 4,
+                    "startOffset": 5196,
+                    "endColumn": 49,
+                    "endOffset": 5241
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 97,
+                    "startColumn": 4,
+                    "startOffset": 5246,
+                    "endColumn": 51,
+                    "endOffset": 5293
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 98,
+                    "startColumn": 4,
+                    "startOffset": 5298,
+                    "endColumn": 49,
+                    "endOffset": 5343
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 99,
+                    "startColumn": 4,
+                    "startOffset": 5348,
+                    "endColumn": 50,
+                    "endOffset": 5394
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 100,
+                    "startColumn": 4,
+                    "startOffset": 5399,
+                    "endColumn": 51,
+                    "endOffset": 5446
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 101,
+                    "startColumn": 4,
+                    "startOffset": 5451,
+                    "endColumn": 54,
+                    "endOffset": 5501
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 102,
+                    "startColumn": 4,
+                    "startOffset": 5506,
+                    "endColumn": 55,
+                    "endOffset": 5557
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 103,
+                    "startColumn": 4,
+                    "startOffset": 5562,
+                    "endColumn": 47,
+                    "endOffset": 5605
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 104,
+                    "startColumn": 4,
+                    "startOffset": 5610,
+                    "endColumn": 47,
+                    "endOffset": 5653
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 105,
+                    "startColumn": 4,
+                    "startOffset": 5658,
+                    "endColumn": 49,
+                    "endOffset": 5703
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 106,
+                    "startColumn": 4,
+                    "startOffset": 5708,
+                    "endColumn": 52,
+                    "endOffset": 5756
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 107,
+                    "startColumn": 4,
+                    "startOffset": 5761,
+                    "endColumn": 47,
+                    "endOffset": 5804
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 108,
+                    "startColumn": 4,
+                    "startOffset": 5809,
+                    "endColumn": 52,
+                    "endOffset": 5857
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 109,
+                    "startColumn": 4,
+                    "startOffset": 5862,
+                    "endColumn": 58,
+                    "endOffset": 5916
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 110,
+                    "startColumn": 4,
+                    "startOffset": 5921,
+                    "endColumn": 53,
+                    "endOffset": 5970
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 111,
+                    "startColumn": 4,
+                    "startOffset": 5975,
+                    "endColumn": 59,
+                    "endOffset": 6030
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 112,
+                    "startColumn": 4,
+                    "startOffset": 6035,
+                    "endColumn": 59,
+                    "endOffset": 6090
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 113,
+                    "startColumn": 4,
+                    "startOffset": 6095,
+                    "endColumn": 57,
+                    "endOffset": 6148
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 114,
+                    "startColumn": 4,
+                    "startOffset": 6153,
+                    "endColumn": 51,
+                    "endOffset": 6200
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 115,
+                    "startColumn": 4,
+                    "startOffset": 6205,
+                    "endColumn": 54,
+                    "endOffset": 6255
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 116,
+                    "startColumn": 4,
+                    "startOffset": 6260,
+                    "endColumn": 59,
+                    "endOffset": 6315
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 117,
+                    "startColumn": 4,
+                    "startOffset": 6320,
+                    "endColumn": 59,
+                    "endOffset": 6375
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 118,
+                    "startColumn": 4,
+                    "startOffset": 6380,
+                    "endColumn": 52,
+                    "endOffset": 6428
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 119,
+                    "startColumn": 4,
+                    "startOffset": 6433,
+                    "endColumn": 54,
+                    "endOffset": 6483
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 120,
+                    "startColumn": 4,
+                    "startOffset": 6488,
+                    "endColumn": 55,
+                    "endOffset": 6539
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 121,
+                    "startColumn": 4,
+                    "startOffset": 6544,
+                    "endColumn": 54,
+                    "endOffset": 6594
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 122,
+                    "startColumn": 4,
+                    "startOffset": 6599,
+                    "endColumn": 54,
+                    "endOffset": 6649
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 123,
+                    "startColumn": 4,
+                    "startOffset": 6654,
+                    "endColumn": 57,
+                    "endOffset": 6707
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 124,
+                    "startColumn": 4,
+                    "startOffset": 6712,
+                    "endColumn": 58,
+                    "endOffset": 6766
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 125,
+                    "startColumn": 4,
+                    "startOffset": 6771,
+                    "endColumn": 58,
+                    "endOffset": 6825
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 126,
+                    "startColumn": 4,
+                    "startOffset": 6830,
+                    "endColumn": 59,
+                    "endOffset": 6885
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 127,
+                    "startColumn": 4,
+                    "startOffset": 6890,
+                    "endColumn": 59,
+                    "endOffset": 6945
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 128,
+                    "startColumn": 4,
+                    "startOffset": 6950,
+                    "endColumn": 59,
+                    "endOffset": 7005
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 129,
+                    "startColumn": 4,
+                    "startOffset": 7010,
+                    "endColumn": 59,
+                    "endOffset": 7065
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 130,
+                    "startColumn": 4,
+                    "startOffset": 7070,
+                    "endColumn": 65,
+                    "endOffset": 7131
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 131,
+                    "startColumn": 4,
+                    "startOffset": 7136,
+                    "endColumn": 65,
+                    "endOffset": 7197
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 132,
+                    "startColumn": 4,
+                    "startOffset": 7202,
+                    "endColumn": 63,
+                    "endOffset": 7261
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 133,
+                    "startColumn": 4,
+                    "startOffset": 7266,
+                    "endColumn": 63,
+                    "endOffset": 7325
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 134,
+                    "startColumn": 4,
+                    "startOffset": 7330,
+                    "endColumn": 38,
+                    "endOffset": 7364
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 135,
+                    "startColumn": 4,
+                    "startOffset": 7369,
+                    "endColumn": 60,
+                    "endOffset": 7425
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 136,
+                    "startColumn": 4,
+                    "startOffset": 7430,
+                    "endColumn": 56,
+                    "endOffset": 7482
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 137,
+                    "startColumn": 4,
+                    "startOffset": 7487,
+                    "endColumn": 53,
+                    "endOffset": 7536
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 138,
+                    "startColumn": 4,
+                    "startOffset": 7541,
+                    "endColumn": 48,
+                    "endOffset": 7585
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 139,
+                    "startColumn": 4,
+                    "startOffset": 7590,
+                    "endColumn": 47,
+                    "endOffset": 7633
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 140,
+                    "startColumn": 4,
+                    "startOffset": 7638,
+                    "endColumn": 50,
+                    "endOffset": 7684
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 141,
+                    "startColumn": 4,
+                    "startOffset": 7689,
+                    "endColumn": 53,
+                    "endOffset": 7738
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 142,
+                    "startColumn": 4,
+                    "startOffset": 7743,
+                    "endColumn": 36,
+                    "endOffset": 7775
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 143,
+                    "startColumn": 4,
+                    "startOffset": 7780,
+                    "endColumn": 46,
+                    "endOffset": 7822
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 144,
+                    "startColumn": 4,
+                    "startOffset": 7827,
+                    "endColumn": 46,
+                    "endOffset": 7869
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 145,
+                    "startColumn": 4,
+                    "startOffset": 7874,
+                    "endColumn": 46,
+                    "endOffset": 7916
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 146,
+                    "startColumn": 4,
+                    "startOffset": 7921,
+                    "endColumn": 46,
+                    "endOffset": 7963
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 147,
+                    "startColumn": 4,
+                    "startOffset": 7968,
+                    "endColumn": 51,
+                    "endOffset": 8015
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 148,
+                    "startColumn": 4,
+                    "startOffset": 8020,
+                    "endColumn": 52,
+                    "endOffset": 8068
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 149,
+                    "startColumn": 4,
+                    "startOffset": 8073,
+                    "endColumn": 59,
+                    "endOffset": 8128
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 150,
+                    "startColumn": 4,
+                    "startOffset": 8133,
+                    "endColumn": 53,
+                    "endOffset": 8182
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 151,
+                    "startColumn": 4,
+                    "startOffset": 8187,
+                    "endColumn": 54,
+                    "endOffset": 8237
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 152,
+                    "startColumn": 4,
+                    "startOffset": 8242,
+                    "endColumn": 49,
+                    "endOffset": 8287
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 153,
+                    "startColumn": 4,
+                    "startOffset": 8292,
+                    "endColumn": 46,
+                    "endOffset": 8334
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 154,
+                    "startColumn": 4,
+                    "startOffset": 8339,
+                    "endColumn": 53,
+                    "endOffset": 8388
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 155,
+                    "startColumn": 4,
+                    "startOffset": 8393,
+                    "endColumn": 38,
+                    "endOffset": 8427
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 156,
+                    "startColumn": 4,
+                    "startOffset": 8432,
+                    "endColumn": 65,
+                    "endOffset": 8493
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 157,
+                    "startColumn": 4,
+                    "startOffset": 8498,
+                    "endColumn": 49,
+                    "endOffset": 8543
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 158,
+                    "startColumn": 4,
+                    "startOffset": 8548,
+                    "endColumn": 53,
+                    "endOffset": 8597
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 159,
+                    "startColumn": 4,
+                    "startOffset": 8602,
+                    "endColumn": 51,
+                    "endOffset": 8649
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 160,
+                    "startColumn": 4,
+                    "startOffset": 8654,
+                    "endColumn": 51,
+                    "endOffset": 8701
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 161,
+                    "startColumn": 4,
+                    "startOffset": 8706,
+                    "endColumn": 56,
+                    "endOffset": 8758
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 162,
+                    "startColumn": 4,
+                    "startOffset": 8763,
+                    "endColumn": 36,
+                    "endOffset": 8795
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 163,
+                    "startColumn": 4,
+                    "startOffset": 8800,
+                    "endColumn": 58,
+                    "endOffset": 8854
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 164,
+                    "startColumn": 4,
+                    "startOffset": 8859,
+                    "endColumn": 50,
+                    "endOffset": 8905
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 165,
+                    "startColumn": 4,
+                    "startOffset": 8910,
+                    "endColumn": 51,
+                    "endOffset": 8957
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 166,
+                    "startColumn": 4,
+                    "startOffset": 8962,
+                    "endColumn": 51,
+                    "endOffset": 9009
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 167,
+                    "startColumn": 4,
+                    "startOffset": 9014,
+                    "endColumn": 58,
+                    "endOffset": 9068
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 168,
+                    "startColumn": 4,
+                    "startOffset": 9073,
+                    "endColumn": 50,
+                    "endOffset": 9119
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 169,
+                    "startColumn": 4,
+                    "startOffset": 9124,
+                    "endColumn": 58,
+                    "endOffset": 9178
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 170,
+                    "startColumn": 4,
+                    "startOffset": 9183,
+                    "endColumn": 55,
+                    "endOffset": 9234
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 171,
+                    "startColumn": 4,
+                    "startOffset": 9239,
+                    "endColumn": 49,
+                    "endOffset": 9284
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 172,
+                    "startColumn": 4,
+                    "startOffset": 9289,
+                    "endColumn": 58,
+                    "endOffset": 9343
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 173,
+                    "startColumn": 4,
+                    "startOffset": 9348,
+                    "endColumn": 50,
+                    "endOffset": 9394
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 174,
+                    "startColumn": 4,
+                    "startOffset": 9399,
+                    "endColumn": 51,
+                    "endOffset": 9446
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 175,
+                    "startColumn": 4,
+                    "startOffset": 9451,
+                    "endColumn": 54,
+                    "endOffset": 9501
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 176,
+                    "startColumn": 4,
+                    "startOffset": 9506,
+                    "endColumn": 54,
+                    "endOffset": 9556
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 177,
+                    "startColumn": 4,
+                    "startOffset": 9561,
+                    "endColumn": 46,
+                    "endOffset": 9603
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 178,
+                    "startColumn": 4,
+                    "startOffset": 9608,
+                    "endColumn": 56,
+                    "endOffset": 9660
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 179,
+                    "startColumn": 4,
+                    "startOffset": 9665,
+                    "endColumn": 58,
+                    "endOffset": 9719
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 180,
+                    "startColumn": 4,
+                    "startOffset": 9724,
+                    "endColumn": 54,
+                    "endOffset": 9774
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 181,
+                    "startColumn": 4,
+                    "startOffset": 9779,
+                    "endColumn": 55,
+                    "endOffset": 9830
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 182,
+                    "startColumn": 4,
+                    "startOffset": 9835,
+                    "endColumn": 53,
+                    "endOffset": 9884
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 183,
+                    "startColumn": 4,
+                    "startOffset": 9889,
+                    "endColumn": 46,
+                    "endOffset": 9931
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 184,
+                    "startColumn": 4,
+                    "startOffset": 9936,
+                    "endColumn": 53,
+                    "endOffset": 9985
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 185,
+                    "startColumn": 4,
+                    "startOffset": 9990,
+                    "endColumn": 53,
+                    "endOffset": 10039
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 186,
+                    "startColumn": 4,
+                    "startOffset": 10044,
+                    "endColumn": 50,
+                    "endOffset": 10090
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 187,
+                    "startColumn": 4,
+                    "startOffset": 10095,
+                    "endColumn": 52,
+                    "endOffset": 10143
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 188,
+                    "startColumn": 4,
+                    "startOffset": 10148,
+                    "endColumn": 50,
+                    "endOffset": 10194
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 189,
+                    "startColumn": 4,
+                    "startOffset": 10199,
+                    "endColumn": 57,
+                    "endOffset": 10252
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 190,
+                    "startColumn": 4,
+                    "startOffset": 10257,
+                    "endColumn": 57,
+                    "endOffset": 10310
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 191,
+                    "startColumn": 4,
+                    "startOffset": 10315,
+                    "endColumn": 53,
+                    "endOffset": 10364
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 192,
+                    "startColumn": 4,
+                    "startOffset": 10369,
+                    "endColumn": 59,
+                    "endOffset": 10424
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 193,
+                    "startColumn": 4,
+                    "startOffset": 10429,
+                    "endColumn": 57,
+                    "endOffset": 10482
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 194,
+                    "startColumn": 4,
+                    "startOffset": 10487,
+                    "endColumn": 60,
+                    "endOffset": 10543
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 195,
+                    "startColumn": 4,
+                    "startOffset": 10548,
+                    "endColumn": 56,
+                    "endOffset": 10600
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 196,
+                    "startColumn": 4,
+                    "startOffset": 10605,
+                    "endColumn": 50,
+                    "endOffset": 10651
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 197,
+                    "startColumn": 4,
+                    "startOffset": 10656,
+                    "endColumn": 50,
+                    "endOffset": 10702
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 198,
+                    "startColumn": 4,
+                    "startOffset": 10707,
+                    "endColumn": 57,
+                    "endOffset": 10760
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 199,
+                    "startColumn": 4,
+                    "startOffset": 10765,
+                    "endColumn": 56,
+                    "endOffset": 10817
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 200,
+                    "startColumn": 4,
+                    "startOffset": 10822,
+                    "endColumn": 61,
+                    "endOffset": 10879
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 201,
+                    "startColumn": 4,
+                    "startOffset": 10884,
+                    "endColumn": 53,
+                    "endOffset": 10933
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 202,
+                    "startColumn": 4,
+                    "startOffset": 10938,
+                    "endColumn": 53,
+                    "endOffset": 10987
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 203,
+                    "startColumn": 4,
+                    "startOffset": 10992,
+                    "endColumn": 53,
+                    "endOffset": 11041
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 204,
+                    "startColumn": 4,
+                    "startOffset": 11046,
+                    "endColumn": 69,
+                    "endOffset": 11111
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 205,
+                    "startColumn": 4,
+                    "startOffset": 11116,
+                    "endColumn": 60,
+                    "endOffset": 11172
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 206,
+                    "startColumn": 4,
+                    "startOffset": 11177,
+                    "endColumn": 58,
+                    "endOffset": 11231
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 207,
+                    "startColumn": 4,
+                    "startOffset": 11236,
+                    "endColumn": 55,
+                    "endOffset": 11287
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 208,
+                    "startColumn": 4,
+                    "startOffset": 11292,
+                    "endColumn": 45,
+                    "endOffset": 11333
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 209,
+                    "startColumn": 4,
+                    "startOffset": 11338,
+                    "endColumn": 66,
+                    "endOffset": 11400
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 210,
+                    "startColumn": 4,
+                    "startOffset": 11405,
+                    "endColumn": 53,
+                    "endOffset": 11454
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 211,
+                    "startColumn": 4,
+                    "startOffset": 11459,
+                    "endColumn": 56,
+                    "endOffset": 11511
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 212,
+                    "startColumn": 4,
+                    "startOffset": 11516,
+                    "endColumn": 49,
+                    "endOffset": 11561
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 213,
+                    "startColumn": 4,
+                    "startOffset": 11566,
+                    "endColumn": 54,
+                    "endOffset": 11616
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 214,
+                    "startColumn": 4,
+                    "startOffset": 11621,
+                    "endColumn": 55,
+                    "endOffset": 11672
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 215,
+                    "startColumn": 4,
+                    "startOffset": 11677,
+                    "endColumn": 52,
+                    "endOffset": 11725
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 216,
+                    "startColumn": 4,
+                    "startOffset": 11730,
+                    "endColumn": 64,
+                    "endOffset": 11790
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 217,
+                    "startColumn": 4,
+                    "startOffset": 11795,
+                    "endColumn": 60,
+                    "endOffset": 11851
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 218,
+                    "startColumn": 4,
+                    "startOffset": 11856,
+                    "endColumn": 40,
+                    "endOffset": 11892
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 219,
+                    "startColumn": 4,
+                    "startOffset": 11897,
+                    "endColumn": 58,
+                    "endOffset": 11951
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 220,
+                    "startColumn": 4,
+                    "startOffset": 11956,
+                    "endColumn": 54,
+                    "endOffset": 12006
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 221,
+                    "startColumn": 4,
+                    "startOffset": 12011,
+                    "endColumn": 41,
+                    "endOffset": 12048
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 222,
+                    "startColumn": 4,
+                    "startOffset": 12053,
+                    "endColumn": 54,
+                    "endOffset": 12103
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 223,
+                    "startColumn": 4,
+                    "startOffset": 12108,
+                    "endColumn": 46,
+                    "endOffset": 12150
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml",
+                    "position": {
+                        "startLine": 702,
+                        "startColumn": 1,
+                        "startOffset": 21903,
+                        "endColumn": 43,
+                        "endOffset": 21945
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 224,
+                    "startColumn": 4,
+                    "startOffset": 12155,
+                    "endColumn": 39,
+                    "endOffset": 12190
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml",
+                    "position": {
+                        "startLine": 704,
+                        "startColumn": 1,
+                        "startOffset": 21958,
+                        "endColumn": 36,
+                        "endOffset": 21993
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 225,
+                    "startColumn": 4,
+                    "startOffset": 12195,
+                    "endColumn": 37,
+                    "endOffset": 12228
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 226,
+                    "startColumn": 4,
+                    "startOffset": 12233,
+                    "endColumn": 49,
+                    "endOffset": 12278
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 227,
+                    "startColumn": 4,
+                    "startOffset": 12283,
+                    "endColumn": 56,
+                    "endOffset": 12335
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 228,
+                    "startColumn": 4,
+                    "startOffset": 12340,
+                    "endColumn": 53,
+                    "endOffset": 12389
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 229,
+                    "startColumn": 4,
+                    "startOffset": 12394,
+                    "endColumn": 51,
+                    "endOffset": 12441
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 230,
+                    "startColumn": 4,
+                    "startOffset": 12446,
+                    "endColumn": 47,
+                    "endOffset": 12489
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 231,
+                    "startColumn": 4,
+                    "startOffset": 12494,
+                    "endColumn": 53,
+                    "endOffset": 12543
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 232,
+                    "startColumn": 4,
+                    "startOffset": 12548,
+                    "endColumn": 61,
+                    "endOffset": 12605
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 233,
+                    "startColumn": 4,
+                    "startOffset": 12610,
+                    "endColumn": 55,
+                    "endOffset": 12661
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 234,
+                    "startColumn": 4,
+                    "startOffset": 12666,
+                    "endColumn": 56,
+                    "endOffset": 12718
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 235,
+                    "startColumn": 4,
+                    "startOffset": 12723,
+                    "endColumn": 59,
+                    "endOffset": 12778
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 236,
+                    "startColumn": 4,
+                    "startOffset": 12783,
+                    "endColumn": 56,
+                    "endOffset": 12835
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 237,
+                    "startColumn": 4,
+                    "startOffset": 12840,
+                    "endColumn": 62,
+                    "endOffset": 12898
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 238,
+                    "startColumn": 4,
+                    "startOffset": 12903,
+                    "endColumn": 55,
+                    "endOffset": 12954
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 239,
+                    "startColumn": 4,
+                    "startOffset": 12959,
+                    "endColumn": 58,
+                    "endOffset": 13013
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 240,
+                    "startColumn": 4,
+                    "startOffset": 13018,
+                    "endColumn": 52,
+                    "endOffset": 13066
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 241,
+                    "startColumn": 4,
+                    "startOffset": 13071,
+                    "endColumn": 98,
+                    "endOffset": 13165
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 242,
+                    "startColumn": 4,
+                    "startOffset": 13170,
+                    "endColumn": 58,
+                    "endOffset": 13224
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 243,
+                    "startColumn": 4,
+                    "startOffset": 13229,
+                    "endColumn": 85,
+                    "endOffset": 13310
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 244,
+                    "startColumn": 4,
+                    "startOffset": 13315,
+                    "endColumn": 59,
+                    "endOffset": 13370
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 245,
+                    "startColumn": 4,
+                    "startOffset": 13375,
+                    "endColumn": 110,
+                    "endOffset": 13481
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 246,
+                    "startColumn": 4,
+                    "startOffset": 13486,
+                    "endColumn": 60,
+                    "endOffset": 13542
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 247,
+                    "startColumn": 4,
+                    "startOffset": 13547,
+                    "endColumn": 47,
+                    "endOffset": 13590
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 248,
+                    "startColumn": 4,
+                    "startOffset": 13595,
+                    "endColumn": 47,
+                    "endOffset": 13638
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 249,
+                    "startColumn": 4,
+                    "startOffset": 13643,
+                    "endColumn": 49,
+                    "endOffset": 13688
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 250,
+                    "startColumn": 4,
+                    "startOffset": 13693,
+                    "endColumn": 55,
+                    "endOffset": 13744
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 251,
+                    "startColumn": 4,
+                    "startOffset": 13749,
+                    "endColumn": 57,
+                    "endOffset": 13802
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 252,
+                    "startColumn": 4,
+                    "startOffset": 13807,
+                    "endColumn": 53,
+                    "endOffset": 13856
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 253,
+                    "startColumn": 4,
+                    "startOffset": 13861,
+                    "endColumn": 55,
+                    "endOffset": 13912
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 254,
+                    "startColumn": 4,
+                    "startOffset": 13917,
+                    "endColumn": 61,
+                    "endOffset": 13974
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 255,
+                    "startColumn": 4,
+                    "startOffset": 13979,
+                    "endColumn": 55,
+                    "endOffset": 14030
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 256,
+                    "startColumn": 4,
+                    "startOffset": 14035,
+                    "endColumn": 50,
+                    "endOffset": 14081
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 257,
+                    "startColumn": 4,
+                    "startOffset": 14086,
+                    "endColumn": 55,
+                    "endOffset": 14137
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 258,
+                    "startColumn": 4,
+                    "startOffset": 14142,
+                    "endColumn": 49,
+                    "endOffset": 14187
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 259,
+                    "startColumn": 4,
+                    "startOffset": 14192,
+                    "endColumn": 50,
+                    "endOffset": 14238
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 260,
+                    "startColumn": 4,
+                    "startOffset": 14243,
+                    "endColumn": 49,
+                    "endOffset": 14288
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 261,
+                    "startColumn": 4,
+                    "startOffset": 14293,
+                    "endColumn": 59,
+                    "endOffset": 14348
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 262,
+                    "startColumn": 4,
+                    "startOffset": 14353,
+                    "endColumn": 59,
+                    "endOffset": 14408
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 263,
+                    "startColumn": 4,
+                    "startOffset": 14413,
+                    "endColumn": 46,
+                    "endOffset": 14455
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 264,
+                    "startColumn": 4,
+                    "startOffset": 14460,
+                    "endColumn": 46,
+                    "endOffset": 14502
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 265,
+                    "startColumn": 4,
+                    "startOffset": 14507,
+                    "endColumn": 64,
+                    "endOffset": 14567
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 266,
+                    "startColumn": 4,
+                    "startOffset": 14572,
+                    "endColumn": 51,
+                    "endOffset": 14619
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 267,
+                    "startColumn": 4,
+                    "startOffset": 14624,
+                    "endColumn": 65,
+                    "endOffset": 14685
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 268,
+                    "startColumn": 4,
+                    "startOffset": 14690,
+                    "endColumn": 56,
+                    "endOffset": 14742
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 269,
+                    "startColumn": 4,
+                    "startOffset": 14747,
+                    "endColumn": 49,
+                    "endOffset": 14792
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 270,
+                    "startColumn": 4,
+                    "startOffset": 14797,
+                    "endColumn": 62,
+                    "endOffset": 14855
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 271,
+                    "startColumn": 4,
+                    "startOffset": 14860,
+                    "endColumn": 50,
+                    "endOffset": 14906
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 272,
+                    "startColumn": 4,
+                    "startOffset": 14911,
+                    "endColumn": 56,
+                    "endOffset": 14963
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 273,
+                    "startColumn": 4,
+                    "startOffset": 14968,
+                    "endColumn": 56,
+                    "endOffset": 15020
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 274,
+                    "startColumn": 4,
+                    "startOffset": 15025,
+                    "endColumn": 54,
+                    "endOffset": 15075
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 275,
+                    "startColumn": 4,
+                    "startOffset": 15080,
+                    "endColumn": 45,
+                    "endOffset": 15121
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml",
+                    "position": {
+                        "startLine": 694,
+                        "startColumn": 1,
+                        "startOffset": 21676,
+                        "endColumn": 42,
+                        "endOffset": 21717
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 276,
+                    "startColumn": 4,
+                    "startOffset": 15126,
+                    "endColumn": 58,
+                    "endOffset": 15180
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 277,
+                    "startColumn": 4,
+                    "startOffset": 15185,
+                    "endColumn": 56,
+                    "endOffset": 15237
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 278,
+                    "startColumn": 4,
+                    "startOffset": 15242,
+                    "endColumn": 50,
+                    "endOffset": 15288
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 279,
+                    "startColumn": 4,
+                    "startOffset": 15293,
+                    "endColumn": 70,
+                    "endOffset": 15359
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 280,
+                    "startColumn": 4,
+                    "startOffset": 15364,
+                    "endColumn": 50,
+                    "endOffset": 15410
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 281,
+                    "startColumn": 4,
+                    "startOffset": 15415,
+                    "endColumn": 50,
+                    "endOffset": 15461
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 282,
+                    "startColumn": 4,
+                    "startOffset": 15466,
+                    "endColumn": 53,
+                    "endOffset": 15515
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 283,
+                    "startColumn": 4,
+                    "startOffset": 15520,
+                    "endColumn": 53,
+                    "endOffset": 15569
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-ja-rJP/strings.xml"
+                }
+            }
+        ]
+    }
+]

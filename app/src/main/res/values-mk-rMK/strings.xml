@@ -1,0 +1,706 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+	<!--
+		this file is built by arct
+	-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<!---->
+	<string name="app_name">"Калкулатор"</string>
+	<!---->
+	<string name="error_nan">"Не е број"</string>
+	<!---->
+	<string name="error_syntax">"Грешка"</string>
+	<!-- no translation found for dec_point -->
+	<skip />
+	<!-- no translation found for digit_0 -->
+	<skip />
+	<!-- no translation found for digit_1 -->
+	<skip />
+	<!-- no translation found for digit_2 -->
+	<skip />
+	<!-- no translation found for digit_3 -->
+	<skip />
+	<!-- no translation found for digit_4 -->
+	<skip />
+	<!-- no translation found for digit_5 -->
+	<skip />
+	<!-- no translation found for digit_6 -->
+	<skip />
+	<!-- no translation found for digit_7 -->
+	<skip />
+	<!-- no translation found for digit_8 -->
+	<skip />
+	<!-- no translation found for digit_9 -->
+	<skip />
+	<!-- no translation found for fun_cos -->
+	<skip />
+	<!-- no translation found for fun_ln -->
+	<skip />
+	<!-- no translation found for fun_log -->
+	<skip />
+	<!-- no translation found for fun_sin -->
+	<skip />
+	<!-- no translation found for fun_tan -->
+	<skip />
+	<!-- no translation found for op_inv -->
+	<skip />
+	<!-- no translation found for op_deg -->
+	<skip />
+	<!-- no translation found for op_rad -->
+	<skip />
+	<!-- no translation found for fun_arccos -->
+	<skip />
+	<!-- no translation found for fun_arcsin -->
+	<skip />
+	<!-- no translation found for fun_arctan -->
+	<skip />
+	<!-- no translation found for fun_naturExp -->
+	<skip />
+	<!-- no translation found for fun_comExp -->
+	<skip />
+	<!-- no translation found for fun_sqr -->
+	<skip />
+	<!-- no translation found for clr -->
+	<skip />
+	<!---->
+	<string name="del">"Избриши"</string>
+	<!-- no translation found for desc_const_e -->
+	<skip />
+	<!-- no translation found for desc_const_pi -->
+	<skip />
+	<!-- no translation found for desc_dec_point -->
+	<skip />
+	<!---->
+	<string name="desc_lparen">"отворена заграда"</string>
+	<!---->
+	<string name="desc_rparen">"затвори заграда"</string>
+	<!-- no translation found for desc_fun_cos -->
+	<skip />
+	<!---->
+	<string name="desc_fun_ln">"природен логаритам"</string>
+	<!-- no translation found for desc_fun_log -->
+	<skip />
+	<!-- no translation found for desc_fun_sin -->
+	<skip />
+	<!-- no translation found for desc_fun_tan -->
+	<skip />
+	<!-- no translation found for desc_op_add -->
+	<skip />
+	<!-- no translation found for desc_op_div -->
+	<skip />
+	<!-- no translation found for desc_op_fact -->
+	<skip />
+	<!-- no translation found for desc_op_mul -->
+	<skip />
+	<!-- no translation found for desc_op_pow -->
+	<skip />
+	<!---->
+	<string name="desc_op_sqrt">"квадратен корен"</string>
+	<!-- no translation found for desc_op_sub -->
+	<skip />
+	<!-- no translation found for desc_op_inv -->
+	<skip />
+	<!-- no translation found for desc_op_deg -->
+	<skip />
+	<!-- no translation found for desc_op_rad -->
+	<skip />
+	<!-- no translation found for desc_op_per -->
+	<skip />
+	<!-- no translation found for desc_fun_arcsin -->
+	<skip />
+	<!-- no translation found for desc_fun_arccos -->
+	<skip />
+	<!-- no translation found for desc_fun_arctan -->
+	<skip />
+	<!-- no translation found for desc_fun_naturExp -->
+	<skip />
+	<!-- no translation found for desc_fun_comExp -->
+	<skip />
+	<!-- no translation found for desc_fun_sqr -->
+	<skip />
+	<!-- no translation found for desc_clr -->
+	<skip />
+	<!-- no translation found for desc_del -->
+	<skip />
+	<!-- no translation found for desc_eq -->
+	<skip />
+	<!---->
+	<string name="copy_result_toast">"Резултатот е копиран"</string>
+	<!---->
+	<string name="tips_label">"Повлечи надолу за преглед на неодамнешната историја на калкулаторот"</string>
+	<!---->
+	<string name="tips_btn_text">"Во ред"</string>
+	<!---->
+	<string name="no_history">"Нема историја"</string>
+	<!---->
+	<string name="copy">"Копирај"</string>
+	<!---->
+	<string name="paste">"Залепи"</string>
+	<!---->
+	<string name="swipe_down">"Повлечете надолу за историја"</string>
+	<!---->
+	<string name="swipe_left">"Повлечете налево за \n научен калкулатор"</string>
+	<!-- no translation found for dec_point_rel4 -->
+	<skip />
+	<!-- no translation found for drawer_title -->
+	<skip />
+	<!-- no translation found for drawer_open -->
+	<skip />
+	<!-- no translation found for drawer_close -->
+	<skip />
+	<!---->
+	<string name="convert_length">"Должина"</string>
+	<!---->
+	<string name="convert_area">"Област"</string>
+	<!---->
+	<string name="convert_mass">"Маса"</string>
+	<!---->
+	<string name="convert_volume">"Јачина на звук"</string>
+	<!---->
+	<string name="convert_temperature">"Температура"</string>
+	<!---->
+	<string name="convert_fuel">"Гориво"</string>
+	<!-- no translation found for convert_shoes -->
+	<skip />
+	<!-- no translation found for convert_clothes -->
+	<skip />
+	<!---->
+	<string name="convert_cooking">"Готвење"</string>
+	<!---->
+	<string name="currency_time">"Ажурирај:"</string>
+	<!---->
+	<string name="afghani">"Авганистански"</string>
+	<!---->
+	<string name="azerbaijani_manat">"Азербејџански манат"</string>
+	<!---->
+	<string name="algerian_dinar">"Алжирски динар"</string>
+	<!---->
+	<string name="aruba_florin">"Аруба флорин"</string>
+	<!---->
+	<string name="argentine_peso">"Аргентински песо"</string>
+	<!---->
+	<string name="albanian_lek">"Албански лек"</string>
+	<!---->
+	<string name="australian_dollar">"Австралиски долар"</string>
+	<!---->
+	<string name="cayman_islands_dollar">"Кајмански острови долар"</string>
+	<!---->
+	<string name="cambodian_riel">"Камбоџански риел"</string>
+	<!---->
+	<string name="croatian_kuna">"Хрватска куна"</string>
+	<!---->
+	<string name="czech_koruna">"Чешка круна"</string>
+	<!---->
+	<string name="cuban_peso">"Кубански песо"</string>
+	<!---->
+	<string name="costa_rica_colon">"Костарикански колон"</string>
+	<!---->
+	<string name="colombian_peso">"Колумбиски песо"</string>
+	<!---->
+	<string name="chilean_peso">"Чилеански песо"</string>
+	<!---->
+	<string name="cape_verde_escudo">"Зелено\'ртски Острови ескудо"</string>
+	<!---->
+	<string name="chinese_yuan">"Кинески јуан"</string>
+	<!---->
+	<string name="indian_rupee">"Индиска рупија"</string>
+	<!---->
+	<string name="canadian_dollar">"Канадски долар"</string>
+	<!---->
+	<string name="bitcoin">"Биткоин"</string>
+	<!---->
+	<string name="bosnian_convertible_mark">"Босанска конвертабилна марка"</string>
+	<!---->
+	<string name="british_pound">"Британска фунта"</string>
+	<!---->
+	<string name="burundi_franc">"Бурундски франк"</string>
+	<!---->
+	<string name="bulgarian_lev">"Бугарски лев"</string>
+	<!---->
+	<string name="brunei_dollar">"Брунејски долар"</string>
+	<!---->
+	<string name="brazilian_real">"Бразилски реал"</string>
+	<!---->
+	<string name="botswanna_pula">"Боцванска пула"</string>
+	<!---->
+	<string name="bolivian_boliviano">"Боливиски боливиано"</string>
+	<!---->
+	<string name="bhutan_ngultrum">"Бутански нгултрум"</string>
+	<!---->
+	<string name="bermuda_dollar">"Бермудски долар"</string>
+	<!---->
+	<string name="belize_dollar">"Белизеански долар"</string>
+	<!---->
+	<string name="belarus_ruble">"Белоруска рубља"</string>
+	<!---->
+	<string name="barbados_dollar">"Барбадоски долар"</string>
+	<!---->
+	<string name="bangladesh_taka">"Бангладешка така"</string>
+	<!---->
+	<string name="bahraini_dinar">"Бахреински динар"</string>
+	<!---->
+	<string name="bahamian_dollar">"Бахамски долар"</string>
+	<!---->
+	<string name="angolan_kwanza">"Анголска кванза"</string>
+	<!---->
+	<string name="armenian_dram">"Ерменски драм"</string>
+	<!---->
+	<string name="iraqi_dinar">"Ирачки динар"</string>
+	<!---->
+	<string name="iranian_rial">"Ирански ријал"</string>
+	<!---->
+	<string name="iceland_krona">"Исландска круна"</string>
+	<!---->
+	<string name="indonesian_rupiah">"Индонезиска рупија"</string>
+	<!---->
+	<string name="hungarian_forint">"Унгарски форинт"</string>
+	<!---->
+	<string name="honduras_lempira">"Хондурашка лемпира"</string>
+	<!---->
+	<string name="haiti_gourde">"Хаиќанска гурде"</string>
+	<!---->
+	<string name="hongkong_dollar">"Хонгконшки долар"</string>
+	<!---->
+	<string name="gold">"Злато"</string>
+	<!---->
+	<string name="ghanaian_cedi">"Гански седи"</string>
+	<!---->
+	<string name="georgian_lari">"Грузиски лари"</string>
+	<!---->
+	<string name="guyana_dollar">"Гвајански долар"</string>
+	<!---->
+	<string name="guinea_franc">"Гвинејски франк"</string>
+	<!---->
+	<string name="guatemala_quetzal">"Гватемалски квецал"</string>
+	<!---->
+	<string name="gibraltar_pound">"Гибралтарска фунта"</string>
+	<!---->
+	<string name="gambian_dalasi">"Гамбиски даласи"</string>
+	<!---->
+	<string name="fiji_dollar">"Фиџи долар"</string>
+	<!---->
+	<string name="falkland_islands_pound">"Фоклански острови фунта"</string>
+	<!---->
+	<string name="east_caribbean_dollar">"Источно-карипски долар"</string>
+	<!---->
+	<string name="ethiopian_birr">"Етиопски бир"</string>
+	<!---->
+	<string name="eritrea_nakfa">"Еритрејска накфа"</string>
+	<!---->
+	<string name="egyptian_pound">"Египетска фунта"</string>
+	<!---->
+	<string name="euro">"Евро"</string>
+	<!---->
+	<string name="dominican_peso">"Доминикански песо"</string>
+	<!---->
+	<string name="djibout_franc">"Џибутски франк"</string>
+	<!---->
+	<string name="danish_krone">"Данска круна"</string>
+	<!---->
+	<string name="congolese_frank">"Конгоански франк"</string>
+	<!---->
+	<string name="cfa_francl_beac">"CFA франк(BEAC)"</string>
+	<!---->
+	<string name="cfa_franc_bceao">"CFA франк(BCEAO)"</string>
+	<!---->
+	<string name="comoros_franc">"Коморошки франк"</string>
+	<!---->
+	<string name="namibian_dollar">"Намибиски долар"</string>
+	<!---->
+	<string name="north_korean_won">"Севернокорејски вон"</string>
+	<!---->
+	<string name="neth_antilles_guilder">"Нет Антили гуидер"</string>
+	<!---->
+	<string name="mozambican_metical">"Мозамбички метикал"</string>
+	<!---->
+	<string name="malagasy_ariary">"Малагаски ариари"</string>
+	<!---->
+	<string name="myanmar_kyat">"Мијанмарски кјат"</string>
+	<!---->
+	<string name="moroccan_dirham">"Марокански дирхам"</string>
+	<!---->
+	<string name="mongolian_tugrik">"Монголски тугрик"</string>
+	<!---->
+	<string name="moldovan_leu">"Молдовски леу"</string>
+	<!---->
+	<string name="mexican_peso">"Мексикански песо"</string>
+	<!---->
+	<string name="mauritius_rupee">"Маврициуски рупи"</string>
+	<!---->
+	<string name="mauritanian_ougulya">"Мавританска угуља"</string>
+	<!---->
+	<string name="maldives_rufiyaa">"Малдивска руфија"</string>
+	<!---->
+	<string name="malaysian_ringgit">"Малезиски рингит"</string>
+	<!---->
+	<string name="malawi_kwacha">"Малавска квача"</string>
+	<!---->
+	<string name="macedonian_denar">"Македонски денар"</string>
+	<!---->
+	<string name="macau_pataca">"Макао патака"</string>
+	<!---->
+	<string name="libyan_dinar">"Либиски динар"</string>
+	<!---->
+	<string name="leberian_dollar">"Либериски долар"</string>
+	<!---->
+	<string name="lesotho_loti">"Лесотоански лоти"</string>
+	<!---->
+	<string name="lebanese_pound">"Либанска фунта"</string>
+	<!---->
+	<string name="lao_kipi">"Лао кипи"</string>
+	<!---->
+	<string name="kyrgyzstani_som">"Киргистански сом"</string>
+	<!---->
+	<string name="kazakhstani_tenge">"Казахстански тенге"</string>
+	<!---->
+	<string name="kuwaiti_dinar">"Кувајтски динар"</string>
+	<!---->
+	<string name="kenyan_shilling">"Кениски шилинг"</string>
+	<!---->
+	<string name="jordanian_dinar">"Јордански динар"</string>
+	<!---->
+	<string name="jamaican_dollar">"Јамајкански долар"</string>
+	<!---->
+	<string name="japanese_yen">"Јапонски јен"</string>
+	<!---->
+	<string name="israeli_shekel">"Израелски шекел"</string>
+	<!---->
+	<string name="st_henlena_pound">"Св. Елена фунта"</string>
+	<!---->
+	<string name="somali_shilling">"Сомалиски шилинг"</string>
+	<!---->
+	<string name="solomon_islands_dollar">"Соломонски острови долар"</string>
+	<!---->
+	<string name="singapore_dollar">"Сингапурски долар"</string>
+	<!---->
+	<string name="sierra_leone_leone">"Сиера Леоне леоне"</string>
+	<!---->
+	<string name="seychelles_rupee">"Сејшелски рупи"</string>
+	<!---->
+	<string name="saudi_arabian_riyal">"Саудиски ријал"</string>
+	<!---->
+	<string name="sao_tome_dobra">"Сао Томе добра"</string>
+	<!---->
+	<string name="sri_lanka_rupee">"Шри Ланка рупи"</string>
+	<!---->
+	<string name="south_korean_won">"Јужнокорејски вон"</string>
+	<!---->
+	<string name="swiss_franc">"Швајцарски франк"</string>
+	<!---->
+	<string name="rwanda_franc">"Руандански франк"</string>
+	<!---->
+	<string name="russian_rouble">"Руска рубља"</string>
+	<!---->
+	<string name="romanian_new_leu">"Романски нов леу"</string>
+	<!---->
+	<string name="qatar_rial">"Катарски ријал"</string>
+	<!---->
+	<string name="platinum">"Платина"</string>
+	<!---->
+	<string name="pacific_franc">"Пацифички франк"</string>
+	<!---->
+	<string name="polish_zloty">"Полска злота"</string>
+	<!---->
+	<string name="philippine_peso">"Филипински песо"</string>
+	<!---->
+	<string name="peruvian_nuevo_sol">"Перуански нов сол"</string>
+	<!---->
+	<string name="paraguayan_guarani">"Парагвајски гуарани"</string>
+	<!---->
+	<string name="papua_new_guinea_kina">"Папуа Нова Гвинеја кина"</string>
+	<!---->
+	<string name="panama_balboa">"Панамски балбоа"</string>
+	<!---->
+	<string name="pakistani_rupee">"Пакистански рупи"</string>
+	<!---->
+	<string name="omani_rial">"Омански ријал"</string>
+	<!---->
+	<string name="norwegian_krone">"Норвешка круна"</string>
+	<!---->
+	<string name="nigerian_naira">"Нигериска наира"</string>
+	<!---->
+	<string name="nicaragua_cordoba">"Никарагванска кордоба"</string>
+	<!---->
+	<string name="new_zealand_dollar">"Новозеландски долар"</string>
+	<!---->
+	<string name="nepalese_rupee">"Непалски рупи"</string>
+	<!---->
+	<string name="zibabwe_dollar">"Зимбабвејски долар"</string>
+	<!---->
+	<string name="zabian_kwacha">"Замбиски квача"</string>
+	<!---->
+	<string name="yemen_riyal">"Јеменски ријал"</string>
+	<!---->
+	<string name="venezuelan_bolivar_fuetre">"Венецуелски боливар фуетре"</string>
+	<!---->
+	<string name="vanuatu_vatu">"Вануатски вату"</string>
+	<!---->
+	<string name="vietnam_dong">"Виетнамски донг"</string>
+	<!---->
+	<string name="uzbekistani_som">"Узбекистански сом"</string>
+	<!---->
+	<string name="uruguayan_new_peso">"Уругвајски нов песо"</string>
+	<!---->
+	<string name="ukraine_hryvnia">"Украинска хривнија"</string>
+	<!---->
+	<string name="ugandan_shilling">"Угандски шилинг"</string>
+	<!---->
+	<string name="united_states_dollar">"Американски долар"</string>
+	<!---->
+	<string name="uae_dirham">"ОАЕ дирхам"</string>
+	<!---->
+	<string name="turkmenistani_manet">"Туркменистански манет"</string>
+	<!---->
+	<string name="tajikistani_somoni">"Таџикистански сомони"</string>
+	<!---->
+	<string name="tunisian_dinar">"Туниски динар"</string>
+	<!---->
+	<string name="trinnidad_tobago_dollar">"Тринидад и Тобаго долар"</string>
+	<!---->
+	<string name="tonga_pa_ang">"Тонга па’анг"</string>
+	<!---->
+	<string name="tanzanian_shilling">"Танзаниски шилинг"</string>
+	<!---->
+	<string name="turkish_lira">"Турска лира"</string>
+	<!---->
+	<string name="taiwan_dollar">"Тајвански долар"</string>
+	<!---->
+	<string name="thai_baht">"Тајландски бахт"</string>
+	<!---->
+	<string name="Silver">"Сребро"</string>
+	<!---->
+	<string name="serbian_dinars">"Српски динар"</string>
+	<!---->
+	<string name="surinam_florin">"Суринамски флорин"</string>
+	<!---->
+	<string name="south_african_rand">"Јужноафрикански ранд"</string>
+	<!---->
+	<string name="samoa_tala">"Самоанска тала"</string>
+	<!---->
+	<string name="syrian_pound">"Сириска фунта"</string>
+	<!---->
+	<string name="swedish_krona">"Шведска круна"</string>
+	<!---->
+	<string name="swaziland_lilageni">"Свазилендски лилагени"</string>
+	<!---->
+	<string name="sudanese_pound">"Суданска фунта"</string>
+	<!---->
+	<string name="au_1">"Au"</string>
+	<!---->
+	<string name="btb">"Btb"</string>
+	<!---->
+	<string name="ag_2">"Ag"</string>
+	<!---->
+	<string name="pt_3">"Pt"</string>
+	<!-- no translation found for convert_category_length -->
+	<skip />
+	<!---->
+	<string name="convert_length_mm">"милиметар"</string>
+	<!---->
+	<string name="convert_length_cm">"центиметар"</string>
+	<!---->
+	<string name="convert_length_m">"метар"</string>
+	<!---->
+	<string name="convert_length_km">"километар"</string>
+	<!---->
+	<string name="convert_length_mi">"милја"</string>
+	<!---->
+	<string name="convert_length_yd">"јард"</string>
+	<!---->
+	<string name="convert_length_ft">"стапка"</string>
+	<!---->
+	<string name="convert_length_in">"инч"</string>
+	<!---->
+	<string name="convert_length_kt">"Наутичка милја"</string>
+	<!-- no translation found for convert_category_area -->
+	<skip />
+	<!---->
+	<string name="convert_area_mm2">"квадратен милиметар"</string>
+	<!---->
+	<string name="convert_area_cm2">"квадратен центиметар"</string>
+	<!---->
+	<string name="convert_area_m2">"квадратен метар"</string>
+	<!---->
+	<string name="convert_area_in2">"квадратен инч"</string>
+	<!---->
+	<string name="convert_area_ft2">"квадратна стапка"</string>
+	<!---->
+	<string name="convert_area_yd2">"квадратен јард"</string>
+	<!---->
+	<string name="convert_area_ha">"хектар"</string>
+	<!---->
+	<string name="convert_area_km2">"квадратен километар"</string>
+	<!---->
+	<string name="convert_area_ac">"акр"</string>
+	<!---->
+	<string name="convert_area_mi2">"квадратна милја"</string>
+	<!-- no translation found for convert_category_mass -->
+	<skip />
+	<!---->
+	<string name="convert_mass_mg">"милиграм"</string>
+	<!---->
+	<string name="convert_mass_g">"грам"</string>
+	<!---->
+	<string name="convert_mass_kg">"килограм"</string>
+	<!---->
+	<string name="convert_mass_t">"метрички тон"</string>
+	<!---->
+	<string name="convert_mass_tonuk">"долг тон"</string>
+	<!---->
+	<string name="convert_mass_tonus">"краток тон"</string>
+	<!---->
+	<string name="convert_mass_lb">"фунта"</string>
+	<!---->
+	<string name="convert_mass_oz">"унца"</string>
+	<!---->
+	<string name="convert_mass_st">"камен"</string>
+	<!---->
+	<string name="convert_mass_ct">"карат"</string>
+	<!-- no translation found for convert_category_temperature -->
+	<skip />
+	<!---->
+	<string name="convert_temp_c">"целзиус"</string>
+	<!---->
+	<string name="convert_temp_f">"фаренхајт"</string>
+	<!---->
+	<string name="convert_temp_k">"келвин"</string>
+	<!-- no translation found for convert_category_volume -->
+	<skip />
+	<!---->
+	<string name="convert_volume_mm3">"кубен милиметар"</string>
+	<!---->
+	<string name="convert_volume_cm3">"кубен центиметар"</string>
+	<!---->
+	<string name="convert_volume_dm3">"кубен дециметар"</string>
+	<!---->
+	<string name="convert_volume_m3">"кубен метар"</string>
+	<!---->
+	<string name="convert_volume_ml">"милилитар"</string>
+	<!---->
+	<string name="convert_volume_liter">"литар"</string>
+	<!---->
+	<string name="convert_volume_ft3">"кубна стапка"</string>
+	<!---->
+	<string name="convert_volume_in3">"кубен инч"</string>
+	<!---->
+	<string name="convert_volume_gal_us">"(САД)галон"</string>
+	<!---->
+	<string name="convert_volume_qt_us">"(САД)кварт"</string>
+	<!---->
+	<string name="convert_volume_pt_us">"(САД)бокал"</string>
+	<!---->
+	<string name="convert_volume_oz_us">"(САД)унца"</string>
+	<!---->
+	<string name="convert_volume_cup_us">"(САД)шолја"</string>
+	<!---->
+	<string name="convert_volume_tbsp_us">"(САД)супена лажица"</string>
+	<!---->
+	<string name="convert_volume_tsp_us">"(САД)кафена лажица"</string>
+	<!---->
+	<string name="convert_volume_gal_uk">"(ВБ)галон"</string>
+	<!---->
+	<string name="convert_volume_qt_uk">"(ВБ)кварт"</string>
+	<!---->
+	<string name="convert_volume_pt_uk">"(ВБ)бокал"</string>
+	<!---->
+	<string name="convert_volume_oz_uk">"(ВБ)унца"</string>
+	<!---->
+	<string name="convert_volume_cup_uk">"(ВБ)шолја"</string>
+	<!---->
+	<string name="convert_volume_tbsp_uk">"(ВБ)супена лажица"</string>
+	<!---->
+	<string name="convert_volume_tsp_uk">"(ВБ)кафена лажица"</string>
+	<!---->
+	<string name="convert_volume_dr">"драм"</string>
+	<!---->
+	<string name="convert_volume_bbl">"барел"</string>
+	<!---->
+	<string name="convert_volume_cord">"корд"</string>
+	<!---->
+	<string name="convert_volume_gill">"џил"</string>
+	<!-- no translation found for convert_category_cooking -->
+	<skip />
+	<!---->
+	<string name="convert_cooking_milliliter">"милилитар"</string>
+	<!---->
+	<string name="convert_cooking_gal_us">"галон"</string>
+	<!---->
+	<string name="convert_cooking_qt_us">"кварт"</string>
+	<!---->
+	<string name="convert_cooking_pt_us">"бокал"</string>
+	<!---->
+	<string name="convert_cooking_oz_us">"унца"</string>
+	<!---->
+	<string name="convert_cooking_floz_us">"(САД)течна унца"</string>
+	<!---->
+	<string name="convert_cooking_cup_us">"шолја"</string>
+	<!---->
+	<string name="convert_cooking_tbsp_us">"супена лажица"</string>
+	<!---->
+	<string name="convert_cooking_tsp_us">"кафена лажица"</string>
+	<!---->
+	<string name="convert_cooking_gal_uk">"галон"</string>
+	<!---->
+	<string name="convert_cooking_qt_uk">"кварт"</string>
+	<!---->
+	<string name="convert_cooking_pt_uk">"бокал"</string>
+	<!---->
+	<string name="convert_cooking_floz_uk">"(ВБ)течна унца"</string>
+	<!---->
+	<string name="convert_cooking_oz_uk">"унца"</string>
+	<!---->
+	<string name="convert_cooking_cup_uk">"шолја"</string>
+	<!---->
+	<string name="convert_cooking_tbsp_uk">"супена лажица"</string>
+	<!---->
+	<string name="convert_cooking_tsp_uk">"кафена лажица"</string>
+	<!-- no translation found for convert_category_fuel -->
+	<skip />
+	<!---->
+	<string name="convert_fuel_galperhundredmile_uk">"галони (ВБ)/100 милји"</string>
+	<!---->
+	<string name="convert_fuel_galperhundredmile_us">"галони (САД)/100 милји"</string>
+	<!---->
+	<string name="convert_fuel_kilometerperliter">"километри/литар"</string>
+	<!---->
+	<string name="convert_fuel_literperhundredkilometer">"литри/100 километри"</string>
+	<!---->
+	<string name="convert_fuel_mpg_uk">"(ВБ)милји со 1 галон"</string>
+	<!---->
+	<string name="convert_fuel_mpg_us">"(САД)милји со 1 галон"</string>
+	<!-- no translation found for convert_shoes_mem -->
+	<skip />
+	<!-- no translation found for convert_shoes_womem -->
+	<skip />
+	<!---->
+	<string name="splash_tv_open">"Внеси"</string>
+	<!---->
+	<string name="splash_tv_next">"Следно"</string>
+	<!---->
+	<string name="splash_tv_skip">"Прескокни"</string>
+	<!---->
+	<string name="splash_tv_calculate_title">"Пресметај"</string>
+	<!---->
+	<string name="splash_tv_calculate_content">"Започнете со овој калкулатор и допрете го копчето или лизнете налево за користење на научниот калкулатор."</string>
+	<!---->
+	<string name="splash_tv_currency_title">"Проверка на валута"</string>
+	<!---->
+	<string name="splash_tv_currency_content">"Поддржува проверка на повеќе од 150 држави и се ажурира секојдневно. \n(Податоците се преземаат од www.xe.com)"</string>
+	<!---->
+	<string name="splash_tv_convert_title">"Конвертирање единици мерки"</string>
+	<!---->
+	<string name="splash_tv_convert_content">"Должина? Маса? Површина? \nКонвертирањето единици мерки веќе не претставува проблем."</string>
+	<!---->
+	<string name="no_internet_access">"Нема пристап до интернет"</string>
+	<!---->
+	<string name="updating">"Ажурирање..."</string>
+	<!-- no translation found for search_edit_hint -->
+	<skip />
+	<!---->
+	<string name="bt_right_more">"Повеќе"</string>
+	<!---->
+	<string name="bt_left_more">"Повеќе"</string>
+	<!---->
+	<string name="pop_cancel">"ОТКАЖИ"</string>
+	<!---->
+	<string name="pop_ok">"ОК"</string>
+</resources>

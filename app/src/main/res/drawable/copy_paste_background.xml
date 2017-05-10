@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--PR557458 change copy&paste button background and textcolor. update by xiaolu.li SEPT 6 2015 -->
+<selector
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true" android:drawable="@drawable/text_edit_paste_window_p" />
+    <item android:state_enabled="false" android:drawable="@drawable/text_edit_paste_window_p"  />
+    <item android:drawable="@drawable/text_edit_paste_window"  />
+</selector>

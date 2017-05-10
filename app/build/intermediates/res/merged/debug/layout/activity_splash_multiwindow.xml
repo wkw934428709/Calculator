@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="@color/splash_background">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <RelativeLayout
+            android:id="@+id/animHistory"
+            android:layout_width="130dp"
+            android:layout_height="230dp"
+            android:layout_centerInParent="true">
+            <ImageView
+                android:id="@+id/history_bg"
+                android:layout_width="match_parent"
+                android:layout_height="192dp"
+                android:layout_centerHorizontal="true"
+                android:background="@drawable/anim_history_bg" />
+
+            <ImageView
+                android:id="@+id/image_history"
+                android:layout_width="match_parent"
+                android:layout_height="192dp"
+                android:layout_centerHorizontal="true"
+                android:layout_alignLeft="@+id/history_bg"
+                android:layout_alignTop="@+id/history_bg"
+                android:background="@drawable/anim_history" />
+            <TextView
+                android:id="@+id/history_textview"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:layout_below="@+id/history_bg"
+                android:gravity="center"
+                android:textSize="12sp"
+                android:text="@string/swipe_down"
+                android:textColor="@color/anim_text_color"/>
+
+        </RelativeLayout>
+        <RelativeLayout
+            android:id="@+id/animAdvanced"
+            android:layout_width="130dp"
+            android:layout_height="230dp"
+            android:layout_centerInParent="true">
+            <ImageView
+                android:id="@+id/advanced_bg"
+                android:layout_width="match_parent"
+                android:layout_height="192dp"
+                android:layout_centerHorizontal="true"
+                android:background="@drawable/anim_advanced_bg" />
+
+            <ImageView
+                android:id="@+id/image_advanced_bg_alpha"
+                android:layout_width="match_parent"
+                android:layout_centerHorizontal="true"
+                android:layout_alignBottom="@+id/advanced_bg"
+                android:layout_alignLeft="@+id/advanced_bg"
+                android:background="@drawable/anim_advanced_bg_alpha"
+                android:layout_height="119dp" />
+            <ImageView
+                android:id="@+id/image_advanced"
+                android:layout_width="match_parent"
+                android:layout_height="119dp"
+                android:layout_alignBottom="@+id/advanced_bg"
+                android:layout_alignLeft="@+id/advanced_bg"
+                android:src="@drawable/anim_advanced" />
+            <TextView
+                android:id="@+id/scientific_textview"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/advanced_bg"
+                android:layout_marginTop="5dp"
+                android:textSize="12sp"
+                android:gravity="center"
+                android:text="@string/swipe_left"
+                android:textColor="@color/anim_text_color"/>
+        </RelativeLayout>
+    </RelativeLayout>
+
+    <Button
+        android:id="@+id/tips_btn"
+        android:layout_gravity="center_horizontal"
+        style="@style/TipButtonStyleInMultiwindow"
+        android:textAllCaps="true"
+        android:text="@string/tips_btn_text" />
+
+</LinearLayout>

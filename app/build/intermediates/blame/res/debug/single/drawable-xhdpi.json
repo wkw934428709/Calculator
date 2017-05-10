@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xhdpi/drawer_shadow.9.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xhdpi/drawer_shadow.9.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xhdpi/button_line.9.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xhdpi/button_line.9.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xhdpi/text_edit_paste_window_p.9.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xhdpi/text_edit_paste_window_p.9.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xhdpi/text_edit_paste_window.9.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xhdpi/text_edit_paste_window.9.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xhdpi/wheel_picker_btn_bg_normal.9.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xhdpi/wheel_picker_btn_bg_normal.9.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xhdpi/drawer_shadow_end.9.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xhdpi/drawer_shadow_end.9.png"
+    }
+]

@@ -1,0 +1,22 @@
+0000000000000000000000000000000000000000 ca295f853a3d22ae09de14b18fc81be780950f87 qiong.liu1 <qiong.liu1@jrdcom.com> 1487214688 +0800	clone: from git@172.16.11.162:genericapp/Calculator.git
+ca295f853a3d22ae09de14b18fc81be780950f87 5432471baf08111579fb5fdc47afe7c4840b6fbb qiong.liu1 <qiong.liu1@jrdcom.com> 1490002130 +0800	commit: [1 of 1][3621966][calculator]calculator sprint4 code submit
+5432471baf08111579fb5fdc47afe7c4840b6fbb ca295f853a3d22ae09de14b18fc81be780950f87 qiong.liu1 <qiong.liu1@jrdcom.com> 1490002642 +0800	reset: moving to HEAD^
+ca295f853a3d22ae09de14b18fc81be780950f87 154c93e59b6f429bb9d054439b2524ec0fb6b90e qiong.liu1 <qiong.liu1@jrdcom.com> 1490003104 +0800	commit: [1 of 1][3621966][calculator]calculator sprint4 code submit
+154c93e59b6f429bb9d054439b2524ec0fb6b90e 5f23968bf0b46a18868e4d6a43c94d56575d6dd5 qiong.liu1 <qiong.liu1@jrdcom.com> 1490280391 +0800	commit: [1 of 1][3621966][calculator]calculator sprint4 code submit
+5f23968bf0b46a18868e4d6a43c94d56575d6dd5 3343accd06375a1b77886fc15637a9e9bf18e349 qiong.liu1 <qiong.liu1@jrdcom.com> 1490324490 +0800	pull: Fast-forward
+3343accd06375a1b77886fc15637a9e9bf18e349 b8c1f111b4352747217fd8274609d58603af45d2 qiong.liu1 <qiong.liu1@jrdcom.com> 1490324626 +0800	commit: [1 of 1][3621966][calculator]calculator sprint4 code submit
+b8c1f111b4352747217fd8274609d58603af45d2 00827898f6162610ae144c73d6a284b7715e3227 qiong.liu1 <qiong.liu1@jrdcom.com> 1490325835 +0800	commit: [1 of 1][3621966][calculator]calculator sprint4 code submit
+00827898f6162610ae144c73d6a284b7715e3227 a1aadfe9f1de05920a13559e9df78ccafd2b15ca qiong.liu1 <qiong.liu1@jrdcom.com> 1490610330 +0800	pull: Fast-forward
+a1aadfe9f1de05920a13559e9df78ccafd2b15ca 64d6db8590f6ab80ec1a02d08bfd725e5d2d3fb5 qiong.liu1 <qiong.liu1@jrdcom.com> 1490610402 +0800	commit: [1 of 1][3621966][calculator]calculator sprint4 code submit
+64d6db8590f6ab80ec1a02d08bfd725e5d2d3fb5 517bc3db2033adae99c64ea88bc6d891d501273d qiong.liu1 <qiong.liu1@jrdcom.com> 1490773777 +0800	pull: Fast-forward
+517bc3db2033adae99c64ea88bc6d891d501273d ca295f853a3d22ae09de14b18fc81be780950f87 qiong.liu1 <qiong.liu1@jrdcom.com> 1490773820 +0800	reset: moving to ca295f853a3d22ae09de14b18fc81be780950f87
+ca295f853a3d22ae09de14b18fc81be780950f87 517bc3db2033adae99c64ea88bc6d891d501273d qiong.liu1 <qiong.liu1@jrdcom.com> 1490775156 +0800	pull: Fast-forward
+517bc3db2033adae99c64ea88bc6d891d501273d ca295f853a3d22ae09de14b18fc81be780950f87 qiong.liu1 <qiong.liu1@jrdcom.com> 1490776133 +0800	reset: moving to ca295f853a3d22ae09de14b18fc81be780950f87
+ca295f853a3d22ae09de14b18fc81be780950f87 517bc3db2033adae99c64ea88bc6d891d501273d qiong.liu1 <qiong.liu1@jrdcom.com> 1490776236 +0800	pull: Fast-forward
+517bc3db2033adae99c64ea88bc6d891d501273d cd968844c19fb1d60a34898c423d0671b38a2d63 qiong.liu1 <qiong.liu1@jrdcom.com> 1490839962 +0800	commit: [1 of 1][3621966][calculator]calculator sprint4 code submit
+cd968844c19fb1d60a34898c423d0671b38a2d63 98504b17485f54b8d430bfc7c58a18773d112496 qiong.liu1 <qiong.liu1@jrdcom.com> 1490840331 +0800	commit: [1 of 1][3621966][calculator]calculator sprint4 code submit
+98504b17485f54b8d430bfc7c58a18773d112496 8de416adc694a9f7a25a0d37c7e5ffed1555de8f qiong.liu1 <qiong.liu1@jrdcom.com> 1490872176 +0800	commit: test
+8de416adc694a9f7a25a0d37c7e5ffed1555de8f 98504b17485f54b8d430bfc7c58a18773d112496 qiong.liu1 <qiong.liu1@jrdcom.com> 1490872189 +0800	reset: moving to 98504b17485f54b8d430bfc7c58a18773d112496
+98504b17485f54b8d430bfc7c58a18773d112496 f3555e552a94f1575c7016e05a233557f9196fa9 qiong.liu1 <qiong.liu1@jrdcom.com> 1490938510 +0800	pull: Fast-forward
+f3555e552a94f1575c7016e05a233557f9196fa9 f4ddbd78e07d8129439a5807170a52fa2cfd9b02 qiong.liu1 <qiong.liu1@jrdcom.com> 1491017228 +0800	commit: [1 of 1][3621966]Modify the WheelView & FC & some layout style
+f4ddbd78e07d8129439a5807170a52fa2cfd9b02 fa6ae7eccb6c2fa10ba19c6de11b1a4e7ce56b7c qiong.liu1 <qiong.liu1@jrdcom.com> 1491025474 +0800	pull: Fast-forward

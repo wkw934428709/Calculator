@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--length start-->
+    <string-array name="unit_name_length">
+        <item>mm$convert_length_mm$-1</item>
+        <item>cm$convert_length_cm$-1</item>
+        <item>m$convert_length_m$1</item>
+        <item>km$convert_length_km$0</item>
+        <item>mi$convert_length_mi$-1</item>
+        <item>yd$convert_length_yd$-1</item>
+        <item>ft$convert_length_ft$-1</item>
+        <item>in$convert_length_in$-1</item>
+        <item>kt$convert_length_kt$-1</item>
+    </string-array>
+    <string-array name="unit_name_area">
+        <item>mm2$convert_area_mm2$-1</item>
+        <item>cm2$convert_area_cm2$-1</item>
+        <item>m2$convert_area_m2$-1</item>
+        <item>in2$convert_area_in2$-1</item>
+        <item>ft2$convert_area_ft2$1</item>
+        <item>yd2$convert_area_yd2$-1</item>
+        <item>ha$convert_area_ha$-1</item>
+        <item>km2$convert_area_km2$-1</item>
+        <item>ac$convert_area_ac$-1</item>
+        <item>mi2$convert_area_mi2$0</item>
+    </string-array>
+    <string-array name="unit_name_mass">
+        <item>mg$convert_mass_mg$-1</item>
+        <item>g$convert_mass_g$-1</item>
+        <item>kg$convert_mass_kg$0</item>
+        <item>t$convert_mass_t$-1</item>
+        <item>ton uk$convert_mass_tonuk$-1</item>
+        <item>ton us$convert_mass_tonus$-1</item>
+        <item>lb$convert_mass_lb$1</item>
+        <item>ounce$convert_mass_oz$-1</item>
+        <item>st$convert_mass_st$-1</item>
+        <item>ct$convert_mass_ct$-1</item>
+    </string-array>
+    <string-array name="unit_name_volume">
+        <item>mm3$convert_volume_mm3$-1</item>
+        <item>cm3$convert_volume_cm3$-1</item>
+        <item>dm3$convert_volume_dm3$-1</item>
+        <item>m3$convert_volume_m3$-1</item>
+        <item>mL (cc)$convert_volume_ml$-1</item>
+        <item>L$convert_volume_liter$0</item>
+        <item>ft3$convert_volume_ft3$-1</item>
+        <item>in3$convert_volume_in3$-1</item>
+        <item>gal (US)$convert_volume_gal_us$1</item>
+        <item>qt (US)$convert_volume_qt_us$-1</item>
+        <item>pt (US)$convert_volume_pt_us$-1</item>
+        <item>oz (US)$convert_volume_oz_us$-1</item>
+        <item>cup (US)$convert_volume_cup_us$-1</item>
+        <item>tbsp (US)$convert_volume_tbsp_us$-1</item>
+        <item>tsp (US)$convert_volume_tsp_us$-1</item>
+        <item>gal (UK)$convert_volume_gal_uk$-1</item>
+        <item>qt (UK)$convert_volume_qt_uk$-1</item>
+        <item>pt (UK)$convert_volume_pt_uk$-1</item>
+        <item>oz (UK)$convert_volume_oz_uk$-1</item>
+        <item>cup (UK)$convert_volume_cup_uk$-1</item>
+        <item>tbsp (UK)$convert_volume_tbsp_uk$-1</item>
+        <item>tsp (UK)$convert_volume_tsp_uk$-1</item>
+        <item>dr$convert_volume_dr$-1</item>
+        <item>bbl$convert_volume_bbl$-1</item>
+        <item>cord$convert_volume_cord$-1</item>
+        <item>gill$convert_volume_gill$-1</item>
+    </string-array>
+    <string-array name="unit_name_temperature">
+        <item>C$convert_temp_c$1</item>
+        <item>F$convert_temp_f$0</item>
+        <item>K$convert_temp_k$-1</item>
+    </string-array>
+    <string-array name="unit_name_fuel">
+        <item>gal(UK)/100 miles$convert_fuel_galperhundredmile_uk$-1</item>
+        <item>gal(US)/100 miles$convert_fuel_galperhundredmile_us$-1</item>
+        <item>km/L$convert_fuel_kilometerperliter$-1</item>
+        <item>L/100km$convert_fuel_literperhundredkilometer$0</item>
+        <item>MPG(UK)$convert_fuel_mpg_uk$-1</item>
+        <item>MPG(US)$convert_fuel_mpg_us$1</item>
+    </string-array>
+    <string-array name="unit_name_shoes">
+        <item>men’s shoes$US/UK/Eurpe(Chinese)/cntimeter/Inch$1</item>
+        <item>women’s shoes$US/UK/Eurpe(Chinese)/cntimeter/Inch$0</item>
+    </string-array>
+    <string-array name="unit_name_clothes"></string-array>
+    <string-array name="unit_name_cooking">
+        <item>mL (cc)$convert_cooking_milliliter$0</item>
+        <item>gal (US)$convert_cooking_gal_us$1</item>
+        <item>qt (US)$convert_cooking_qt_us$-1</item>
+        <item>pt (US)$convert_cooking_pt_us$-1</item>
+        <item>fl. oz (US)$convert_cooking_oz_us$-1</item>
+        <item>cup (US)$convert_cooking_cup_us$-1</item>
+        <item>tbsp (US)$convert_cooking_tbsp_us$-1</item>
+        <item>tsp (US)$convert_cooking_tsp_us$-1</item>
+        <item>gal (UK)$convert_cooking_gal_uk$-1</item>
+        <item>qt (UK)$convert_cooking_qt_uk$-1</item>
+        <item>pt (UK)$convert_cooking_pt_uk$-1</item>
+        <item>fl oz (UK)$convert_cooking_oz_uk$-1</item>
+        <item>cup (UK)$convert_cooking_cup_uk$-1</item>
+        <item>tbsp (UK)$convert_cooking_tbsp_uk$-1</item>
+        <item>tsp (UK)$convert_cooking_tsp_uk$-1</item>
+    </string-array>
+
+    <string-array name="unit_list_display_name">
+        <item>@string/convert_length</item>
+        <item>@string/convert_area</item>
+        <item>@string/convert_mass</item>
+        <item>@string/convert_volume</item>
+        <item>@string/convert_temperature</item>
+        <item>@string/convert_fuel</item>
+        <!--<item>@string/convert_shoes</item>-->
+        <!--<item>@string/convert_clothes</item>-->
+        <item>@string/convert_cooking</item>
+    </string-array>
+    <string-array name="unit_list">
+        <item>Length</item>
+        <item>Area</item>
+        <item>Mass</item>
+        <item>Volume</item>
+        <item>Temperature</item>
+        <item>Fuel</item>
+        <!--<item>Shoes</item>-->
+        <!--<item>Clothes</item>-->
+        <item>Cooking</item>
+    </string-array>
+
+    <integer name="display_height_fator">66</integer>
+</resources>

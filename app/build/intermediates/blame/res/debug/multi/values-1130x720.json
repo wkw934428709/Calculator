@@ -1,0 +1,393 @@
+[
+    {
+        "outputFile": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-1130x720/values-1130x720.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 62,
+                    "endOffset": 113
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-720x1130/dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 292,
+                        "endColumn": 62,
+                        "endOffset": 350
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 118,
+                    "endColumn": 66,
+                    "endOffset": 180
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-720x1130/dimens.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 808,
+                        "endColumn": 66,
+                        "endOffset": 870
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 185,
+                    "endColumn": 65,
+                    "endOffset": 246
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-720x1130/dimens.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 482,
+                        "endColumn": 65,
+                        "endOffset": 543
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 251,
+                    "endColumn": 57,
+                    "endOffset": 304
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-720x1130/dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 234,
+                        "endColumn": 57,
+                        "endOffset": 287
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 309,
+                    "endColumn": 70,
+                    "endOffset": 375
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-720x1130/dimens.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 548,
+                        "endColumn": 70,
+                        "endOffset": 614
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 380,
+                    "endColumn": 61,
+                    "endOffset": 437
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-720x1130/dimens.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 745,
+                        "endColumn": 61,
+                        "endOffset": 802
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 442,
+                    "endColumn": 66,
+                    "endOffset": 504
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-720x1130/dimens.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 619,
+                        "endColumn": 66,
+                        "endOffset": 681
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 509,
+                    "endColumn": 57,
+                    "endOffset": 562
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-720x1130/dimens.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 687,
+                        "endColumn": 57,
+                        "endOffset": 740
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 567,
+                    "endColumn": 67,
+                    "endOffset": 630
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-720x1130/dimens.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 875,
+                        "endColumn": 67,
+                        "endOffset": 938
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 635,
+                    "endColumn": 66,
+                    "endOffset": 697
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-720x1130/dimens.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 356,
+                        "endColumn": 66,
+                        "endOffset": 418
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 702,
+                    "endColumn": 65,
+                    "endOffset": 763
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-720x1130/dimens.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1008,
+                        "endColumn": 65,
+                        "endOffset": 1069
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 768,
+                    "endColumn": 64,
+                    "endOffset": 828
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-720x1130/dimens.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 943,
+                        "endColumn": 64,
+                        "endOffset": 1003
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 833,
+                    "endColumn": 57,
+                    "endOffset": 886
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-720x1130/dimens.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 176,
+                        "endColumn": 57,
+                        "endOffset": 229
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 891,
+                    "endColumn": 49,
+                    "endOffset": 936
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-720x1130/dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 126,
+                        "endColumn": 49,
+                        "endOffset": 171
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 941,
+                    "endColumn": 48,
+                    "endOffset": 985
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-720x1130/dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 77,
+                        "endColumn": 48,
+                        "endOffset": 121
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 990,
+                    "endColumn": 57,
+                    "endOffset": 1043
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-720x1130/dimens.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 423,
+                        "endColumn": 57,
+                        "endOffset": 476
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1048,
+                    "endColumn": 53,
+                    "endOffset": 1097
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-720x1130/dimens.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1074,
+                        "endColumn": 53,
+                        "endOffset": 1123
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1102,
+                    "endLine": 25,
+                    "endColumn": 12,
+                    "endOffset": 1405
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-720x1130/styles.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endLine": 9,
+                        "endColumn": 12,
+                        "endOffset": 359
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1410,
+                    "endLine": 34,
+                    "endColumn": 12,
+                    "endOffset": 1822
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-720x1130/styles.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 367,
+                        "endLine": 21,
+                        "endColumn": 12,
+                        "endOffset": 779
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 1827,
+                    "endLine": 45,
+                    "endColumn": 12,
+                    "endOffset": 2390
+                },
+                "from": {
+                    "file": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/values-720x1130/styles.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 785,
+                        "endLine": 33,
+                        "endColumn": 12,
+                        "endOffset": 1348
+                    }
+                }
+            }
+        ]
+    }
+]

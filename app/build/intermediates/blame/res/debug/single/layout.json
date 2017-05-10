@@ -1,0 +1,510 @@
+[
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/pad_operator_one_col.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/layout/pad_operator_one_col.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/notification_template_lines.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/calculator_wheel.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/layout/calculator_wheel.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/common_history_entry_split.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/layout/common_history_entry_split.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/dialog_error_tip.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/exploded-aar/com.tcl.update/mie_updateSdk/1.1.0/res/layout/dialog_error_tip.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/calculator_wheel_layout.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/layout/calculator_wheel_layout.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/dialog_newest.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/exploded-aar/com.tcl.update/mie_updateSdk/1.1.0/res/layout/dialog_newest.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/exchange_item_layout_split.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/layout/exchange_item_layout_split.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/activity_splash.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/convert_slide_panel_split.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/layout/convert_slide_panel_split.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/pad_currency.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/layout/pad_currency.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/history_entry.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/layout/history_entry.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/history_head_split.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/layout/history_head_split.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/display_currency.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/layout/display_currency.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/currency_history_entry.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/layout/currency_history_entry.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/activity_calculator_tablet_port.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/layout/activity_calculator_tablet_port.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/convert_grid_item_layout_split.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/layout/convert_grid_item_layout_split.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/layout_two_in_third.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/layout/layout_two_in_third.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/convert_slide_panel.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/layout/convert_slide_panel.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/activity_splash_multiwindow.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/layout/activity_splash_multiwindow.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/display_multiwindow_land.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/layout/display_multiwindow_land.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/pad_calculator_advenced.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/layout/pad_calculator_advenced.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/currency_list_item.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/layout/currency_list_item.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/calculator_split_land_half_display.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/layout/calculator_split_land_half_display.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/pad_advanced.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/layout/pad_advanced.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/pad_numeric_converter.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/layout/pad_numeric_converter.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/fragment_calculator.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/layout/fragment_calculator.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/pad_calculator_landscape.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/layout/pad_calculator_landscape.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/pad_advanced_multiwindow_land.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/layout/pad_advanced_multiwindow_land.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/convert_grid_item_layout.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/layout/convert_grid_item_layout.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/pad_calculator.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/layout/pad_calculator.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/dialog_loading_tip.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/exploded-aar/com.tcl.update/mie_updateSdk/1.1.0/res/layout/dialog_loading_tip.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/dialog_default_force_update.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/exploded-aar/com.tcl.update/mie_updateSdk/1.1.0/res/layout/dialog_default_force_update.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/display_calculator_land.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/layout/display_calculator_land.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/display_multiwindow_port.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/layout/display_multiwindow_port.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/fragment_calculator_landscape.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/layout/fragment_calculator_landscape.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/pad_numeric_multiwindow_land.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/layout/pad_numeric_multiwindow_land.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/pad_currency_split.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/layout/pad_currency_split.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/calculator_split_port_half_display.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/layout/calculator_split_port_half_display.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/pad_calculator_port_half.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/layout/pad_calculator_port_half.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/splash_calculate_half.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/layout/splash_calculate_half.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/pad_operator_one_col_multiwindow_port.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/layout/pad_operator_one_col_multiwindow_port.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/fragment_convert.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/layout/fragment_convert.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/pad_numeric_converter_split.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/layout/pad_numeric_converter_split.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/activity_splash_new.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/layout/activity_splash_new.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/fragment_welcome_converter.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/layout/fragment_welcome_converter.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/fragment_welcome_calculator.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/layout/fragment_welcome_calculator.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/exploded-aar/com.tcl.update/mie_updateSdk/1.1.0/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/currency_wheel_layout.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/layout/currency_wheel_layout.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/upgrade_notification.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/exploded-aar/com.tcl.update/mie_updateSdk/1.1.0/res/layout/upgrade_notification.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/display_land.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/layout/display_land.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/activity_calculator_multiwindow_port.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/layout/activity_calculator_multiwindow_port.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/currency_list_head.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/layout/currency_list_head.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/activity_calculator_multiwindow_land.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/layout/activity_calculator_multiwindow_land.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/pad_operator_two_col.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/layout/pad_operator_two_col.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/pad_currency_advenced.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/layout/pad_currency_advenced.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/pad_currency_halfscreen.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/layout/pad_currency_halfscreen.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/display_currency_halfscreen.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/layout/display_currency_halfscreen.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/fragment_welcome_currency.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/layout/fragment_welcome_currency.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/activity_calculator_port_new.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/layout/activity_calculator_port_new.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/display_two_in_third.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/layout/display_two_in_third.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/calculator_wheel_item.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/layout/calculator_wheel_item.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/splash_currency_over_half.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/layout/splash_currency_over_half.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/activity_calculator_port.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/layout/activity_calculator_port.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/fragment_currency_list.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/layout/fragment_currency_list.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/pad_popwindow.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/layout/pad_popwindow.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/pad_numeric.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/layout/pad_numeric.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/splash_convert_over_half.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/layout/splash_convert_over_half.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/exchange_item_layout.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/layout/exchange_item_layout.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/display_convert_half.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/layout/display_convert_half.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/fragment_calculator_landhalf.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/layout/fragment_calculator_landhalf.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/activity_calculator_land.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/layout/activity_calculator_land.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/display.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/layout/display.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/dialog_alert_custom.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/exploded-aar/com.tcl.update/mie_updateSdk/1.1.0/res/layout/dialog_alert_custom.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/fragment_convert_half.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/layout/fragment_convert_half.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/convery_wheel_container.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/layout/convery_wheel_container.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/history_head.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/layout/history_head.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/pad_advanced_multiwindow_port.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/layout/pad_advanced_multiwindow_port.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/fragment_currency_half.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/layout/fragment_currency_half.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/display_convert.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/layout/display_convert.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/graph_display.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/layout/graph_display.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/common_history_entry.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/layout/common_history_entry.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/fragment_calculator_halfscreen.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/layout/fragment_calculator_halfscreen.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/splash_currency_half.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/layout/splash_currency_half.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/pad_numeric_multiwindow_port.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/layout/pad_numeric_multiwindow_port.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/fragment_currency.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/layout/fragment_currency.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/pad_calculator_advenced_port_half.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/layout/pad_calculator_advenced_port_half.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/pad_operator_one_col_multiwindow_land.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/layout/pad_operator_one_col_multiwindow_land.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/splash_calculate_over_half.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/layout/splash_calculate_over_half.xml"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/layout/splash_convert_half.xml",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/layout/splash_convert_half.xml"
+    }
+]

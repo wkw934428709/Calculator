@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="15dp">
+
+
+    <LinearLayout
+        android:id="@+id/exchanged_layout_in"
+        android:paddingLeft="60dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:id="@+id/org_layout"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/currency_layout_top_anim_height_split"
+            android:gravity="center_vertical">
+
+            <RelativeLayout
+                android:id="@+id/show_wheel_currency"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent">
+
+                <ImageView
+                    android:id="@+id/org_image"
+                    android:layout_width="@dimen/currency_country_size"
+                    android:layout_height="@dimen/currency_country_size"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="10dp"
+                    android:src="@drawable/china"/>
+
+                <LinearLayout
+                    android:id="@+id/org_linearlayout"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignTop="@id/org_image"
+                    android:layout_toRightOf="@+id/org_image"
+                    android:gravity="center_vertical"
+                    android:orientation="horizontal"
+                    android:paddingLeft="8dp">
+
+
+                        <TextView
+                            android:id="@+id/currency_org_country"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:fontFamily="sans-serif-light"
+                            android:text="CNY"
+                            android:textColor="@color/convert_top_item_color"
+                            android:textSize="@dimen/currency_org_country_textSize"/>
+
+                        <ImageView
+                            android:id="@+id/org_location"
+                            android:layout_width="0dp"
+                            android:layout_height="0dp"
+                            android:paddingLeft="8dp"
+                            android:layout_marginTop="1dp"
+                            android:src="@drawable/location"
+                            android:visibility="gone" />
+
+                    <ImageView
+                        android:id="@+id/org_down_show"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/ic_currency_arrow_down" />
+
+                </LinearLayout>
+
+            </RelativeLayout>
+            <RelativeLayout
+                android:id="@+id/org_formula_layout"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_alignParentRight="true"
+                android:layout_marginBottom="3dp"
+                android:layout_toRightOf="@id/show_wheel_currency"
+                android:gravity="center_vertical|right"
+                android:orientation="vertical">
+
+                <com.tct.calculator.CalculatorEditText
+                    android:id="@+id/formula"
+                    style="@style/CurrencyDisplayEditTextStyle.Formula.Multi"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/currency_formula_edit_height_split"
+                    android:layout_marginLeft="@dimen/currency_formula_padding_left"
+                    android:focusable="true"
+                    android:paddingEnd="10dp"
+                    android:focusableInTouchMode="true"
+                    android:gravity="right|bottom"
+                    android:inputType="text|textNoSuggestions"
+                    android:textColor="@color/display_formula_text_color"
+                    android:textColorHighlight="@color/display_formula_text_highlight_color"/>
+
+                <com.tct.calculator.CalculatorEditText
+                    android:id="@+id/result"
+                    android:layout_width="wrap_content"
+                    android:layout_height="@dimen/currency_org_result_edit_height_split"
+                    android:layout_alignParentBottom="true"
+                    android:layout_alignParentRight="true"
+                    android:layout_below="@id/formula"
+                    android:focusable="false"
+                    android:gravity="bottom"
+                    android:inputType="none"
+                    android:text="100.00"
+                    android:paddingEnd="10dp"
+                    android:textColor="@color/display_result_text_color"
+                    android:textColorHighlight="@color/display_result_text_highlight_color"
+                    android:textSize="@dimen/currency_org_flag_textSize_split"/>
+
+                <TextView
+                    android:id="@+id/org_flag"
+                    android:layout_width="wrap_content"
+                    android:layout_height="@dimen/currency_org_result_edit_height_split"
+                    android:layout_alignParentBottom="true"
+                    android:layout_toLeftOf="@+id/result"
+                    android:gravity="bottom"
+                    android:paddingEnd="10dp"
+                    android:text="￥"
+                    android:textColor="@color/display_result_text_color"
+                    android:textColorHighlight="@color/display_result_text_highlight_color"
+                    android:textSize="@dimen/currency_org_flag_textSize_split"/>
+
+            </RelativeLayout>
+        </RelativeLayout>
+
+        <View
+            android:id="@+id/currency_divider"
+            android:layout_width="match_parent"
+            android:layout_height="1px"
+            android:layout_below="@id/show_wheel_currency"
+            android:background="@color/color_green" />
+
+        <RelativeLayout
+            android:id="@+id/target_layout"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/currency_layout_top_anim_height_split"
+            android:layout_below="@id/currency_divider"
+            android:gravity="center_vertical">
+
+            <RelativeLayout
+                android:id="@+id/target_show_wheel_currency"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:gravity="center_vertical"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:id="@+id/target_image"
+                    android:layout_width="@dimen/currency_country_size"
+                    android:layout_height="@dimen/currency_country_size"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="10dp"
+                    android:src="@drawable/china" />
+
+                <LinearLayout
+                    android:id="@+id/target_linearlayout"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_toRightOf="@+id/target_image"
+                    android:gravity="center_vertical"
+                    android:layout_alignTop="@id/target_image"
+                    android:orientation="horizontal"
+                    android:paddingLeft="8dp">
+
+
+
+                        <TextView
+                            android:id="@+id/currency_target_country"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:fontFamily="sans-serif-light"
+                            android:text="USD"
+                            android:textColor="@color/convert_top_item_color"
+                            android:textSize="@dimen/currency_org_country_textSize"/>
+
+                        <ImageView
+                            android:id="@+id/target_location"
+                            android:layout_width="0dp"
+                            android:layout_height="0dp"
+                            android:paddingLeft="8dp"
+                            android:src="@drawable/location"
+                            android:layout_marginTop="2dp"
+                            android:visibility="gone" />
+
+
+                    <ImageView
+                        android:id="@+id/target_down_show"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/ic_currency_arrow_down"
+                        android:visibility="visible" />
+
+                </LinearLayout>
+
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_alignParentRight="true"
+                android:layout_marginBottom="5dp"
+                android:layout_toRightOf="@id/target_show_wheel_currency">
+
+                <com.tct.calculator.CalculatorEditText
+                    style="@style/CurrencyDisplayEditTextStyle.Formula.Multi"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/currency_formula_edit_height_split"
+                    android:layout_marginLeft="@dimen/currency_formula_padding_left"
+                    android:focusable="false"
+                    android:clickable="false"
+                    android:cursorVisible="false"
+                    android:focusableInTouchMode="true"
+                    android:gravity="right|bottom"
+                    android:paddingEnd="10dp"
+                    android:inputType="text|textNoSuggestions"
+                    android:textColor="@color/display_formula_text_color"
+                    android:textColorHighlight="@color/display_formula_text_highlight_color"/>
+
+                <com.tct.calculator.CalculatorEditText
+                    android:id="@+id/target_result"
+                    android:layout_width="wrap_content"
+                    android:layout_height="@dimen/currency_org_result_edit_height_split"
+                    android:layout_alignParentBottom="true"
+                    android:layout_alignParentRight="true"
+                    android:focusable="false"
+                    android:clickable="false"
+                    android:cursorVisible="false"
+                    android:gravity="bottom"
+                    android:inputType="none"
+                    android:text="0.00"
+                    android:paddingEnd="10dp"
+                    android:textColor="@color/display_result_text_color"
+                    android:textColorHighlight="@color/display_result_text_highlight_color"
+                    android:textSize="@dimen/currency_target_flag_textSize"/>
+
+                <TextView
+                    android:id="@+id/target_flag"
+                    android:layout_width="wrap_content"
+                    android:layout_height="@dimen/currency_org_result_edit_height_split"
+                    android:layout_toLeftOf="@id/target_result"
+                    android:layout_alignParentBottom="true"
+                    android:gravity="bottom"
+                    android:paddingEnd="10dp"
+                    android:text="$"
+                    android:textColor="@color/display_result_text_color"
+                    android:textSize="@dimen/currency_target_flag_textSize"/>
+            </RelativeLayout>
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/org_layout_animation"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/currency_layout_top_anim_height_split"
+            android:gravity="center_vertical"
+            android:visibility="gone">
+
+            <RelativeLayout
+                android:id="@+id/show_wheel_currency_animation"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent">
+
+                <ImageView
+                    android:id="@+id/org_image_animation"
+                    android:layout_width="@dimen/currency_country_size"
+                    android:layout_height="@dimen/currency_country_size"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="10dp"
+                    android:src="@drawable/china"/>
+
+                <LinearLayout
+                    android:id="@+id/org_linearlayout_animation"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignTop="@id/org_image_animation"
+                    android:layout_toRightOf="@+id/org_image_animation"
+                    android:gravity="center_vertical"
+                    android:orientation="horizontal"
+                    android:paddingLeft="8dp">
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:gravity="center_vertical"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:id="@+id/currency_org_country_animation"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:fontFamily="sans-serif-light"
+                            android:text="CNY"
+                            android:textColor="@color/convert_top_item_color"
+                            android:textSize="@dimen/currency_org_country_textSize"/>
+
+                        <ImageView
+                            android:id="@+id/org_location_animation"
+                            android:layout_width="@dimen/currency_location_size"
+                            android:layout_height="@dimen/currency_location_size"
+                            android:layout_marginTop="1dp"
+                            android:paddingLeft="8dp"
+                            android:src="@drawable/location"
+                            android:visibility="gone"/>
+                    </LinearLayout>
+
+                    <ImageView
+                        android:id="@+id/org_down_show_animation"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/ic_currency_arrow_down"/>
+
+                </LinearLayout>
+
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/org_formula_layout_animation"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_alignParentRight="true"
+                android:layout_toRightOf="@id/show_wheel_currency_animation"
+                android:gravity="center_vertical|right"
+                android:orientation="vertical">
+
+                <com.tct.calculator.CalculatorEditText
+                    android:id="@+id/formula_animation"
+                    style="@style/CurrencyDisplayEditTextStyle.Formula.Multi"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/currency_formula_edit_height_split"
+                    android:layout_marginLeft="@dimen/currency_formula_padding_left"
+                    android:focusable="true"
+                    android:focusableInTouchMode="true"
+                    android:gravity="right|bottom"
+                    android:paddingEnd="10dp"
+                    android:inputType="text|textNoSuggestions"
+                    android:textColor="@color/display_formula_text_color"
+                    android:textColorHighlight="@color/display_formula_text_highlight_color"/>
+
+                <com.tct.calculator.CalculatorEditText
+                    android:id="@+id/result_animation"
+                    android:layout_width="wrap_content"
+                    android:layout_height="@dimen/currency_org_result_edit_height_split"
+                    android:layout_alignParentBottom="true"
+                    android:layout_alignParentRight="true"
+                    android:layout_below="@id/formula_animation"
+                    android:focusable="false"
+                    android:gravity="bottom"
+                    android:inputType="none"
+                    android:text="0.00"
+                    android:paddingEnd="10dp"
+                    android:textColor="@color/display_result_text_color"
+                    android:textColorHighlight="@color/display_result_text_highlight_color"
+                    android:textSize="@dimen/currency_org_flag_textSize_split">
+
+                </com.tct.calculator.CalculatorEditText>
+
+                <TextView
+                    android:id="@+id/org_flag_animation"
+                    android:layout_width="wrap_content"
+                    android:layout_height="@dimen/currency_org_result_edit_height_split"
+                    android:layout_toLeftOf="@id/result_animation"
+                    android:layout_alignParentBottom="true"
+                    android:gravity="bottom"
+                    android:paddingEnd="10dp"
+                    android:text="￥"
+                    android:textColor="@color/display_result_text_color"
+                    android:textColorHighlight="@color/display_result_text_highlight_color"
+                    android:textSize="@dimen/currency_org_flag_textSize_split"/>
+            </RelativeLayout>
+        </RelativeLayout>
+
+        <View
+            android:id="@+id/currency_divider_animation"
+            android:layout_width="match_parent"
+            android:layout_height="1px"
+            android:layout_below="@id/org_layout"
+            android:background="@color/color_green"
+            android:visibility="gone"/>
+
+        <RelativeLayout
+            android:id="@+id/target_layout_animation"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/currency_layout_top_anim_height_split"
+            android:layout_below="@id/currency_divider"
+            android:gravity="center_vertical"
+            android:visibility="gone">
+
+            <RelativeLayout
+                android:id="@+id/target_show_wheel_currency_animation"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:gravity="center_vertical"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:id="@+id/target_image_animation"
+                    android:layout_width="@dimen/currency_country_size"
+                    android:layout_height="@dimen/currency_country_size"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="10dp"
+                    android:src="@drawable/china"/>
+
+                <LinearLayout
+                    android:id="@+id/target_linearlayout_animation"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignTop="@id/target_image_animation"
+                    android:layout_toRightOf="@+id/target_image_animation"
+                    android:gravity="center_vertical"
+                    android:orientation="vertical"
+                    android:paddingLeft="8dp">
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:id="@+id/currency_target_country_animation"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:fontFamily="sans-serif-light"
+                            android:text="USD"
+                            android:textColor="@color/convert_top_item_color"
+                            android:textSize="@dimen/currency_org_country_textSize"/>
+
+                        <ImageView
+                            android:id="@+id/target_location_animation"
+                            android:layout_width="@dimen/currency_location_size"
+                            android:layout_height="@dimen/currency_location_size"
+                            android:layout_marginTop="2dp"
+                            android:paddingLeft="8dp"
+                            android:src="@drawable/location"
+                            android:visibility="gone"/>
+                    </LinearLayout>
+
+                </LinearLayout>
+
+                <ImageView
+                    android:id="@+id/target_down_show_animation"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:layout_toRightOf="@+id/target_linearlayout_animation"
+                    android:layout_marginLeft="8dp"
+                    android:src="@drawable/ic_currency_arrow_down"
+                    android:visibility="invisible"/>
+
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_alignParentRight="true"
+                android:layout_toRightOf="@id/target_show_wheel_currency_animation">
+
+                <com.tct.calculator.CalculatorEditText
+                    style="@style/CurrencyDisplayEditTextStyle.Formula.Multi"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/currency_formula_edit_height_split"
+                    android:layout_marginLeft="@dimen/currency_formula_padding_left"
+                    android:focusable="true"
+                    android:focusableInTouchMode="true"
+                    android:gravity="right|bottom"
+                    android:inputType="text|textNoSuggestions"
+                    android:textColor="@color/display_formula_text_color"
+                    android:textColorHighlight="@color/display_formula_text_highlight_color"/>
+
+                <com.tct.calculator.CalculatorEditText
+                    android:id="@+id/target_result_animation"
+                    android:layout_width="wrap_content"
+                    android:layout_height="@dimen/currency_org_result_edit_height_split"
+                    android:layout_alignParentBottom="true"
+                    android:layout_alignParentRight="true"
+                    android:clickable="false"
+                    android:cursorVisible="false"
+                    android:focusable="false"
+                    android:gravity="bottom"
+                    android:inputType="none"
+                    android:text="500.00"
+                    android:paddingEnd="10dp"
+                    android:textColor="@color/display_result_text_color"
+                    android:textColorHighlight="@color/display_result_text_highlight_color"
+                    android:textSize="@dimen/currency_target_flag_textSize"/>
+
+                <TextView
+                    android:id="@+id/target_flag_animation"
+                    android:layout_width="wrap_content"
+                    android:layout_height="@dimen/currency_org_result_edit_height_split"
+                    android:layout_alignParentBottom="true"
+                    android:layout_toLeftOf="@id/target_result_animation"
+                    android:gravity="bottom"
+                    android:paddingEnd="10dp"
+                    android:text="$"
+                    android:textColor="@color/display_result_text_color"
+                    android:textSize="@dimen/currency_target_flag_textSize"/>
+
+            </RelativeLayout>
+        </RelativeLayout>
+
+
+    </LinearLayout>
+</FrameLayout>

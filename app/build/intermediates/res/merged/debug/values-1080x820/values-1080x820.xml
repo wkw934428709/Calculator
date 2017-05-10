@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="calculator_radlayout_margingtop">52dp</dimen>
+    <dimen name="calculator_split_button_size">30dp</dimen>
+    <dimen name="convert_edittext_margin_top">40dp</dimen>
+    <dimen name="convert_popupWindow_layout_height">950px</dimen>
+    <dimen name="convert_top_wheel_picker_layout_height">300dp</dimen>
+    <dimen name="convert_wheel_bottom_text_size">16sp</dimen>
+    <dimen name="convert_wheel_picker_layout_height">350dp</dimen>
+    <dimen name="convert_wheel_top_text_size">12sp</dimen>
+    <dimen name="currency_popupWindow_layout_height">930px</dimen>
+    <dimen name="log_button_size_split">14sp</dimen>
+    <dimen name="popupWindow_layout_height">300dp</dimen>
+    <dimen name="wheel_item_height">25dp</dimen>
+    <dimen name="wheel_picker_btn">14sp</dimen>
+    <integer name="display_height_fator">83</integer>
+    <style name="DisplayDegreeTextStyle">
+        <item name="android:layout_marginLeft">16dp</item>
+        <item name="android:layout_marginTop">0dp</item>
+        <item name="android:textSize">15sp</item>
+    </style>
+    <style name="DisplayEditTextStyle.Result">
+        <item name="android:paddingTop">24dip</item>
+        <item name="android:paddingBottom">48dip</item>
+        <item name="android:paddingStart">16dip</item>
+        <item name="android:paddingEnd">16dip</item>
+        <!-- TS: kaifeng.lu 2016-01-25 Calculator BUGFIX-1496316  MOD_S -->
+        <item name="maxTextSize">30sp</item>
+        <item name="minTextSize">26sp</item>
+        <item name="stepTextSize">3sp</item>
+        <!-- TS: kaifeng.lu 2016-01-25 Calculator BUGFIX-1496316  MOD_E -->
+    </style>
+    <style name="PadButtonStyle.Numeric.Top">
+        <item name="android:layout_margin">0dip</item>
+        <item name="android:textSize">18sp</item>
+        <!--PR538732 change textcolor [Calculator_v5.2.1.2.0303.0]The color of the digital display is not obvious in number Panel update by xiaolu.li 8/27/2015-->
+        <item name="android:textColor">@color/color_green</item>
+    </style>
+</resources>

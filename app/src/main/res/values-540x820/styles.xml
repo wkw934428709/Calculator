@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2017 Tcl Corporation Limited -->
+<resources>
+    <style name="DisplayDegreeTextStyle">
+        <item name="android:layout_marginLeft">16dp</item>
+        <item name="android:layout_marginTop">0dp</item>
+        <item name="android:textSize">15sp</item>
+    </style>
+
+    <style name="DisplayEditTextStyle.Result">
+        <item name="android:paddingTop">24dip</item>
+        <item name="android:paddingBottom">48dip</item>
+        <item name="android:paddingStart">16dip</item>
+        <item name="android:paddingEnd">16dip</item>
+        <!-- TS: kaifeng.lu 2016-01-25 Calculator BUGFIX-1496316  MOD_S -->
+        <item name="maxTextSize">30sp</item>
+        <item name="minTextSize">26sp</item>
+        <item name="stepTextSize">3sp</item>
+        <!-- TS: kaifeng.lu 2016-01-25 Calculator BUGFIX-1496316  MOD_E -->
+    </style>
+
+    <style name="PadButtonStyle.Numeric.Top">
+        <item name="android:layout_margin">0dip</item>
+        <item name="android:textSize">15sp</item>
+        <!--PR538732 change textcolor [Calculator_v5.2.1.2.0303.0]The color of the digital display is not obvious in number Panel update by xiaolu.li 8/27/2015-->
+        <item name="android:textColor">@color/color_green</item>
+    </style>
+
+</resources>

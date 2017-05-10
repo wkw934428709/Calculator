@@ -1,0 +1,970 @@
+[
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/malaysia.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/malaysia.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/bulgaria.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/bulgaria.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/kyrayzstan.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/kyrayzstan.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/nepal.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/nepal.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/somalia.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/somalia.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/uruguay.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/uruguay.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/ghana.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/ghana.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable-xxxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/kenya.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/kenya.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/botswana.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/botswana.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/pt_3.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/pt_3.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/spain.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/spain.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/mongolia.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/mongolia.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/algeria.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/algeria.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/macedonia.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/macedonia.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/mauritius.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/mauritius.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/iceland.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/iceland.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/luo_mai_long.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/luo_mai_long.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/bhutan.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/bhutan.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/sudan.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/sudan.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/serbia.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/serbia.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/mauritania.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/mauritania.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable-xxxhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/convert_cooking_icon.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/convert_cooking_icon.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/zambia.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/zambia.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/ic_rectangle.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/ic_rectangle.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/barbados.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/barbados.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/bahamas.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/bahamas.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/wheel_selected_right.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/wheel_selected_right.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/convert_mass_icon.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/convert_mass_icon.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/hungary.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/hungary.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/bdt.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/bdt.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/cayman_islands.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/cayman_islands.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/poland.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/poland.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable-xxxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_ic_star_black_48dp.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable-xxxhdpi-v4/abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/djibouti.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/djibouti.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/malawi.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/malawi.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/republic_of_congo.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/republic_of_congo.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/uzbekistan.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/uzbekistan.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/myanmar.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/myanmar.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/czech_republic.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/czech_republic.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/convert_temperature_icon.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/convert_temperature_icon.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/cfa_franc_bceao.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/cfa_franc_bceao.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/sierra_leone.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/sierra_leone.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/convert_volume_icon.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/convert_volume_icon.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/anim_history.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/anim_history.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/liechtenstein.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/liechtenstein.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/sbd.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/sbd.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/nigeria.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/nigeria.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/vanuatu.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/vanuatu.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/libya.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/libya.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/virgin_islands.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/virgin_islands.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/pakistan.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/pakistan.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/saudi_arabia.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/saudi_arabia.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/south_africa.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/south_africa.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/down_show.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/down_show.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/japan.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/japan.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/belize.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/belize.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/hong_kong.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/hong_kong.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/mainlogo_convert_select.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/mainlogo_convert_select.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/chile.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/chile.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/lebanon.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/lebanon.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/honduras.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/honduras.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/macau.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/macau.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_ic_star_black_16dp.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable-xxxhdpi-v4/abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_ic_menu_share_mtrl_alpha.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable-xxxhdpi-v4/abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/anim_advanced.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/anim_advanced.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/iran.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/iran.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/sri_lanka.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/sri_lanka.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/tunisia.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/tunisia.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/convert_volume_icon_split.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/convert_volume_icon_split.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/argentina.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/argentina.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/tuvalu.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/tuvalu.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/united_states.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/united_states.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/united_kingdom.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/united_kingdom.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/yemen.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/yemen.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/mainlogo_calculator_select.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/mainlogo_calculator_select.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/azerbaijan.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/azerbaijan.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_ic_star_half_black_48dp.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable-xxxhdpi-v4/abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/equals_bg2_split.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/equals_bg2_split.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/ic_delete_split.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/ic_delete_split.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/ic_del.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/ic_del.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/convert_clothes_icon_split.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/convert_clothes_icon_split.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/ic_key_board_right.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/ic_key_board_right.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/madagascar.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/madagascar.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/angola.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/angola.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/kazakhstan.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/kazakhstan.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/colunbia.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/colunbia.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/swaziland.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/swaziland.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/au_1.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/au_1.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/niue.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/niue.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/taiwan.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/taiwan.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/peru.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/peru.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/convert_area_icon.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/convert_area_icon.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/ic_advenced_scientific.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/ic_advenced_scientific.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/brunei.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/brunei.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/babu_new_guinea_gina.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/babu_new_guinea_gina.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/morocco.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/morocco.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/seychelles.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/seychelles.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/equals_bg.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/equals_bg.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/mainlogo_currency_unselect.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/mainlogo_currency_unselect.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_switch_track_mtrl_alpha.9.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable-xxxhdpi-v4/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/location.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/location.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/jersey.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/jersey.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/georgia.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/georgia.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/falkland_islands.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/falkland_islands.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/oman.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/oman.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/bahrain.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/bahrain.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/thailand.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/thailand.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/paraguay.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/paraguay.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/russia.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/russia.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_ic_star_black_36dp.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable-xxxhdpi-v4/abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/nicaragua.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/nicaragua.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable-xxxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/bermuda.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/bermuda.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/qatar.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/qatar.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/burundi.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/burundi.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/haiti.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/haiti.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable-xxxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable-xxxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable-xxxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/convert_mass_icon_split.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/convert_mass_icon_split.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/antigua.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/antigua.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/moldova.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/moldova.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/zimbabwe_yuan.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/zimbabwe_yuan.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/the_comoros.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/the_comoros.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/convert_fuel_icon.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/convert_fuel_icon.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/canada.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/canada.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/ag_2.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/ag_2.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/kwd.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/kwd.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/australia.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/australia.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/costa_rica.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/costa_rica.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/gilbratar.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/gilbratar.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/dominican_rep.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/dominican_rep.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/singapore.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/singapore.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/convert_shoes_icon_split.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/convert_shoes_icon_split.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/tajikistan.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/tajikistan.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/grennland.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/grennland.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/tutorial_bg2.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/tutorial_bg2.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/switzerlan.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/switzerlan.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/mexico.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/mexico.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/turkmenistan.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/turkmenistan.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/turks_caicos.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/turks_caicos.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/sao_tome.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/sao_tome.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/guadeloupe.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/guadeloupe.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable-xxxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_btn_check_to_on_mtrl_015.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable-xxxhdpi-v4/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/lesotho.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/lesotho.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/arrow_down.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/arrow_down.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/shp.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/shp.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/isreal.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/isreal.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/liberia.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/liberia.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/ic_point_on.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/ic_point_on.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/venezuela.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/venezuela.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/anim_history_bg.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/anim_history_bg.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable-xxxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/afghanistan.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/afghanistan.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/uganda.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/uganda.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable-xxxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/guyana.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/guyana.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/convert_temperature_icon_split.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/convert_temperature_icon_split.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/turks_teke_sihe.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/turks_teke_sihe.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/mainlogo_calculator_unselect.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/mainlogo_calculator_unselect.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_ic_star_half_black_16dp.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable-xxxhdpi-v4/abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/ic_point_off.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/ic_point_off.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/european_union.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/european_union.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/ethiopia.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/ethiopia.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/guernsey.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/guernsey.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/ic_no_history.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/ic_no_history.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/mainlogo_currency_select.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/mainlogo_currency_select.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/albania.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/albania.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/guinea.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/guinea.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/egypt.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/egypt.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/mainlogo_converter_unselect.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/mainlogo_converter_unselect.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/jordan.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/jordan.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/laos.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/laos.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/new_zeland.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/new_zeland.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/cambodia.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/cambodia.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/faroe_islands.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/faroe_islands.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/brazil.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/brazil.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/cuba.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/cuba.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/namibia.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/namibia.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/south_korea.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/south_korea.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/convert_fuel_icon_split.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/convert_fuel_icon_split.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/anim_advanced_bg.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/anim_advanced_bg.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/suriname.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/suriname.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/mozambique.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/mozambique.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/china.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/china.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/kosovo.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/kosovo.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/north_korea.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/north_korea.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/syria.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/syria.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/croatia.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/croatia.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/guatemala.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/guatemala.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/tonga.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/tonga.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/denmark.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/denmark.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/india.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/india.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/bolivia.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/bolivia.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable-xxxhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/convert_shoes_icon.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/convert_shoes_icon.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/sweeden.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/sweeden.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/convert_length_icon_split.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/convert_length_icon_split.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/maldives.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/maldives.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/bosnia.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/bosnia.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/convert_area_icon_split.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/convert_area_icon_split.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/ic_advenced_eq.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/ic_advenced_eq.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/united_arab_e.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/united_arab_e.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/eritrea.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/eritrea.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/jamaica.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/jamaica.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/btb.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/btb.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/romania.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/romania.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/cape_verde.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/cape_verde.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/armenia.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/armenia.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_btn_check_to_on_mtrl_000.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable-xxxhdpi-v4/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/convert_clothes_icon.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/convert_clothes_icon.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/belarus.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/belarus.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/ic_delete.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/ic_delete.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/tinidada.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/tinidada.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/convert_length_icon.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/convert_length_icon.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/iraq.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/iraq.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/philippines.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/philippines.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/ic_delete_calculator.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/ic_delete_calculator.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/rwanda.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/rwanda.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/vietna.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/vietna.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/arbua.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/arbua.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/the_gambia.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/the_gambia.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/tutorial_bg.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/tutorial_bg.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/indonesia.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/indonesia.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/wheel_selected_left.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/wheel_selected_left.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/anim_advanced_bg_alpha.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/anim_advanced_bg_alpha.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/convert_cooking_icon_split.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/convert_cooking_icon_split.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/norway.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/norway.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/lithuania.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/lithuania.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable-xxxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/turkey.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/turkey.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_ic_star_half_black_36dp.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable-xxxhdpi-v4/abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/tanzania.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/tanzania.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/panama.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/panama.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/ic_backspace.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/ic_backspace.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/isle_of_the_man.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/isle_of_the_man.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/palestine.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/palestine.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/ukraine.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/ukraine.png"
+    }
+]

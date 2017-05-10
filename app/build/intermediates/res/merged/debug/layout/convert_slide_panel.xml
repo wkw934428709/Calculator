@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/convert_grid_items_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@null">
+
+    <GridView
+        android:id="@+id/convert_slide_unit_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/convert_gridview_bg"
+        android:elevation="4dip"
+        android:horizontalSpacing="@dimen/default_divider_height"
+        android:listSelector="@null"
+        android:numColumns="3"
+        android:verticalSpacing="@dimen/default_divider_height" />
+</RelativeLayout>

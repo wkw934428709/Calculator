@@ -1,0 +1,706 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+	<!--
+		this file is built by arct
+	-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<!---->
+	<string name="app_name">"Kalkulačka"</string>
+	<!---->
+	<string name="error_nan">"Nie je číslo"</string>
+	<!---->
+	<string name="error_syntax">"Chyba"</string>
+	<!-- no translation found for dec_point -->
+	<skip />
+	<!-- no translation found for digit_0 -->
+	<skip />
+	<!-- no translation found for digit_1 -->
+	<skip />
+	<!-- no translation found for digit_2 -->
+	<skip />
+	<!-- no translation found for digit_3 -->
+	<skip />
+	<!-- no translation found for digit_4 -->
+	<skip />
+	<!-- no translation found for digit_5 -->
+	<skip />
+	<!-- no translation found for digit_6 -->
+	<skip />
+	<!-- no translation found for digit_7 -->
+	<skip />
+	<!-- no translation found for digit_8 -->
+	<skip />
+	<!-- no translation found for digit_9 -->
+	<skip />
+	<!-- no translation found for fun_cos -->
+	<skip />
+	<!-- no translation found for fun_ln -->
+	<skip />
+	<!-- no translation found for fun_log -->
+	<skip />
+	<!-- no translation found for fun_sin -->
+	<skip />
+	<!-- no translation found for fun_tan -->
+	<skip />
+	<!-- no translation found for op_inv -->
+	<skip />
+	<!-- no translation found for op_deg -->
+	<skip />
+	<!-- no translation found for op_rad -->
+	<skip />
+	<!-- no translation found for fun_arccos -->
+	<skip />
+	<!-- no translation found for fun_arcsin -->
+	<skip />
+	<!-- no translation found for fun_arctan -->
+	<skip />
+	<!-- no translation found for fun_naturExp -->
+	<skip />
+	<!-- no translation found for fun_comExp -->
+	<skip />
+	<!-- no translation found for fun_sqr -->
+	<skip />
+	<!-- no translation found for clr -->
+	<skip />
+	<!---->
+	<string name="del">"Odstrániť"</string>
+	<!-- no translation found for desc_const_e -->
+	<skip />
+	<!-- no translation found for desc_const_pi -->
+	<skip />
+	<!-- no translation found for desc_dec_point -->
+	<skip />
+	<!---->
+	<string name="desc_lparen">"ľavá zátvorka"</string>
+	<!---->
+	<string name="desc_rparen">"pravá zátvorka"</string>
+	<!-- no translation found for desc_fun_cos -->
+	<skip />
+	<!---->
+	<string name="desc_fun_ln">"prirodzený logaritmus"</string>
+	<!-- no translation found for desc_fun_log -->
+	<skip />
+	<!-- no translation found for desc_fun_sin -->
+	<skip />
+	<!-- no translation found for desc_fun_tan -->
+	<skip />
+	<!-- no translation found for desc_op_add -->
+	<skip />
+	<!-- no translation found for desc_op_div -->
+	<skip />
+	<!-- no translation found for desc_op_fact -->
+	<skip />
+	<!-- no translation found for desc_op_mul -->
+	<skip />
+	<!-- no translation found for desc_op_pow -->
+	<skip />
+	<!---->
+	<string name="desc_op_sqrt">"druhá odmocnina"</string>
+	<!-- no translation found for desc_op_sub -->
+	<skip />
+	<!-- no translation found for desc_op_inv -->
+	<skip />
+	<!-- no translation found for desc_op_deg -->
+	<skip />
+	<!-- no translation found for desc_op_rad -->
+	<skip />
+	<!-- no translation found for desc_op_per -->
+	<skip />
+	<!-- no translation found for desc_fun_arcsin -->
+	<skip />
+	<!-- no translation found for desc_fun_arccos -->
+	<skip />
+	<!-- no translation found for desc_fun_arctan -->
+	<skip />
+	<!-- no translation found for desc_fun_naturExp -->
+	<skip />
+	<!-- no translation found for desc_fun_comExp -->
+	<skip />
+	<!-- no translation found for desc_fun_sqr -->
+	<skip />
+	<!-- no translation found for desc_clr -->
+	<skip />
+	<!-- no translation found for desc_del -->
+	<skip />
+	<!-- no translation found for desc_eq -->
+	<skip />
+	<!---->
+	<string name="copy_result_toast">"Výsledok sa skopíroval"</string>
+	<!---->
+	<string name="tips_label">"Posunutím prsta nadol zobrazíte históriu nedávnych výpočtov"</string>
+	<!---->
+	<string name="tips_btn_text">"Hotovo"</string>
+	<!---->
+	<string name="no_history">"Žiadna história"</string>
+	<!---->
+	<string name="copy">"Kopírovať"</string>
+	<!---->
+	<string name="paste">"Prilepiť"</string>
+	<!---->
+	<string name="swipe_down">"Potiahnutím nadol sa zobrazí história"</string>
+	<!---->
+	<string name="swipe_left">"Potiahnutím doľava sa zobrazí \n vedecká kalkulačka"</string>
+	<!-- no translation found for dec_point_rel4 -->
+	<skip />
+	<!-- no translation found for drawer_title -->
+	<skip />
+	<!-- no translation found for drawer_open -->
+	<skip />
+	<!-- no translation found for drawer_close -->
+	<skip />
+	<!---->
+	<string name="convert_length">"Dĺžka"</string>
+	<!---->
+	<string name="convert_area">"Oblasť"</string>
+	<!---->
+	<string name="convert_mass">"Hmotnosť"</string>
+	<!---->
+	<string name="convert_volume">"Hlasitosť"</string>
+	<!---->
+	<string name="convert_temperature">"Teplota"</string>
+	<!---->
+	<string name="convert_fuel">"Palivo"</string>
+	<!-- no translation found for convert_shoes -->
+	<skip />
+	<!-- no translation found for convert_clothes -->
+	<skip />
+	<!---->
+	<string name="convert_cooking">"Varenie"</string>
+	<!---->
+	<string name="currency_time">"Aktualizovať:"</string>
+	<!---->
+	<string name="afghani">"Afghani"</string>
+	<!---->
+	<string name="azerbaijani_manat">"Azerbajdžanský manat"</string>
+	<!---->
+	<string name="algerian_dinar">"Alžírsky dinár"</string>
+	<!---->
+	<string name="aruba_florin">"Arubský florin"</string>
+	<!---->
+	<string name="argentine_peso">"Argentínske peso"</string>
+	<!---->
+	<string name="albanian_lek">"Albánsky lek"</string>
+	<!---->
+	<string name="australian_dollar">"Austrálsky dolár"</string>
+	<!---->
+	<string name="cayman_islands_dollar">"Kajmanský dolár"</string>
+	<!---->
+	<string name="cambodian_riel">"Kambodžský riel"</string>
+	<!---->
+	<string name="croatian_kuna">"Chorvátska kuna"</string>
+	<!---->
+	<string name="czech_koruna">"Česká koruna"</string>
+	<!---->
+	<string name="cuban_peso">"Kubánske peso"</string>
+	<!---->
+	<string name="costa_rica_colon">"Kostarický colón"</string>
+	<!---->
+	<string name="colombian_peso">"Kolumbijské peso"</string>
+	<!---->
+	<string name="chilean_peso">"Čilské peso"</string>
+	<!---->
+	<string name="cape_verde_escudo">"Kapverdské escudo"</string>
+	<!---->
+	<string name="chinese_yuan">"Čínsky jüan"</string>
+	<!---->
+	<string name="indian_rupee">"Indická rupia"</string>
+	<!---->
+	<string name="canadian_dollar">"Kanadský dolár"</string>
+	<!---->
+	<string name="bitcoin">"Bitcoin"</string>
+	<!---->
+	<string name="bosnian_convertible_mark">"Bosnianska marka"</string>
+	<!---->
+	<string name="british_pound">"Britská libra"</string>
+	<!---->
+	<string name="burundi_franc">"Burundský frank"</string>
+	<!---->
+	<string name="bulgarian_lev">"Bulharský lev"</string>
+	<!---->
+	<string name="brunei_dollar">"Brunejský dolár"</string>
+	<!---->
+	<string name="brazilian_real">"Brazílsky real"</string>
+	<!---->
+	<string name="botswanna_pula">"Botswanská pula"</string>
+	<!---->
+	<string name="bolivian_boliviano">"Bolívijské boliviano"</string>
+	<!---->
+	<string name="bhutan_ngultrum">"Bhútánsky ngultrum"</string>
+	<!---->
+	<string name="bermuda_dollar">"Bermudský dolár"</string>
+	<!---->
+	<string name="belize_dollar">"Belizský dolár"</string>
+	<!---->
+	<string name="belarus_ruble">"Bieloruský rubeľ"</string>
+	<!---->
+	<string name="barbados_dollar">"Barbadoský dolár"</string>
+	<!---->
+	<string name="bangladesh_taka">"Bangladéšska taka"</string>
+	<!---->
+	<string name="bahraini_dinar">"Bahrajnský dinár"</string>
+	<!---->
+	<string name="bahamian_dollar">"Bahamský dolár"</string>
+	<!---->
+	<string name="angolan_kwanza">"Angolská kwanza"</string>
+	<!---->
+	<string name="armenian_dram">"Arménsky dram"</string>
+	<!---->
+	<string name="iraqi_dinar">"Iracký dinár"</string>
+	<!---->
+	<string name="iranian_rial">"Iránsky rial"</string>
+	<!---->
+	<string name="iceland_krona">"Islandská koruna"</string>
+	<!---->
+	<string name="indonesian_rupiah">"Indonézska rupia"</string>
+	<!---->
+	<string name="hungarian_forint">"Maďarský forint"</string>
+	<!---->
+	<string name="honduras_lempira">"Honduraská lempira"</string>
+	<!---->
+	<string name="haiti_gourde">"Haitský gourde"</string>
+	<!---->
+	<string name="hongkong_dollar">"Hongkonský dolár"</string>
+	<!---->
+	<string name="gold">"Zlato"</string>
+	<!---->
+	<string name="ghanaian_cedi">"Ghanský cedi"</string>
+	<!---->
+	<string name="georgian_lari">"Gruzínske lari"</string>
+	<!---->
+	<string name="guyana_dollar">"Guyanský dolár"</string>
+	<!---->
+	<string name="guinea_franc">"Guinejský frank"</string>
+	<!---->
+	<string name="guatemala_quetzal">"Guatemalský quetzal"</string>
+	<!---->
+	<string name="gibraltar_pound">"Gibraltárska libra"</string>
+	<!---->
+	<string name="gambian_dalasi">"Gambijský dalasi"</string>
+	<!---->
+	<string name="fiji_dollar">"Fidži dolár"</string>
+	<!---->
+	<string name="falkland_islands_pound">"Falklandská libra"</string>
+	<!---->
+	<string name="east_caribbean_dollar">"Východokaribský dolár"</string>
+	<!---->
+	<string name="ethiopian_birr">"Etiópsky birr"</string>
+	<!---->
+	<string name="eritrea_nakfa">"Eritrejská nakfa"</string>
+	<!---->
+	<string name="egyptian_pound">"Egyptská libra"</string>
+	<!---->
+	<string name="euro">"Euro"</string>
+	<!---->
+	<string name="dominican_peso">"Dominikánske peso"</string>
+	<!---->
+	<string name="djibout_franc">"Džibutský frank"</string>
+	<!---->
+	<string name="danish_krone">"Dánska koruna"</string>
+	<!---->
+	<string name="congolese_frank">"Konžský frank"</string>
+	<!---->
+	<string name="cfa_francl_beac">"Frank CFA (BEAC)"</string>
+	<!---->
+	<string name="cfa_franc_bceao">"Frank CFA (BCEAO)"</string>
+	<!---->
+	<string name="comoros_franc">"Komorský frank"</string>
+	<!---->
+	<string name="namibian_dollar">"Namíbijský dolár"</string>
+	<!---->
+	<string name="north_korean_won">"Severokórejský won"</string>
+	<!---->
+	<string name="neth_antilles_guilder">"Antilský gulden"</string>
+	<!---->
+	<string name="mozambican_metical">"Mozambický metical"</string>
+	<!---->
+	<string name="malagasy_ariary">"Malagašský ariary"</string>
+	<!---->
+	<string name="myanmar_kyat">"Mjanmarský kyat"</string>
+	<!---->
+	<string name="moroccan_dirham">"Marocký dirham"</string>
+	<!---->
+	<string name="mongolian_tugrik">"Mongolský tugrik"</string>
+	<!---->
+	<string name="moldovan_leu">"Moldavský leu"</string>
+	<!---->
+	<string name="mexican_peso">"Mexické peso"</string>
+	<!---->
+	<string name="mauritius_rupee">"Maurícijská rupia"</string>
+	<!---->
+	<string name="mauritanian_ougulya">"Mauretánska ouguiya"</string>
+	<!---->
+	<string name="maldives_rufiyaa">"Maldivská rufiyaa"</string>
+	<!---->
+	<string name="malaysian_ringgit">"Malajzský ringgit"</string>
+	<!---->
+	<string name="malawi_kwacha">"Malawijská kwacha"</string>
+	<!---->
+	<string name="macedonian_denar">"Macedónsky denár"</string>
+	<!---->
+	<string name="macau_pataca">"Macau pataca"</string>
+	<!---->
+	<string name="libyan_dinar">"Líbyjský dinár"</string>
+	<!---->
+	<string name="leberian_dollar">"Liberijský dolár"</string>
+	<!---->
+	<string name="lesotho_loti">"Lesotský loti"</string>
+	<!---->
+	<string name="lebanese_pound">"Libanonská libra"</string>
+	<!---->
+	<string name="lao_kipi">"Laoský kip"</string>
+	<!---->
+	<string name="kyrgyzstani_som">"Kyrgyzský som"</string>
+	<!---->
+	<string name="kazakhstani_tenge">"Kazachstanský tenge"</string>
+	<!---->
+	<string name="kuwaiti_dinar">"Kuvajtský dinár"</string>
+	<!---->
+	<string name="kenyan_shilling">"Keňský šiling"</string>
+	<!---->
+	<string name="jordanian_dinar">"Jordánsky dinár"</string>
+	<!---->
+	<string name="jamaican_dollar">"Jamajský dolár"</string>
+	<!---->
+	<string name="japanese_yen">"Japonský jen"</string>
+	<!---->
+	<string name="israeli_shekel">"Izraelský šekel"</string>
+	<!---->
+	<string name="st_henlena_pound">"Svätohelenská libra"</string>
+	<!---->
+	<string name="somali_shilling">"Somálsky šiling"</string>
+	<!---->
+	<string name="solomon_islands_dollar">"Šalamúnsky dolár"</string>
+	<!---->
+	<string name="singapore_dollar">"Singapurský dolár"</string>
+	<!---->
+	<string name="sierra_leone_leone">"Sierraleonský leone"</string>
+	<!---->
+	<string name="seychelles_rupee">"Seychelská rupia"</string>
+	<!---->
+	<string name="saudi_arabian_riyal">"Saudskoarabský rial"</string>
+	<!---->
+	<string name="sao_tome_dobra">"Sao Tome dobra"</string>
+	<!---->
+	<string name="sri_lanka_rupee">"Srílanská rupia"</string>
+	<!---->
+	<string name="south_korean_won">"Juhokórejský won"</string>
+	<!---->
+	<string name="swiss_franc">"Švajčiarsky frank"</string>
+	<!---->
+	<string name="rwanda_franc">"Rwandský frank"</string>
+	<!---->
+	<string name="russian_rouble">"Ruský rubeľ"</string>
+	<!---->
+	<string name="romanian_new_leu">"Rumunský nový leu"</string>
+	<!---->
+	<string name="qatar_rial">"Katarský rial"</string>
+	<!---->
+	<string name="platinum">"Platina"</string>
+	<!---->
+	<string name="pacific_franc">"Pacifický frank"</string>
+	<!---->
+	<string name="polish_zloty">"Poľský zloty"</string>
+	<!---->
+	<string name="philippine_peso">"Filipínske peso"</string>
+	<!---->
+	<string name="peruvian_nuevo_sol">"Peruánsky nuevo sol"</string>
+	<!---->
+	<string name="paraguayan_guarani">"Paraguajské guarani"</string>
+	<!---->
+	<string name="papua_new_guinea_kina">"Papuánska kina"</string>
+	<!---->
+	<string name="panama_balboa">"Panamská balboa"</string>
+	<!---->
+	<string name="pakistani_rupee">"Pakistanská rupia"</string>
+	<!---->
+	<string name="omani_rial">"Ománsky rial"</string>
+	<!---->
+	<string name="norwegian_krone">"Nórska koruna"</string>
+	<!---->
+	<string name="nigerian_naira">"Nigérijská naira"</string>
+	<!---->
+	<string name="nicaragua_cordoba">"Nikaragujská cordoba"</string>
+	<!---->
+	<string name="new_zealand_dollar">"Novozélandský dolár"</string>
+	<!---->
+	<string name="nepalese_rupee">"Nepálska rupia"</string>
+	<!---->
+	<string name="zibabwe_dollar">"Zimbabwský dolár"</string>
+	<!---->
+	<string name="zabian_kwacha">"Zambijská kwacha"</string>
+	<!---->
+	<string name="yemen_riyal">"Jemenský rial"</string>
+	<!---->
+	<string name="venezuelan_bolivar_fuetre">"Venezuelský bolívar fuerte"</string>
+	<!---->
+	<string name="vanuatu_vatu">"Vanautské vatu"</string>
+	<!---->
+	<string name="vietnam_dong">"Vietnamský dong"</string>
+	<!---->
+	<string name="uzbekistani_som">"Uzbecký sum"</string>
+	<!---->
+	<string name="uruguayan_new_peso">"Uruguajské nové peso"</string>
+	<!---->
+	<string name="ukraine_hryvnia">"Ukrajinská hrivna"</string>
+	<!---->
+	<string name="ugandan_shilling">"Ugandský šiling"</string>
+	<!---->
+	<string name="united_states_dollar">"Americký dolár"</string>
+	<!---->
+	<string name="uae_dirham">"Emirátsky dirham"</string>
+	<!---->
+	<string name="turkmenistani_manet">"Turkménsky manat"</string>
+	<!---->
+	<string name="tajikistani_somoni">"Tadžický somoni"</string>
+	<!---->
+	<string name="tunisian_dinar">"Tuniský dinár"</string>
+	<!---->
+	<string name="trinnidad_tobago_dollar">"Trinidadský dolár"</string>
+	<!---->
+	<string name="tonga_pa_ang">"Tonžská paanga"</string>
+	<!---->
+	<string name="tanzanian_shilling">"Tanzánijský šiling"</string>
+	<!---->
+	<string name="turkish_lira">"Turecká lira"</string>
+	<!---->
+	<string name="taiwan_dollar">"Taiwanský dolár"</string>
+	<!---->
+	<string name="thai_baht">"Thajský baht"</string>
+	<!---->
+	<string name="Silver">"Striebro"</string>
+	<!---->
+	<string name="serbian_dinars">"Srbský dinár"</string>
+	<!---->
+	<string name="surinam_florin">"Surinamský florin"</string>
+	<!---->
+	<string name="south_african_rand">"Juhoafrický rand"</string>
+	<!---->
+	<string name="samoa_tala">"Samojská tala"</string>
+	<!---->
+	<string name="syrian_pound">"Sýrska libra"</string>
+	<!---->
+	<string name="swedish_krona">"Švédska koruna"</string>
+	<!---->
+	<string name="swaziland_lilageni">"Svazijské lilageni"</string>
+	<!---->
+	<string name="sudanese_pound">"Sudánska libra"</string>
+	<!---->
+	<string name="au_1">"Au"</string>
+	<!---->
+	<string name="btb">"Btb"</string>
+	<!---->
+	<string name="ag_2">"Ag"</string>
+	<!---->
+	<string name="pt_3">"Pt"</string>
+	<!-- no translation found for convert_category_length -->
+	<skip />
+	<!---->
+	<string name="convert_length_mm">"milimeter"</string>
+	<!---->
+	<string name="convert_length_cm">"centimeter"</string>
+	<!---->
+	<string name="convert_length_m">"meter"</string>
+	<!---->
+	<string name="convert_length_km">"kilometer"</string>
+	<!---->
+	<string name="convert_length_mi">"míľa"</string>
+	<!---->
+	<string name="convert_length_yd">"yard"</string>
+	<!---->
+	<string name="convert_length_ft">"stopa"</string>
+	<!---->
+	<string name="convert_length_in">"palec"</string>
+	<!---->
+	<string name="convert_length_kt">"námorná míľa"</string>
+	<!-- no translation found for convert_category_area -->
+	<skip />
+	<!---->
+	<string name="convert_area_mm2">"štvorcový milimeter"</string>
+	<!---->
+	<string name="convert_area_cm2">"štvorcový centimeter"</string>
+	<!---->
+	<string name="convert_area_m2">"štvorcový meter"</string>
+	<!---->
+	<string name="convert_area_in2">"štvorcový palec"</string>
+	<!---->
+	<string name="convert_area_ft2">"štvorcová stopa"</string>
+	<!---->
+	<string name="convert_area_yd2">"štvorcový yard"</string>
+	<!---->
+	<string name="convert_area_ha">"hektár"</string>
+	<!---->
+	<string name="convert_area_km2">"štvorcový kilometer"</string>
+	<!---->
+	<string name="convert_area_ac">"aker"</string>
+	<!---->
+	<string name="convert_area_mi2">"štvorcová míľa"</string>
+	<!-- no translation found for convert_category_mass -->
+	<skip />
+	<!---->
+	<string name="convert_mass_mg">"miligram"</string>
+	<!---->
+	<string name="convert_mass_g">"gram"</string>
+	<!---->
+	<string name="convert_mass_kg">"kilogram"</string>
+	<!---->
+	<string name="convert_mass_t">"metrická tona"</string>
+	<!---->
+	<string name="convert_mass_tonuk">"dlhá tona"</string>
+	<!---->
+	<string name="convert_mass_tonus">"krátka tona"</string>
+	<!---->
+	<string name="convert_mass_lb">"libra"</string>
+	<!---->
+	<string name="convert_mass_oz">"unca"</string>
+	<!---->
+	<string name="convert_mass_st">"kameň"</string>
+	<!---->
+	<string name="convert_mass_ct">"karát"</string>
+	<!-- no translation found for convert_category_temperature -->
+	<skip />
+	<!---->
+	<string name="convert_temp_c">"celzius"</string>
+	<!---->
+	<string name="convert_temp_f">"fahrenheit"</string>
+	<!---->
+	<string name="convert_temp_k">"kelvin"</string>
+	<!-- no translation found for convert_category_volume -->
+	<skip />
+	<!---->
+	<string name="convert_volume_mm3">"kubický milimeter"</string>
+	<!---->
+	<string name="convert_volume_cm3">"kubický centimeter"</string>
+	<!---->
+	<string name="convert_volume_dm3">"kubický decimeter"</string>
+	<!---->
+	<string name="convert_volume_m3">"kubický meter"</string>
+	<!---->
+	<string name="convert_volume_ml">"mililiter"</string>
+	<!---->
+	<string name="convert_volume_liter">"liter"</string>
+	<!---->
+	<string name="convert_volume_ft3">"kubická stopa"</string>
+	<!---->
+	<string name="convert_volume_in3">"kubický palec"</string>
+	<!---->
+	<string name="convert_volume_gal_us">"(US) galón"</string>
+	<!---->
+	<string name="convert_volume_qt_us">"(US) quart"</string>
+	<!---->
+	<string name="convert_volume_pt_us">"(US) pinta"</string>
+	<!---->
+	<string name="convert_volume_oz_us">"(US) unca"</string>
+	<!---->
+	<string name="convert_volume_cup_us">"(US) pohár"</string>
+	<!---->
+	<string name="convert_volume_tbsp_us">"(US) polievková lyžica"</string>
+	<!---->
+	<string name="convert_volume_tsp_us">"(US) čajová lyžička"</string>
+	<!---->
+	<string name="convert_volume_gal_uk">"(UK) galón"</string>
+	<!---->
+	<string name="convert_volume_qt_uk">"(UK) quart"</string>
+	<!---->
+	<string name="convert_volume_pt_uk">"(UK) pinta"</string>
+	<!---->
+	<string name="convert_volume_oz_uk">"(UK) unca"</string>
+	<!---->
+	<string name="convert_volume_cup_uk">"(UK) pohár"</string>
+	<!---->
+	<string name="convert_volume_tbsp_uk">"(UK) polievková lyžica"</string>
+	<!---->
+	<string name="convert_volume_tsp_uk">"(UK) čajová lyžička"</string>
+	<!---->
+	<string name="convert_volume_dr">"dram"</string>
+	<!---->
+	<string name="convert_volume_bbl">"barel"</string>
+	<!---->
+	<string name="convert_volume_cord">"cord"</string>
+	<!---->
+	<string name="convert_volume_gill">"štrnástina litra"</string>
+	<!-- no translation found for convert_category_cooking -->
+	<skip />
+	<!---->
+	<string name="convert_cooking_milliliter">"mililiter"</string>
+	<!---->
+	<string name="convert_cooking_gal_us">"galón"</string>
+	<!---->
+	<string name="convert_cooking_qt_us">"quart"</string>
+	<!---->
+	<string name="convert_cooking_pt_us">"pinta"</string>
+	<!---->
+	<string name="convert_cooking_oz_us">"unca"</string>
+	<!---->
+	<string name="convert_cooking_floz_us">"(US) unca (objem)"</string>
+	<!---->
+	<string name="convert_cooking_cup_us">"pohár"</string>
+	<!---->
+	<string name="convert_cooking_tbsp_us">"polievková lyžica"</string>
+	<!---->
+	<string name="convert_cooking_tsp_us">"čajová lyžička"</string>
+	<!---->
+	<string name="convert_cooking_gal_uk">"galón"</string>
+	<!---->
+	<string name="convert_cooking_qt_uk">"quart"</string>
+	<!---->
+	<string name="convert_cooking_pt_uk">"pinta"</string>
+	<!---->
+	<string name="convert_cooking_floz_uk">"(UK) unca (objem)"</string>
+	<!---->
+	<string name="convert_cooking_oz_uk">"unca"</string>
+	<!---->
+	<string name="convert_cooking_cup_uk">"pohár"</string>
+	<!---->
+	<string name="convert_cooking_tbsp_uk">"polievková lyžica"</string>
+	<!---->
+	<string name="convert_cooking_tsp_uk">"čajová lyžička"</string>
+	<!-- no translation found for convert_category_fuel -->
+	<skip />
+	<!---->
+	<string name="convert_fuel_galperhundredmile_uk">"galóny (UK) / 100 míľ"</string>
+	<!---->
+	<string name="convert_fuel_galperhundredmile_us">"galóny (US) / 100 míľ"</string>
+	<!---->
+	<string name="convert_fuel_kilometerperliter">"km/l"</string>
+	<!---->
+	<string name="convert_fuel_literperhundredkilometer">"litre/100 km"</string>
+	<!---->
+	<string name="convert_fuel_mpg_uk">"(UK) míle na galón"</string>
+	<!---->
+	<string name="convert_fuel_mpg_us">"(US) míle na galón"</string>
+	<!-- no translation found for convert_shoes_mem -->
+	<skip />
+	<!-- no translation found for convert_shoes_womem -->
+	<skip />
+	<!---->
+	<string name="splash_tv_open">"Zadať"</string>
+	<!---->
+	<string name="splash_tv_next">"Ďalej"</string>
+	<!---->
+	<string name="splash_tv_skip">"Preskočiť"</string>
+	<!---->
+	<string name="splash_tv_calculate_title">"Vypočítať"</string>
+	<!---->
+	<string name="splash_tv_calculate_content">"Začnite s touto kalkulačkou a ťuknite na tlačidlo alebo potiahnite doľava pre použitie vedeckého panelu."</string>
+	<!---->
+	<string name="splash_tv_currency_title">"Kontrola meny"</string>
+	<!---->
+	<string name="splash_tv_currency_content">"Podporuje kontrolu a aktualizáciu viac než 150 krajín každý deň. \n(Zdroje údajov pochádzajú z lokality www.xe.com)"</string>
+	<!---->
+	<string name="splash_tv_convert_title">"Skonvertovať jednotku"</string>
+	<!---->
+	<string name="splash_tv_convert_content">"Dĺžka? Hmotnosť? Plocha? \nPrevod jednotiek odteraz nie je žiadny problém."</string>
+	<!---->
+	<string name="no_internet_access">"Bez prístupu k internetu"</string>
+	<!---->
+	<string name="updating">"Prebieha aktualizácia…"</string>
+	<!-- no translation found for search_edit_hint -->
+	<skip />
+	<!---->
+	<string name="bt_right_more">"Viac"</string>
+	<!---->
+	<string name="bt_left_more">"Viac"</string>
+	<!---->
+	<string name="pop_cancel">"ZRUŠIŤ"</string>
+	<!---->
+	<string name="pop_ok">"OK"</string>
+</resources>

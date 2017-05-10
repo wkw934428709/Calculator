@@ -1,0 +1,75 @@
+0000000000000000000000000000000000000000 fa6ae7eccb6c2fa10ba19c6de11b1a4e7ce56b7c qiong.liu1 <qiong.liu1@jrdcom.com> 1491025641 +0800	branch: Created from refs/remotes/origin/Calculator_Master_04
+fa6ae7eccb6c2fa10ba19c6de11b1a4e7ce56b7c e0d78831a88d7f0cf44fa648f9580b46b0dec7cb qiong.liu1 <qiong.liu1@jrdcom.com> 1491033320 +0800	commit: [1 of 1][3621966]Modify the icon "C" & Some cut off in BB mobile
+e0d78831a88d7f0cf44fa648f9580b46b0dec7cb fa6ae7eccb6c2fa10ba19c6de11b1a4e7ce56b7c qiong.liu1 <qiong.liu1@jrdcom.com> 1491033385 +0800	reset: moving to HEAD^
+fa6ae7eccb6c2fa10ba19c6de11b1a4e7ce56b7c 107ff135cf987a9fb7b1f20c8e6620dfaf7a1be1 qiong.liu1 <qiong.liu1@jrdcom.com> 1491033462 +0800	commit: [1 of 1][4452809]Modify the icon "C" & Some cut off in BB mobile
+107ff135cf987a9fb7b1f20c8e6620dfaf7a1be1 fa6ae7eccb6c2fa10ba19c6de11b1a4e7ce56b7c qiong.liu1 <qiong.liu1@jrdcom.com> 1491033549 +0800	reset: moving to HEAD^
+fa6ae7eccb6c2fa10ba19c6de11b1a4e7ce56b7c dbb7a82fc7557ac318daf5b98024bc61cbd28cb1 qiong.liu1 <qiong.liu1@jrdcom.com> 1491033570 +0800	commit: [1 of 1][4452809]]Modify the icon "C" & Some cut off in BB mobile
+dbb7a82fc7557ac318daf5b98024bc61cbd28cb1 b211f5847f6d554cd4199951d1ae88864963ab96 qiong.liu1 <qiong.liu1@jrdcom.com> 1491036123 +0800	reset: moving to b211f5847f6d554cd4199951d1ae88864963ab96
+b211f5847f6d554cd4199951d1ae88864963ab96 c7ac53d12c4506043296cc85847b465d65ebc5d9 qiong.liu1 <qiong.liu1@jrdcom.com> 1491036262 +0800	commit: [1 of 1][3621966]test
+c7ac53d12c4506043296cc85847b465d65ebc5d9 b211f5847f6d554cd4199951d1ae88864963ab96 qiong.liu1 <qiong.liu1@jrdcom.com> 1491037711 +0800	reset: moving to b211f5847f6d554cd4199951d1ae88864963ab96
+b211f5847f6d554cd4199951d1ae88864963ab96 d024a6d47a180dd13e65f0cabbc635fa0c96fad3 qiong.liu1 <qiong.liu1@jrdcom.com> 1491037841 +0800	reset: moving to d024a6d47a180dd13e65f0cabbc635fa0c96fad3
+d024a6d47a180dd13e65f0cabbc635fa0c96fad3 80abd1464b166b5172debcdffdf2c422385d4167 qiong.liu1 <qiong.liu1@jrdcom.com> 1491038054 +0800	reset: moving to HEAD^
+80abd1464b166b5172debcdffdf2c422385d4167 19133b1b218f14fedc559b88a6ad6db7825bd228 qiong.liu1 <qiong.liu1@jrdcom.com> 1491038084 +0800	reset: moving to HEAD^
+19133b1b218f14fedc559b88a6ad6db7825bd228 e9e641310386c6059990c470e7245bdbfc4d91d9 qiong.liu1 <qiong.liu1@jrdcom.com> 1491038392 +0800	pull: Fast-forward
+e9e641310386c6059990c470e7245bdbfc4d91d9 9a8efb4c9d3d3b317e2552ba808ddf816566edc2 qiong.liu1 <qiong.liu1@jrdcom.com> 1491549194 +0800	commit: [1 of 1][4452809]Fix bugs not match with GD & Ergo
+9a8efb4c9d3d3b317e2552ba808ddf816566edc2 d7c11a7a6317ec40e0507f517c680534e19949fc qiong.liu1 <qiong.liu1@jrdcom.com> 1491876429 +0800	pull: Fast-forward
+d7c11a7a6317ec40e0507f517c680534e19949fc 8b24f5ab09bd366124be04d2c96407230a1435f3 qiong.liu1 <qiong.liu1@jrdcom.com> 1491876636 +0800	commit: [1 of 1][4452809]Fix the dialog bugs when roate the screen.
+8b24f5ab09bd366124be04d2c96407230a1435f3 d398af726fdff8cc6c1afb3d81a1d5f880a6e7b5 qiong.liu1 <qiong.liu1@jrdcom.com> 1492071200 +0800	commit: [1 of 1][4452809]fix bugs
+d398af726fdff8cc6c1afb3d81a1d5f880a6e7b5 085b414fe07723d4909e764c53fc4c7694e370ef qiong.liu1 <qiong.liu1@jrdcom.com> 1492163373 +0800	commit: [1 of 1][4452809]fix bugs : RAG & XE icon & others
+085b414fe07723d4909e764c53fc4c7694e370ef 35312992fd314f2cb245a7dac9e04ea98faf7470 qiong.liu1 <qiong.liu1@jrdcom.com> 1492482097 +0800	pull: Fast-forward
+35312992fd314f2cb245a7dac9e04ea98faf7470 fa4540c07b0a7f27ed09d7b4d720af86cb57db8d qiong.liu1 <qiong.liu1@jrdcom.com> 1492482212 +0800	commit: [1 of 1][4452809]fix some bugs in Elsa6na
+fa4540c07b0a7f27ed09d7b4d720af86cb57db8d ac14ae97bb53560feb6dd465a5a801abc9c2dede qiong.liu1 <qiong.liu1@jrdcom.com> 1492583279 +0800	commit: [1 of 1][4452809]fix some bugs in Buzz6T gophone & Mickey6T
+ac14ae97bb53560feb6dd465a5a801abc9c2dede d331b697eeef936f8cec2294d9dbd2d7b8b6e91e qiong.liu1 <qiong.liu1@jrdcom.com> 1492770532 +0800	pull: Fast-forward
+d331b697eeef936f8cec2294d9dbd2d7b8b6e91e 2d1dc381273600dfeea2216053e7dc89e530af80 qiong.liu1 <qiong.liu1@jrdcom.com> 1492770643 +0800	commit: [1 of 1][4452809]bug fix : the Intent access & popwindow & mutilwindow
+2d1dc381273600dfeea2216053e7dc89e530af80 a418542bfc73cb0da97e3942951d736bc947faa6 qiong.liu1 <qiong.liu1@jrdcom.com> 1492772404 +0800	commit: [1 of 1][4452809]bug fix one FC
+a418542bfc73cb0da97e3942951d736bc947faa6 bc361197f815e4151dc850bbcb5c6799bf75126a qiong.liu1 <qiong.liu1@jrdcom.com> 1493090529 +0800	pull: Fast-forward
+bc361197f815e4151dc850bbcb5c6799bf75126a c87b80121e08f04e361d33b4dd3dc9fb16e91782 qiong.liu1 <qiong.liu1@jrdcom.com> 1493090826 +0800	commit: [1 of 1][4635361][GAPP][Android 7.0][Calculator]Basic operation interface display abnormal
+c87b80121e08f04e361d33b4dd3dc9fb16e91782 e152d4c6a0b9b504b419304a86778ea640850dac qiong.liu1 <qiong.liu1@jrdcom.com> 1493105888 +0800	commit: [1 of 1][4598868][GAPP][Android 7.0][Calculator]Click on the up and down button switch unit and exchange value
+e152d4c6a0b9b504b419304a86778ea640850dac ca295f853a3d22ae09de14b18fc81be780950f87 qiong.liu1 <qiong.liu1@jrdcom.com> 1493106341 +0800	reset: moving to ca295f853a3d22ae09de14b18fc81be780950f87
+ca295f853a3d22ae09de14b18fc81be780950f87 154c93e59b6f429bb9d054439b2524ec0fb6b90e qiong.liu1 <qiong.liu1@jrdcom.com> 1493106552 +0800	reset: moving to 154c93e59b6f429bb9d054439b2524ec0fb6b90e
+154c93e59b6f429bb9d054439b2524ec0fb6b90e a1aadfe9f1de05920a13559e9df78ccafd2b15ca qiong.liu1 <qiong.liu1@jrdcom.com> 1493106689 +0800	reset: moving to a1aadfe9f1de05920a13559e9df78ccafd2b15ca
+a1aadfe9f1de05920a13559e9df78ccafd2b15ca 154c93e59b6f429bb9d054439b2524ec0fb6b90e qiong.liu1 <qiong.liu1@jrdcom.com> 1493106866 +0800	reset: moving to 154c93e59b6f429bb9d054439b2524ec0fb6b90e
+154c93e59b6f429bb9d054439b2524ec0fb6b90e c87b80121e08f04e361d33b4dd3dc9fb16e91782 qiong.liu1 <qiong.liu1@jrdcom.com> 1493107436 +0800	pull: Fast-forward
+c87b80121e08f04e361d33b4dd3dc9fb16e91782 5f23968bf0b46a18868e4d6a43c94d56575d6dd5 qiong.liu1 <qiong.liu1@jrdcom.com> 1493109293 +0800	reset: moving to 5f23968bf0b46a18868e4d6a43c94d56575d6dd5
+5f23968bf0b46a18868e4d6a43c94d56575d6dd5 b8c1f111b4352747217fd8274609d58603af45d2 qiong.liu1 <qiong.liu1@jrdcom.com> 1493109677 +0800	reset: moving to b8c1f111b4352747217fd8274609d58603af45d2
+b8c1f111b4352747217fd8274609d58603af45d2 98504b17485f54b8d430bfc7c58a18773d112496 qiong.liu1 <qiong.liu1@jrdcom.com> 1493109854 +0800	reset: moving to 98504b17485f54b8d430bfc7c58a18773d112496
+98504b17485f54b8d430bfc7c58a18773d112496 9a8efb4c9d3d3b317e2552ba808ddf816566edc2 qiong.liu1 <qiong.liu1@jrdcom.com> 1493110004 +0800	reset: moving to 9a8efb4c9d3d3b317e2552ba808ddf816566edc2
+9a8efb4c9d3d3b317e2552ba808ddf816566edc2 2d1dc381273600dfeea2216053e7dc89e530af80 qiong.liu1 <qiong.liu1@jrdcom.com> 1493110152 +0800	reset: moving to 2d1dc381273600dfeea2216053e7dc89e530af80
+2d1dc381273600dfeea2216053e7dc89e530af80 ac14ae97bb53560feb6dd465a5a801abc9c2dede qiong.liu1 <qiong.liu1@jrdcom.com> 1493110409 +0800	reset: moving to ac14ae97bb53560feb6dd465a5a801abc9c2dede
+ac14ae97bb53560feb6dd465a5a801abc9c2dede 085b414fe07723d4909e764c53fc4c7694e370ef qiong.liu1 <qiong.liu1@jrdcom.com> 1493110575 +0800	reset: moving to 085b414fe07723d4909e764c53fc4c7694e370ef
+085b414fe07723d4909e764c53fc4c7694e370ef d398af726fdff8cc6c1afb3d81a1d5f880a6e7b5 qiong.liu1 <qiong.liu1@jrdcom.com> 1493110682 +0800	reset: moving to d398af726fdff8cc6c1afb3d81a1d5f880a6e7b5
+d398af726fdff8cc6c1afb3d81a1d5f880a6e7b5 8b24f5ab09bd366124be04d2c96407230a1435f3 qiong.liu1 <qiong.liu1@jrdcom.com> 1493110737 +0800	reset: moving to 8b24f5ab09bd366124be04d2c96407230a1435f3
+8b24f5ab09bd366124be04d2c96407230a1435f3 9a8efb4c9d3d3b317e2552ba808ddf816566edc2 qiong.liu1 <qiong.liu1@jrdcom.com> 1493110834 +0800	reset: moving to 9a8efb4c9d3d3b317e2552ba808ddf816566edc2
+9a8efb4c9d3d3b317e2552ba808ddf816566edc2 c87b80121e08f04e361d33b4dd3dc9fb16e91782 qiong.liu1 <qiong.liu1@jrdcom.com> 1493111005 +0800	pull: Fast-forward
+c87b80121e08f04e361d33b4dd3dc9fb16e91782 84ce67c81b9e917b17b25e56880d2689b7d68a15 qiong.liu1 <qiong.liu1@jrdcom.com> 1493113219 +0800	commit: [1 of 1][4598661][GAPP][Android 7.0][Calculator]Click on the more choice and the interface no input box
+84ce67c81b9e917b17b25e56880d2689b7d68a15 a23f9495578ea3f467e143fd48bac7a5e74f9b13 qiong.liu1 <qiong.liu1@jrdcom.com> 1493113227 +0800	pull: Merge made by the 'recursive' strategy.
+a23f9495578ea3f467e143fd48bac7a5e74f9b13 adca5b9d4a89894efa996c56d264f1275db64558 qiong.liu1 <qiong.liu1@jrdcom.com> 1493192637 +0800	pull: Merge made by the 'recursive' strategy.
+adca5b9d4a89894efa996c56d264f1275db64558 479f956286702ef2e540fdb0e1803fbe5412e5d2 qiong.liu1 <qiong.liu1@jrdcom.com> 1493192688 +0800	commit: [1 of 1][4598661][GAPP][Android 7.0][Calculator]Click on the more choice and the interface no input box
+479f956286702ef2e540fdb0e1803fbe5412e5d2 adca5b9d4a89894efa996c56d264f1275db64558 qiong.liu1 <qiong.liu1@jrdcom.com> 1493193234 +0800	reset: moving to HEAD^
+adca5b9d4a89894efa996c56d264f1275db64558 03040ec0661ff46943348fe7e757bafa51e0eb06 qiong.liu1 <qiong.liu1@jrdcom.com> 1493193333 +0800	commit: [1 of 1][4598661][Calculator]Click on the more choice and the interface no input box
+03040ec0661ff46943348fe7e757bafa51e0eb06 0924e46117205812e7a75af4787ea6aca577c526 qiong.liu1 <qiong.liu1@jrdcom.com> 1493261116 +0800	pull: Merge made by the 'recursive' strategy.
+0924e46117205812e7a75af4787ea6aca577c526 b41122dd117610df2746e412c102c3e3f099f815 qiong.liu1 <qiong.liu1@jrdcom.com> 1493690526 +0800	pull: Merge made by the 'recursive' strategy.
+b41122dd117610df2746e412c102c3e3f099f815 4c463589180df96dd85812d26e66509e29a2db5a qiong.liu1 <qiong.liu1@jrdcom.com> 1493690893 +0800	commit: [1 of 1][4598039][GAPP][Android 7.0][Calculator]"RAD" shows truncated
+4c463589180df96dd85812d26e66509e29a2db5a b41122dd117610df2746e412c102c3e3f099f815 qiong.liu1 <qiong.liu1@jrdcom.com> 1493691080 +0800	reset: moving to HEAD^
+b41122dd117610df2746e412c102c3e3f099f815 28e1d388f1e601da6fcc886dfee11f4830d8b760 qiong.liu1 <qiong.liu1@jrdcom.com> 1493691264 +0800	commit: [1 of 1][4598039][GAPP][Android 7.0][Calculator]"RAD" shows truncated
+28e1d388f1e601da6fcc886dfee11f4830d8b760 9116637d4d52b63468ed79dd34b7a8eeef045983 qiong.liu1 <qiong.liu1@jrdcom.com> 1493692478 +0800	rebase finished: refs/heads/Calculator_Master_04 onto b2ae6f210b65e8c6128079e429d44912e758b80f
+9116637d4d52b63468ed79dd34b7a8eeef045983 6e9f308705fc5c49b6b107fb903e77496ce48466 qiong.liu1 <qiong.liu1@jrdcom.com> 1493693868 +0800	pull: Merge made by the 'recursive' strategy.
+6e9f308705fc5c49b6b107fb903e77496ce48466 60878451f14b0f26bea5a811a693d6441ff1ec6e qiong.liu1 <qiong.liu1@jrdcom.com> 1493693888 +0800	rebase finished: refs/heads/Calculator_Master_04 onto 60878451f14b0f26bea5a811a693d6441ff1ec6e
+60878451f14b0f26bea5a811a693d6441ff1ec6e 43b46c4495dab678a1b93b67eadaeb9c650d0209 qiong.liu1 <qiong.liu1@jrdcom.com> 1493890991 +0800	commit: [1 of 1][4656997][GAPP][Android 7.0][Calculator]Currency conversion interface doesn't display the national flag icon
+43b46c4495dab678a1b93b67eadaeb9c650d0209 60878451f14b0f26bea5a811a693d6441ff1ec6e qiong.liu1 <qiong.liu1@jrdcom.com> 1493891328 +0800	reset: moving to HEAD^
+60878451f14b0f26bea5a811a693d6441ff1ec6e d86d936587bf85af23d77dffbe93b38fba3beb9f qiong.liu1 <qiong.liu1@jrdcom.com> 1493891471 +0800	commit: [1 of 1][4656997][Android 7.0][Calculator]Currency conversion interface doesn't display the national flag icon
+d86d936587bf85af23d77dffbe93b38fba3beb9f 60878451f14b0f26bea5a811a693d6441ff1ec6e qiong.liu1 <qiong.liu1@jrdcom.com> 1493891501 +0800	reset: moving to HEAD^
+60878451f14b0f26bea5a811a693d6441ff1ec6e 6117a510cb2bf0dc16bf813fc14baf59abd8667e qiong.liu1 <qiong.liu1@jrdcom.com> 1493891648 +0800	commit: [1 of 1][4656997][GAPP][Android 7.0][Calculator]Currency conversion interface doesn't display the national flag icon
+6117a510cb2bf0dc16bf813fc14baf59abd8667e da2849044c169c9fe26d067638349e3e95a9a524 qiong.liu1 <qiong.liu1@jrdcom.com> 1493966659 +0800	pull: Fast-forward
+da2849044c169c9fe26d067638349e3e95a9a524 6802a7c3e5cf3f7c62abae9173be061f82652a91 qiong.liu1 <qiong.liu1@jrdcom.com> 1493967462 +0800	commit: [1 of 1][4639606][GAPP][Android 7.0][Calculator] Basic operation interface display abnormal under the split screen
+6802a7c3e5cf3f7c62abae9173be061f82652a91 da2849044c169c9fe26d067638349e3e95a9a524 qiong.liu1 <qiong.liu1@jrdcom.com> 1493967671 +0800	reset: moving to HEAD^
+da2849044c169c9fe26d067638349e3e95a9a524 bb11fcbf171958316447e4367dd4c8265ce54965 qiong.liu1 <qiong.liu1@jrdcom.com> 1493967711 +0800	commit: [1 of 1][4639606][GAPP][Android 7.0][Calculator] Basic operation interface display abnormal under the split screen
+bb11fcbf171958316447e4367dd4c8265ce54965 7b7b0c67df783b2f5979d5fbdd3d809d8cb10660 qiong.liu1 <qiong.liu1@jrdcom.com> 1493968111 +0800	commit: [1 of 1][4639606][GAPP][Android 7.0][Calculator] Basic operation interface display abnormal under the split screen
+7b7b0c67df783b2f5979d5fbdd3d809d8cb10660 927d942126ce00953ece2b51c9d35c90e5160f2b qiong.liu1 <qiong.liu1@jrdcom.com> 1493978856 +0800	commit: [1 of 1][4639606][GAPP][Android 7.0][Calculator] Basic operation interface display abnormal under the split screen
+927d942126ce00953ece2b51c9d35c90e5160f2b 7b7b0c67df783b2f5979d5fbdd3d809d8cb10660 qiong.liu1 <qiong.liu1@jrdcom.com> 1493979004 +0800	reset: moving to HEAD^
+7b7b0c67df783b2f5979d5fbdd3d809d8cb10660 80b85fb98a8ef425282225cbff77ded31372ea9e qiong.liu1 <qiong.liu1@jrdcom.com> 1493979128 +0800	commit: [1 of 1][4639606][GAPP][Android 7.0][Calculator] Basic operation interface display abnormal under the split screen
+80b85fb98a8ef425282225cbff77ded31372ea9e 233b080f646fd83a3ccdf1166029977c436fc094 qiong.liu1 <qiong.liu1@jrdcom.com> 1494042097 +0800	pull: Fast-forward
+233b080f646fd83a3ccdf1166029977c436fc094 9a09d73c0861ebecd1982f7b2272d8b45d4cda77 qiong.liu1 <qiong.liu1@jrdcom.com> 1494045230 +0800	commit: [1 of 1][4576971][Cloned][Calculator]Some options haven't translated to Chinese
+9a09d73c0861ebecd1982f7b2272d8b45d4cda77 233b080f646fd83a3ccdf1166029977c436fc094 qiong.liu1 <qiong.liu1@jrdcom.com> 1494045437 +0800	reset: moving to HEAD^
+233b080f646fd83a3ccdf1166029977c436fc094 1d49753a9521261540ff79ddc6c6092895471612 qiong.liu1 <qiong.liu1@jrdcom.com> 1494045497 +0800	commit: [1 of 1][4576971][Cloned][Calculator]Some options haven't translated to Chinese
+1d49753a9521261540ff79ddc6c6092895471612 7c2a06e5700f50877fda3d7d5769b4b472f40049 qiong.liu1 <qiong.liu1@jrdcom.com> 1494296862 +0800	pull: Fast-forward

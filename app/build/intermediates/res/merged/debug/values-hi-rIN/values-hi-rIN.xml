@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">"कैलकुलेटर"</string>
+    <string name="copy">"कॉपी करें"</string>
+    <string name="copy_result_toast">"परिणाम की कॉपी की गई"</string>
+    <string name="del">"हटाएं"</string>
+    <string name="desc_fun_ln">"स्‍वाभाविक लोगरिद्म"</string>
+    <string name="desc_lparen">"बायां कोष्‍ठक"</string>
+    <string name="desc_op_sqrt">"वर्ग मूल"</string>
+    <string name="desc_rparen">"दायां कोष्‍ठक"</string>
+    <string name="error_syntax">"त्रुटि"</string>
+    <string name="no_history">"कोई इतिहास नहीं"</string>
+    <string name="paste">"चिपकाएं"</string>
+    <string name="pop_cancel">"रद्द करें"</string>
+    <string name="pop_ok">"ठीक"</string>
+    <string name="splash_tv_next">"अगला"</string>
+    <string name="splash_tv_skip">"छोड़ें"</string>
+    <string name="swipe_down">"इतिहास के लिए नीचे स्‍वाइप करें"</string>
+    <string name="swipe_left">"वैज्ञानिक गणना के लिए \n बाएं स्‍वाइप करें"</string>
+    <string name="tips_btn_text">"मिल गया"</string>
+    <string name="tips_label">"अपना हाल का गणना इतिहास देखने के लिए नीचे स्‍वाइप करें"</string>
+    <string name="updating">"अपडेट हो रहा है..."</string>
+</resources>

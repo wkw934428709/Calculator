@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+==========================================================================
+*HISTORY
+*
+*Tag Date Author Description
+*============== ============ =============== ==============================
+*BUGFIX-1030195 2015/12/03 yanhua.chen [Android 6.0][Calculator_v5.2.1.7.0311.0]The 'Swipe' miss 'e' in Tutorial
+*BUGFIX-1078803 2015/12/09 kaifeng.lu  [Android 6.0][Calculator_v5.2.1.7.0312.0]It displays unfriendly  in Tutorial scientific calculation interface.
+*BUGFIX-1078803 2015/12/31 kaifeng.lu  [Calculator]Words is shutted out by sliding icon when first entering calculator
+*BUGFIX-1392175  2016/01/09 kaifeng.lu  [Calculator]Strings is cutted when set 'Font size' as 'Huge & Large'
+===========================================================================
+-->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/splash_background">
+    <!-- TS: kaifeng.lu  2016-01-09 Calculator BUGFIX-1392175  MOD_S -->
+    <RelativeLayout
+        android:id="@+id/animHistory"
+        android:layout_width="172dp"
+        android:layout_height="360dp"
+        android:layout_above="@+id/tips_btn"
+        android:layout_centerInParent="true">
+        <!-- TS: kaifeng.lu  2016-01-09 Calculator BUGFIX-1392175  MOD_E -->
+        <ImageView
+            android:id="@+id/history_bg"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/anim_history_bg" />
+
+        <ImageView
+            android:id="@+id/image_history"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/history_bg"
+            android:layout_alignTop="@+id/history_bg"
+            android:background="@drawable/anim_history" />
+        <!-- TS: yanhua.chen 2015-12-3 Calculator BUGFIX-1030195 MOD_S -->
+        <TextView
+            android:id="@+id/history_textview"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/history_bg"
+            android:layout_marginTop="30dp"
+            android:gravity="center"
+            android:text="@string/swipe_down"
+            android:textColor="@color/anim_text_color"/>
+        <!-- TS: yanhua.chen 2015-12-3 Calculator BUGFIX-1030195 MOD_E -->
+    </RelativeLayout>
+         <!-- TS: kaifeng.lu  2016-01-09 Calculator BUGFIX-1392175  MOD_S -->
+    <RelativeLayout
+        android:id="@+id/animAdvanced"
+        android:layout_width="172dp"
+        android:layout_height="360dp"
+        android:layout_above="@+id/tips_btn"
+        android:layout_centerInParent="true">
+        <!-- TS: kaifeng.lu  2016-01-09 Calculator BUGFIX-1392175  MOD_E -->
+        <ImageView
+            android:id="@+id/advanced_bg"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/anim_advanced_bg" />
+
+        <ImageView
+            android:id="@+id/image_advanced_bg_alpha"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/advanced_bg"
+            android:layout_alignLeft="@+id/advanced_bg"
+            android:background="@drawable/anim_advanced_bg_alpha" />
+        <!-- TS: kaifeng.lu 2015-12-08 EMAIL BUGFIX-1078803  MOD_S -->
+        <ImageView
+            android:id="@+id/image_advanced"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/advanced_bg"
+            android:layout_alignLeft="@+id/advanced_bg"
+            android:src="@drawable/anim_advanced" />
+        <!-- TS: kaifeng.lu 2015-12-08 EMAIL BUGFIX-1078803  MOD_E -->
+
+        <TextView
+            android:id="@+id/scientific_textview"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/advanced_bg"
+            android:layout_marginTop="30dp"
+            android:gravity="center"
+            android:text="@string/swipe_left"
+            android:textColor="@color/anim_text_color"/>
+    </RelativeLayout>
+    <!-- TS: kaifeng.lu 2015-12-31 EMAIL BUGFIX-1209643  DEL-->
+
+    <Button
+        android:id="@+id/tips_btn"
+        style="@style/TipButtonStyle"
+        android:textAllCaps="true"
+        android:text="@string/tips_btn_text" />
+
+</RelativeLayout>

@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ==========================================================================
+ *HISTORY
+ *
+ *Tag            Date         Author        Description
+ *============== ============ =============== ==============================
+ *BUGFIX-967233  2015/12/01   kaifeng.lu       [Android 5.1][Calculator_v5.2.1.7.0310.0][GD]The gap is small when see an introduction screen with animated graph.
+ *BUGFIX-1294233  2016/01/05   kaifeng.lu      [GAPP][Android 6.0][Calculator][GD]The interval is not consistent with GD in tutorial mode.
+ ===========================================================================
+  -->
+<resources>
+    <!--Public property -->
+    <dimen name="shape_equals_corners" >70dp</dimen>
+    <dimen name="shape_equals_bottom_left_corners">70dp</dimen>
+    <dimen name="shape_number_panel_right_corners">50dip</dimen>
+    <dimen name="popuwindow_bottom_more_btn_marginTop">6dp</dimen>
+    <!-- adapter keyboard-->
+    <dimen name="keyboard_digit_size">28dp</dimen>
+    <dimen name="keyboard_symbol_size">23sp</dimen>
+    <dimen name="keyboard_equal_text_size">32dp</dimen>
+    <dimen name="keyboard_symbol_img_size">32dp</dimen>
+    <dimen name="keyboard_advenced_digit_size">24dp</dimen>
+    <dimen name="keyboard_advenced_scientific_size">18dp</dimen>
+    <dimen name="keyboard_advenced_scientific_size_half">16dp</dimen>
+    <dimen name="keyboard_advenced_scientific_number_size_half">32sp</dimen>
+    <dimen name="keyboard_advenced_scientific_margin">10dp</dimen>
+
+    <dimen name="graph_margin">8dp</dimen>
+    <!--com.tct.calculator.view.DisplayOverlay expand bottom margin value-->
+    <dimen name="history_view_bottom_margin">0dp</dimen>
+    <!-- Display -->
+    <dimen name="below_display_margin">-10dp</dimen>
+    <dimen name="delete_height">40dip</dimen>
+    <!--PR557458 START change copy&paste button background and textcolor. update by xiaolu.li SEPT 6 2015 -->
+    <dimen name="display_copy_paste_magin_bottom">16dp</dimen>
+    <dimen name="display_copy_paste_padding_left_right">16dp</dimen>
+    <dimen name="display_copy_paste_padding_top">8dp</dimen>
+    <dimen name="display_copy_paste_padding_bottom">12dp</dimen>
+    <!--PR557458 END change copy&paste button background and textcolor. update by xiaolu.li SEPT 6 2015 -->
+    <dimen name="display_copy_paste_textsize">14sp</dimen>
+    <dimen name="tips_btn_margin_bottom">70dp
+    </dimen><!-- TS: kaifeng.lu 2016-01-05 Calculator BUGFIX-1294233  MOD -->
+    <dimen name="tips_btn_padding_top_bottom">12dp</dimen>
+    <dimen name="tips_btn_padding_left_right">50dp</dimen>
+    <!-- TS: kaifeng.lu 2015-12-1 Calculator BUGFIX-967233 MOD_S -->
+    <!-- TS: yanhua.chen 2015-12-3 Calculator BUGFIX-1031268 MOD_S -->
+    <dimen name="tips_btn_margin_top">5dp</dimen>
+    <!-- TS: yanhua.chen 2015-12-3 Calculator BUGFIX-1031268 MOD_E -->
+    <!-- TS: kaifeng.lu 2015-12-1 Calculator BUGFIX-967233 MOD_E -->
+    <dimen name="tips_label_line_height">16dp</dimen>
+    <dimen name="tips_label_textsize">20sp</dimen>
+    <dimen name="tips_label_margin_left_right">50sp</dimen>
+    <dimen name="tips_label_width_inland">260dp</dimen>
+    <dimen name="tips_btn_textsize">18sp</dimen>
+    <dimen name="pad_page_margin">-24dip</dimen>
+    <dimen name="wheel_picker_btn_width">74dp</dimen>
+    <dimen name="wheel_picker_btn_height">28dp</dimen>
+    <dimen name="wheel_picker_btn">14sp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="switch_layout_top_anim_height">110dp</dimen>
+    <dimen name="switch_layout_bottom_height">95dp</dimen>
+    <dimen name="convert_item_parent_padding">5dp</dimen>
+    <dimen name="convert_common_top_ll_formula_result_container_height">175dp</dimen>
+    <dimen name="convert_common_top_ll_formula_result_container_padTop">65dp</dimen>
+
+    <dimen name="default_divider_height">1dp</dimen>
+    <dimen name="default_divider_padding">7dp</dimen>
+    <dimen name="currency_layout_top_anim_height">82dp</dimen>
+    <dimen name="currency_layout_bottom_anim_height">80dp</dimen>
+    <dimen name="common_history_item_height">65dp</dimen>
+    <dimen name="common_history_item_divider">1dp</dimen>
+    <dimen name="convert_top_fullname_text_size">18sp</dimen>
+    <dimen name="convert_bottom_fullname_text_size">15sp</dimen>
+    <dimen name="convert_top_abbreviation_text_size">24sp</dimen>
+    <dimen name="arrow_covert_size">30dp</dimen>
+    <dimen name="arrow_covert_margin_top">25dp</dimen>
+    <dimen name="convert_bottom_editText_maxTextSize">28sp</dimen>
+    <dimen name="convert_bottom_item_layout_width">120dp</dimen>
+    <dimen name="convert_slide_panel_grid_text_size">14dp</dimen>
+    <dimen name="calculator_keyboard_pad_top">30dp</dimen>
+    <dimen name="currency_keyboard_pad_top">40dp</dimen>
+    <dimen name="currency_time_textSize">16sp</dimen>
+    <dimen name="currency_org_country_textSize">16sp</dimen>
+    <dimen name="currency_country_size">50dp</dimen>
+    <dimen name="Currency_wheel_view_more_textSize">16sp</dimen>
+    <dimen name="currency_location_size">19dp</dimen>
+    <dimen name="currency_org_flag_textSize">22sp</dimen>
+    <dimen name="currency_target_flag_textSize">16sp</dimen>
+    <dimen name="currency_formula_padding_left">20dp</dimen>
+    <dimen name="currency_list_title_layout_height">50dp</dimen>
+    <dimen name="currency_list_title_image_size">35dp</dimen>
+    <dimen name="currency_list_title_back_view_padding_left">10dp</dimen>
+    <dimen name="currency_list_title_cancel_view_padding_right">20dp</dimen>
+    <dimen name="currency_list_title_edit_textSize">18dp</dimen>
+    <dimen name="currency_list_content_textSize">15dp</dimen>
+    <dimen name="currency_list_header_textSize">20dp</dimen>
+    <dimen name="currency_org_result_edit_height">30dp</dimen>
+    <dimen name="currency_formula_edit_height">50dp</dimen>
+    <dimen name="currency_update_time_height">40dp</dimen>
+
+    <dimen name="calculator_advenced_del_img_size">20dp</dimen>
+    <dimen name="calculator_pad_expend_img_size">32dp</dimen>
+
+    <!-- width of wheel view -->
+    <dimen name="wheel_text_width">90dp</dimen>
+    <dimen name="wheel_text_paddingtop">2dp</dimen>
+    <dimen name="wheel_text_paddingbuttom">3dp</dimen>
+
+    <dimen name="convert_top_span">12dp</dimen>
+
+    <!-- Set calculator log layout -->
+    <dimen name="log_layout_height">55dp</dimen>
+    <dimen name="log_layout_pad_top">6dp</dimen>
+    <dimen name="log_imageView_size">40dp</dimen>
+    <dimen name="log_imageView_margin_right">15dp</dimen>
+    <dimen name="log_imageView_padding_right">15dp</dimen>
+    <dimen name="history_header_layout_height">80dp</dimen>
+    <dimen name="history_header_no_history_textSize">25sp</dimen>
+    <dimen name="currency_popupWindow_layout_height">1070px</dimen>
+    <dimen name="currency_popupWindow_layout_split_height">600px</dimen>
+
+    <!-- PopupWindow -->
+
+    <dimen name="popupWindow_layout_height">285dp</dimen>
+
+    <dimen name="convert_wheel_top_text_size">14sp</dimen>
+    <dimen name="convert_wheel_bottom_text_size">14dp</dimen>
+
+    <!-- Convert PopupWindow -->
+    <dimen name="convert_popupWindow_layout_height">910px</dimen>
+    <dimen name="convert_wheel_picker_layout_height">350dp</dimen>
+    <dimen name="convert_top_wheel_picker_layout_height">270dp</dimen>
+
+    <!--expandlayout arribute for example in Simba6x-->
+    <dimen name="expandlayout_layoutwidth">300dp</dimen>
+    <dimen name="expandlayout_marginleft">30dp</dimen>
+    <dimen name="expandlayout_paddingright">80dp</dimen>
+    <dimen name="expandlayout_margintop">8dp</dimen>
+
+    <!--eq button spade attribute -->
+    <dimen name="eq_button_width">60dp</dimen>
+    <dimen name="eq_button_textsize">23sp</dimen>
+
+     <!--scientific calculator  horizonal heighth-->
+    <dimen name="horizonal_split_heighth">2dp</dimen>
+
+         <!--split currency view in multity screen-->
+    <dimen name="currency_keyboard_pad_top_multi">2dp</dimen>
+    <!--split convert view in multity screen-->
+    <dimen name="convert_top_ll_formula_result_container_height_multi">90dp</dimen>
+    <dimen name="convert_top_ll_formula_result_container_padTop_multi">15dp</dimen>
+    <dimen name="convert_showview_marginlef_mult">65dp</dimen>
+
+    <dimen name="convert_top_fullname_text_size_multi">12sp</dimen>
+
+    <dimen name="calculator_keyboard_pad_top_land">30dp</dimen>
+
+    <dimen name="switch_layout_top_anim_height_split">54dp</dimen>
+    <dimen name="switch_layout_bottom_height_split">50dp</dimen>
+
+    <dimen name="convert_common_top_ll_formula_result_container_height_split">60dp</dimen>
+    <dimen name="convert_common_top_ll_formula_result_container_padTop_split">5dp</dimen>
+
+    <dimen name="convert_top_formula_height">@dimen/convert_edittext_top_height</dimen>
+
+
+
+    <!--set the display configuration of the rad_layout padding top-->
+
+    <dimen name="calculator_radlayout_margingtop">70dp</dimen>
+
+      the size of split guide button
+    <dimen name="calculator_split_button_size">40dp</dimen>
+
+    <dimen name="calculator_formula_split_padding_left">70dp</dimen>
+
+    <dimen name="currency_org_flag_textSize_split">18sp</dimen>
+
+    <dimen name="currency_layout_top_anim_height_split">49.5dp</dimen>
+
+    <dimen name="currency_formula_edit_height_split">27dp</dimen>
+
+    <dimen name="currency_org_result_edit_height_split">20dp</dimen>
+
+    <dimen name="convert_top_fullname_text_size_split">10dp</dimen>
+
+    <dimen name="history_header_layout_height_split">40dp</dimen>
+
+    <dimen name="delete_height_split">20dip</dimen>
+
+    <dimen name="history_header_no_history_textSize_split">15sp</dimen>
+
+    <dimen name="wheel_item_height">45dp</dimen>
+
+    <dimen name="log_button_size_split">16sp</dimen>
+    
+    
+     <!--the display size with history_entry-->
+    
+    <dimen name="history_entry_margin_horizon">16dp</dimen>
+    <dimen name="history_entry_margin_top">8dp</dimen>
+    <dimen name="convert_mag">65dp</dimen>
+    <dimen name="convert_edittext_top_height">70dp</dimen>
+    <dimen name="convert_edittext_margin_top">45dp</dimen>
+    <dimen name="calculator_radlayout_margingtop_land">25dp</dimen>
+    <dimen name="shape_equals_bottom_left_corners_land">@dimen/shape_equals_bottom_left_corners</dimen>
+    <dimen name="shanp_pad_calculator_landscape_corn_button">@dimen/shape_number_panel_right_corners</dimen>
+
+     <!--the display size for currency advence pad -->
+    <dimen name="currency_advence_pad_button_height">50dp</dimen>
+    <dimen name="currency_advence_pad_button_textsize">20sp</dimen>
+
+    <dimen name="convert_popupWindow_layout_split_height">600px</dimen>
+
+    <!--splash -->
+    <dimen name="splash_text_height">200dp</dimen>
+
+</resources>

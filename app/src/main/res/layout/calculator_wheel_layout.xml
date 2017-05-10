@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/wheel_container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:id="@+id/wheel_picker_layout"
+        android:layout_width="fill_parent"
+        android:layout_height="250dp"
+        android:layout_alignParentTop="true"
+        android:background="@android:color/white">
+
+        <RelativeLayout
+            android:id="@+id/top_wheel_layout"
+            android:layout_width="wrap_content"
+            android:layout_height="200dp"
+            android:layout_alignParentTop="true"
+            android:background="@color/color_light_green">
+
+            <com.tct.calculator.view.scrollwheel.ScrollWheelPickerView xmlns:android="http://schemas.android.com/apk/res/android"
+                android:id="@+id/wheel_picker_view"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true"
+                android:layout_gravity="center_horizontal" />
+
+            <TextView
+                android:id="@+id/wheel_picker_divider"
+                android:layout_width="3dp"
+                android:layout_height="wrap_content"
+                android:layout_alignBottom="@+id/wheel_picker_view"
+                android:layout_alignTop="@+id/wheel_picker_view"
+                android:layout_centerHorizontal="true"
+                android:background="@android:color/black"
+                android:visibility="invisible" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/wheel_picker_top"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="15dp">
+
+            <Button
+                android:id="@+id/wheel_picker_confirm"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:background="@null"
+                android:gravity="center"
+                android:text="@string/pop_ok"
+                android:textColor="@color/color_green"
+                android:textSize="@dimen/wheel_picker_btn" />
+
+            <Button
+                android:id="@+id/wheel_picker_cancel"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="15dp"
+                android:layout_toLeftOf="@+id/wheel_picker_confirm"
+                android:background="@null"
+                android:gravity="center"
+                android:text="@string/pop_cancel"
+                android:textColor="@color/color_green"
+                android:textSize="@dimen/wheel_picker_btn" />
+
+        </RelativeLayout>
+    </RelativeLayout>
+
+</RelativeLayout>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="abc_action_bar_default_height_material">48dp</dimen>
+    <dimen name="abc_action_bar_progress_bar_size">32dp</dimen>
+    <dimen name="abc_text_size_subtitle_material_toolbar">12dp</dimen>
+    <dimen name="abc_text_size_title_material_toolbar">14dp</dimen>
+    <dimen name="calculator_keyboard_pad_top">10dp</dimen>
+    <dimen name="currency_formula_edit_height">40dp</dimen>
+    <dimen name="currency_layout_top_anim_height">70dp</dimen>
+    <dimen name="diaplyoverlay_y_range_slowmove">30dp</dimen>
+    <dimen name="shape_equals_bottom_left_corners">30dp</dimen>
+    <dimen name="shape_equals_corners">30dp</dimen>
+    <item name="activity_calculator" type="layout">@layout/activity_calculator_land</item>
+    <style name="CopyLocationStyle">
+        <item name="android:paddingRight">12dp</item>
+     <item name="android:layout_above">@id/result</item>
+     <item name="android:layout_marginBottom">-11dp</item>
+    </style>
+    <style name="CopyPastLocationStyle">
+        <item name="android:paddingRight">12dp</item>
+        <item name="android:layout_below">@id/formula</item>
+        <item name="android:layout_marginTop">-4dp</item>
+    </style>
+    <style name="HistoryText.Formula">
+        <item name="android:textColor">@color/history_formula_text_color</item>
+        <!--PR1074687  need change history font style & number panal is so blank then show .update by xiaolu.li Aug 25 2015 -->
+        <item name="android:fontFamily">sans-serif-light</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+    <style name="HistoryText.Result">
+        <item name="android:textColor">@color/history_result_text_color</item>
+        <!--PR1074687  need change history font style & number panal is so blank then show.update by xiaolu.li Aug 25 2015  -->
+        <item name="android:fontFamily">sans-serif-light</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+    <style name="PadButtonStyle.Advanced">
+        <item name="android:layout_marginTop">4dip</item>
+        <item name="android:layout_marginBottom">4dip</item>
+        <item name="android:layout_marginStart">8dip</item>
+        <item name="android:layout_marginEnd">8dip</item>
+        <item name="android:background">@drawable/pad_button_advanced_background</item>
+        <item name="android:textColor">@color/pad_button_advanced_text_color</item>
+        <item name="android:textSize">15sp</item>
+    </style>
+    <style name="PadButtonStyle.Inv" parent="PadButtonStyle.Advanced">
+        <item name="android:fontFamily">sans-serif-medium</item>
+    </style>
+    <style name="PadButtonStyle.Numeric">
+        <item name="android:layout_margin">4dip</item>
+        <item name="android:textSize">23sp</item>
+        <!--PR538732 change textcolor [Calculator_v5.2.1.2.0303.0]The color of the digital display is not obvious in number Panel update by xiaolu.li 8/27/2015-->
+        <item name="android:textColor">#B2ffffff</item>
+    </style>
+    <style name="PadButtonStyle.Numeric.Equals">
+        <item name="android:visibility">gone</item>
+    </style>
+    <style name="PadButtonStyle.Operator">
+        <item name="android:layout_marginTop">4dip</item>
+        <item name="android:layout_marginBottom">4dip</item>
+        <item name="android:layout_marginStart">8dip</item>
+        <item name="android:layout_marginEnd">8dip</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">#ffffff</item>
+    </style>
+    <style name="PadButtonStyle.Operator.Text">
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:textColor">#ffffff</item>
+    </style>
+    <style name="PadLayoutStyle.Advanced">
+        <item name="android:layout_width">0dip</item>
+        <item name="android:layout_weight">208</item>
+        <item name="android:paddingTop">4dip</item>
+        <item name="android:paddingBottom">4dip</item>
+        <item name="android:paddingStart">8dip</item>
+        <item name="android:paddingEnd">8dip</item>
+        <item name="android:columnCount">3</item>
+        <item name="android:rowCount">5</item>
+    </style>
+    <style name="PadLayoutStyle.Numeric">
+        <item name="android:layout_width">0dip</item>
+        <item name="android:layout_weight">240</item>
+        <item name="android:paddingTop">4dip</item>
+        <item name="android:paddingBottom">4dip</item>
+        <item name="android:paddingStart">8dip</item>
+        <item name="android:paddingEnd">8dip</item>
+    </style>
+    <style name="PadLayoutStyle.Operator">
+        <item name="android:layout_width">0dip</item>
+        <item name="android:layout_weight">144</item>
+        <item name="android:paddingTop">4dip</item>
+        <item name="android:paddingBottom">4dip</item>
+        <item name="android:paddingStart">12dip</item>
+        <item name="android:paddingEnd">12dip</item>
+    </style>
+    <style name="TipButtonStyle" parent="@android:style/Widget.Material.Light.Button.Borderless">
+        <!-- TS: yanhua.chen 2015-12-3 Calculator BUGFIX-1031268 MOD_S -->
+        <item name="android:layout_width">130dp</item>
+        <item name="android:layout_height">34dp</item>
+        <!--<item name="android:paddingTop">@dimen/tips_btn_padding_top_bottom</item>-->
+        <!--<item name="android:paddingBottom">@dimen/tips_btn_padding_top_bottom</item>-->
+        <!--<item name="android:paddingLeft">@dimen/tips_btn_padding_left_right</item>-->
+        <!--<item name="android:paddingRight">@dimen/tips_btn_padding_left_right</item>-->
+        <!-- TS: yanhua.chen 2015-12-3 Calculator BUGFIX-1031268 MOD_E -->
+        <item name="android:layout_alignParentRight">true</item>
+        <item name="android:layout_marginBottom">@dimen/tips_btn_margin_bottom</item>
+        <item name="android:layout_marginTop">@dimen/tips_btn_margin_top</item>
+        <item name="android:textSize">@dimen/tips_btn_textsize</item>
+        <item name="android:textColor">@color/tip_btn_text_color</item>
+        <!--<item name="android:background">@drawable/tips_btn_background</item>-->
+        <item name="android:background">@drawable/button_line</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_alignParentBottom">true</item>
+        <item name="android:layout_marginRight">24dp</item>
+
+    </style>
+    <style name="TipLabelStyle">
+        <item name="android:layout_width">@dimen/tips_label_width_inland</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_alignParentRight">true</item>
+        <item name="android:gravity">right</item>
+        <item name="android:lineSpacingExtra">@dimen/tips_label_line_height</item>
+        <item name="android:textSize">@dimen/tips_label_textsize</item>
+        <item name="android:textColor">@color/tip_label_text_color</item>
+        <item name="android:layout_marginRight">24dp</item>
+    </style>
+    <style name="deleteButtonStyle" parent="@android:style/Widget.Material.Light.Button.Borderless">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">@dimen/delete_height</item>
+        <item name="android:background">@drawable/delete_btn_background</item>
+        <item name="android:layout_gravity">center</item>
+    </style>
+</resources>

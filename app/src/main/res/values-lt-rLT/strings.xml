@@ -1,0 +1,706 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+	<!--
+		this file is built by arct
+	-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<!---->
+	<string name="app_name">"Skaičiuotuvas"</string>
+	<!---->
+	<string name="error_nan">"Ne numeris"</string>
+	<!---->
+	<string name="error_syntax">"Klaida"</string>
+	<!-- no translation found for dec_point -->
+	<skip />
+	<!-- no translation found for digit_0 -->
+	<skip />
+	<!-- no translation found for digit_1 -->
+	<skip />
+	<!-- no translation found for digit_2 -->
+	<skip />
+	<!-- no translation found for digit_3 -->
+	<skip />
+	<!-- no translation found for digit_4 -->
+	<skip />
+	<!-- no translation found for digit_5 -->
+	<skip />
+	<!-- no translation found for digit_6 -->
+	<skip />
+	<!-- no translation found for digit_7 -->
+	<skip />
+	<!-- no translation found for digit_8 -->
+	<skip />
+	<!-- no translation found for digit_9 -->
+	<skip />
+	<!-- no translation found for fun_cos -->
+	<skip />
+	<!-- no translation found for fun_ln -->
+	<skip />
+	<!-- no translation found for fun_log -->
+	<skip />
+	<!-- no translation found for fun_sin -->
+	<skip />
+	<!-- no translation found for fun_tan -->
+	<skip />
+	<!-- no translation found for op_inv -->
+	<skip />
+	<!-- no translation found for op_deg -->
+	<skip />
+	<!-- no translation found for op_rad -->
+	<skip />
+	<!-- no translation found for fun_arccos -->
+	<skip />
+	<!-- no translation found for fun_arcsin -->
+	<skip />
+	<!-- no translation found for fun_arctan -->
+	<skip />
+	<!-- no translation found for fun_naturExp -->
+	<skip />
+	<!-- no translation found for fun_comExp -->
+	<skip />
+	<!-- no translation found for fun_sqr -->
+	<skip />
+	<!-- no translation found for clr -->
+	<skip />
+	<!---->
+	<string name="del">"Trinti"</string>
+	<!-- no translation found for desc_const_e -->
+	<skip />
+	<!-- no translation found for desc_const_pi -->
+	<skip />
+	<!-- no translation found for desc_dec_point -->
+	<skip />
+	<!---->
+	<string name="desc_lparen">"kairysis skliaustelis"</string>
+	<!---->
+	<string name="desc_rparen">"dešinysis skliaustelis"</string>
+	<!-- no translation found for desc_fun_cos -->
+	<skip />
+	<!---->
+	<string name="desc_fun_ln">"natūralusis logaritmas"</string>
+	<!-- no translation found for desc_fun_log -->
+	<skip />
+	<!-- no translation found for desc_fun_sin -->
+	<skip />
+	<!-- no translation found for desc_fun_tan -->
+	<skip />
+	<!-- no translation found for desc_op_add -->
+	<skip />
+	<!-- no translation found for desc_op_div -->
+	<skip />
+	<!-- no translation found for desc_op_fact -->
+	<skip />
+	<!-- no translation found for desc_op_mul -->
+	<skip />
+	<!-- no translation found for desc_op_pow -->
+	<skip />
+	<!---->
+	<string name="desc_op_sqrt">"kvadratinė šaknis"</string>
+	<!-- no translation found for desc_op_sub -->
+	<skip />
+	<!-- no translation found for desc_op_inv -->
+	<skip />
+	<!-- no translation found for desc_op_deg -->
+	<skip />
+	<!-- no translation found for desc_op_rad -->
+	<skip />
+	<!-- no translation found for desc_op_per -->
+	<skip />
+	<!-- no translation found for desc_fun_arcsin -->
+	<skip />
+	<!-- no translation found for desc_fun_arccos -->
+	<skip />
+	<!-- no translation found for desc_fun_arctan -->
+	<skip />
+	<!-- no translation found for desc_fun_naturExp -->
+	<skip />
+	<!-- no translation found for desc_fun_comExp -->
+	<skip />
+	<!-- no translation found for desc_fun_sqr -->
+	<skip />
+	<!-- no translation found for desc_clr -->
+	<skip />
+	<!-- no translation found for desc_del -->
+	<skip />
+	<!-- no translation found for desc_eq -->
+	<skip />
+	<!---->
+	<string name="copy_result_toast">"Rezultatas nukopijuotas"</string>
+	<!---->
+	<string name="tips_label">"Jei norite peržiūrėti skaičiavimo istoriją, braukite žemyn"</string>
+	<!---->
+	<string name="tips_btn_text">"Užfiksuota"</string>
+	<!---->
+	<string name="no_history">"Nėra istorijos"</string>
+	<!---->
+	<string name="copy">"Kopijuoti"</string>
+	<!---->
+	<string name="paste">"Įklijuoti"</string>
+	<!---->
+	<string name="swipe_down">"Norėdami matyti istoriją, patraukite žemyn"</string>
+	<!---->
+	<string name="swipe_left">"Norint atlikti \n mokslinius skaičiavimus, patraukite į kairę"</string>
+	<!-- no translation found for dec_point_rel4 -->
+	<skip />
+	<!-- no translation found for drawer_title -->
+	<skip />
+	<!-- no translation found for drawer_open -->
+	<skip />
+	<!-- no translation found for drawer_close -->
+	<skip />
+	<!---->
+	<string name="convert_length">"Ilgis"</string>
+	<!---->
+	<string name="convert_area">"Sritis"</string>
+	<!---->
+	<string name="convert_mass">"Masė"</string>
+	<!---->
+	<string name="convert_volume">"Garsumas"</string>
+	<!---->
+	<string name="convert_temperature">"Temperatūra"</string>
+	<!---->
+	<string name="convert_fuel">"Kuras"</string>
+	<!-- no translation found for convert_shoes -->
+	<skip />
+	<!-- no translation found for convert_clothes -->
+	<skip />
+	<!---->
+	<string name="convert_cooking">"Maisto ruošimas"</string>
+	<!---->
+	<string name="currency_time">"Naujinimas:"</string>
+	<!---->
+	<string name="afghani">"Afganis"</string>
+	<!---->
+	<string name="azerbaijani_manat">"Azerbaidžano manatas"</string>
+	<!---->
+	<string name="algerian_dinar">"Alžyro dinaras"</string>
+	<!---->
+	<string name="aruba_florin">"Arubos florinas"</string>
+	<!---->
+	<string name="argentine_peso">"Argentinos pesas"</string>
+	<!---->
+	<string name="albanian_lek">"Albanijos lekas"</string>
+	<!---->
+	<string name="australian_dollar">"Australijos doleris"</string>
+	<!---->
+	<string name="cayman_islands_dollar">"Kaimanų salos doleris"</string>
+	<!---->
+	<string name="cambodian_riel">"Kambodžos rielis"</string>
+	<!---->
+	<string name="croatian_kuna">"Kroatijos kuna"</string>
+	<!---->
+	<string name="czech_koruna">"Čekijos kronos"</string>
+	<!---->
+	<string name="cuban_peso">"Kubos pesas"</string>
+	<!---->
+	<string name="costa_rica_colon">"Kosta Rikos kolonas"</string>
+	<!---->
+	<string name="colombian_peso">"Kolumbijos pesas"</string>
+	<!---->
+	<string name="chilean_peso">"Čilės pesas"</string>
+	<!---->
+	<string name="cape_verde_escudo">"Žaliojo Kyšulio eskudas"</string>
+	<!---->
+	<string name="chinese_yuan">"Kinijos juanis"</string>
+	<!---->
+	<string name="indian_rupee">"Indijos rupijos"</string>
+	<!---->
+	<string name="canadian_dollar">"Kanados doleris"</string>
+	<!---->
+	<string name="bitcoin">"Bitkoinas"</string>
+	<!---->
+	<string name="bosnian_convertible_mark">"Bosnių konvertuojamoji markė"</string>
+	<!---->
+	<string name="british_pound">"Britanijos svaras"</string>
+	<!---->
+	<string name="burundi_franc">"Burundžio frankas"</string>
+	<!---->
+	<string name="bulgarian_lev">"Bulgarijos levas"</string>
+	<!---->
+	<string name="brunei_dollar">"Brunėjaus doleris"</string>
+	<!---->
+	<string name="brazilian_real">"Brazilijos realas"</string>
+	<!---->
+	<string name="botswanna_pula">"Botsvanos pula"</string>
+	<!---->
+	<string name="bolivian_boliviano">"Bolivijos bolivianas"</string>
+	<!---->
+	<string name="bhutan_ngultrum">"Butano ngultrumas"</string>
+	<!---->
+	<string name="bermuda_dollar">"Bermudų doleris"</string>
+	<!---->
+	<string name="belize_dollar">"Belizo doleris"</string>
+	<!---->
+	<string name="belarus_ruble">"Baltarusijos rublis"</string>
+	<!---->
+	<string name="barbados_dollar">"Barbadoso doleris"</string>
+	<!---->
+	<string name="bangladesh_taka">"Bangladešo taka"</string>
+	<!---->
+	<string name="bahraini_dinar">"Bahreino dinaras"</string>
+	<!---->
+	<string name="bahamian_dollar">"Bahamų doleris"</string>
+	<!---->
+	<string name="angolan_kwanza">"Angolos kvanza"</string>
+	<!---->
+	<string name="armenian_dram">"Armėnijos dramas"</string>
+	<!---->
+	<string name="iraqi_dinar">"Irako dinaras"</string>
+	<!---->
+	<string name="iranian_rial">"Irano rialas"</string>
+	<!---->
+	<string name="iceland_krona">"Islandijos kronos"</string>
+	<!---->
+	<string name="indonesian_rupiah">"Indonezijos rupija"</string>
+	<!---->
+	<string name="hungarian_forint">"Vengrijos forintas"</string>
+	<!---->
+	<string name="honduras_lempira">"Hondūro lempira"</string>
+	<!---->
+	<string name="haiti_gourde">"Haičio gurdas"</string>
+	<!---->
+	<string name="hongkong_dollar">"Honkongo doleris"</string>
+	<!---->
+	<string name="gold">"Auksas"</string>
+	<!---->
+	<string name="ghanaian_cedi">"Ganos sedis"</string>
+	<!---->
+	<string name="georgian_lari">"Gruzijos laris"</string>
+	<!---->
+	<string name="guyana_dollar">"Gajanos doleris"</string>
+	<!---->
+	<string name="guinea_franc">"Gvinėjos frankas"</string>
+	<!---->
+	<string name="guatemala_quetzal">"Gvatemalos kvetzaliai"</string>
+	<!---->
+	<string name="gibraltar_pound">"Gibraltaro svaras"</string>
+	<!---->
+	<string name="gambian_dalasi">"Gambijos dalasis"</string>
+	<!---->
+	<string name="fiji_dollar">"Fidžio doleris"</string>
+	<!---->
+	<string name="falkland_islands_pound">"Folklando Salų svaras"</string>
+	<!---->
+	<string name="east_caribbean_dollar">"Rytų Karibų doleris"</string>
+	<!---->
+	<string name="ethiopian_birr">"Etiopijos biras"</string>
+	<!---->
+	<string name="eritrea_nakfa">"Eritrėjos nakfa"</string>
+	<!---->
+	<string name="egyptian_pound">"Egipto svaras"</string>
+	<!---->
+	<string name="euro">"Euras"</string>
+	<!---->
+	<string name="dominican_peso">"Dominikos pesas"</string>
+	<!---->
+	<string name="djibout_franc">"Džibučio frankas"</string>
+	<!---->
+	<string name="danish_krone">"Danijos krona"</string>
+	<!---->
+	<string name="congolese_frank">"Kongo frankas"</string>
+	<!---->
+	<string name="cfa_francl_beac">"CFA frankas(BEAC)"</string>
+	<!---->
+	<string name="cfa_franc_bceao">"CFA frankas (BCEAO)"</string>
+	<!---->
+	<string name="comoros_franc">"Komorų frankas"</string>
+	<!---->
+	<string name="namibian_dollar">"Namibijos doleris"</string>
+	<!---->
+	<string name="north_korean_won">"Šiaurės Korėjos vonas"</string>
+	<!---->
+	<string name="neth_antilles_guilder">"Nyderlandų Antilų guldenas"</string>
+	<!---->
+	<string name="mozambican_metical">"Mozambiko metikalis"</string>
+	<!---->
+	<string name="malagasy_ariary">"Malagasio ariaris"</string>
+	<!---->
+	<string name="myanmar_kyat">"Mianmaro kijatas"</string>
+	<!---->
+	<string name="moroccan_dirham">"Maroko dirhamas"</string>
+	<!---->
+	<string name="mongolian_tugrik">"Mongolijos tugrikas"</string>
+	<!---->
+	<string name="moldovan_leu">"Moldovos lėja"</string>
+	<!---->
+	<string name="mexican_peso">"Meksikos pesas"</string>
+	<!---->
+	<string name="mauritius_rupee">"Mauricijaus rupija"</string>
+	<!---->
+	<string name="mauritanian_ougulya">"Mauritanijos ugija"</string>
+	<!---->
+	<string name="maldives_rufiyaa">"Maldyvų rufija"</string>
+	<!---->
+	<string name="malaysian_ringgit">"Malaizijos ringitas"</string>
+	<!---->
+	<string name="malawi_kwacha">"Malavio kvača"</string>
+	<!---->
+	<string name="macedonian_denar">"Makedonijos denaras"</string>
+	<!---->
+	<string name="macau_pataca">"Makao pataca"</string>
+	<!---->
+	<string name="libyan_dinar">"Libijos dinaras"</string>
+	<!---->
+	<string name="leberian_dollar">"Liberijos doleris"</string>
+	<!---->
+	<string name="lesotho_loti">"Lesoto loti"</string>
+	<!---->
+	<string name="lebanese_pound">"Libano svaras"</string>
+	<!---->
+	<string name="lao_kipi">"Laoso kipas"</string>
+	<!---->
+	<string name="kyrgyzstani_som">"Kirgizijos somas"</string>
+	<!---->
+	<string name="kazakhstani_tenge">"Kazachstano tengė"</string>
+	<!---->
+	<string name="kuwaiti_dinar">"Kuveito dinaras"</string>
+	<!---->
+	<string name="kenyan_shilling">"Kenijos šilingas"</string>
+	<!---->
+	<string name="jordanian_dinar">"Jordanijos dinaras"</string>
+	<!---->
+	<string name="jamaican_dollar">"Jamaikos doleris"</string>
+	<!---->
+	<string name="japanese_yen">"Japonijos jena"</string>
+	<!---->
+	<string name="israeli_shekel">"Izraelio šekelis"</string>
+	<!---->
+	<string name="st_henlena_pound">"Šv. Elenos svaras"</string>
+	<!---->
+	<string name="somali_shilling">"Somalio šilingas"</string>
+	<!---->
+	<string name="solomon_islands_dollar">"Saliamono salų doleris"</string>
+	<!---->
+	<string name="singapore_dollar">"Singapūro doleris"</string>
+	<!---->
+	<string name="sierra_leone_leone">"Siera Leonės leonė"</string>
+	<!---->
+	<string name="seychelles_rupee">"Seišelių rupija"</string>
+	<!---->
+	<string name="saudi_arabian_riyal">"Saudo Arabijos rialas"</string>
+	<!---->
+	<string name="sao_tome_dobra">"San Tomės dobrai"</string>
+	<!---->
+	<string name="sri_lanka_rupee">"Šri Lankos rupija"</string>
+	<!---->
+	<string name="south_korean_won">"Pietų Korėjos vonas"</string>
+	<!---->
+	<string name="swiss_franc">"Šveicarijos frankas"</string>
+	<!---->
+	<string name="rwanda_franc">"Ruandos frankas"</string>
+	<!---->
+	<string name="russian_rouble">"Rusijos rublis"</string>
+	<!---->
+	<string name="romanian_new_leu">"Rumunijos naujoji lėja"</string>
+	<!---->
+	<string name="qatar_rial">"Kataro rialas"</string>
+	<!---->
+	<string name="platinum">"Platina"</string>
+	<!---->
+	<string name="pacific_franc">"Ramiojo vandenyno pakrančių šalių frankas"</string>
+	<!---->
+	<string name="polish_zloty">"Lenkijos zlotas"</string>
+	<!---->
+	<string name="philippine_peso">"Filipinų pesas"</string>
+	<!---->
+	<string name="peruvian_nuevo_sol">"Peru naujasis solis"</string>
+	<!---->
+	<string name="paraguayan_guarani">"Paragvajų gvaranis"</string>
+	<!---->
+	<string name="papua_new_guinea_kina">"Papua Naujosios Gvinėjos kina"</string>
+	<!---->
+	<string name="panama_balboa">"Panamos balboa"</string>
+	<!---->
+	<string name="pakistani_rupee">"Pakistano rupija"</string>
+	<!---->
+	<string name="omani_rial">"Omano rialas"</string>
+	<!---->
+	<string name="norwegian_krone">"Norvegijos krona"</string>
+	<!---->
+	<string name="nigerian_naira">"Nigerijos naira"</string>
+	<!---->
+	<string name="nicaragua_cordoba">"Nikaragvos kordoba"</string>
+	<!---->
+	<string name="new_zealand_dollar">"Naujosios Zelandijos doleris"</string>
+	<!---->
+	<string name="nepalese_rupee">"Nepalo rupija"</string>
+	<!---->
+	<string name="zibabwe_dollar">"Zimbabvės doleris"</string>
+	<!---->
+	<string name="zabian_kwacha">"Zambijos kvača"</string>
+	<!---->
+	<string name="yemen_riyal">"Jemeno rialas"</string>
+	<!---->
+	<string name="venezuelan_bolivar_fuetre">"Venesuelos Bolivar Fuetre"</string>
+	<!---->
+	<string name="vanuatu_vatu">"Vanuatu Vatu"</string>
+	<!---->
+	<string name="vietnam_dong">"Vietnamo dongas"</string>
+	<!---->
+	<string name="uzbekistani_som">"Uzbekijos sumas"</string>
+	<!---->
+	<string name="uruguayan_new_peso">"Urugvajaus naujasis pesas"</string>
+	<!---->
+	<string name="ukraine_hryvnia">"Ukrainos grivinos"</string>
+	<!---->
+	<string name="ugandan_shilling">"Ugandos šilingas"</string>
+	<!---->
+	<string name="united_states_dollar">"JAV doleris"</string>
+	<!---->
+	<string name="uae_dirham">"JAE dirhamas"</string>
+	<!---->
+	<string name="turkmenistani_manet">"Turkmėnistano manatas"</string>
+	<!---->
+	<string name="tajikistani_somoni">"Tadžikistano somonis"</string>
+	<!---->
+	<string name="tunisian_dinar">"Tuniso dinaras"</string>
+	<!---->
+	<string name="trinnidad_tobago_dollar">"Trinidado ir Tobago doleris"</string>
+	<!---->
+	<string name="tonga_pa_ang">"Tongos paanga"</string>
+	<!---->
+	<string name="tanzanian_shilling">"Tanzanijos šilingas"</string>
+	<!---->
+	<string name="turkish_lira">"Turkijos lira"</string>
+	<!---->
+	<string name="taiwan_dollar">"Taivano doleris"</string>
+	<!---->
+	<string name="thai_baht">"Tailando batas"</string>
+	<!---->
+	<string name="Silver">"Sidabras"</string>
+	<!---->
+	<string name="serbian_dinars">"Serbijos dinaras"</string>
+	<!---->
+	<string name="surinam_florin">"Surinamas guldenas"</string>
+	<!---->
+	<string name="south_african_rand">"Pietų Afrikos randas"</string>
+	<!---->
+	<string name="samoa_tala">"Samoa tala"</string>
+	<!---->
+	<string name="syrian_pound">"Sirijos svaras"</string>
+	<!---->
+	<string name="swedish_krona">"Švedijos krona"</string>
+	<!---->
+	<string name="swaziland_lilageni">"Svazilendo lilageni"</string>
+	<!---->
+	<string name="sudanese_pound">"Sudano svaras"</string>
+	<!---->
+	<string name="au_1">"Au"</string>
+	<!---->
+	<string name="btb">"Btb"</string>
+	<!---->
+	<string name="ag_2">"Ag"</string>
+	<!---->
+	<string name="pt_3">"Pt"</string>
+	<!-- no translation found for convert_category_length -->
+	<skip />
+	<!---->
+	<string name="convert_length_mm">"milimetras"</string>
+	<!---->
+	<string name="convert_length_cm">"centimetras"</string>
+	<!---->
+	<string name="convert_length_m">"metras"</string>
+	<!---->
+	<string name="convert_length_km">"kilometras"</string>
+	<!---->
+	<string name="convert_length_mi">"mylia"</string>
+	<!---->
+	<string name="convert_length_yd">"jardas"</string>
+	<!---->
+	<string name="convert_length_ft">"pėda"</string>
+	<!---->
+	<string name="convert_length_in">"colis"</string>
+	<!---->
+	<string name="convert_length_kt">"Jūrmylė"</string>
+	<!-- no translation found for convert_category_area -->
+	<skip />
+	<!---->
+	<string name="convert_area_mm2">"kvadratinis milimetras"</string>
+	<!---->
+	<string name="convert_area_cm2">"kvadratinis centimetras"</string>
+	<!---->
+	<string name="convert_area_m2">"kvadratinis metras"</string>
+	<!---->
+	<string name="convert_area_in2">"kvadratinis colis"</string>
+	<!---->
+	<string name="convert_area_ft2">"kvadratinė pėda"</string>
+	<!---->
+	<string name="convert_area_yd2">"kvadratinis jardas"</string>
+	<!---->
+	<string name="convert_area_ha">"hektaras"</string>
+	<!---->
+	<string name="convert_area_km2">"kvadratinis kilometras"</string>
+	<!---->
+	<string name="convert_area_ac">"akras"</string>
+	<!---->
+	<string name="convert_area_mi2">"kvadratinė mylia"</string>
+	<!-- no translation found for convert_category_mass -->
+	<skip />
+	<!---->
+	<string name="convert_mass_mg">"miligramas"</string>
+	<!---->
+	<string name="convert_mass_g">"gramas"</string>
+	<!---->
+	<string name="convert_mass_kg">"kilogramas"</string>
+	<!---->
+	<string name="convert_mass_t">"metrinė tona"</string>
+	<!---->
+	<string name="convert_mass_tonuk">"ilgoji tona"</string>
+	<!---->
+	<string name="convert_mass_tonus">"trumpoji tona"</string>
+	<!---->
+	<string name="convert_mass_lb">"svaras"</string>
+	<!---->
+	<string name="convert_mass_oz">"uncija"</string>
+	<!---->
+	<string name="convert_mass_st">"stonas"</string>
+	<!---->
+	<string name="convert_mass_ct">"karatas"</string>
+	<!-- no translation found for convert_category_temperature -->
+	<skip />
+	<!---->
+	<string name="convert_temp_c">"celsijus"</string>
+	<!---->
+	<string name="convert_temp_f">"farenheitas"</string>
+	<!---->
+	<string name="convert_temp_k">"kelvinas"</string>
+	<!-- no translation found for convert_category_volume -->
+	<skip />
+	<!---->
+	<string name="convert_volume_mm3">"kubinis milimetras"</string>
+	<!---->
+	<string name="convert_volume_cm3">"kubinis centimetras"</string>
+	<!---->
+	<string name="convert_volume_dm3">"kubinis decimetras"</string>
+	<!---->
+	<string name="convert_volume_m3">"kubinis metras"</string>
+	<!---->
+	<string name="convert_volume_ml">"mililitras"</string>
+	<!---->
+	<string name="convert_volume_liter">"litras"</string>
+	<!---->
+	<string name="convert_volume_ft3">"kubinė pėda"</string>
+	<!---->
+	<string name="convert_volume_in3">"kubinis colis"</string>
+	<!---->
+	<string name="convert_volume_gal_us">"(US)galonas"</string>
+	<!---->
+	<string name="convert_volume_qt_us">"(US)kvorta"</string>
+	<!---->
+	<string name="convert_volume_pt_us">"(US)pinta"</string>
+	<!---->
+	<string name="convert_volume_oz_us">"(US)uncija"</string>
+	<!---->
+	<string name="convert_volume_cup_us">"(US)puodelis"</string>
+	<!---->
+	<string name="convert_volume_tbsp_us">"(US)šaukštas"</string>
+	<!---->
+	<string name="convert_volume_tsp_us">"(US)arbatinis šaukštelis"</string>
+	<!---->
+	<string name="convert_volume_gal_uk">"(UK)galonas"</string>
+	<!---->
+	<string name="convert_volume_qt_uk">"(UK)kvorta"</string>
+	<!---->
+	<string name="convert_volume_pt_uk">"(UK)pinta"</string>
+	<!---->
+	<string name="convert_volume_oz_uk">"(UK)uncija"</string>
+	<!---->
+	<string name="convert_volume_cup_uk">"(UK)puodelis"</string>
+	<!---->
+	<string name="convert_volume_tbsp_uk">"(UK)šaukštas"</string>
+	<!---->
+	<string name="convert_volume_tsp_uk">"(UK)arbatinis šaukštelis"</string>
+	<!---->
+	<string name="convert_volume_dr">"drachma"</string>
+	<!---->
+	<string name="convert_volume_bbl">"barelis"</string>
+	<!---->
+	<string name="convert_volume_cord">"malkų matas"</string>
+	<!---->
+	<string name="convert_volume_gill">"ketvirtis pintos"</string>
+	<!-- no translation found for convert_category_cooking -->
+	<skip />
+	<!---->
+	<string name="convert_cooking_milliliter">"mililitras"</string>
+	<!---->
+	<string name="convert_cooking_gal_us">"galonas"</string>
+	<!---->
+	<string name="convert_cooking_qt_us">"kvorta"</string>
+	<!---->
+	<string name="convert_cooking_pt_us">"pinta"</string>
+	<!---->
+	<string name="convert_cooking_oz_us">"uncija"</string>
+	<!---->
+	<string name="convert_cooking_floz_us">"(US)skysčių uncija"</string>
+	<!---->
+	<string name="convert_cooking_cup_us">"puodelis"</string>
+	<!---->
+	<string name="convert_cooking_tbsp_us">"šaukštas"</string>
+	<!---->
+	<string name="convert_cooking_tsp_us">"arbatinis šaukštelis"</string>
+	<!---->
+	<string name="convert_cooking_gal_uk">"galonas"</string>
+	<!---->
+	<string name="convert_cooking_qt_uk">"kvorta"</string>
+	<!---->
+	<string name="convert_cooking_pt_uk">"pinta"</string>
+	<!---->
+	<string name="convert_cooking_floz_uk">"(UK)skysčių uncija"</string>
+	<!---->
+	<string name="convert_cooking_oz_uk">"uncija"</string>
+	<!---->
+	<string name="convert_cooking_cup_uk">"puodelis"</string>
+	<!---->
+	<string name="convert_cooking_tbsp_uk">"šaukštas"</string>
+	<!---->
+	<string name="convert_cooking_tsp_uk">"arbatinis šaukštelis"</string>
+	<!-- no translation found for convert_category_fuel -->
+	<skip />
+	<!---->
+	<string name="convert_fuel_galperhundredmile_uk">"galonai(UK)/100 mylių"</string>
+	<!---->
+	<string name="convert_fuel_galperhundredmile_us">"galonai(US)/100 mylių"</string>
+	<!---->
+	<string name="convert_fuel_kilometerperliter">"kilometrų/litre"</string>
+	<!---->
+	<string name="convert_fuel_literperhundredkilometer">"litrų/100 kilometrų"</string>
+	<!---->
+	<string name="convert_fuel_mpg_uk">"(UK)mylios/galone"</string>
+	<!---->
+	<string name="convert_fuel_mpg_us">"(US)mylios/galone"</string>
+	<!-- no translation found for convert_shoes_mem -->
+	<skip />
+	<!-- no translation found for convert_shoes_womem -->
+	<skip />
+	<!---->
+	<string name="splash_tv_open">"Įvesti"</string>
+	<!---->
+	<string name="splash_tv_next">"Kitas"</string>
+	<!---->
+	<string name="splash_tv_skip">"Praleisti"</string>
+	<!---->
+	<string name="splash_tv_calculate_title">"Skaičiuoti"</string>
+	<!---->
+	<string name="splash_tv_calculate_content">"Naudokite šį skaičiuotuvą ir nuspauskite klavišą arba perbraukite į kairę, jei norite naudoti mokslinį skydelį."</string>
+	<!---->
+	<string name="splash_tv_currency_title">"Valiuta"</string>
+	<!---->
+	<string name="splash_tv_currency_content">"Palaiko daugiau nei 150 šalių, tikrinkite ir atnaujinkite kasdien. \n(Duomenų šaltinis www.xe.com)"</string>
+	<!---->
+	<string name="splash_tv_convert_title">"Mato vienetų keitimas"</string>
+	<!---->
+	<string name="splash_tv_convert_content">"Ilgis? Masė? Plotas? \nMato vienetų konvertavimas daugiau nekels problemų."</string>
+	<!---->
+	<string name="no_internet_access">"Nėra interneto prieigos"</string>
+	<!---->
+	<string name="updating">"Naujinama..."</string>
+	<!-- no translation found for search_edit_hint -->
+	<skip />
+	<!---->
+	<string name="bt_right_more">"Daugiau"</string>
+	<!---->
+	<string name="bt_left_more">"Daugiau"</string>
+	<!---->
+	<string name="pop_cancel">"ATŠAUKTI"</string>
+	<!---->
+	<string name="pop_ok">"Gerai"</string>
+</resources>

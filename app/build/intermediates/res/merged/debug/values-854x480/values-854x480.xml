@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="convert_popupWindow_layout_height">480px</dimen>
+    <dimen name="currency_popupWindow_layout_height">480px</dimen>
+    <dimen name="log_imageView_margin_right">15dp</dimen>
+    <dimen name="log_imageView_size">23dp</dimen>
+    <dimen name="log_layout_height">35dp</dimen>
+    <dimen name="wheel_picker_btn">12sp</dimen>
+    <integer name="display_height_fator">254</integer>
+    <style name="DisplayDegreeTextStyle">
+        <item name="android:layout_marginLeft">16dp</item>
+        <item name="android:layout_marginTop">0dp</item>
+        <item name="android:textSize">15sp</item>
+    </style>
+    <style name="DisplayEditTextStyle.Formula.Land">
+        <item name="android:paddingTop">8dip</item>
+        <item name="android:paddingBottom">4dip</item>
+        <item name="android:paddingStart">16dip</item>
+        <item name="android:paddingEnd">8dip</item>
+        <item name="minTextSize">18sp</item>
+        <item name="maxTextSize">36sp</item>
+        <item name="stepTextSize">8sp</item>
+    </style>
+    <style name="DisplayEditTextStyle.Result">
+        <item name="android:paddingTop">24dip</item>
+        <item name="android:paddingBottom">48dip</item>
+        <item name="android:paddingStart">16dip</item>
+        <item name="android:paddingEnd">16dip</item>
+        <item name="maxTextSize">30sp</item>
+        <item name="minTextSize">26sp</item>
+        <item name="stepTextSize">3sp</item>
+    </style>
+    <style name="DisplayEditTextStyle.Result.Land">
+        <item name="android:paddingTop">8dip</item>
+        <item name="android:paddingBottom">8dip</item>
+        <item name="android:paddingStart">12dip</item>
+        <item name="android:paddingEnd">6dip</item>
+        <item name="maxTextSize">24sp</item>
+        <item name="minTextSize">12sp</item>
+        <item name="stepTextSize">3sp</item>
+    </style>
+    <style name="PadButtonStyle.Numeric.Top">
+        <item name="android:layout_margin">0dip</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:textColor">@color/color_green</item>
+    </style>
+</resources>

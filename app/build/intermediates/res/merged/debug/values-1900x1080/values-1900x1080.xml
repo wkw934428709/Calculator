@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="calculator_split_button_size">30dp</dimen>
+    <dimen name="convert_popupWindow_layout_height">650px</dimen>
+    <dimen name="convert_top_wheel_picker_layout_height">190dp</dimen>
+    <dimen name="convert_wheel_bottom_text_size">10dp</dimen>
+    <dimen name="convert_wheel_picker_layout_height">280dp</dimen>
+    <dimen name="convert_wheel_top_text_size">12dp</dimen>
+    <dimen name="currency_popupWindow_layout_height">1000px</dimen>
+    <dimen name="log_button_size_split">14sp</dimen>
+    <dimen name="log_imageView_margin_right">15dp</dimen>
+    <dimen name="log_imageView_padding_right">12dp</dimen>
+    <dimen name="log_imageView_size">25dp</dimen>
+    <dimen name="log_layout_height">45dp</dimen>
+    <dimen name="popupWindow_layout_height">300dp</dimen>
+    <dimen name="wheel_item_height">25dp</dimen>
+    <dimen name="wheel_picker_btn">10dp</dimen>
+    <style name="CommonDisplayEditTextStyle.Formula">
+        <item name="android:paddingStart">6dip</item>
+        <item name="android:paddingEnd">6dip</item>
+        <item name="minTextSize">24sp</item>
+        <item name="maxTextSize">34sp</item>
+        <item name="stepTextSize">4sp</item>
+    </style>
+    <style name="DisplayEditTextStyle.Formula">
+        <item name="android:paddingTop">60dip</item>
+        <item name="android:paddingBottom">27dip</item>
+        <item name="android:paddingStart">16dip</item>
+        <item name="android:paddingEnd">16dip</item>
+        <item name="minTextSize">36sp</item>
+        <item name="maxTextSize">52sp</item>
+        <item name="stepTextSize">8sp</item>
+    </style>
+    <style name="DisplayEditTextStyle.Formula.Land">
+        <item name="android:paddingTop">16dip</item>
+        <item name="android:paddingBottom">5dip</item>
+        <item name="android:paddingStart">16dip</item>
+        <item name="android:paddingEnd">16dip</item>
+        <item name="minTextSize">32sp</item>
+        <item name="maxTextSize">48sp</item>
+        <item name="stepTextSize">6sp</item>
+    </style>
+    <style name="DisplayEditTextStyle.Result">
+        <item name="android:paddingTop">34dip</item>
+        <item name="android:paddingBottom">32dip</item>
+        <item name="android:paddingStart">16dip</item>
+        <item name="android:paddingEnd">16dip</item>
+        <!-- TS: kaifeng.lu 2016-01-25 Calculator BUGFIX-1496316  MOD_S -->
+        <item name="maxTextSize">36sp</item>
+        <item name="minTextSize">26sp</item>
+        <item name="stepTextSize">3sp</item>
+        <!-- TS: kaifeng.lu 2016-01-25 Calculator BUGFIX-1496316  MOD_E -->
+    </style>
+    <style name="DisplayEditTextStyle.Result.Land">
+        <item name="android:paddingTop">5dip</item>
+        <item name="android:paddingBottom">10dip</item>
+        <item name="android:paddingStart">16dip</item>
+        <item name="android:paddingEnd">16dip</item>
+        <!-- TS: kaifeng.lu 2016-01-25 Calculator BUGFIX-1496316  MOD_S -->
+        <item name="maxTextSize">30sp</item>
+        <item name="minTextSize">20sp</item>
+        <item name="stepTextSize">3sp</item>
+        <!-- TS: kaifeng.lu 2016-01-25 Calculator BUGFIX-1496316  MOD_E -->
+    </style>
+</resources>

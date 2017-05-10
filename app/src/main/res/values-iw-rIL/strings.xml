@@ -1,0 +1,706 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+	<!--
+		this file is built by arct
+	-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<!---->
+	<string name="app_name">"מחשבון"</string>
+	<!---->
+	<string name="error_nan">"אינו מספר"</string>
+	<!---->
+	<string name="error_syntax">"שגיאה"</string>
+	<!-- no translation found for dec_point -->
+	<skip />
+	<!-- no translation found for digit_0 -->
+	<skip />
+	<!-- no translation found for digit_1 -->
+	<skip />
+	<!-- no translation found for digit_2 -->
+	<skip />
+	<!-- no translation found for digit_3 -->
+	<skip />
+	<!-- no translation found for digit_4 -->
+	<skip />
+	<!-- no translation found for digit_5 -->
+	<skip />
+	<!-- no translation found for digit_6 -->
+	<skip />
+	<!-- no translation found for digit_7 -->
+	<skip />
+	<!-- no translation found for digit_8 -->
+	<skip />
+	<!-- no translation found for digit_9 -->
+	<skip />
+	<!-- no translation found for fun_cos -->
+	<skip />
+	<!-- no translation found for fun_ln -->
+	<skip />
+	<!-- no translation found for fun_log -->
+	<skip />
+	<!-- no translation found for fun_sin -->
+	<skip />
+	<!-- no translation found for fun_tan -->
+	<skip />
+	<!-- no translation found for op_inv -->
+	<skip />
+	<!-- no translation found for op_deg -->
+	<skip />
+	<!-- no translation found for op_rad -->
+	<skip />
+	<!-- no translation found for fun_arccos -->
+	<skip />
+	<!-- no translation found for fun_arcsin -->
+	<skip />
+	<!-- no translation found for fun_arctan -->
+	<skip />
+	<!-- no translation found for fun_naturExp -->
+	<skip />
+	<!-- no translation found for fun_comExp -->
+	<skip />
+	<!-- no translation found for fun_sqr -->
+	<skip />
+	<!-- no translation found for clr -->
+	<skip />
+	<!---->
+	<string name="del">"מחיקה"</string>
+	<!-- no translation found for desc_const_e -->
+	<skip />
+	<!-- no translation found for desc_const_pi -->
+	<skip />
+	<!-- no translation found for desc_dec_point -->
+	<skip />
+	<!---->
+	<string name="desc_lparen">"סוגר שמאלי"</string>
+	<!---->
+	<string name="desc_rparen">"סוגר ימני"</string>
+	<!-- no translation found for desc_fun_cos -->
+	<skip />
+	<!---->
+	<string name="desc_fun_ln">"לוגריתם טבעי"</string>
+	<!-- no translation found for desc_fun_log -->
+	<skip />
+	<!-- no translation found for desc_fun_sin -->
+	<skip />
+	<!-- no translation found for desc_fun_tan -->
+	<skip />
+	<!-- no translation found for desc_op_add -->
+	<skip />
+	<!-- no translation found for desc_op_div -->
+	<skip />
+	<!-- no translation found for desc_op_fact -->
+	<skip />
+	<!-- no translation found for desc_op_mul -->
+	<skip />
+	<!-- no translation found for desc_op_pow -->
+	<skip />
+	<!---->
+	<string name="desc_op_sqrt">"שורש ריבועי"</string>
+	<!-- no translation found for desc_op_sub -->
+	<skip />
+	<!-- no translation found for desc_op_inv -->
+	<skip />
+	<!-- no translation found for desc_op_deg -->
+	<skip />
+	<!-- no translation found for desc_op_rad -->
+	<skip />
+	<!-- no translation found for desc_op_per -->
+	<skip />
+	<!-- no translation found for desc_fun_arcsin -->
+	<skip />
+	<!-- no translation found for desc_fun_arccos -->
+	<skip />
+	<!-- no translation found for desc_fun_arctan -->
+	<skip />
+	<!-- no translation found for desc_fun_naturExp -->
+	<skip />
+	<!-- no translation found for desc_fun_comExp -->
+	<skip />
+	<!-- no translation found for desc_fun_sqr -->
+	<skip />
+	<!-- no translation found for desc_clr -->
+	<skip />
+	<!-- no translation found for desc_del -->
+	<skip />
+	<!-- no translation found for desc_eq -->
+	<skip />
+	<!---->
+	<string name="copy_result_toast">"התוצאה הועתקה"</string>
+	<!---->
+	<string name="tips_label">"החלק מטה כדי להציג את היסטוריית החישובים האחרונים"</string>
+	<!---->
+	<string name="tips_btn_text">"הבנתי"</string>
+	<!---->
+	<string name="no_history">"אין היסטוריה"</string>
+	<!---->
+	<string name="copy">"העתק"</string>
+	<!---->
+	<string name="paste">"הדבק"</string>
+	<!---->
+	<string name="swipe_down">"החלק מטה להצגת ההיסטוריה"</string>
+	<!---->
+	<string name="swipe_left">"החלק שמאלה ל\nחישוב מדעי"</string>
+	<!-- no translation found for dec_point_rel4 -->
+	<skip />
+	<!-- no translation found for drawer_title -->
+	<skip />
+	<!-- no translation found for drawer_open -->
+	<skip />
+	<!-- no translation found for drawer_close -->
+	<skip />
+	<!---->
+	<string name="convert_length">"מרחק"</string>
+	<!---->
+	<string name="convert_area">"אזור"</string>
+	<!---->
+	<string name="convert_mass">"מסה"</string>
+	<!---->
+	<string name="convert_volume">"עוצמת קול"</string>
+	<!---->
+	<string name="convert_temperature">"טמפרטורה​"</string>
+	<!---->
+	<string name="convert_fuel">"דלק"</string>
+	<!-- no translation found for convert_shoes -->
+	<skip />
+	<!-- no translation found for convert_clothes -->
+	<skip />
+	<!---->
+	<string name="convert_cooking">"בישול"</string>
+	<!---->
+	<string name="currency_time">"עדכן:"</string>
+	<!---->
+	<string name="afghani">"אפגני"</string>
+	<!---->
+	<string name="azerbaijani_manat">"מנט אזרבייג\'אני"</string>
+	<!---->
+	<string name="algerian_dinar">"דינר אלג\'ירי"</string>
+	<!---->
+	<string name="aruba_florin">"פלורין ארובה"</string>
+	<!---->
+	<string name="argentine_peso">"פסו ארגנטינאי"</string>
+	<!---->
+	<string name="albanian_lek">"לק אלבני"</string>
+	<!---->
+	<string name="australian_dollar">"דולר אוסטרלי"</string>
+	<!---->
+	<string name="cayman_islands_dollar">"דולר קיימן"</string>
+	<!---->
+	<string name="cambodian_riel">"ריל קמבודי"</string>
+	<!---->
+	<string name="croatian_kuna">"קונה קרואטית"</string>
+	<!---->
+	<string name="czech_koruna">"קורונה צ\'כית"</string>
+	<!---->
+	<string name="cuban_peso">"פסו קובני"</string>
+	<!---->
+	<string name="costa_rica_colon">"קולון קוסטה ריקני"</string>
+	<!---->
+	<string name="colombian_peso">"פסו קולומביאני"</string>
+	<!---->
+	<string name="chilean_peso">"פסו צ\'ילאני"</string>
+	<!---->
+	<string name="cape_verde_escudo">"אסקודו כף ורדה"</string>
+	<!---->
+	<string name="chinese_yuan">"יואן סיני"</string>
+	<!---->
+	<string name="indian_rupee">"רופי הודי"</string>
+	<!---->
+	<string name="canadian_dollar">"דולר קנדי"</string>
+	<!---->
+	<string name="bitcoin">"ביטקוין"</string>
+	<!---->
+	<string name="bosnian_convertible_mark">"מארק בוסני"</string>
+	<!---->
+	<string name="british_pound">"פאונד בריטי"</string>
+	<!---->
+	<string name="burundi_franc">"פרנק בורונדי"</string>
+	<!---->
+	<string name="bulgarian_lev">"לב בולגרי"</string>
+	<!---->
+	<string name="brunei_dollar">"דולר ברוניי"</string>
+	<!---->
+	<string name="brazilian_real">"ריאל ברזילאי"</string>
+	<!---->
+	<string name="botswanna_pula">"פולה בוטסואנה"</string>
+	<!---->
+	<string name="bolivian_boliviano">"בוליביאנו בוליביאני"</string>
+	<!---->
+	<string name="bhutan_ngultrum">"נגולטרום בהוטני"</string>
+	<!---->
+	<string name="bermuda_dollar">"דולר ברמודי"</string>
+	<!---->
+	<string name="belize_dollar">"דולר בליזי"</string>
+	<!---->
+	<string name="belarus_ruble">"רובל בלרוסי"</string>
+	<!---->
+	<string name="barbados_dollar">"דולר ברבדוס"</string>
+	<!---->
+	<string name="bangladesh_taka">"טאקה בנגלדשי"</string>
+	<!---->
+	<string name="bahraini_dinar">"דינר בחרייני"</string>
+	<!---->
+	<string name="bahamian_dollar">"דולר בהאמי"</string>
+	<!---->
+	<string name="angolan_kwanza">"קואנזה אנגולי"</string>
+	<!---->
+	<string name="armenian_dram">"דראם ארמני"</string>
+	<!---->
+	<string name="iraqi_dinar">"דינר עיראקי"</string>
+	<!---->
+	<string name="iranian_rial">"ריאל אירני"</string>
+	<!---->
+	<string name="iceland_krona">"כתר איסלנדי"</string>
+	<!---->
+	<string name="indonesian_rupiah">"רופיה אינדונזית"</string>
+	<!---->
+	<string name="hungarian_forint">"פורינט הונגרי"</string>
+	<!---->
+	<string name="honduras_lempira">"למפירה הונדורית"</string>
+	<!---->
+	<string name="haiti_gourde">"גורד האיטי"</string>
+	<!---->
+	<string name="hongkong_dollar">"דולר הונג קונגי"</string>
+	<!---->
+	<string name="gold">"זהב"</string>
+	<!---->
+	<string name="ghanaian_cedi">"סדי גאני"</string>
+	<!---->
+	<string name="georgian_lari">"לארי גיאורגי"</string>
+	<!---->
+	<string name="guyana_dollar">"דולר גיאני"</string>
+	<!---->
+	<string name="guinea_franc">"פרנק גינאי"</string>
+	<!---->
+	<string name="guatemala_quetzal">"קצאל גואטמלי"</string>
+	<!---->
+	<string name="gibraltar_pound">"לירה גיברלטרית"</string>
+	<!---->
+	<string name="gambian_dalasi">"דלאסי גמבי"</string>
+	<!---->
+	<string name="fiji_dollar">"דולר פיג\'יאני"</string>
+	<!---->
+	<string name="falkland_islands_pound">"לירה שטרלינג של איי פוקלנד"</string>
+	<!---->
+	<string name="east_caribbean_dollar">"דולר מזרח קריבי"</string>
+	<!---->
+	<string name="ethiopian_birr">"ביר אתיופי"</string>
+	<!---->
+	<string name="eritrea_nakfa">"נאקפה אריתראי"</string>
+	<!---->
+	<string name="egyptian_pound">"לירה מצרית"</string>
+	<!---->
+	<string name="euro">"אירו"</string>
+	<!---->
+	<string name="dominican_peso">"פסו דומיניקני"</string>
+	<!---->
+	<string name="djibout_franc">"פרנק ג\'יבוטי"</string>
+	<!---->
+	<string name="danish_krone">"כתר דני"</string>
+	<!---->
+	<string name="congolese_frank">"פרנק קונגולזי"</string>
+	<!---->
+	<string name="cfa_francl_beac">"פרנק מערב אפריקאי (BEAC)"</string>
+	<!---->
+	<string name="cfa_franc_bceao">"פרנק מערב אפריקאי (BCEAO)"</string>
+	<!---->
+	<string name="comoros_franc">"פרנק קומורי"</string>
+	<!---->
+	<string name="namibian_dollar">"דולר נמיבי"</string>
+	<!---->
+	<string name="north_korean_won">"וון דרום קוריאני"</string>
+	<!---->
+	<string name="neth_antilles_guilder">"גילדר האנטילים ההולנדיים"</string>
+	<!---->
+	<string name="mozambican_metical">"מטיקאל מוזאמביאני"</string>
+	<!---->
+	<string name="malagasy_ariary">"אריארי מדגסקרי"</string>
+	<!---->
+	<string name="myanmar_kyat">"צ\'אט בורמזי"</string>
+	<!---->
+	<string name="moroccan_dirham">"דירהאם מרוקאי"</string>
+	<!---->
+	<string name="mongolian_tugrik">"טוגריק מונגולי"</string>
+	<!---->
+	<string name="moldovan_leu">"לאו מולדובני"</string>
+	<!---->
+	<string name="mexican_peso">"פסו מקסיקני"</string>
+	<!---->
+	<string name="mauritius_rupee">"רופיה מאוריציוס"</string>
+	<!---->
+	<string name="mauritanian_ougulya">"אואוגויה מאוריטני"</string>
+	<!---->
+	<string name="maldives_rufiyaa">"רופיה מלדיבית"</string>
+	<!---->
+	<string name="malaysian_ringgit">"רינגיט מלזי"</string>
+	<!---->
+	<string name="malawi_kwacha">"קוואצ\'ה מלאווי"</string>
+	<!---->
+	<string name="macedonian_denar">"דינר מקדוני"</string>
+	<!---->
+	<string name="macau_pataca">"פטקה של מקאו"</string>
+	<!---->
+	<string name="libyan_dinar">"דינר לובי"</string>
+	<!---->
+	<string name="leberian_dollar">"דולר ליברי"</string>
+	<!---->
+	<string name="lesotho_loti">"לוטי לסוטו"</string>
+	<!---->
+	<string name="lebanese_pound">"לירה לבנונית"</string>
+	<!---->
+	<string name="lao_kipi">"קיפי לאו"</string>
+	<!---->
+	<string name="kyrgyzstani_som">"סום קירגיסטני"</string>
+	<!---->
+	<string name="kazakhstani_tenge">"טנגה קזחסטני"</string>
+	<!---->
+	<string name="kuwaiti_dinar">"דינר כוויתי"</string>
+	<!---->
+	<string name="kenyan_shilling">"שילינג קנייתי"</string>
+	<!---->
+	<string name="jordanian_dinar">"דינר ירדני"</string>
+	<!---->
+	<string name="jamaican_dollar">"דולר ג\'מייקני"</string>
+	<!---->
+	<string name="japanese_yen">"ין יפני"</string>
+	<!---->
+	<string name="israeli_shekel">"שקל ישראלי"</string>
+	<!---->
+	<string name="st_henlena_pound">"פאונד סנט הלני"</string>
+	<!---->
+	<string name="somali_shilling">"שילינג סומלי"</string>
+	<!---->
+	<string name="solomon_islands_dollar">"דולר איי שלמה"</string>
+	<!---->
+	<string name="singapore_dollar">"דולר סינגפורי"</string>
+	<!---->
+	<string name="sierra_leone_leone">"ליאון סיירה ליאונה"</string>
+	<!---->
+	<string name="seychelles_rupee">"רופי סיישלי"</string>
+	<!---->
+	<string name="saudi_arabian_riyal">"ריאל סעודי"</string>
+	<!---->
+	<string name="sao_tome_dobra">"דוברה סאו טומה"</string>
+	<!---->
+	<string name="sri_lanka_rupee">"רופי סרי לנקי"</string>
+	<!---->
+	<string name="south_korean_won">"וון דרום קוריאני"</string>
+	<!---->
+	<string name="swiss_franc">"פרנק שוויצרי"</string>
+	<!---->
+	<string name="rwanda_franc">"פרנק רואנדי"</string>
+	<!---->
+	<string name="russian_rouble">"רובל רוסי"</string>
+	<!---->
+	<string name="romanian_new_leu">"לאו רומני חדש"</string>
+	<!---->
+	<string name="qatar_rial">"ריאל קטארי"</string>
+	<!---->
+	<string name="platinum">"פלטינום"</string>
+	<!---->
+	<string name="pacific_franc">"פרנק פסיפי"</string>
+	<!---->
+	<string name="polish_zloty">"זלוטי פולני"</string>
+	<!---->
+	<string name="philippine_peso">"פסו פיליפיני"</string>
+	<!---->
+	<string name="peruvian_nuevo_sol">"סול פרואני חדש"</string>
+	<!---->
+	<string name="paraguayan_guarani">"גוארני פרגוואי"</string>
+	<!---->
+	<string name="papua_new_guinea_kina">"קינה גינאה החדשה"</string>
+	<!---->
+	<string name="panama_balboa">"בלבואה פנמי"</string>
+	<!---->
+	<string name="pakistani_rupee">"רופי פקיסטני"</string>
+	<!---->
+	<string name="omani_rial">"ריאל אומני"</string>
+	<!---->
+	<string name="norwegian_krone">"כתר נורווגי"</string>
+	<!---->
+	<string name="nigerian_naira">"נאירה ניגרי"</string>
+	<!---->
+	<string name="nicaragua_cordoba">"קורדובה ניקרגואה"</string>
+	<!---->
+	<string name="new_zealand_dollar">"דולר ניו זילנדי"</string>
+	<!---->
+	<string name="nepalese_rupee">"רופי נפאלי"</string>
+	<!---->
+	<string name="zibabwe_dollar">"דולר זימבבואי"</string>
+	<!---->
+	<string name="zabian_kwacha">"קוואצ\'ה זמבי"</string>
+	<!---->
+	<string name="yemen_riyal">"ריאל תימני"</string>
+	<!---->
+	<string name="venezuelan_bolivar_fuetre">"בוליבר ונצואלי"</string>
+	<!---->
+	<string name="vanuatu_vatu">"ונואטו ואטו"</string>
+	<!---->
+	<string name="vietnam_dong">"דונג וייטנאמי"</string>
+	<!---->
+	<string name="uzbekistani_som">"סום אוזבקי"</string>
+	<!---->
+	<string name="uruguayan_new_peso">"פזו אורוגוואי"</string>
+	<!---->
+	<string name="ukraine_hryvnia">"הריבניה אוקראיני"</string>
+	<!---->
+	<string name="ugandan_shilling">"שילינג אוגנדי"</string>
+	<!---->
+	<string name="united_states_dollar">"דולר אמריקני"</string>
+	<!---->
+	<string name="uae_dirham">"דירהאם איחוד האמירויות"</string>
+	<!---->
+	<string name="turkmenistani_manet">"מנט טורקמניסטני"</string>
+	<!---->
+	<string name="tajikistani_somoni">"סומוני טג\'יקיסטני"</string>
+	<!---->
+	<string name="tunisian_dinar">"דינר תוניסאי"</string>
+	<!---->
+	<string name="trinnidad_tobago_dollar">"דולר טרינידד וטובגו"</string>
+	<!---->
+	<string name="tonga_pa_ang">"פאנגה טונגאית"</string>
+	<!---->
+	<string name="tanzanian_shilling">"שילינג טנזני"</string>
+	<!---->
+	<string name="turkish_lira">"לירה טורקית"</string>
+	<!---->
+	<string name="taiwan_dollar">"דולר טאיוואני"</string>
+	<!---->
+	<string name="thai_baht">"בהט תאילנדי"</string>
+	<!---->
+	<string name="Silver">"כסף"</string>
+	<!---->
+	<string name="serbian_dinars">"דינר סרבי"</string>
+	<!---->
+	<string name="surinam_florin">"פלורין סורינמי"</string>
+	<!---->
+	<string name="south_african_rand">"ראנד דרום אפריקאי"</string>
+	<!---->
+	<string name="samoa_tala">"טלה סמואי"</string>
+	<!---->
+	<string name="syrian_pound">"לירה סורית"</string>
+	<!---->
+	<string name="swedish_krona">"קרונה שבדית"</string>
+	<!---->
+	<string name="swaziland_lilageni">"לילנגני סווזילנד"</string>
+	<!---->
+	<string name="sudanese_pound">"לירה סודנית"</string>
+	<!---->
+	<string name="au_1">"זהב"</string>
+	<!---->
+	<string name="btb">"ביטקוין"</string>
+	<!---->
+	<string name="ag_2">"כסף"</string>
+	<!---->
+	<string name="pt_3">"פלטינום"</string>
+	<!-- no translation found for convert_category_length -->
+	<skip />
+	<!---->
+	<string name="convert_length_mm">"מילימטר"</string>
+	<!---->
+	<string name="convert_length_cm">"סנטימטר"</string>
+	<!---->
+	<string name="convert_length_m">"מטר"</string>
+	<!---->
+	<string name="convert_length_km">"קילומטר"</string>
+	<!---->
+	<string name="convert_length_mi">"מייל​"</string>
+	<!---->
+	<string name="convert_length_yd">"יארד (כ-90 ס"מ)"</string>
+	<!---->
+	<string name="convert_length_ft">"רגל"</string>
+	<!---->
+	<string name="convert_length_in">"אינץ\'"</string>
+	<!---->
+	<string name="convert_length_kt">"מייל ימי"</string>
+	<!-- no translation found for convert_category_area -->
+	<skip />
+	<!---->
+	<string name="convert_area_mm2">"מילימטר רבוע"</string>
+	<!---->
+	<string name="convert_area_cm2">"סנטימטר רבוע"</string>
+	<!---->
+	<string name="convert_area_m2">"מטר רבוע"</string>
+	<!---->
+	<string name="convert_area_in2">"אינץ\' רבוע"</string>
+	<!---->
+	<string name="convert_area_ft2">"רגל רבוע"</string>
+	<!---->
+	<string name="convert_area_yd2">"יארד רבוע"</string>
+	<!---->
+	<string name="convert_area_ha">"הקטאר"</string>
+	<!---->
+	<string name="convert_area_km2">"קילומטר רבוע"</string>
+	<!---->
+	<string name="convert_area_ac">"אקר"</string>
+	<!---->
+	<string name="convert_area_mi2">"מייל רבוע"</string>
+	<!-- no translation found for convert_category_mass -->
+	<skip />
+	<!---->
+	<string name="convert_mass_mg">"מיליגרם"</string>
+	<!---->
+	<string name="convert_mass_g">"גרם"</string>
+	<!---->
+	<string name="convert_mass_kg">"קילוגרם"</string>
+	<!---->
+	<string name="convert_mass_t">"טון מטרי"</string>
+	<!---->
+	<string name="convert_mass_tonuk">"טון ארוך"</string>
+	<!---->
+	<string name="convert_mass_tonus">"טון קצר"</string>
+	<!---->
+	<string name="convert_mass_lb">"פאונד (ליברה)"</string>
+	<!---->
+	<string name="convert_mass_oz">"אונקיה"</string>
+	<!---->
+	<string name="convert_mass_st">"סטון"</string>
+	<!---->
+	<string name="convert_mass_ct">"קאראט"</string>
+	<!-- no translation found for convert_category_temperature -->
+	<skip />
+	<!---->
+	<string name="convert_temp_c">"צלזיוס​"</string>
+	<!---->
+	<string name="convert_temp_f">"פרנהייט​"</string>
+	<!---->
+	<string name="convert_temp_k">"קלווין"</string>
+	<!-- no translation found for convert_category_volume -->
+	<skip />
+	<!---->
+	<string name="convert_volume_mm3">"מילימטר מעוקב"</string>
+	<!---->
+	<string name="convert_volume_cm3">"סנטימטר מעוקב"</string>
+	<!---->
+	<string name="convert_volume_dm3">"דצימטר מעוקב"</string>
+	<!---->
+	<string name="convert_volume_m3">"מטר מעוקב"</string>
+	<!---->
+	<string name="convert_volume_ml">"מיליליטר"</string>
+	<!---->
+	<string name="convert_volume_liter">"ליטר"</string>
+	<!---->
+	<string name="convert_volume_ft3">"רגל מעוקב"</string>
+	<!---->
+	<string name="convert_volume_in3">"אינץ\' מעוקב"</string>
+	<!---->
+	<string name="convert_volume_gal_us">"(ארה"ב)גלון"</string>
+	<!---->
+	<string name="convert_volume_qt_us">"(ארה"ב)רבע גלון"</string>
+	<!---->
+	<string name="convert_volume_pt_us">"(ארה"ב)פיינט"</string>
+	<!---->
+	<string name="convert_volume_oz_us">"(ארה"ב) אונקיה"</string>
+	<!---->
+	<string name="convert_volume_cup_us">"(ארה"ב)כוס מדידה"</string>
+	<!---->
+	<string name="convert_volume_tbsp_us">"(ארה"ב)כף"</string>
+	<!---->
+	<string name="convert_volume_tsp_us">"(ארה"ב)כפית"</string>
+	<!---->
+	<string name="convert_volume_gal_uk">"(בריטניה)גלון"</string>
+	<!---->
+	<string name="convert_volume_qt_uk">"(בריטניה)רבע גלון"</string>
+	<!---->
+	<string name="convert_volume_pt_uk">"(בריטניה)פיינט"</string>
+	<!---->
+	<string name="convert_volume_oz_uk">"(בריטניה) אונקיה"</string>
+	<!---->
+	<string name="convert_volume_cup_uk">"(בריטניה)כוס מדידה"</string>
+	<!---->
+	<string name="convert_volume_tbsp_uk">"(בריטניה)כף"</string>
+	<!---->
+	<string name="convert_volume_tsp_uk">"(בריטניה)כפית"</string>
+	<!---->
+	<string name="convert_volume_dr">"dram"</string>
+	<!---->
+	<string name="convert_volume_bbl">"חבית"</string>
+	<!---->
+	<string name="convert_volume_cord">"cord"</string>
+	<!---->
+	<string name="convert_volume_gill">"gill"</string>
+	<!-- no translation found for convert_category_cooking -->
+	<skip />
+	<!---->
+	<string name="convert_cooking_milliliter">"מיליליטר"</string>
+	<!---->
+	<string name="convert_cooking_gal_us">"גלון"</string>
+	<!---->
+	<string name="convert_cooking_qt_us">"רבע גלון"</string>
+	<!---->
+	<string name="convert_cooking_pt_us">"פיינט"</string>
+	<!---->
+	<string name="convert_cooking_oz_us">"אונקיה"</string>
+	<!---->
+	<string name="convert_cooking_floz_us">"(ארה"ב)אונקיית נוזל"</string>
+	<!---->
+	<string name="convert_cooking_cup_us">"כוס מדידה"</string>
+	<!---->
+	<string name="convert_cooking_tbsp_us">"כף"</string>
+	<!---->
+	<string name="convert_cooking_tsp_us">"כפית"</string>
+	<!---->
+	<string name="convert_cooking_gal_uk">"גלון"</string>
+	<!---->
+	<string name="convert_cooking_qt_uk">"רבע גלון"</string>
+	<!---->
+	<string name="convert_cooking_pt_uk">"פיינט"</string>
+	<!---->
+	<string name="convert_cooking_floz_uk">"(בריטניה)אונקיית נוזל"</string>
+	<!---->
+	<string name="convert_cooking_oz_uk">"אונקיה"</string>
+	<!---->
+	<string name="convert_cooking_cup_uk">"כוס מדידה"</string>
+	<!---->
+	<string name="convert_cooking_tbsp_uk">"כף"</string>
+	<!---->
+	<string name="convert_cooking_tsp_uk">"כפית"</string>
+	<!-- no translation found for convert_category_fuel -->
+	<skip />
+	<!---->
+	<string name="convert_fuel_galperhundredmile_uk">"גלון(בריטניה)/100 מייל"</string>
+	<!---->
+	<string name="convert_fuel_galperhundredmile_us">"גלון(ארה"ב)/100 מייל"</string>
+	<!---->
+	<string name="convert_fuel_kilometerperliter">"קילומטר/ליטר"</string>
+	<!---->
+	<string name="convert_fuel_literperhundredkilometer">"ליטר/100 קילומטר"</string>
+	<!---->
+	<string name="convert_fuel_mpg_uk">"(בריטניה)מייל לגלון"</string>
+	<!---->
+	<string name="convert_fuel_mpg_us">"(ארה"ב)מייל לגלון"</string>
+	<!-- no translation found for convert_shoes_mem -->
+	<skip />
+	<!-- no translation found for convert_shoes_womem -->
+	<skip />
+	<!---->
+	<string name="splash_tv_open">"Enter"</string>
+	<!---->
+	<string name="splash_tv_next">"הבא"</string>
+	<!---->
+	<string name="splash_tv_skip">"דלג"</string>
+	<!---->
+	<string name="splash_tv_calculate_title">"חשב"</string>
+	<!---->
+	<string name="splash_tv_calculate_content">"התחל לעבוד עם מחשבון זה והקש על הלחצן או החלק שמאלה כדי להשתמש במחשבון מדעי."</string>
+	<!---->
+	<string name="splash_tv_currency_title">"בדיקת מטבעות"</string>
+	<!---->
+	<string name="splash_tv_currency_content">"תומך בבדיקה ועדכון מידי יום בלמעלה מ-150 מדינות. \n(מקור נתונים: www.xe.com)"</string>
+	<!---->
+	<string name="splash_tv_convert_title">"המרת יחידות"</string>
+	<!---->
+	<string name="splash_tv_convert_content">"אורך? מסה? שטח? \nהמרת יחידות בקלי קלות."</string>
+	<!---->
+	<string name="no_internet_access">"אין גישה לאינטרנט"</string>
+	<!---->
+	<string name="updating">"מעדכן..."</string>
+	<!-- no translation found for search_edit_hint -->
+	<skip />
+	<!---->
+	<string name="bt_right_more">"יותר"</string>
+	<!---->
+	<string name="bt_left_more">"יותר"</string>
+	<!---->
+	<string name="pop_cancel">"ביטול"</string>
+	<!---->
+	<string name="pop_ok">"אישור"</string>
+</resources>

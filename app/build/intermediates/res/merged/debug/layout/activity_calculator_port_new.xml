@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+
+    <FrameLayout
+        android:id="@+id/content_fragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentTop="true">
+
+        <!--<include-->
+
+            <!--layout="@layout/activity_calculator_port" />-->
+
+
+    </FrameLayout>
+
+    <RelativeLayout
+        android:id="@+id/guide_layout"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/log_layout_height"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:background="@color/color_calculator_log_bg"
+        android:gravity="right">
+
+        <ImageView
+            android:id="@+id/logo_calculator"
+            style="@style/CalculatorLogStyle.Operator"
+            android:layout_width="@dimen/log_imageView_size"
+            android:layout_height="@dimen/log_imageView_size"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="@dimen/log_imageView_margin_right"
+            android:layout_toLeftOf="@+id/logo_currency"/>
+
+        <ImageView
+            android:id="@+id/logo_currency"
+            style="@style/CalculatorLogStyle.Operator"
+            android:layout_width="@dimen/log_imageView_size"
+            android:layout_height="@dimen/log_imageView_size"
+            android:layout_marginRight="@dimen/log_imageView_margin_right"
+            android:layout_centerVertical="true"
+            android:layout_toLeftOf="@+id/logo_conventer"/>
+
+        <ImageView
+            android:id="@+id/logo_conventer"
+            style="@style/CalculatorLogStyle.Operator"
+            android:layout_width="@dimen/log_imageView_size"
+            android:layout_height="@dimen/log_imageView_size"
+            android:layout_centerVertical="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="@dimen/log_imageView_padding_right"/>
+
+    </RelativeLayout>
+
+    <com.tct.calculator.view.ExpandableLayout
+        android:id="@+id/calculator_expandablelayout"
+        android:layout_width="@dimen/expandlayout_layoutwidth"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="@dimen/expandlayout_marginleft"
+        android:orientation="horizontal"
+        android:paddingRight="@dimen/expandlayout_paddingright"
+        android:layout_marginTop="@dimen/expandlayout_margintop">
+
+        <ImageView
+            android:id="@+id/logo_conventer_slip"
+            style="@style/CalculatorLogStyle.Operator"
+            android:layout_width="@dimen/calculator_split_button_size"
+            android:layout_height="@dimen/calculator_split_button_size"
+            android:background="@drawable/logo_converter_unselect"
+            android:layout_alignParentRight="true" />
+
+        <ImageView
+            android:id="@+id/logo_currency_slip"
+            style="@style/CalculatorLogStyle.Operator"
+            android:layout_width="@dimen/calculator_split_button_size"
+            android:layout_height="@dimen/calculator_split_button_size"
+            android:background="@drawable/logo_currency_unselect" />
+
+        <ImageView
+            android:id="@+id/logo_calculator_slip"
+            style="@style/CalculatorLogStyle.Operator"
+            android:layout_width="@dimen/calculator_split_button_size"
+            android:layout_height="@dimen/calculator_split_button_size"
+            android:background="@drawable/logo_calculator_unselect" />
+
+    </com.tct.calculator.view.ExpandableLayout>
+
+</RelativeLayout>

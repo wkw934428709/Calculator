@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--BB-->
+    <dimen name="calculator_split_button_size">30dp</dimen>
+
+     <!--the wheel item size-->
+
+    <dimen name="wheel_item_height">25dp</dimen>
+    <dimen name="convert_wheel_top_text_size">12sp</dimen>
+    <dimen name="convert_wheel_bottom_text_size">16sp</dimen>
+
+    <dimen name="currency_popupWindow_layout_height">930px</dimen>
+    <dimen name="popupWindow_layout_height">300dp</dimen>
+
+    <dimen name="convert_popupWindow_layout_height">950px</dimen>
+    <dimen name="convert_wheel_picker_layout_height">350dp</dimen>
+    <dimen name="convert_top_wheel_picker_layout_height">300dp</dimen>
+    <dimen name="wheel_picker_btn">14sp</dimen>
+    <dimen name="log_button_size_split">14sp</dimen>
+
+    <dimen name="convert_edittext_margin_top">40dp</dimen>
+    <dimen name="calculator_radlayout_margingtop">52dp</dimen>
+
+</resources>

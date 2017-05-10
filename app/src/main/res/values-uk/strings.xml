@@ -1,0 +1,706 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+	<!--
+		this file is built by arct
+	-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<!---->
+	<string name="app_name">"Калькулятор"</string>
+	<!---->
+	<string name="error_nan">"Не є номером"</string>
+	<!---->
+	<string name="error_syntax">"Помилка"</string>
+	<!-- no translation found for dec_point -->
+	<skip />
+	<!-- no translation found for digit_0 -->
+	<skip />
+	<!-- no translation found for digit_1 -->
+	<skip />
+	<!-- no translation found for digit_2 -->
+	<skip />
+	<!-- no translation found for digit_3 -->
+	<skip />
+	<!-- no translation found for digit_4 -->
+	<skip />
+	<!-- no translation found for digit_5 -->
+	<skip />
+	<!-- no translation found for digit_6 -->
+	<skip />
+	<!-- no translation found for digit_7 -->
+	<skip />
+	<!-- no translation found for digit_8 -->
+	<skip />
+	<!-- no translation found for digit_9 -->
+	<skip />
+	<!-- no translation found for fun_cos -->
+	<skip />
+	<!-- no translation found for fun_ln -->
+	<skip />
+	<!-- no translation found for fun_log -->
+	<skip />
+	<!-- no translation found for fun_sin -->
+	<skip />
+	<!-- no translation found for fun_tan -->
+	<skip />
+	<!-- no translation found for op_inv -->
+	<skip />
+	<!-- no translation found for op_deg -->
+	<skip />
+	<!-- no translation found for op_rad -->
+	<skip />
+	<!-- no translation found for fun_arccos -->
+	<skip />
+	<!-- no translation found for fun_arcsin -->
+	<skip />
+	<!-- no translation found for fun_arctan -->
+	<skip />
+	<!-- no translation found for fun_naturExp -->
+	<skip />
+	<!-- no translation found for fun_comExp -->
+	<skip />
+	<!-- no translation found for fun_sqr -->
+	<skip />
+	<!-- no translation found for clr -->
+	<skip />
+	<!---->
+	<string name="del">"Видалити"</string>
+	<!-- no translation found for desc_const_e -->
+	<skip />
+	<!-- no translation found for desc_const_pi -->
+	<skip />
+	<!-- no translation found for desc_dec_point -->
+	<skip />
+	<!---->
+	<string name="desc_lparen">"ліва дужка"</string>
+	<!---->
+	<string name="desc_rparen">"права дужка"</string>
+	<!-- no translation found for desc_fun_cos -->
+	<skip />
+	<!---->
+	<string name="desc_fun_ln">"натуральний логарифм"</string>
+	<!-- no translation found for desc_fun_log -->
+	<skip />
+	<!-- no translation found for desc_fun_sin -->
+	<skip />
+	<!-- no translation found for desc_fun_tan -->
+	<skip />
+	<!-- no translation found for desc_op_add -->
+	<skip />
+	<!-- no translation found for desc_op_div -->
+	<skip />
+	<!-- no translation found for desc_op_fact -->
+	<skip />
+	<!-- no translation found for desc_op_mul -->
+	<skip />
+	<!-- no translation found for desc_op_pow -->
+	<skip />
+	<!---->
+	<string name="desc_op_sqrt">"квадратний корінь"</string>
+	<!-- no translation found for desc_op_sub -->
+	<skip />
+	<!-- no translation found for desc_op_inv -->
+	<skip />
+	<!-- no translation found for desc_op_deg -->
+	<skip />
+	<!-- no translation found for desc_op_rad -->
+	<skip />
+	<!-- no translation found for desc_op_per -->
+	<skip />
+	<!-- no translation found for desc_fun_arcsin -->
+	<skip />
+	<!-- no translation found for desc_fun_arccos -->
+	<skip />
+	<!-- no translation found for desc_fun_arctan -->
+	<skip />
+	<!-- no translation found for desc_fun_naturExp -->
+	<skip />
+	<!-- no translation found for desc_fun_comExp -->
+	<skip />
+	<!-- no translation found for desc_fun_sqr -->
+	<skip />
+	<!-- no translation found for desc_clr -->
+	<skip />
+	<!-- no translation found for desc_del -->
+	<skip />
+	<!-- no translation found for desc_eq -->
+	<skip />
+	<!---->
+	<string name="copy_result_toast">"Результат скопійовано"</string>
+	<!---->
+	<string name="tips_label">"Проведіть вниз, щоб переглянути історію останніх розрахунків"</string>
+	<!---->
+	<string name="tips_btn_text">"Готово"</string>
+	<!---->
+	<string name="no_history">"Немає історії"</string>
+	<!---->
+	<string name="copy">"Копіювати"</string>
+	<!---->
+	<string name="paste">"Вставити"</string>
+	<!---->
+	<string name="swipe_down">"Проведіть вниз, щоб переглянути історію"</string>
+	<!---->
+	<string name="swipe_left">"Проведіть вліво для доступу\n до інженерного калькулятора"</string>
+	<!-- no translation found for dec_point_rel4 -->
+	<skip />
+	<!-- no translation found for drawer_title -->
+	<skip />
+	<!-- no translation found for drawer_open -->
+	<skip />
+	<!-- no translation found for drawer_close -->
+	<skip />
+	<!---->
+	<string name="convert_length">"Довжина"</string>
+	<!---->
+	<string name="convert_area">"Площа"</string>
+	<!---->
+	<string name="convert_mass">"Маса"</string>
+	<!---->
+	<string name="convert_volume">"Об’єм"</string>
+	<!---->
+	<string name="convert_temperature">"Температура"</string>
+	<!---->
+	<string name="convert_fuel">"Паливо"</string>
+	<!-- no translation found for convert_shoes -->
+	<skip />
+	<!-- no translation found for convert_clothes -->
+	<skip />
+	<!---->
+	<string name="convert_cooking">"Приготування їжі"</string>
+	<!---->
+	<string name="currency_time">"Оновити:"</string>
+	<!---->
+	<string name="afghani">"Афганський афгані"</string>
+	<!---->
+	<string name="azerbaijani_manat">"Азербайджанський манат"</string>
+	<!---->
+	<string name="algerian_dinar">"Алжирський динар"</string>
+	<!---->
+	<string name="aruba_florin">"Флорин Аруба"</string>
+	<!---->
+	<string name="argentine_peso">"Аргентинське песо"</string>
+	<!---->
+	<string name="albanian_lek">"Албанський лек"</string>
+	<!---->
+	<string name="australian_dollar">"Австралійський долар"</string>
+	<!---->
+	<string name="cayman_islands_dollar">"Долар Кайманових островів"</string>
+	<!---->
+	<string name="cambodian_riel">"Камбоджійський рієль"</string>
+	<!---->
+	<string name="croatian_kuna">"Хорватська куна"</string>
+	<!---->
+	<string name="czech_koruna">"Чеська крона"</string>
+	<!---->
+	<string name="cuban_peso">"Кубинський песо"</string>
+	<!---->
+	<string name="costa_rica_colon">"Костариканський колон"</string>
+	<!---->
+	<string name="colombian_peso">"Колумбійський песо"</string>
+	<!---->
+	<string name="chilean_peso">"Чилійський песо"</string>
+	<!---->
+	<string name="cape_verde_escudo">"Ескудо Кабо-Верде"</string>
+	<!---->
+	<string name="chinese_yuan">"Китайський юань"</string>
+	<!---->
+	<string name="indian_rupee">"Індійська рупія"</string>
+	<!---->
+	<string name="canadian_dollar">"Канадський долар"</string>
+	<!---->
+	<string name="bitcoin">"Біткойн"</string>
+	<!---->
+	<string name="bosnian_convertible_mark">"Боснійська конвертована марка"</string>
+	<!---->
+	<string name="british_pound">"Британський фунт"</string>
+	<!---->
+	<string name="burundi_franc">"Бурундійський франк"</string>
+	<!---->
+	<string name="bulgarian_lev">"Болгарський лев"</string>
+	<!---->
+	<string name="brunei_dollar">"Брунейський долар"</string>
+	<!---->
+	<string name="brazilian_real">"Бразильський реал"</string>
+	<!---->
+	<string name="botswanna_pula">"Ботсванська пула"</string>
+	<!---->
+	<string name="bolivian_boliviano">"Болівійський болівіано"</string>
+	<!---->
+	<string name="bhutan_ngultrum">"Бутанський нгултрум"</string>
+	<!---->
+	<string name="bermuda_dollar">"Бермудський долар"</string>
+	<!---->
+	<string name="belize_dollar">"Белізький долар"</string>
+	<!---->
+	<string name="belarus_ruble">"Білоруський рубль"</string>
+	<!---->
+	<string name="barbados_dollar">"Барбадоський долар"</string>
+	<!---->
+	<string name="bangladesh_taka">"Бангладеська така"</string>
+	<!---->
+	<string name="bahraini_dinar">"Бахрейнський динар"</string>
+	<!---->
+	<string name="bahamian_dollar">"Багамський динар"</string>
+	<!---->
+	<string name="angolan_kwanza">"Ангольська кванза"</string>
+	<!---->
+	<string name="armenian_dram">"Вірменський драм"</string>
+	<!---->
+	<string name="iraqi_dinar">"Іракський динар"</string>
+	<!---->
+	<string name="iranian_rial">"Іранський ріал"</string>
+	<!---->
+	<string name="iceland_krona">"Ісландська крона"</string>
+	<!---->
+	<string name="indonesian_rupiah">"Індонезійська рупія"</string>
+	<!---->
+	<string name="hungarian_forint">"Угорський форинт"</string>
+	<!---->
+	<string name="honduras_lempira">"Гондураська лемпіра"</string>
+	<!---->
+	<string name="haiti_gourde">"Гаїтянський гурд"</string>
+	<!---->
+	<string name="hongkong_dollar">"Гонконгський долар"</string>
+	<!---->
+	<string name="gold">"Золото"</string>
+	<!---->
+	<string name="ghanaian_cedi">"Ганський седі"</string>
+	<!---->
+	<string name="georgian_lari">"Грузинський ларі"</string>
+	<!---->
+	<string name="guyana_dollar">"Гайанський долар"</string>
+	<!---->
+	<string name="guinea_franc">"Гвінейський франк"</string>
+	<!---->
+	<string name="guatemala_quetzal">"Гватемальський кецаль"</string>
+	<!---->
+	<string name="gibraltar_pound">"Гібралтарський фунт"</string>
+	<!---->
+	<string name="gambian_dalasi">"Гамбійська даласі"</string>
+	<!---->
+	<string name="fiji_dollar">"Фіджійський долар"</string>
+	<!---->
+	<string name="falkland_islands_pound">"Фунт Фолклендських островів"</string>
+	<!---->
+	<string name="east_caribbean_dollar">"Східнокарибський долар"</string>
+	<!---->
+	<string name="ethiopian_birr">"Ефіопський бир"</string>
+	<!---->
+	<string name="eritrea_nakfa">"Ерітрейська накфа"</string>
+	<!---->
+	<string name="egyptian_pound">"Єгипетський фунт"</string>
+	<!---->
+	<string name="euro">"Євро"</string>
+	<!---->
+	<string name="dominican_peso">"Домініканський песо"</string>
+	<!---->
+	<string name="djibout_franc">"Франк Джибуті"</string>
+	<!---->
+	<string name="danish_krone">"Данська крона"</string>
+	<!---->
+	<string name="congolese_frank">"Конголезький франк"</string>
+	<!---->
+	<string name="cfa_francl_beac">"Центральноафриканський франк"</string>
+	<!---->
+	<string name="cfa_franc_bceao">"Західноафриканський франк"</string>
+	<!---->
+	<string name="comoros_franc">"Коморський франк"</string>
+	<!---->
+	<string name="namibian_dollar">"Намібійський долар"</string>
+	<!---->
+	<string name="north_korean_won">"Північнокорейська вона"</string>
+	<!---->
+	<string name="neth_antilles_guilder">"Нідерландський антильський гульден"</string>
+	<!---->
+	<string name="mozambican_metical">"Мозамбіцький метікал"</string>
+	<!---->
+	<string name="malagasy_ariary">"Малагасійський аріарі"</string>
+	<!---->
+	<string name="myanmar_kyat">"М\'янмський к\'ят"</string>
+	<!---->
+	<string name="moroccan_dirham">"Марокканський дірхам"</string>
+	<!---->
+	<string name="mongolian_tugrik">"Монгольський тугрик"</string>
+	<!---->
+	<string name="moldovan_leu">"Молдовський лей"</string>
+	<!---->
+	<string name="mexican_peso">"Мексиканський песо"</string>
+	<!---->
+	<string name="mauritius_rupee">"Маврикійська рупія"</string>
+	<!---->
+	<string name="mauritanian_ougulya">"Мавританська угія"</string>
+	<!---->
+	<string name="maldives_rufiyaa">"Мальдівська руфія"</string>
+	<!---->
+	<string name="malaysian_ringgit">"Малайзійський рингіт"</string>
+	<!---->
+	<string name="malawi_kwacha">"Малавійська квача"</string>
+	<!---->
+	<string name="macedonian_denar">"Македонський денар"</string>
+	<!---->
+	<string name="macau_pataca">"Патака Макао"</string>
+	<!---->
+	<string name="libyan_dinar">"Лівійський динар"</string>
+	<!---->
+	<string name="leberian_dollar">"Ліберійський долар"</string>
+	<!---->
+	<string name="lesotho_loti">"Лоті Лесото"</string>
+	<!---->
+	<string name="lebanese_pound">"Ліванський фунт"</string>
+	<!---->
+	<string name="lao_kipi">"Лаоський кіпі"</string>
+	<!---->
+	<string name="kyrgyzstani_som">"Киргизький сом"</string>
+	<!---->
+	<string name="kazakhstani_tenge">"Казахський тенге"</string>
+	<!---->
+	<string name="kuwaiti_dinar">"Кувейтський динар"</string>
+	<!---->
+	<string name="kenyan_shilling">"Кенійський шилінг"</string>
+	<!---->
+	<string name="jordanian_dinar">"Йорданський динар"</string>
+	<!---->
+	<string name="jamaican_dollar">"Ямайський долар"</string>
+	<!---->
+	<string name="japanese_yen">"Японська ієна"</string>
+	<!---->
+	<string name="israeli_shekel">"Ізраїльський шекель"</string>
+	<!---->
+	<string name="st_henlena_pound">"Фунт Святої Єлени"</string>
+	<!---->
+	<string name="somali_shilling">"Сомалійський шилінг"</string>
+	<!---->
+	<string name="solomon_islands_dollar">"Долар Соломонових островів"</string>
+	<!---->
+	<string name="singapore_dollar">"Сінгапурський долар"</string>
+	<!---->
+	<string name="sierra_leone_leone">"Леоне Сьєрра-Леоне"</string>
+	<!---->
+	<string name="seychelles_rupee">"Сейшельська рупія"</string>
+	<!---->
+	<string name="saudi_arabian_riyal">"Саудівський ріал"</string>
+	<!---->
+	<string name="sao_tome_dobra">"Добра Сан-Томе"</string>
+	<!---->
+	<string name="sri_lanka_rupee">"Рупія Шрі-Ланка"</string>
+	<!---->
+	<string name="south_korean_won">"Південнокорейська вона"</string>
+	<!---->
+	<string name="swiss_franc">"Швейцарський франк"</string>
+	<!---->
+	<string name="rwanda_franc">"Руандійський франк"</string>
+	<!---->
+	<string name="russian_rouble">"Російський рубль"</string>
+	<!---->
+	<string name="romanian_new_leu">"Румунська нова лея"</string>
+	<!---->
+	<string name="qatar_rial">"Катарський ріал"</string>
+	<!---->
+	<string name="platinum">"Платина"</string>
+	<!---->
+	<string name="pacific_franc">"Тихоокеанський франк"</string>
+	<!---->
+	<string name="polish_zloty">"Польський злотий"</string>
+	<!---->
+	<string name="philippine_peso">"Філіппінське песо"</string>
+	<!---->
+	<string name="peruvian_nuevo_sol">"Новий соль Перу"</string>
+	<!---->
+	<string name="paraguayan_guarani">"Парагвайський гуарані"</string>
+	<!---->
+	<string name="papua_new_guinea_kina">"Кіна Папуа Нова Гвінея"</string>
+	<!---->
+	<string name="panama_balboa">"Панамська бальбоа"</string>
+	<!---->
+	<string name="pakistani_rupee">"Пакистанська рупія"</string>
+	<!---->
+	<string name="omani_rial">"Оманський ріал"</string>
+	<!---->
+	<string name="norwegian_krone">"Норвезька крона"</string>
+	<!---->
+	<string name="nigerian_naira">"Нігерійська наіра"</string>
+	<!---->
+	<string name="nicaragua_cordoba">"Нікарагуанська кордоба"</string>
+	<!---->
+	<string name="new_zealand_dollar">"Долар Нової Зеландії"</string>
+	<!---->
+	<string name="nepalese_rupee">"Непальська рупія"</string>
+	<!---->
+	<string name="zibabwe_dollar">"Зімбабвійський долар"</string>
+	<!---->
+	<string name="zabian_kwacha">"Замбійська квача"</string>
+	<!---->
+	<string name="yemen_riyal">"Йєменський ріал"</string>
+	<!---->
+	<string name="venezuelan_bolivar_fuetre">"Венесуельський болівар фуетре"</string>
+	<!---->
+	<string name="vanuatu_vatu">"Вату Вануату"</string>
+	<!---->
+	<string name="vietnam_dong">"В’єтнамський донг"</string>
+	<!---->
+	<string name="uzbekistani_som">"Узбецький сом"</string>
+	<!---->
+	<string name="uruguayan_new_peso">"Уругвайський новий песо"</string>
+	<!---->
+	<string name="ukraine_hryvnia">"Українська гривня"</string>
+	<!---->
+	<string name="ugandan_shilling">"Угандський шилінг"</string>
+	<!---->
+	<string name="united_states_dollar">"Долар США"</string>
+	<!---->
+	<string name="uae_dirham">"Дірхам ОАЕ"</string>
+	<!---->
+	<string name="turkmenistani_manet">"Туркменський манат"</string>
+	<!---->
+	<string name="tajikistani_somoni">"Таджицький сомоні"</string>
+	<!---->
+	<string name="tunisian_dinar">"Туніський динар"</string>
+	<!---->
+	<string name="trinnidad_tobago_dollar">"Долар Тринідад і Тобаго"</string>
+	<!---->
+	<string name="tonga_pa_ang">"Тонганська паанга"</string>
+	<!---->
+	<string name="tanzanian_shilling">"Танзанійський шилінг"</string>
+	<!---->
+	<string name="turkish_lira">"Турецька ліра"</string>
+	<!---->
+	<string name="taiwan_dollar">"Тайванський долар"</string>
+	<!---->
+	<string name="thai_baht">"Тайський бат"</string>
+	<!---->
+	<string name="Silver">"Срібний"</string>
+	<!---->
+	<string name="serbian_dinars">"Сербський динар"</string>
+	<!---->
+	<string name="surinam_florin">"Суринамський флорин"</string>
+	<!---->
+	<string name="south_african_rand">"Південноафриканський ранд"</string>
+	<!---->
+	<string name="samoa_tala">"Самоанська тала"</string>
+	<!---->
+	<string name="syrian_pound">"Сирійський фунт"</string>
+	<!---->
+	<string name="swedish_krona">"Шведська крона"</string>
+	<!---->
+	<string name="swaziland_lilageni">"Свазілендський ліланґені"</string>
+	<!---->
+	<string name="sudanese_pound">"Суданський фунт"</string>
+	<!---->
+	<string name="au_1">"Au"</string>
+	<!---->
+	<string name="btb">"Btb"</string>
+	<!---->
+	<string name="ag_2">"Ag"</string>
+	<!---->
+	<string name="pt_3">"Pt"</string>
+	<!-- no translation found for convert_category_length -->
+	<skip />
+	<!---->
+	<string name="convert_length_mm">"міліметр"</string>
+	<!---->
+	<string name="convert_length_cm">"сантиметр"</string>
+	<!---->
+	<string name="convert_length_m">"метр"</string>
+	<!---->
+	<string name="convert_length_km">"кілометр"</string>
+	<!---->
+	<string name="convert_length_mi">"миля"</string>
+	<!---->
+	<string name="convert_length_yd">"ярд"</string>
+	<!---->
+	<string name="convert_length_ft">"фут"</string>
+	<!---->
+	<string name="convert_length_in">"дюйм"</string>
+	<!---->
+	<string name="convert_length_kt">"морська миля"</string>
+	<!-- no translation found for convert_category_area -->
+	<skip />
+	<!---->
+	<string name="convert_area_mm2">"квадратний міліметр"</string>
+	<!---->
+	<string name="convert_area_cm2">"квадратний сантиметр"</string>
+	<!---->
+	<string name="convert_area_m2">"квадратний метр"</string>
+	<!---->
+	<string name="convert_area_in2">"квадратний дюйм"</string>
+	<!---->
+	<string name="convert_area_ft2">"квадратний фут"</string>
+	<!---->
+	<string name="convert_area_yd2">"квадратний ярд"</string>
+	<!---->
+	<string name="convert_area_ha">"гектар"</string>
+	<!---->
+	<string name="convert_area_km2">"квадратний кілометр"</string>
+	<!---->
+	<string name="convert_area_ac">"акр"</string>
+	<!---->
+	<string name="convert_area_mi2">"квадратна миля"</string>
+	<!-- no translation found for convert_category_mass -->
+	<skip />
+	<!---->
+	<string name="convert_mass_mg">"міліграм"</string>
+	<!---->
+	<string name="convert_mass_g">"грам"</string>
+	<!---->
+	<string name="convert_mass_kg">"кілограм"</string>
+	<!---->
+	<string name="convert_mass_t">"метрична тонна"</string>
+	<!---->
+	<string name="convert_mass_tonuk">"довга тонна"</string>
+	<!---->
+	<string name="convert_mass_tonus">"коротка тонна"</string>
+	<!---->
+	<string name="convert_mass_lb">"фунт"</string>
+	<!---->
+	<string name="convert_mass_oz">"унція"</string>
+	<!---->
+	<string name="convert_mass_st">"стоун"</string>
+	<!---->
+	<string name="convert_mass_ct">"карат"</string>
+	<!-- no translation found for convert_category_temperature -->
+	<skip />
+	<!---->
+	<string name="convert_temp_c">"градус Цельсія"</string>
+	<!---->
+	<string name="convert_temp_f">"градус Фаренгейта"</string>
+	<!---->
+	<string name="convert_temp_k">"кельвін"</string>
+	<!-- no translation found for convert_category_volume -->
+	<skip />
+	<!---->
+	<string name="convert_volume_mm3">"кубічний міліметр"</string>
+	<!---->
+	<string name="convert_volume_cm3">"кубічний сантиметр"</string>
+	<!---->
+	<string name="convert_volume_dm3">"кубічний дециметр"</string>
+	<!---->
+	<string name="convert_volume_m3">"кубічний метр"</string>
+	<!---->
+	<string name="convert_volume_ml">"мілілітр"</string>
+	<!---->
+	<string name="convert_volume_liter">"літр"</string>
+	<!---->
+	<string name="convert_volume_ft3">"кубічний фут"</string>
+	<!---->
+	<string name="convert_volume_in3">"кубічний дюйм"</string>
+	<!---->
+	<string name="convert_volume_gal_us">"(США)галон"</string>
+	<!---->
+	<string name="convert_volume_qt_us">"(США)кварта"</string>
+	<!---->
+	<string name="convert_volume_pt_us">"(США)пінта"</string>
+	<!---->
+	<string name="convert_volume_oz_us">"(США)унція"</string>
+	<!---->
+	<string name="convert_volume_cup_us">"(США)чашка"</string>
+	<!---->
+	<string name="convert_volume_tbsp_us">"(США)столова ложка"</string>
+	<!---->
+	<string name="convert_volume_tsp_us">"(США)чайна ложка"</string>
+	<!---->
+	<string name="convert_volume_gal_uk">"(Брит.)галон"</string>
+	<!---->
+	<string name="convert_volume_qt_uk">"(Брит.)кварта"</string>
+	<!---->
+	<string name="convert_volume_pt_uk">"(Брит.)пінта"</string>
+	<!---->
+	<string name="convert_volume_oz_uk">"(Брит.)унція"</string>
+	<!---->
+	<string name="convert_volume_cup_uk">"(Брит.)чашка"</string>
+	<!---->
+	<string name="convert_volume_tbsp_uk">"(Брит.)столова ложка"</string>
+	<!---->
+	<string name="convert_volume_tsp_uk">"(Брит.)чайна ложка"</string>
+	<!---->
+	<string name="convert_volume_dr">"драхма"</string>
+	<!---->
+	<string name="convert_volume_bbl">"барель"</string>
+	<!---->
+	<string name="convert_volume_cord">"корд"</string>
+	<!---->
+	<string name="convert_volume_gill">"чверть пінти"</string>
+	<!-- no translation found for convert_category_cooking -->
+	<skip />
+	<!---->
+	<string name="convert_cooking_milliliter">"мілілітр"</string>
+	<!---->
+	<string name="convert_cooking_gal_us">"галон"</string>
+	<!---->
+	<string name="convert_cooking_qt_us">"кварта"</string>
+	<!---->
+	<string name="convert_cooking_pt_us">"пінта"</string>
+	<!---->
+	<string name="convert_cooking_oz_us">"унція"</string>
+	<!---->
+	<string name="convert_cooking_floz_us">"(США)рідинна унція"</string>
+	<!---->
+	<string name="convert_cooking_cup_us">"чашка"</string>
+	<!---->
+	<string name="convert_cooking_tbsp_us">"столова ложка"</string>
+	<!---->
+	<string name="convert_cooking_tsp_us">"чайна ложка"</string>
+	<!---->
+	<string name="convert_cooking_gal_uk">"галон"</string>
+	<!---->
+	<string name="convert_cooking_qt_uk">"кварта"</string>
+	<!---->
+	<string name="convert_cooking_pt_uk">"пінта"</string>
+	<!---->
+	<string name="convert_cooking_floz_uk">"(Брит.)рідинна унція"</string>
+	<!---->
+	<string name="convert_cooking_oz_uk">"унція"</string>
+	<!---->
+	<string name="convert_cooking_cup_uk">"чашка"</string>
+	<!---->
+	<string name="convert_cooking_tbsp_uk">"столова ложка"</string>
+	<!---->
+	<string name="convert_cooking_tsp_uk">"чайна ложка"</string>
+	<!-- no translation found for convert_category_fuel -->
+	<skip />
+	<!---->
+	<string name="convert_fuel_galperhundredmile_uk">"галонів(Брит.)/100 миль"</string>
+	<!---->
+	<string name="convert_fuel_galperhundredmile_us">"галонів(США)/100 миль"</string>
+	<!---->
+	<string name="convert_fuel_kilometerperliter">"кілометрів/літр"</string>
+	<!---->
+	<string name="convert_fuel_literperhundredkilometer">"літрів/100 кілометрів"</string>
+	<!---->
+	<string name="convert_fuel_mpg_uk">"(Брит.)миль на галон"</string>
+	<!---->
+	<string name="convert_fuel_mpg_us">"(США)миль на галон"</string>
+	<!-- no translation found for convert_shoes_mem -->
+	<skip />
+	<!-- no translation found for convert_shoes_womem -->
+	<skip />
+	<!---->
+	<string name="splash_tv_open">"Ввід"</string>
+	<!---->
+	<string name="splash_tv_next">"Далі"</string>
+	<!---->
+	<string name="splash_tv_skip">"Пропустити"</string>
+	<!---->
+	<string name="splash_tv_calculate_title">"Обчислити"</string>
+	<!---->
+	<string name="splash_tv_calculate_content">"Розпочніть роботу з калькулятором; натисніть кнопку або проведіть вліво, щоб скористатися конкретною панеллю"</string>
+	<!---->
+	<string name="splash_tv_currency_title">"Перевірка валют"</string>
+	<!---->
+	<string name="splash_tv_currency_content">"Підтримуються стандарти понад 150 країн, які оновлюються щодня. \n(Джерело даних: www.xe.com)"</string>
+	<!---->
+	<string name="splash_tv_convert_title">"Переведення одиниць вимірювання"</string>
+	<!---->
+	<string name="splash_tv_convert_content">"Довжина? Маса? Площа? \nПеревести одиниці вимірювання – більше не проблема."</string>
+	<!---->
+	<string name="no_internet_access">"Немає доступу до Інтернету"</string>
+	<!---->
+	<string name="updating">"Оновлення..."</string>
+	<!-- no translation found for search_edit_hint -->
+	<skip />
+	<!---->
+	<string name="bt_right_more">"Інші"</string>
+	<!---->
+	<string name="bt_left_more">"Інші"</string>
+	<!---->
+	<string name="pop_cancel">"СКАСУВАТИ"</string>
+	<!---->
+	<string name="pop_ok">"ОК"</string>
+</resources>

@@ -1,0 +1,706 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+	<!--
+		this file is built by arct
+	-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<!---->
+	<string name="app_name">"Calculator"</string>
+	<!---->
+	<string name="error_nan">"Acesta nu este un număr"</string>
+	<!---->
+	<string name="error_syntax">"Eroare"</string>
+	<!-- no translation found for dec_point -->
+	<skip />
+	<!-- no translation found for digit_0 -->
+	<skip />
+	<!-- no translation found for digit_1 -->
+	<skip />
+	<!-- no translation found for digit_2 -->
+	<skip />
+	<!-- no translation found for digit_3 -->
+	<skip />
+	<!-- no translation found for digit_4 -->
+	<skip />
+	<!-- no translation found for digit_5 -->
+	<skip />
+	<!-- no translation found for digit_6 -->
+	<skip />
+	<!-- no translation found for digit_7 -->
+	<skip />
+	<!-- no translation found for digit_8 -->
+	<skip />
+	<!-- no translation found for digit_9 -->
+	<skip />
+	<!-- no translation found for fun_cos -->
+	<skip />
+	<!-- no translation found for fun_ln -->
+	<skip />
+	<!-- no translation found for fun_log -->
+	<skip />
+	<!-- no translation found for fun_sin -->
+	<skip />
+	<!-- no translation found for fun_tan -->
+	<skip />
+	<!-- no translation found for op_inv -->
+	<skip />
+	<!-- no translation found for op_deg -->
+	<skip />
+	<!-- no translation found for op_rad -->
+	<skip />
+	<!-- no translation found for fun_arccos -->
+	<skip />
+	<!-- no translation found for fun_arcsin -->
+	<skip />
+	<!-- no translation found for fun_arctan -->
+	<skip />
+	<!-- no translation found for fun_naturExp -->
+	<skip />
+	<!-- no translation found for fun_comExp -->
+	<skip />
+	<!-- no translation found for fun_sqr -->
+	<skip />
+	<!-- no translation found for clr -->
+	<skip />
+	<!---->
+	<string name="del">"Ștergeți"</string>
+	<!-- no translation found for desc_const_e -->
+	<skip />
+	<!-- no translation found for desc_const_pi -->
+	<skip />
+	<!-- no translation found for desc_dec_point -->
+	<skip />
+	<!---->
+	<string name="desc_lparen">"paranteză stânga"</string>
+	<!---->
+	<string name="desc_rparen">"paranteză dreapta"</string>
+	<!-- no translation found for desc_fun_cos -->
+	<skip />
+	<!---->
+	<string name="desc_fun_ln">"logaritm natural"</string>
+	<!-- no translation found for desc_fun_log -->
+	<skip />
+	<!-- no translation found for desc_fun_sin -->
+	<skip />
+	<!-- no translation found for desc_fun_tan -->
+	<skip />
+	<!-- no translation found for desc_op_add -->
+	<skip />
+	<!-- no translation found for desc_op_div -->
+	<skip />
+	<!-- no translation found for desc_op_fact -->
+	<skip />
+	<!-- no translation found for desc_op_mul -->
+	<skip />
+	<!-- no translation found for desc_op_pow -->
+	<skip />
+	<!---->
+	<string name="desc_op_sqrt">"rădăcină pătrată"</string>
+	<!-- no translation found for desc_op_sub -->
+	<skip />
+	<!-- no translation found for desc_op_inv -->
+	<skip />
+	<!-- no translation found for desc_op_deg -->
+	<skip />
+	<!-- no translation found for desc_op_rad -->
+	<skip />
+	<!-- no translation found for desc_op_per -->
+	<skip />
+	<!-- no translation found for desc_fun_arcsin -->
+	<skip />
+	<!-- no translation found for desc_fun_arccos -->
+	<skip />
+	<!-- no translation found for desc_fun_arctan -->
+	<skip />
+	<!-- no translation found for desc_fun_naturExp -->
+	<skip />
+	<!-- no translation found for desc_fun_comExp -->
+	<skip />
+	<!-- no translation found for desc_fun_sqr -->
+	<skip />
+	<!-- no translation found for desc_clr -->
+	<skip />
+	<!-- no translation found for desc_del -->
+	<skip />
+	<!-- no translation found for desc_eq -->
+	<skip />
+	<!---->
+	<string name="copy_result_toast">"Rezultatul este copiat"</string>
+	<!---->
+	<string name="tips_label">"Glisați în jos pentru a vedea istoricul dvs. recent al calculelor"</string>
+	<!---->
+	<string name="tips_btn_text">"Am înțeles"</string>
+	<!---->
+	<string name="no_history">"Nu există istoric"</string>
+	<!---->
+	<string name="copy">"Copiere"</string>
+	<!---->
+	<string name="paste">"Lipire"</string>
+	<!---->
+	<string name="swipe_down">"Glisați în jos pentru istoric"</string>
+	<!---->
+	<string name="swipe_left">"Glisați spre stânga \n pentru calcule științifice"</string>
+	<!-- no translation found for dec_point_rel4 -->
+	<skip />
+	<!-- no translation found for drawer_title -->
+	<skip />
+	<!-- no translation found for drawer_open -->
+	<skip />
+	<!-- no translation found for drawer_close -->
+	<skip />
+	<!---->
+	<string name="convert_length">"Lungime"</string>
+	<!---->
+	<string name="convert_area">"Zonă"</string>
+	<!---->
+	<string name="convert_mass">"Greutate"</string>
+	<!---->
+	<string name="convert_volume">"Volum"</string>
+	<!---->
+	<string name="convert_temperature">"Temperatură"</string>
+	<!---->
+	<string name="convert_fuel">"Combustibil"</string>
+	<!-- no translation found for convert_shoes -->
+	<skip />
+	<!-- no translation found for convert_clothes -->
+	<skip />
+	<!---->
+	<string name="convert_cooking">"Bucătărie"</string>
+	<!---->
+	<string name="currency_time">"Actualizare:"</string>
+	<!---->
+	<string name="afghani">"Afghani din Afganistan"</string>
+	<!---->
+	<string name="azerbaijani_manat">"Manat azer"</string>
+	<!---->
+	<string name="algerian_dinar">"Dinar algerian"</string>
+	<!---->
+	<string name="aruba_florin">"Florin aruban"</string>
+	<!---->
+	<string name="argentine_peso">"Peso argentinian"</string>
+	<!---->
+	<string name="albanian_lek">"Lek albanez"</string>
+	<!---->
+	<string name="australian_dollar">"Dolar australian"</string>
+	<!---->
+	<string name="cayman_islands_dollar">"Dolar din Cayman"</string>
+	<!---->
+	<string name="cambodian_riel">"Riel cambodgian"</string>
+	<!---->
+	<string name="croatian_kuna">"Kuna croată"</string>
+	<!---->
+	<string name="czech_koruna">"Coroană cehă"</string>
+	<!---->
+	<string name="cuban_peso">"Peso cubanez"</string>
+	<!---->
+	<string name="costa_rica_colon">"Colon costarican"</string>
+	<!---->
+	<string name="colombian_peso">"Peso columbian"</string>
+	<!---->
+	<string name="chilean_peso">"Peso chilian"</string>
+	<!---->
+	<string name="cape_verde_escudo">"Escudo al Capului Verde"</string>
+	<!---->
+	<string name="chinese_yuan">"Yuan chinezesc"</string>
+	<!---->
+	<string name="indian_rupee">"Rupie indiană"</string>
+	<!---->
+	<string name="canadian_dollar">"Dolar canadian"</string>
+	<!---->
+	<string name="bitcoin">"Bitcoin"</string>
+	<!---->
+	<string name="bosnian_convertible_mark">"Marcă bosniacă convertibilă"</string>
+	<!---->
+	<string name="british_pound">"Liră sterlină"</string>
+	<!---->
+	<string name="burundi_franc">"Franc burundez"</string>
+	<!---->
+	<string name="bulgarian_lev">"Leva bulgărească"</string>
+	<!---->
+	<string name="brunei_dollar">"Dolar din Brunei"</string>
+	<!---->
+	<string name="brazilian_real">"Real brazilian"</string>
+	<!---->
+	<string name="botswanna_pula">"Pula din Botswana"</string>
+	<!---->
+	<string name="bolivian_boliviano">"Boliviano din Bolivia"</string>
+	<!---->
+	<string name="bhutan_ngultrum">"Ngultrum din Bhutan"</string>
+	<!---->
+	<string name="bermuda_dollar">"Dolar din Bermuda"</string>
+	<!---->
+	<string name="belize_dollar">"Dolar din Belize"</string>
+	<!---->
+	<string name="belarus_ruble">"Rublă belarusă"</string>
+	<!---->
+	<string name="barbados_dollar">"Dolar din Barbados"</string>
+	<!---->
+	<string name="bangladesh_taka">"Taka din Bangladesh"</string>
+	<!---->
+	<string name="bahraini_dinar">"Dinar din Bahrain"</string>
+	<!---->
+	<string name="bahamian_dollar">"Dolar din Bahamas"</string>
+	<!---->
+	<string name="angolan_kwanza">"Kwanza din Angola"</string>
+	<!---->
+	<string name="armenian_dram">"Dram armean"</string>
+	<!---->
+	<string name="iraqi_dinar">"Dinar irakian"</string>
+	<!---->
+	<string name="iranian_rial">"Rial iranian"</string>
+	<!---->
+	<string name="iceland_krona">"Coroană islandeză"</string>
+	<!---->
+	<string name="indonesian_rupiah">"Rupie indoneziană"</string>
+	<!---->
+	<string name="hungarian_forint">"Forint maghiar"</string>
+	<!---->
+	<string name="honduras_lempira">"Lempira din Honduras"</string>
+	<!---->
+	<string name="haiti_gourde">"Gourde din Haiti"</string>
+	<!---->
+	<string name="hongkong_dollar">"Dolar din Hong Kong"</string>
+	<!---->
+	<string name="gold">"Aur"</string>
+	<!---->
+	<string name="ghanaian_cedi">"Cedi din Ghana"</string>
+	<!---->
+	<string name="georgian_lari">"Lari din Georgia"</string>
+	<!---->
+	<string name="guyana_dollar">"Dolar guyanez"</string>
+	<!---->
+	<string name="guinea_franc">"Franc guineean"</string>
+	<!---->
+	<string name="guatemala_quetzal">"Quetzal din Guatemala"</string>
+	<!---->
+	<string name="gibraltar_pound">"Liră din Gibraltar"</string>
+	<!---->
+	<string name="gambian_dalasi">"Dalasi din Gambia"</string>
+	<!---->
+	<string name="fiji_dollar">"Dolar fijian"</string>
+	<!---->
+	<string name="falkland_islands_pound">"Liră din Insulele Falkland"</string>
+	<!---->
+	<string name="east_caribbean_dollar">"Dolar est-caraiban"</string>
+	<!---->
+	<string name="ethiopian_birr">"Birr etiopian"</string>
+	<!---->
+	<string name="eritrea_nakfa">"Nakfa din Eritreea"</string>
+	<!---->
+	<string name="egyptian_pound">"Liră egipteană"</string>
+	<!---->
+	<string name="euro">"Euro"</string>
+	<!---->
+	<string name="dominican_peso">"Peso dominican"</string>
+	<!---->
+	<string name="djibout_franc">"Franc djiboutian"</string>
+	<!---->
+	<string name="danish_krone">"Coroană daneză"</string>
+	<!---->
+	<string name="congolese_frank">"Franc congolez"</string>
+	<!---->
+	<string name="cfa_francl_beac">"Franc CFA BEAC"</string>
+	<!---->
+	<string name="cfa_franc_bceao">"Franc CFA BCEAO"</string>
+	<!---->
+	<string name="comoros_franc">"Franc comorian"</string>
+	<!---->
+	<string name="namibian_dollar">"Dolar namibian"</string>
+	<!---->
+	<string name="north_korean_won">"Won nord-coreean"</string>
+	<!---->
+	<string name="neth_antilles_guilder">"Gulden Antilele Olandeze"</string>
+	<!---->
+	<string name="mozambican_metical">"Metical mozambican"</string>
+	<!---->
+	<string name="malagasy_ariary">"Ariary din Madagascar"</string>
+	<!---->
+	<string name="myanmar_kyat">"Kyat din Myanmar"</string>
+	<!---->
+	<string name="moroccan_dirham">"Dirham marocan"</string>
+	<!---->
+	<string name="mongolian_tugrik">"Tugrik mongolez"</string>
+	<!---->
+	<string name="moldovan_leu">"Leu moldovenesc"</string>
+	<!---->
+	<string name="mexican_peso">"Peso mexican"</string>
+	<!---->
+	<string name="mauritius_rupee">"Rupie mauritiană"</string>
+	<!---->
+	<string name="mauritanian_ougulya">"Ouguiya mauritiană"</string>
+	<!---->
+	<string name="maldives_rufiyaa">"Rufiyaa din Maldive"</string>
+	<!---->
+	<string name="malaysian_ringgit">"Ringgit malaysian"</string>
+	<!---->
+	<string name="malawi_kwacha">"Kwacha malawian"</string>
+	<!---->
+	<string name="macedonian_denar">"Denar macedonean"</string>
+	<!---->
+	<string name="macau_pataca">"Pataca din Macao"</string>
+	<!---->
+	<string name="libyan_dinar">"Dinar libian"</string>
+	<!---->
+	<string name="leberian_dollar">"Dolar liberian"</string>
+	<!---->
+	<string name="lesotho_loti">"Loti din Lesotho"</string>
+	<!---->
+	<string name="lebanese_pound">"Liră libaneză"</string>
+	<!---->
+	<string name="lao_kipi">"Kip laoțian"</string>
+	<!---->
+	<string name="kyrgyzstani_som">"Som kârgâz"</string>
+	<!---->
+	<string name="kazakhstani_tenge">"Tenge kazah"</string>
+	<!---->
+	<string name="kuwaiti_dinar">"Dinar kuweitian"</string>
+	<!---->
+	<string name="kenyan_shilling">"Șiling kenyan"</string>
+	<!---->
+	<string name="jordanian_dinar">"Dinar iordanian"</string>
+	<!---->
+	<string name="jamaican_dollar">"Dolar jamaican"</string>
+	<!---->
+	<string name="japanese_yen">"Yen japonez"</string>
+	<!---->
+	<string name="israeli_shekel">"Shekel israelian"</string>
+	<!---->
+	<string name="st_henlena_pound">"Liră din Sfânta Elena"</string>
+	<!---->
+	<string name="somali_shilling">"Șiling somalez"</string>
+	<!---->
+	<string name="solomon_islands_dollar">"Dolar solomonian"</string>
+	<!---->
+	<string name="singapore_dollar">"Dolar singaporez"</string>
+	<!---->
+	<string name="sierra_leone_leone">"Leone din Sierra Leone"</string>
+	<!---->
+	<string name="seychelles_rupee">"Rupie seychelleză"</string>
+	<!---->
+	<string name="saudi_arabian_riyal">"Rial saudit"</string>
+	<!---->
+	<string name="sao_tome_dobra">"Dobra din Sao Tome"</string>
+	<!---->
+	<string name="sri_lanka_rupee">"Rupie srilankeză"</string>
+	<!---->
+	<string name="south_korean_won">"Won sud-coreean"</string>
+	<!---->
+	<string name="swiss_franc">"Franc elvețian"</string>
+	<!---->
+	<string name="rwanda_franc">"Franc ruandez"</string>
+	<!---->
+	<string name="russian_rouble">"Rublă rusească"</string>
+	<!---->
+	<string name="romanian_new_leu">"Leu românesc"</string>
+	<!---->
+	<string name="qatar_rial">"Rial qatarian"</string>
+	<!---->
+	<string name="platinum">"Platină"</string>
+	<!---->
+	<string name="pacific_franc">"Franc Pacific"</string>
+	<!---->
+	<string name="polish_zloty">"Zlot polonez"</string>
+	<!---->
+	<string name="philippine_peso">"Peso filipinez"</string>
+	<!---->
+	<string name="peruvian_nuevo_sol">"Nuevo Sol peruvian"</string>
+	<!---->
+	<string name="paraguayan_guarani">"Guarani paraguayan"</string>
+	<!---->
+	<string name="papua_new_guinea_kina">"Kina din Papua Noua Guinee"</string>
+	<!---->
+	<string name="panama_balboa">"Balboa din Panama"</string>
+	<!---->
+	<string name="pakistani_rupee">"Rupie pakistaneză"</string>
+	<!---->
+	<string name="omani_rial">"Rial omanez"</string>
+	<!---->
+	<string name="norwegian_krone">"Coroană norvegiană"</string>
+	<!---->
+	<string name="nigerian_naira">"Naira din Nigeria"</string>
+	<!---->
+	<string name="nicaragua_cordoba">"Cordoba din Nicaragua"</string>
+	<!---->
+	<string name="new_zealand_dollar">"Dolar neo-zeelandez"</string>
+	<!---->
+	<string name="nepalese_rupee">"Rupie nepaleză"</string>
+	<!---->
+	<string name="zibabwe_dollar">"Dolar zimbabwean"</string>
+	<!---->
+	<string name="zabian_kwacha">"Kwacha zambian"</string>
+	<!---->
+	<string name="yemen_riyal">"Rial yemenit"</string>
+	<!---->
+	<string name="venezuelan_bolivar_fuetre">"Bolivar venezuelean Fuerte"</string>
+	<!---->
+	<string name="vanuatu_vatu">"Vatu din Vanuatu"</string>
+	<!---->
+	<string name="vietnam_dong">"Dong vietnamez"</string>
+	<!---->
+	<string name="uzbekistani_som">"Som uzbec"</string>
+	<!---->
+	<string name="uruguayan_new_peso">"Peso nou uruguayan"</string>
+	<!---->
+	<string name="ukraine_hryvnia">"Hryvnă ucraineană"</string>
+	<!---->
+	<string name="ugandan_shilling">"Șiling ugandez"</string>
+	<!---->
+	<string name="united_states_dollar">"Dolar american"</string>
+	<!---->
+	<string name="uae_dirham">"Dirhamul Emiratelor"</string>
+	<!---->
+	<string name="turkmenistani_manet">"Manat turkmen"</string>
+	<!---->
+	<string name="tajikistani_somoni">"Somoni tadjik"</string>
+	<!---->
+	<string name="tunisian_dinar">"Dinar tunisian"</string>
+	<!---->
+	<string name="trinnidad_tobago_dollar">"Dolar din Trinidad și Tobago"</string>
+	<!---->
+	<string name="tonga_pa_ang">"Pa’anga din Tonga"</string>
+	<!---->
+	<string name="tanzanian_shilling">"Șiling tanzanian"</string>
+	<!---->
+	<string name="turkish_lira">"Liră turcească"</string>
+	<!---->
+	<string name="taiwan_dollar">"Dolar din Taiwan"</string>
+	<!---->
+	<string name="thai_baht">"Baht thailandez"</string>
+	<!---->
+	<string name="Silver">"Argint"</string>
+	<!---->
+	<string name="serbian_dinars">"Dinar sârbesc"</string>
+	<!---->
+	<string name="surinam_florin">"Florin surinamez"</string>
+	<!---->
+	<string name="south_african_rand">"Rand sud-african"</string>
+	<!---->
+	<string name="samoa_tala">"Tala din Samoa"</string>
+	<!---->
+	<string name="syrian_pound">"Liră siriană"</string>
+	<!---->
+	<string name="swedish_krona">"Coroană suedeză"</string>
+	<!---->
+	<string name="swaziland_lilageni">"Lilangeni din Swaziland"</string>
+	<!---->
+	<string name="sudanese_pound">"Liră sudaneză"</string>
+	<!---->
+	<string name="au_1">"Au"</string>
+	<!---->
+	<string name="btb">"Btb"</string>
+	<!---->
+	<string name="ag_2">"Ag"</string>
+	<!---->
+	<string name="pt_3">"Pt"</string>
+	<!-- no translation found for convert_category_length -->
+	<skip />
+	<!---->
+	<string name="convert_length_mm">"milimetru"</string>
+	<!---->
+	<string name="convert_length_cm">"centimetru"</string>
+	<!---->
+	<string name="convert_length_m">"metru"</string>
+	<!---->
+	<string name="convert_length_km">"kilometru"</string>
+	<!---->
+	<string name="convert_length_mi">"milă"</string>
+	<!---->
+	<string name="convert_length_yd">"yard"</string>
+	<!---->
+	<string name="convert_length_ft">"picior"</string>
+	<!---->
+	<string name="convert_length_in">"inch"</string>
+	<!---->
+	<string name="convert_length_kt">"milă nautică"</string>
+	<!-- no translation found for convert_category_area -->
+	<skip />
+	<!---->
+	<string name="convert_area_mm2">"milimetru pătrat"</string>
+	<!---->
+	<string name="convert_area_cm2">"centimetru pătrat"</string>
+	<!---->
+	<string name="convert_area_m2">"metru pătrat"</string>
+	<!---->
+	<string name="convert_area_in2">"inch pătrat"</string>
+	<!---->
+	<string name="convert_area_ft2">"picior pătrat"</string>
+	<!---->
+	<string name="convert_area_yd2">"yard pătrat"</string>
+	<!---->
+	<string name="convert_area_ha">"hectar"</string>
+	<!---->
+	<string name="convert_area_km2">"kilometru pătrat"</string>
+	<!---->
+	<string name="convert_area_ac">"acru"</string>
+	<!---->
+	<string name="convert_area_mi2">"milă pătrată"</string>
+	<!-- no translation found for convert_category_mass -->
+	<skip />
+	<!---->
+	<string name="convert_mass_mg">"miligram"</string>
+	<!---->
+	<string name="convert_mass_g">"gram"</string>
+	<!---->
+	<string name="convert_mass_kg">"kilogram"</string>
+	<!---->
+	<string name="convert_mass_t">"tonă metrică"</string>
+	<!---->
+	<string name="convert_mass_tonuk">"tonă lungă"</string>
+	<!---->
+	<string name="convert_mass_tonus">"tonă scurtă"</string>
+	<!---->
+	<string name="convert_mass_lb">"livră"</string>
+	<!---->
+	<string name="convert_mass_oz">"uncie"</string>
+	<!---->
+	<string name="convert_mass_st">"stone"</string>
+	<!---->
+	<string name="convert_mass_ct">"carat"</string>
+	<!-- no translation found for convert_category_temperature -->
+	<skip />
+	<!---->
+	<string name="convert_temp_c">"celsius"</string>
+	<!---->
+	<string name="convert_temp_f">"fahrenheit"</string>
+	<!---->
+	<string name="convert_temp_k">"kelvin"</string>
+	<!-- no translation found for convert_category_volume -->
+	<skip />
+	<!---->
+	<string name="convert_volume_mm3">"milimetru cub"</string>
+	<!---->
+	<string name="convert_volume_cm3">"centimetru cub"</string>
+	<!---->
+	<string name="convert_volume_dm3">"decimetru cub"</string>
+	<!---->
+	<string name="convert_volume_m3">"metru cub"</string>
+	<!---->
+	<string name="convert_volume_ml">"mililitru"</string>
+	<!---->
+	<string name="convert_volume_liter">"litru"</string>
+	<!---->
+	<string name="convert_volume_ft3">"picior cub"</string>
+	<!---->
+	<string name="convert_volume_in3">"inch cub"</string>
+	<!---->
+	<string name="convert_volume_gal_us">"galon(US)"</string>
+	<!---->
+	<string name="convert_volume_qt_us">"sfert de galon(US)"</string>
+	<!---->
+	<string name="convert_volume_pt_us">"pintă(US)"</string>
+	<!---->
+	<string name="convert_volume_oz_us">"uncie(US)"</string>
+	<!---->
+	<string name="convert_volume_cup_us">"cană(US)"</string>
+	<!---->
+	<string name="convert_volume_tbsp_us">"lingură(US)"</string>
+	<!---->
+	<string name="convert_volume_tsp_us">"linguriță(US)"</string>
+	<!---->
+	<string name="convert_volume_gal_uk">"galon(UK)"</string>
+	<!---->
+	<string name="convert_volume_qt_uk">"sfert de galon(UK)"</string>
+	<!---->
+	<string name="convert_volume_pt_uk">"pintă(UK)"</string>
+	<!---->
+	<string name="convert_volume_oz_uk">"uncie(UK)"</string>
+	<!---->
+	<string name="convert_volume_cup_uk">"cană(UK)"</string>
+	<!---->
+	<string name="convert_volume_tbsp_uk">"lingură(UK)"</string>
+	<!---->
+	<string name="convert_volume_tsp_uk">"linguriță(UK)"</string>
+	<!---->
+	<string name="convert_volume_dr">"dram"</string>
+	<!---->
+	<string name="convert_volume_bbl">"baril"</string>
+	<!---->
+	<string name="convert_volume_cord">"cord"</string>
+	<!---->
+	<string name="convert_volume_gill">"gill"</string>
+	<!-- no translation found for convert_category_cooking -->
+	<skip />
+	<!---->
+	<string name="convert_cooking_milliliter">"mililitru"</string>
+	<!---->
+	<string name="convert_cooking_gal_us">"galon"</string>
+	<!---->
+	<string name="convert_cooking_qt_us">"sfert de galon"</string>
+	<!---->
+	<string name="convert_cooking_pt_us">"pintă"</string>
+	<!---->
+	<string name="convert_cooking_oz_us">"uncie"</string>
+	<!---->
+	<string name="convert_cooking_floz_us">"uncie lichidă(US)"</string>
+	<!---->
+	<string name="convert_cooking_cup_us">"cană"</string>
+	<!---->
+	<string name="convert_cooking_tbsp_us">"lingură"</string>
+	<!---->
+	<string name="convert_cooking_tsp_us">"linguriță"</string>
+	<!---->
+	<string name="convert_cooking_gal_uk">"galon"</string>
+	<!---->
+	<string name="convert_cooking_qt_uk">"sfert de galon"</string>
+	<!---->
+	<string name="convert_cooking_pt_uk">"pintă"</string>
+	<!---->
+	<string name="convert_cooking_floz_uk">"uncie lichidă(UK)"</string>
+	<!---->
+	<string name="convert_cooking_oz_uk">"uncie"</string>
+	<!---->
+	<string name="convert_cooking_cup_uk">"cană"</string>
+	<!---->
+	<string name="convert_cooking_tbsp_uk">"lingură"</string>
+	<!---->
+	<string name="convert_cooking_tsp_uk">"linguriță"</string>
+	<!-- no translation found for convert_category_fuel -->
+	<skip />
+	<!---->
+	<string name="convert_fuel_galperhundredmile_uk">"galoane(UK)/100 de mile"</string>
+	<!---->
+	<string name="convert_fuel_galperhundredmile_us">"galoane(US)/100 de mile"</string>
+	<!---->
+	<string name="convert_fuel_kilometerperliter">"kilometru/litru"</string>
+	<!---->
+	<string name="convert_fuel_literperhundredkilometer">"litri/100 de kilometri"</string>
+	<!---->
+	<string name="convert_fuel_mpg_uk">"mile pe galon(UK)"</string>
+	<!---->
+	<string name="convert_fuel_mpg_us">"mile pe galon(US)"</string>
+	<!-- no translation found for convert_shoes_mem -->
+	<skip />
+	<!-- no translation found for convert_shoes_womem -->
+	<skip />
+	<!---->
+	<string name="splash_tv_open">"Accesare"</string>
+	<!---->
+	<string name="splash_tv_next">"Înainte"</string>
+	<!---->
+	<string name="splash_tv_skip">"Omite"</string>
+	<!---->
+	<string name="splash_tv_calculate_title">"Calculează"</string>
+	<!---->
+	<string name="splash_tv_calculate_content">"Familiarizați-vă cu acest calculator și atingeți butonul sau glisați spre stânga pentru a folosi calculatorul științific."</string>
+	<!---->
+	<string name="splash_tv_currency_title">"Verificare monedă"</string>
+	<!---->
+	<string name="splash_tv_currency_content">"Sunt acceptate monede din peste 150 de țări, iar datele sunt actualizate zilnic. \n(Resursele de date provin de la www.xe.com)"</string>
+	<!---->
+	<string name="splash_tv_convert_title">"Conversie unitate de măsură"</string>
+	<!---->
+	<string name="splash_tv_convert_content">"Lungime? Greutate? Arie? \nConversia unităților de măsură nu mai este o problemă."</string>
+	<!---->
+	<string name="no_internet_access">"Nu există acces la internet"</string>
+	<!---->
+	<string name="updating">"Se actualizează..."</string>
+	<!-- no translation found for search_edit_hint -->
+	<skip />
+	<!---->
+	<string name="bt_right_more">"Mai multe"</string>
+	<!---->
+	<string name="bt_left_more">"Mai multe"</string>
+	<!---->
+	<string name="pop_cancel">"ANULARE"</string>
+	<!---->
+	<string name="pop_ok">"OK"</string>
+</resources>

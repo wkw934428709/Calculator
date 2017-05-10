@@ -1,0 +1,17 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[remote "origin"]
+	fetch = +refs/heads/*:refs/remotes/origin/*
+	url = git@172.16.11.162:genericapp/Calculator.git
+[branch "Calculator_99"]
+	remote = origin
+	merge = refs/heads/Calculator_99
+[branch "Calculator_Master_04"]
+	remote = origin
+	merge = refs/heads/Calculator_Master_04
+[branch "Calculator_Rel3_03"]
+	remote = origin
+	merge = refs/heads/Calculator_Rel3_03

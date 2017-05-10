@@ -1,0 +1,706 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+	<!--
+		this file is built by arct
+	-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<!---->
+	<string name="app_name">"कैलकुलेटर"</string>
+	<!-- no translation found for error_nan -->
+	<skip />
+	<!---->
+	<string name="error_syntax">"त्रुटि"</string>
+	<!-- no translation found for dec_point -->
+	<skip />
+	<!-- no translation found for digit_0 -->
+	<skip />
+	<!-- no translation found for digit_1 -->
+	<skip />
+	<!-- no translation found for digit_2 -->
+	<skip />
+	<!-- no translation found for digit_3 -->
+	<skip />
+	<!-- no translation found for digit_4 -->
+	<skip />
+	<!-- no translation found for digit_5 -->
+	<skip />
+	<!-- no translation found for digit_6 -->
+	<skip />
+	<!-- no translation found for digit_7 -->
+	<skip />
+	<!-- no translation found for digit_8 -->
+	<skip />
+	<!-- no translation found for digit_9 -->
+	<skip />
+	<!-- no translation found for fun_cos -->
+	<skip />
+	<!-- no translation found for fun_ln -->
+	<skip />
+	<!-- no translation found for fun_log -->
+	<skip />
+	<!-- no translation found for fun_sin -->
+	<skip />
+	<!-- no translation found for fun_tan -->
+	<skip />
+	<!-- no translation found for op_inv -->
+	<skip />
+	<!-- no translation found for op_deg -->
+	<skip />
+	<!-- no translation found for op_rad -->
+	<skip />
+	<!-- no translation found for fun_arccos -->
+	<skip />
+	<!-- no translation found for fun_arcsin -->
+	<skip />
+	<!-- no translation found for fun_arctan -->
+	<skip />
+	<!-- no translation found for fun_naturExp -->
+	<skip />
+	<!-- no translation found for fun_comExp -->
+	<skip />
+	<!-- no translation found for fun_sqr -->
+	<skip />
+	<!-- no translation found for clr -->
+	<skip />
+	<!---->
+	<string name="del">"हटाएं"</string>
+	<!-- no translation found for desc_const_e -->
+	<skip />
+	<!-- no translation found for desc_const_pi -->
+	<skip />
+	<!-- no translation found for desc_dec_point -->
+	<skip />
+	<!---->
+	<string name="desc_lparen">"बायां कोष्‍ठक"</string>
+	<!---->
+	<string name="desc_rparen">"दायां कोष्‍ठक"</string>
+	<!-- no translation found for desc_fun_cos -->
+	<skip />
+	<!---->
+	<string name="desc_fun_ln">"स्‍वाभाविक लोगरिद्म"</string>
+	<!-- no translation found for desc_fun_log -->
+	<skip />
+	<!-- no translation found for desc_fun_sin -->
+	<skip />
+	<!-- no translation found for desc_fun_tan -->
+	<skip />
+	<!-- no translation found for desc_op_add -->
+	<skip />
+	<!-- no translation found for desc_op_div -->
+	<skip />
+	<!-- no translation found for desc_op_fact -->
+	<skip />
+	<!-- no translation found for desc_op_mul -->
+	<skip />
+	<!-- no translation found for desc_op_pow -->
+	<skip />
+	<!---->
+	<string name="desc_op_sqrt">"वर्ग मूल"</string>
+	<!-- no translation found for desc_op_sub -->
+	<skip />
+	<!-- no translation found for desc_op_inv -->
+	<skip />
+	<!-- no translation found for desc_op_deg -->
+	<skip />
+	<!-- no translation found for desc_op_rad -->
+	<skip />
+	<!-- no translation found for desc_op_per -->
+	<skip />
+	<!-- no translation found for desc_fun_arcsin -->
+	<skip />
+	<!-- no translation found for desc_fun_arccos -->
+	<skip />
+	<!-- no translation found for desc_fun_arctan -->
+	<skip />
+	<!-- no translation found for desc_fun_naturExp -->
+	<skip />
+	<!-- no translation found for desc_fun_comExp -->
+	<skip />
+	<!-- no translation found for desc_fun_sqr -->
+	<skip />
+	<!-- no translation found for desc_clr -->
+	<skip />
+	<!-- no translation found for desc_del -->
+	<skip />
+	<!-- no translation found for desc_eq -->
+	<skip />
+	<!---->
+	<string name="copy_result_toast">"परिणाम की कॉपी की गई"</string>
+	<!---->
+	<string name="tips_label">"अपना हाल का गणना इतिहास देखने के लिए नीचे स्‍वाइप करें"</string>
+	<!---->
+	<string name="tips_btn_text">"मिल गया"</string>
+	<!---->
+	<string name="no_history">"कोई इतिहास नहीं"</string>
+	<!---->
+	<string name="copy">"कॉपी करें"</string>
+	<!---->
+	<string name="paste">"चिपकाएं"</string>
+	<!---->
+	<string name="swipe_down">"इतिहास के लिए नीचे स्‍वाइप करें"</string>
+	<!---->
+	<string name="swipe_left">"वैज्ञानिक गणना के लिए \n बाएं स्‍वाइप करें"</string>
+	<!-- no translation found for dec_point_rel4 -->
+	<skip />
+	<!-- no translation found for drawer_title -->
+	<skip />
+	<!-- no translation found for drawer_open -->
+	<skip />
+	<!-- no translation found for drawer_close -->
+	<skip />
+	<!-- no translation found for convert_length -->
+	<skip />
+	<!-- no translation found for convert_area -->
+	<skip />
+	<!-- no translation found for convert_mass -->
+	<skip />
+	<!-- no translation found for convert_volume -->
+	<skip />
+	<!-- no translation found for convert_temperature -->
+	<skip />
+	<!-- no translation found for convert_fuel -->
+	<skip />
+	<!-- no translation found for convert_shoes -->
+	<skip />
+	<!-- no translation found for convert_clothes -->
+	<skip />
+	<!-- no translation found for convert_cooking -->
+	<skip />
+	<!-- no translation found for currency_time -->
+	<skip />
+	<!-- no translation found for afghani -->
+	<skip />
+	<!-- no translation found for azerbaijani_manat -->
+	<skip />
+	<!-- no translation found for algerian_dinar -->
+	<skip />
+	<!-- no translation found for aruba_florin -->
+	<skip />
+	<!-- no translation found for argentine_peso -->
+	<skip />
+	<!-- no translation found for albanian_lek -->
+	<skip />
+	<!-- no translation found for australian_dollar -->
+	<skip />
+	<!-- no translation found for cayman_islands_dollar -->
+	<skip />
+	<!-- no translation found for cambodian_riel -->
+	<skip />
+	<!-- no translation found for croatian_kuna -->
+	<skip />
+	<!-- no translation found for czech_koruna -->
+	<skip />
+	<!-- no translation found for cuban_peso -->
+	<skip />
+	<!-- no translation found for costa_rica_colon -->
+	<skip />
+	<!-- no translation found for colombian_peso -->
+	<skip />
+	<!-- no translation found for chilean_peso -->
+	<skip />
+	<!-- no translation found for cape_verde_escudo -->
+	<skip />
+	<!-- no translation found for chinese_yuan -->
+	<skip />
+	<!-- no translation found for indian_rupee -->
+	<skip />
+	<!-- no translation found for canadian_dollar -->
+	<skip />
+	<!-- no translation found for bitcoin -->
+	<skip />
+	<!-- no translation found for bosnian_convertible_mark -->
+	<skip />
+	<!-- no translation found for british_pound -->
+	<skip />
+	<!-- no translation found for burundi_franc -->
+	<skip />
+	<!-- no translation found for bulgarian_lev -->
+	<skip />
+	<!-- no translation found for brunei_dollar -->
+	<skip />
+	<!-- no translation found for brazilian_real -->
+	<skip />
+	<!-- no translation found for botswanna_pula -->
+	<skip />
+	<!-- no translation found for bolivian_boliviano -->
+	<skip />
+	<!-- no translation found for bhutan_ngultrum -->
+	<skip />
+	<!-- no translation found for bermuda_dollar -->
+	<skip />
+	<!-- no translation found for belize_dollar -->
+	<skip />
+	<!-- no translation found for belarus_ruble -->
+	<skip />
+	<!-- no translation found for barbados_dollar -->
+	<skip />
+	<!-- no translation found for bangladesh_taka -->
+	<skip />
+	<!-- no translation found for bahraini_dinar -->
+	<skip />
+	<!-- no translation found for bahamian_dollar -->
+	<skip />
+	<!-- no translation found for angolan_kwanza -->
+	<skip />
+	<!-- no translation found for armenian_dram -->
+	<skip />
+	<!-- no translation found for iraqi_dinar -->
+	<skip />
+	<!-- no translation found for iranian_rial -->
+	<skip />
+	<!-- no translation found for iceland_krona -->
+	<skip />
+	<!-- no translation found for indonesian_rupiah -->
+	<skip />
+	<!-- no translation found for hungarian_forint -->
+	<skip />
+	<!-- no translation found for honduras_lempira -->
+	<skip />
+	<!-- no translation found for haiti_gourde -->
+	<skip />
+	<!-- no translation found for hongkong_dollar -->
+	<skip />
+	<!-- no translation found for gold -->
+	<skip />
+	<!-- no translation found for ghanaian_cedi -->
+	<skip />
+	<!-- no translation found for georgian_lari -->
+	<skip />
+	<!-- no translation found for guyana_dollar -->
+	<skip />
+	<!-- no translation found for guinea_franc -->
+	<skip />
+	<!-- no translation found for guatemala_quetzal -->
+	<skip />
+	<!-- no translation found for gibraltar_pound -->
+	<skip />
+	<!-- no translation found for gambian_dalasi -->
+	<skip />
+	<!-- no translation found for fiji_dollar -->
+	<skip />
+	<!-- no translation found for falkland_islands_pound -->
+	<skip />
+	<!-- no translation found for east_caribbean_dollar -->
+	<skip />
+	<!-- no translation found for ethiopian_birr -->
+	<skip />
+	<!-- no translation found for eritrea_nakfa -->
+	<skip />
+	<!-- no translation found for egyptian_pound -->
+	<skip />
+	<!-- no translation found for euro -->
+	<skip />
+	<!-- no translation found for dominican_peso -->
+	<skip />
+	<!-- no translation found for djibout_franc -->
+	<skip />
+	<!-- no translation found for danish_krone -->
+	<skip />
+	<!-- no translation found for congolese_frank -->
+	<skip />
+	<!-- no translation found for cfa_francl_beac -->
+	<skip />
+	<!-- no translation found for cfa_franc_bceao -->
+	<skip />
+	<!-- no translation found for comoros_franc -->
+	<skip />
+	<!-- no translation found for namibian_dollar -->
+	<skip />
+	<!-- no translation found for north_korean_won -->
+	<skip />
+	<!-- no translation found for neth_antilles_guilder -->
+	<skip />
+	<!-- no translation found for mozambican_metical -->
+	<skip />
+	<!-- no translation found for malagasy_ariary -->
+	<skip />
+	<!-- no translation found for myanmar_kyat -->
+	<skip />
+	<!-- no translation found for moroccan_dirham -->
+	<skip />
+	<!-- no translation found for mongolian_tugrik -->
+	<skip />
+	<!-- no translation found for moldovan_leu -->
+	<skip />
+	<!-- no translation found for mexican_peso -->
+	<skip />
+	<!-- no translation found for mauritius_rupee -->
+	<skip />
+	<!-- no translation found for mauritanian_ougulya -->
+	<skip />
+	<!-- no translation found for maldives_rufiyaa -->
+	<skip />
+	<!-- no translation found for malaysian_ringgit -->
+	<skip />
+	<!-- no translation found for malawi_kwacha -->
+	<skip />
+	<!-- no translation found for macedonian_denar -->
+	<skip />
+	<!-- no translation found for macau_pataca -->
+	<skip />
+	<!-- no translation found for libyan_dinar -->
+	<skip />
+	<!-- no translation found for leberian_dollar -->
+	<skip />
+	<!-- no translation found for lesotho_loti -->
+	<skip />
+	<!-- no translation found for lebanese_pound -->
+	<skip />
+	<!-- no translation found for lao_kipi -->
+	<skip />
+	<!-- no translation found for kyrgyzstani_som -->
+	<skip />
+	<!-- no translation found for kazakhstani_tenge -->
+	<skip />
+	<!-- no translation found for kuwaiti_dinar -->
+	<skip />
+	<!-- no translation found for kenyan_shilling -->
+	<skip />
+	<!-- no translation found for jordanian_dinar -->
+	<skip />
+	<!-- no translation found for jamaican_dollar -->
+	<skip />
+	<!-- no translation found for japanese_yen -->
+	<skip />
+	<!-- no translation found for israeli_shekel -->
+	<skip />
+	<!-- no translation found for st_henlena_pound -->
+	<skip />
+	<!-- no translation found for somali_shilling -->
+	<skip />
+	<!-- no translation found for solomon_islands_dollar -->
+	<skip />
+	<!-- no translation found for singapore_dollar -->
+	<skip />
+	<!-- no translation found for sierra_leone_leone -->
+	<skip />
+	<!-- no translation found for seychelles_rupee -->
+	<skip />
+	<!-- no translation found for saudi_arabian_riyal -->
+	<skip />
+	<!-- no translation found for sao_tome_dobra -->
+	<skip />
+	<!-- no translation found for sri_lanka_rupee -->
+	<skip />
+	<!-- no translation found for south_korean_won -->
+	<skip />
+	<!-- no translation found for swiss_franc -->
+	<skip />
+	<!-- no translation found for rwanda_franc -->
+	<skip />
+	<!-- no translation found for russian_rouble -->
+	<skip />
+	<!-- no translation found for romanian_new_leu -->
+	<skip />
+	<!-- no translation found for qatar_rial -->
+	<skip />
+	<!-- no translation found for platinum -->
+	<skip />
+	<!-- no translation found for pacific_franc -->
+	<skip />
+	<!-- no translation found for polish_zloty -->
+	<skip />
+	<!-- no translation found for philippine_peso -->
+	<skip />
+	<!-- no translation found for peruvian_nuevo_sol -->
+	<skip />
+	<!-- no translation found for paraguayan_guarani -->
+	<skip />
+	<!-- no translation found for papua_new_guinea_kina -->
+	<skip />
+	<!-- no translation found for panama_balboa -->
+	<skip />
+	<!-- no translation found for pakistani_rupee -->
+	<skip />
+	<!-- no translation found for omani_rial -->
+	<skip />
+	<!-- no translation found for norwegian_krone -->
+	<skip />
+	<!-- no translation found for nigerian_naira -->
+	<skip />
+	<!-- no translation found for nicaragua_cordoba -->
+	<skip />
+	<!-- no translation found for new_zealand_dollar -->
+	<skip />
+	<!-- no translation found for nepalese_rupee -->
+	<skip />
+	<!-- no translation found for zibabwe_dollar -->
+	<skip />
+	<!-- no translation found for zabian_kwacha -->
+	<skip />
+	<!-- no translation found for yemen_riyal -->
+	<skip />
+	<!-- no translation found for venezuelan_bolivar_fuetre -->
+	<skip />
+	<!-- no translation found for vanuatu_vatu -->
+	<skip />
+	<!-- no translation found for vietnam_dong -->
+	<skip />
+	<!-- no translation found for uzbekistani_som -->
+	<skip />
+	<!-- no translation found for uruguayan_new_peso -->
+	<skip />
+	<!-- no translation found for ukraine_hryvnia -->
+	<skip />
+	<!-- no translation found for ugandan_shilling -->
+	<skip />
+	<!-- no translation found for united_states_dollar -->
+	<skip />
+	<!-- no translation found for uae_dirham -->
+	<skip />
+	<!-- no translation found for turkmenistani_manet -->
+	<skip />
+	<!-- no translation found for tajikistani_somoni -->
+	<skip />
+	<!-- no translation found for tunisian_dinar -->
+	<skip />
+	<!-- no translation found for trinnidad_tobago_dollar -->
+	<skip />
+	<!-- no translation found for tonga_pa_ang -->
+	<skip />
+	<!-- no translation found for tanzanian_shilling -->
+	<skip />
+	<!-- no translation found for turkish_lira -->
+	<skip />
+	<!-- no translation found for taiwan_dollar -->
+	<skip />
+	<!-- no translation found for thai_baht -->
+	<skip />
+	<!-- no translation found for Silver -->
+	<skip />
+	<!-- no translation found for serbian_dinars -->
+	<skip />
+	<!-- no translation found for surinam_florin -->
+	<skip />
+	<!-- no translation found for south_african_rand -->
+	<skip />
+	<!-- no translation found for samoa_tala -->
+	<skip />
+	<!-- no translation found for syrian_pound -->
+	<skip />
+	<!-- no translation found for swedish_krona -->
+	<skip />
+	<!-- no translation found for swaziland_lilageni -->
+	<skip />
+	<!-- no translation found for sudanese_pound -->
+	<skip />
+	<!-- no translation found for au_1 -->
+	<skip />
+	<!-- no translation found for btb -->
+	<skip />
+	<!-- no translation found for ag_2 -->
+	<skip />
+	<!-- no translation found for pt_3 -->
+	<skip />
+	<!-- no translation found for convert_category_length -->
+	<skip />
+	<!-- no translation found for convert_length_mm -->
+	<skip />
+	<!-- no translation found for convert_length_cm -->
+	<skip />
+	<!-- no translation found for convert_length_m -->
+	<skip />
+	<!-- no translation found for convert_length_km -->
+	<skip />
+	<!-- no translation found for convert_length_mi -->
+	<skip />
+	<!-- no translation found for convert_length_yd -->
+	<skip />
+	<!-- no translation found for convert_length_ft -->
+	<skip />
+	<!-- no translation found for convert_length_in -->
+	<skip />
+	<!-- no translation found for convert_length_kt -->
+	<skip />
+	<!-- no translation found for convert_category_area -->
+	<skip />
+	<!-- no translation found for convert_area_mm2 -->
+	<skip />
+	<!-- no translation found for convert_area_cm2 -->
+	<skip />
+	<!-- no translation found for convert_area_m2 -->
+	<skip />
+	<!-- no translation found for convert_area_in2 -->
+	<skip />
+	<!-- no translation found for convert_area_ft2 -->
+	<skip />
+	<!-- no translation found for convert_area_yd2 -->
+	<skip />
+	<!-- no translation found for convert_area_ha -->
+	<skip />
+	<!-- no translation found for convert_area_km2 -->
+	<skip />
+	<!-- no translation found for convert_area_ac -->
+	<skip />
+	<!-- no translation found for convert_area_mi2 -->
+	<skip />
+	<!-- no translation found for convert_category_mass -->
+	<skip />
+	<!-- no translation found for convert_mass_mg -->
+	<skip />
+	<!-- no translation found for convert_mass_g -->
+	<skip />
+	<!-- no translation found for convert_mass_kg -->
+	<skip />
+	<!-- no translation found for convert_mass_t -->
+	<skip />
+	<!-- no translation found for convert_mass_tonuk -->
+	<skip />
+	<!-- no translation found for convert_mass_tonus -->
+	<skip />
+	<!-- no translation found for convert_mass_lb -->
+	<skip />
+	<!-- no translation found for convert_mass_oz -->
+	<skip />
+	<!-- no translation found for convert_mass_st -->
+	<skip />
+	<!-- no translation found for convert_mass_ct -->
+	<skip />
+	<!-- no translation found for convert_category_temperature -->
+	<skip />
+	<!-- no translation found for convert_temp_c -->
+	<skip />
+	<!-- no translation found for convert_temp_f -->
+	<skip />
+	<!-- no translation found for convert_temp_k -->
+	<skip />
+	<!-- no translation found for convert_category_volume -->
+	<skip />
+	<!-- no translation found for convert_volume_mm3 -->
+	<skip />
+	<!-- no translation found for convert_volume_cm3 -->
+	<skip />
+	<!-- no translation found for convert_volume_dm3 -->
+	<skip />
+	<!-- no translation found for convert_volume_m3 -->
+	<skip />
+	<!-- no translation found for convert_volume_ml -->
+	<skip />
+	<!-- no translation found for convert_volume_liter -->
+	<skip />
+	<!-- no translation found for convert_volume_ft3 -->
+	<skip />
+	<!-- no translation found for convert_volume_in3 -->
+	<skip />
+	<!-- no translation found for convert_volume_gal_us -->
+	<skip />
+	<!-- no translation found for convert_volume_qt_us -->
+	<skip />
+	<!-- no translation found for convert_volume_pt_us -->
+	<skip />
+	<!-- no translation found for convert_volume_oz_us -->
+	<skip />
+	<!-- no translation found for convert_volume_cup_us -->
+	<skip />
+	<!-- no translation found for convert_volume_tbsp_us -->
+	<skip />
+	<!-- no translation found for convert_volume_tsp_us -->
+	<skip />
+	<!-- no translation found for convert_volume_gal_uk -->
+	<skip />
+	<!-- no translation found for convert_volume_qt_uk -->
+	<skip />
+	<!-- no translation found for convert_volume_pt_uk -->
+	<skip />
+	<!-- no translation found for convert_volume_oz_uk -->
+	<skip />
+	<!-- no translation found for convert_volume_cup_uk -->
+	<skip />
+	<!-- no translation found for convert_volume_tbsp_uk -->
+	<skip />
+	<!-- no translation found for convert_volume_tsp_uk -->
+	<skip />
+	<!-- no translation found for convert_volume_dr -->
+	<skip />
+	<!-- no translation found for convert_volume_bbl -->
+	<skip />
+	<!-- no translation found for convert_volume_cord -->
+	<skip />
+	<!-- no translation found for convert_volume_gill -->
+	<skip />
+	<!-- no translation found for convert_category_cooking -->
+	<skip />
+	<!-- no translation found for convert_cooking_milliliter -->
+	<skip />
+	<!-- no translation found for convert_cooking_gal_us -->
+	<skip />
+	<!-- no translation found for convert_cooking_qt_us -->
+	<skip />
+	<!-- no translation found for convert_cooking_pt_us -->
+	<skip />
+	<!-- no translation found for convert_cooking_oz_us -->
+	<skip />
+	<!-- no translation found for convert_cooking_floz_us -->
+	<skip />
+	<!-- no translation found for convert_cooking_cup_us -->
+	<skip />
+	<!-- no translation found for convert_cooking_tbsp_us -->
+	<skip />
+	<!-- no translation found for convert_cooking_tsp_us -->
+	<skip />
+	<!-- no translation found for convert_cooking_gal_uk -->
+	<skip />
+	<!-- no translation found for convert_cooking_qt_uk -->
+	<skip />
+	<!-- no translation found for convert_cooking_pt_uk -->
+	<skip />
+	<!-- no translation found for convert_cooking_floz_uk -->
+	<skip />
+	<!-- no translation found for convert_cooking_oz_uk -->
+	<skip />
+	<!-- no translation found for convert_cooking_cup_uk -->
+	<skip />
+	<!-- no translation found for convert_cooking_tbsp_uk -->
+	<skip />
+	<!-- no translation found for convert_cooking_tsp_uk -->
+	<skip />
+	<!-- no translation found for convert_category_fuel -->
+	<skip />
+	<!-- no translation found for convert_fuel_galperhundredmile_uk -->
+	<skip />
+	<!-- no translation found for convert_fuel_galperhundredmile_us -->
+	<skip />
+	<!-- no translation found for convert_fuel_kilometerperliter -->
+	<skip />
+	<!-- no translation found for convert_fuel_literperhundredkilometer -->
+	<skip />
+	<!-- no translation found for convert_fuel_mpg_uk -->
+	<skip />
+	<!-- no translation found for convert_fuel_mpg_us -->
+	<skip />
+	<!-- no translation found for convert_shoes_mem -->
+	<skip />
+	<!-- no translation found for convert_shoes_womem -->
+	<skip />
+	<!-- no translation found for splash_tv_open -->
+	<skip />
+	<!---->
+	<string name="splash_tv_next">"अगला"</string>
+	<!---->
+	<string name="splash_tv_skip">"छोड़ें"</string>
+	<!-- no translation found for splash_tv_calculate_title -->
+	<skip />
+	<!-- no translation found for splash_tv_calculate_content -->
+	<skip />
+	<!-- no translation found for splash_tv_currency_title -->
+	<skip />
+	<!-- no translation found for splash_tv_currency_content -->
+	<skip />
+	<!-- no translation found for splash_tv_convert_title -->
+	<skip />
+	<!-- no translation found for splash_tv_convert_content -->
+	<skip />
+	<!-- no translation found for no_internet_access -->
+	<skip />
+	<!---->
+	<string name="updating">"अपडेट हो रहा है..."</string>
+	<!-- no translation found for search_edit_hint -->
+	<skip />
+	<!-- no translation found for bt_right_more -->
+	<skip />
+	<!-- no translation found for bt_left_more -->
+	<skip />
+	<!---->
+	<string name="pop_cancel">"रद्द करें"</string>
+	<!---->
+	<string name="pop_ok">"ठीक"</string>
+</resources>

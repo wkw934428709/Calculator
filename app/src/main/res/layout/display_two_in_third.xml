@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<com.tct.calculator.view.DisplayOverlay xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/display"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <include layout="@layout/graph_display" />
+
+        <RelativeLayout
+            android:id="@+id/mainDisplay"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            >
+            <!--PR546831 [Android 5.1][ Calculator_v5.2.1.2.0304.0] The result can be copyed At same time. add splitMotionEvents =false.update by xiaolu.li 2/9/2015-->
+
+            <com.tct.calculator.view.MyRecyclerView
+                android:id="@+id/historyRecycler"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:background="@color/history_background_color"
+                android:fadeScrollbars="true"
+                android:scrollbars="vertical"
+                android:splitMotionEvents="false" />
+            <!-- TS: tianjing.su 2015-12-11 EMAIL BUGFIX-1273635 ADD_S -->
+            <FrameLayout
+                android:id="@+id/ll_formula_result_container"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/historyRecycler"
+                >
+
+                <FrameLayout
+                    android:id="@+id/blank_space"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@android:color/white"
+                    />
+
+                <RelativeLayout
+                    android:id="@+id/ll_formula_result"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:elevation="4dip">
+                    <!-- TS: kaifeng.lu 2016-01-22 EMAIL BUGFIX-1273635 ADD_E -->
+                    <com.tct.calculator.CalculatorEditText
+                        android:id="@+id/formula"
+                        style="@style/DisplayEditTextStyle.Formula.TwoInThree"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:focusable="false"
+                        android:inputType="text|textNoSuggestions"
+                        android:onClick="onArea2Click"
+                        android:textColor="@color/display_formula_text_color"
+                        android:textColorHighlight="@color/display_formula_text_highlight_color"/>
+
+                    <com.tct.calculator.CalculatorEditText
+                        android:id="@+id/result"
+                        style="@style/DisplayEditTextStyle.Result.TwoInThree"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@id/formula"
+                        android:focusable="false"
+                        android:inputType="none"
+                        android:onClick="onArea2Click"
+                        android:textColor="@color/display_result_text_color"
+                        android:textColorHighlight="@color/display_result_text_highlight_color"/>
+                    <!-- TS: tianjing.su 2015-12-11 EMAIL BUGFIX-1074185 ADD_S -->
+                    <LinearLayout
+                        android:id="@+id/copy_paste"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        style="@style/CopyPastLocationStyle"
+                        android:gravity="right">
+                        <!-- TS: tianjing.su 2015-12-11 EMAIL BUGFIX-1074185 ADD_E -->
+                        <Button
+                            android:id="@+id/formula_copy_btn"
+                            style="@style/copyPasteButtonStyle"
+                            android:onClick="onArea2Click"
+                            android:visibility="gone"
+                            android:text="@string/copy" />
+
+                        <Button
+                            android:id="@+id/formula_paste_btn"
+                            style="@style/copyPasteButtonStyle"
+                            android:onClick="onArea2Click"
+                            android:visibility="gone"
+                            android:text="@string/paste" />
+
+                    </LinearLayout>
+                    <!-- TS: tianjing.su 2015-12-11 EMAIL BUGFIX-1074185 MOD_S -->
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        style="@style/CopyLocationStyle"
+                        android:gravity="right">
+                        <Button
+                            android:id="@+id/result_copy_btn"
+                            style="@style/copyPasteButtonStyle"
+                            android:layout_alignRight="@+id/result"
+                            android:onClick="onArea2Click"
+                            android:visibility="gone"
+                            android:text="@string/copy" />
+                    </LinearLayout>
+                    <!-- TS: tianjing.su 2015-12-11 EMAIL BUGFIX-1074185 MOD_E -->
+                </RelativeLayout>
+            </FrameLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/historyRecycler"
+                android:focusable="false">
+                <!-- TS: jian.xu 2015-12-04 EMAIL BUGFIX-958406 MOD_S -->
+                <TextView
+                    android:id="@+id/tv_deg"
+                    style="@style/TwoInThirdDisplayDegreeTextStyle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/op_deg"
+                    android:textColor="@color/display_formula_text_color"
+                    android:visibility="gone" />
+
+                <TextView
+                    android:id="@+id/tv_rad"
+                    style="@style/TwoInThirdDisplayDegreeTextStyle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/op_rad"
+                    android:textColor="@color/display_formula_text_color"
+                    android:visibility="gone" />
+                <!-- TS: jian.xu 2015-12-04 EMAIL BUGFIX-958406 MOD_E -->
+            </RelativeLayout>
+
+        </RelativeLayout>
+
+    </FrameLayout>
+
+</com.tct.calculator.view.DisplayOverlay>

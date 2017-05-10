@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="728d86edbdfb1ba23a8e82cd1e3bb6fa5216137a">
+        <dex dex="/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_44d1521ea541f06c84c26b79aafd6ac0236d94a8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
+        <dex dex="/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.0.0_4ceada166def6c551e94e5c66d2af77ff21df2cf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_fcb265e90e4173066be63fcc67177eedf4b853b9/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
+        <dex dex="/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.0.0_4ceada166def6c551e94e5c66d2af77ff21df2cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0_fcb265e90e4173066be63fcc67177eedf4b853b9.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.0.0_822d4de1c69f2e885122e50ef8a4139f5c64e8f2/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.0.0_9073dbd1c271c099e68d3ab029d953428ab08202.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.0.0_822d4de1c69f2e885122e50ef8a4139f5c64e8f2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kevin/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.0.0_30464db8380937bf5cc4791a1aa71863662be5a8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.0.0_9073dbd1c271c099e68d3ab029d953428ab08202/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.0.0_a5351d0ebd3c5af264b27134b5b33a9b92b304a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kevin/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/pre-dexed/debug/support-annotations-24.0.0_30464db8380937bf5cc4791a1aa71863662be5a8.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.0.0_a5351d0ebd3c5af264b27134b5b33a9b92b304a8/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/libs/statistics-sdk-v2.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="00fafd89852a818d7d5a2ce391a87d86cb63cee0">
+        <dex dex="/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/pre-dexed/debug/statistics-sdk-v2.0.3_046bb1a8bbdb7117defae38c5440a29fe3aa9c24.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/exploded-aar/com.tcl.update/mie_updateSdk/1.1.0/jars/libs/tcl-database.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d3cba5b359ba07f0fd41e6c8c94b013ea3042c1b">
+        <dex dex="/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/tcl-database_4b5af23ea43dc5ba3b7e2741a18a7103174a52a3/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/exploded-aar/ca.barrenechea.header-decor/header-decor/0.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="70bb6f082ac0d88b9e1610ff280875c8f96c9efb">
+        <dex dex="/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/pre-dexed/debug/ca.barrenechea.header-decor-header-decor-0.2.6_7b23e52bb5b8316d26b0a6d037ed9005abd3d0b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/libs/arity-2.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8eb09b5b5361ca0997fda3c9def6000db6b9375f">
+        <dex dex="/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/pre-dexed/debug/arity-2.1.2_c09847491b18133d99b26643be1db5841e11c905.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/exploded-aar/com.tcl.update/mie_updateSdk/1.1.0/jars/libs/tcl-database.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d3cba5b359ba07f0fd41e6c8c94b013ea3042c1b">
+        <dex dex="/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/pre-dexed/debug/tcl-database_4b5af23ea43dc5ba3b7e2741a18a7103174a52a3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/libs/statistics-sdk-v2.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="00fafd89852a818d7d5a2ce391a87d86cb63cee0">
+        <dex dex="/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/2/statistics-sdk-v2.0.3_046bb1a8bbdb7117defae38c5440a29fe3aa9c24/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.0.0_76c6adf926f730c229ab7fafe741b11d0d4843b3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/libs/arity-2.1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8eb09b5b5361ca0997fda3c9def6000db6b9375f">
+        <dex dex="/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/2/arity-2.1.2_c09847491b18133d99b26643be1db5841e11c905/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.0.0_76c6adf926f730c229ab7fafe741b11d0d4843b3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ec9ec9885f7f100fb1e326ae476a91c691ca1c09">
+        <dex dex="/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_3b3e9d5afc6e107730b27b1d8514a2a1bb7c1c74/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/exploded-aar/com.tcl.update/mie_updateSdk/1.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f165e5dd50eb7ad367faee404073a63c96b6ba93">
+        <dex dex="/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.tcl.update-mie_updateSdk-1.1.0_ae0c77a0fcfb27a9caf0bf7a6b0b9b573fde8e89/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/exploded-aar/ca.barrenechea.header-decor/header-decor/0.2.6/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="70bb6f082ac0d88b9e1610ff280875c8f96c9efb">
+        <dex dex="/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/ca.barrenechea.header-decor-header-decor-0.2.6_7b23e52bb5b8316d26b0a6d037ed9005abd3d0b1/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/exploded-aar/com.tcl.update/mie_updateSdk/1.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f165e5dd50eb7ad367faee404073a63c96b6ba93">
+        <dex dex="/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/pre-dexed/debug/com.tcl.update-mie_updateSdk-1.1.0_ae0c77a0fcfb27a9caf0bf7a6b0b9b573fde8e89.jar" />
+    </item>
+
+</items>

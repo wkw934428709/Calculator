@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">"Kisitsissut"</string>
+    <string name="desc_fun_ln">"naturlig logaritme"</string>
+    <string name="desc_lparen">"parentes-i saamianiittoq"</string>
+    <string name="desc_op_sqrt">"kvadratrod"</string>
+    <string name="desc_rparen">"parentes-i talerpianiittoq"</string>
+    <string name="error_syntax">"Ajortoqarpoq"</string>
+    <string name="paste">"Iliuk"</string>
+    <string name="pop_ok">"OK"</string>
+    <string name="splash_tv_next">"Tullia"</string>
+</resources>

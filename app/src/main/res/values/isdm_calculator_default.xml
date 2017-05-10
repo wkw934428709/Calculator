@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <bool name="def_jrdcalculator_hawkeye_enable">true</bool>
+
+    <bool name="def_jrdcalculator_upgrade_enable">true</bool>
+
+    <!--used to switch the hawkeyes sdk's server form "China", "Russia", "NorthAmerica", "Europe"-->
+    <string name="def_jrdcalculator_hawkeye_server_path">"Europe"</string>
+
+</resources>

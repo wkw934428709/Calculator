@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Copyright (C) 2014 The Android Open Source Project
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+  -->
+
+<resources>
+
+    <!-- Default background color for the status bar. -->
+    <!--<color name="calculator_accent_color">#0288d1</color>-->
+    <color name="calculator_accent_color">#20182023</color>
+
+    <!-- Color to indicate an error has occured. -->
+    <color name="calculator_error_color">#F40056</color>
+
+    <!-- modify the color style for wave5 by ting.ma at 2014.1.26 begin -->
+    <!-- Background color of the calculator display. -->
+    <!-- <color name="display_background_color">#FFF</color> -->
+    <color name="display_background_color">#ffffff</color>
+
+    <!-- Text color for the formula in the calculator display. -->
+    <!-- <color name="display_formula_text_color">#8A000000</color> -->
+    <color name="display_formula_text_color">#88000000</color>
+
+    <color name="display_formula_hint_text_color">#99838B8B</color>
+
+    <!-- Text color for the result in the calculator display. -->
+    <!-- <color name="display_result_text_color">#6C000000</color> -->
+    <color name="display_result_text_color">#3e000000</color>
+
+    <color name="display_formula_text_highlight_color">#81d4fa</color>
+    <color name="display_result_text_highlight_color">#81d4fa</color>
+    <!-- Background color for the numeric pad. -->
+    <!-- <color name="pad_numeric_background_color">#434343</color>  -->
+    <color name="pad_numeric_background_color">#455a64</color>
+
+    <!-- Background color for the operator pad. -->
+    <!-- <color name="pad_operator_background_color">#636363</color> -->
+    <!-- <color name="pad_operator_background_color">#00bcd4</color>  -->
+    <color name="pad_operator_background_color">#607d8b</color>
+
+    <!-- Background color for the advanced pad. -->
+    <!-- <color name="pad_advanced_background_color">#1DE9B6</color> -->
+    <!-- <color name="pad_advanced_background_color">#e0e0e0</color> -->
+    <color name="pad_advanced_background_color">#03a9f4</color>
+
+    <!-- Text color for a button in a pad. -->
+    <!-- <color name="pad_button_text_color">#FFF</color> -->
+    <color name="pad_button_text_color">#000000</color>
+
+    <!-- Text color for a button in the advanced pad. -->
+    <!-- <color name="pad_button_advanced_text_color">#91000000</color> -->
+    <color name="pad_button_advanced_text_color">#ffffff</color>
+    <!-- modify the color style for wave5 by ting.ma at 2014.1.26 end -->
+
+    <!-- Ripple color when a button is pressed in a pad. -->
+    <!-- PR924466 There is no shadow when tapping on by ting.ma at 2015.02.05 begin -->
+    <!-- <color name="pad_button_ripple_color">#33FFFFFF</color> -->
+    <color name="pad_button_ripple_color">#1A000000</color>
+    <!-- PR924466 There is no shadow when tapping on by ting.ma at 2015.02.05 end -->
+
+    <!-- Add background for log image -->
+    <color name="pad_log_ripple_color">#88000000</color>
+
+    <!-- Ripple color when a button is pressed in a pad. -->
+    <color name="pad_button_advanced_ripple_color">#1A000000</color>
+
+    <!--update by xlli aug 19 2015 CR996836  CR996834 Start-->
+    <color name="delete_background">#03a9f4</color>
+    <color name="tip_label_text_color">#FFFFFF</color>
+    <color name="tip_btn_ripple_color">#32ffffff</color>
+    <color name="tip_btn_text_color">#FFFFFF</color>
+    <color name="tip_btn_background_color">#80CBC4</color>
+    <color name="history_formula_text_color">#88000000</color>
+    <color name="history_result_text_color">#88000000</color>
+    <color name="history_background_color">#ffffff</color>
+    <color name="historyhead_background">#2B2D41</color>
+    <color name="historyhead_ripple_color">#32ffffff</color>
+    <color name="history_focu_background_color">#EEF8EE</color>
+    <color name="history_divide">#DDF0DD</color>
+    <color name="display_longclick_background_color">#81d4fa</color>
+    <color name="display_copy_paste_text_color">#009688</color>
+    <color name="anim_text_color">#ffffff</color>
+    <!--PR557458 START change copy&paste button background and textcolor. update by xiaolu.li SEPT 6 2015 -->
+    <color name="display_copy_paste_text_focus_color">#FFFFFF</color>
+    <!--PR557458 END change copy&paste button background and textcolor. update by xiaolu.li SEPT 6 2015 -->
+    <!--update by xlli aug 19 2015 CR996836  CR996834 End-->
+    <color name="splash_background">#3DBFF0</color>
+
+
+    <!--new design-->
+    <color name="colorPrimaryGray">#B7B7B7</color>
+    <color name="colorPrimaryRed">#F08080</color>
+    <color name="color_green">#20904D</color>
+    <color name="color_green_button">#1FA04F</color>
+    <color name="colorPrimaryDarkGreen">#272A3B</color>
+    <color name="color_green_pressed">#66bb6a</color>
+    <color name="color_light_green">#edf7ee</color>
+    <color name="color_history_unpressed">#edf7ee</color>
+    <color name="color_history_pressed">#4caf50</color>
+    <color name="color_keyboard_bg">#EDF7ED</color>
+    <color name="color_keyboard_bg_more_dark">#292A3E</color>
+    <color name="color_calculator_wheel_item">#747474</color>
+    <color name="convert_top_item_color">#767676</color>
+
+    <color name="state_bar_color">#2F000000</color>
+
+    <!-- calculator log background -->
+    <color name="color_calculator_log_bg">#2B2D41</color>
+
+    <!-- calculator advenced's status bar background -->
+    <color name="color_status_bar_advenced_bg">#2B2D41</color>
+    
+    <array name="color_transparency">#00000000</array>
+
+</resources>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <include
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/display"
+            layout="@layout/display" />
+
+        <com.tct.calculator.CalculatorPadViewPager
+            android:id="@+id/pad_pager"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@id/display"
+            android:overScrollMode="never">
+
+            <!--<LinearLayout-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="match_parent">-->
+
+            <!--<include-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="match_parent"-->
+            <!--layout="@layout/pad_calculator" />-->
+
+            <!--&lt;!&ndash;<include layout="@layout/pad_operator_one_col" />&ndash;&gt;-->
+
+            <!--</LinearLayout>-->
+
+            <!--&lt;!&ndash;<include layout="@layout/pad_advanced" />&ndash;&gt;-->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+                <include
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    layout="@layout/pad_calculator"/>
+            </LinearLayout>
+
+            <include
+                android:id="@+id/calculator_advenced"
+                layout="@layout/pad_calculator_advenced"/>
+        </com.tct.calculator.CalculatorPadViewPager>
+
+    </RelativeLayout>
+</FrameLayout>

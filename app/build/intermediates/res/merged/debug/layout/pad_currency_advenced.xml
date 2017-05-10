@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/currency_expand_bg"
+    android:orientation="vertical">
+
+
+    <com.tct.calculator.view.TableLinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <LinearLayout
+        android:id="@+id/currency_advenced_guide"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/tv_oneweek"
+            style="@style/CurrencyExpandGuideStyle"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="7D" />
+
+        <TextView
+            android:id="@+id/tv_onemonth"
+            style="@style/CurrencyExpandGuideStyle"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="1M" />
+
+        <TextView
+            android:id="@+id/tv_sixmonth"
+            style="@style/CurrencyExpandGuideStyle"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="6M" />
+
+        <TextView
+            android:id="@+id/tv_oneyear"
+            style="@style/CurrencyExpandGuideStyle"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="1Y" />
+    </LinearLayout>
+
+    <com.tct.calculator.view.CurrencyChartView
+        android:id="@+id/currency_charview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/currency_advenced_button"
+        android:layout_below="@+id/currency_advenced_guide"
+        android:layout_marginTop="10dp" />
+
+
+    <LinearLayout
+        android:id="@+id/currency_advenced_button"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/currency_advence_pad_button_height"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/currency_char_button_bg"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="L:"
+                android:ellipsize="end"
+                android:textColor="@color/white"
+                android:textSize="@dimen/currency_advence_pad_button_textsize" />
+
+            <TextView
+                android:id="@+id/charviewlow"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/white"
+                android:textSize="@dimen/currency_advence_pad_button_textsize" />
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="H:"
+                android:ellipsize="end"
+                android:textColor="@color/white"
+                android:textSize="@dimen/currency_advence_pad_button_textsize" />
+
+            <TextView
+                android:id="@+id/charviewhigh"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/white"
+                android:textSize="@dimen/currency_advence_pad_button_textsize" />
+
+        </LinearLayout>
+    </LinearLayout>
+</RelativeLayout>

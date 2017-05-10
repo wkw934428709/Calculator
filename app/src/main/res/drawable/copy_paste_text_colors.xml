@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--PR557458 change copy&paste button background and textcolor. update by xiaolu.li SEPT 6 2015 -->
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:color="@color/display_copy_paste_text_focus_color" android:state_pressed="true" />
+    <item android:color="@color/display_copy_paste_text_focus_color" android:state_enabled="false" />
+    <item android:color="@color/display_copy_paste_text_color" />
+</selector>

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/text_edit_paste_window_p.9.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/text_edit_paste_window_p.9.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/text_edit_paste_window.9.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/text_edit_paste_window.9.png"
+    },
+    {
+        "merged": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/button_line.9.png",
+        "source": "/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/src/main/res/drawable-xxxhdpi/button_line.9.png"
+    }
+]

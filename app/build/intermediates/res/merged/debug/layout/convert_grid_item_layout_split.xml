@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    android:background="@android:color/transparent"
+    android:focusable="false">
+
+    <RelativeLayout
+        android:id="@+id/grid_item_program_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerInParent="true"
+        android:focusable="false">
+
+        <ImageView
+            android:id="@+id/program_icon"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="15dp"
+            android:focusable="false"
+            android:scaleType="fitCenter"
+            android:src="@drawable/ic_no_history" />
+
+        <TextView
+            android:id="@+id/program_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/program_icon"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="5dp"
+            android:focusable="false"
+            android:singleLine="true"
+            android:text="Volume"
+            android:textColor="@android:color/white"
+            android:textSize="13sp" />
+    </RelativeLayout>
+
+</RelativeLayout>

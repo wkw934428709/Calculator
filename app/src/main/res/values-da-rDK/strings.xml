@@ -1,0 +1,706 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+	<!--
+		this file is built by arct
+	-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<!---->
+	<string name="app_name">"Lommeregner"</string>
+	<!---->
+	<string name="error_nan">"Ikke et nummer"</string>
+	<!---->
+	<string name="error_syntax">"Fejl"</string>
+	<!-- no translation found for dec_point -->
+	<skip />
+	<!-- no translation found for digit_0 -->
+	<skip />
+	<!-- no translation found for digit_1 -->
+	<skip />
+	<!-- no translation found for digit_2 -->
+	<skip />
+	<!-- no translation found for digit_3 -->
+	<skip />
+	<!-- no translation found for digit_4 -->
+	<skip />
+	<!-- no translation found for digit_5 -->
+	<skip />
+	<!-- no translation found for digit_6 -->
+	<skip />
+	<!-- no translation found for digit_7 -->
+	<skip />
+	<!-- no translation found for digit_8 -->
+	<skip />
+	<!-- no translation found for digit_9 -->
+	<skip />
+	<!-- no translation found for fun_cos -->
+	<skip />
+	<!-- no translation found for fun_ln -->
+	<skip />
+	<!-- no translation found for fun_log -->
+	<skip />
+	<!-- no translation found for fun_sin -->
+	<skip />
+	<!-- no translation found for fun_tan -->
+	<skip />
+	<!-- no translation found for op_inv -->
+	<skip />
+	<!-- no translation found for op_deg -->
+	<skip />
+	<!-- no translation found for op_rad -->
+	<skip />
+	<!-- no translation found for fun_arccos -->
+	<skip />
+	<!-- no translation found for fun_arcsin -->
+	<skip />
+	<!-- no translation found for fun_arctan -->
+	<skip />
+	<!-- no translation found for fun_naturExp -->
+	<skip />
+	<!-- no translation found for fun_comExp -->
+	<skip />
+	<!-- no translation found for fun_sqr -->
+	<skip />
+	<!-- no translation found for clr -->
+	<skip />
+	<!---->
+	<string name="del">"Slet"</string>
+	<!-- no translation found for desc_const_e -->
+	<skip />
+	<!-- no translation found for desc_const_pi -->
+	<skip />
+	<!-- no translation found for desc_dec_point -->
+	<skip />
+	<!---->
+	<string name="desc_lparen">"venstre parentes"</string>
+	<!---->
+	<string name="desc_rparen">"højre parentes"</string>
+	<!-- no translation found for desc_fun_cos -->
+	<skip />
+	<!---->
+	<string name="desc_fun_ln">"naturlig logaritme"</string>
+	<!-- no translation found for desc_fun_log -->
+	<skip />
+	<!-- no translation found for desc_fun_sin -->
+	<skip />
+	<!-- no translation found for desc_fun_tan -->
+	<skip />
+	<!-- no translation found for desc_op_add -->
+	<skip />
+	<!-- no translation found for desc_op_div -->
+	<skip />
+	<!-- no translation found for desc_op_fact -->
+	<skip />
+	<!-- no translation found for desc_op_mul -->
+	<skip />
+	<!-- no translation found for desc_op_pow -->
+	<skip />
+	<!---->
+	<string name="desc_op_sqrt">"kvadratrod"</string>
+	<!-- no translation found for desc_op_sub -->
+	<skip />
+	<!-- no translation found for desc_op_inv -->
+	<skip />
+	<!-- no translation found for desc_op_deg -->
+	<skip />
+	<!-- no translation found for desc_op_rad -->
+	<skip />
+	<!-- no translation found for desc_op_per -->
+	<skip />
+	<!-- no translation found for desc_fun_arcsin -->
+	<skip />
+	<!-- no translation found for desc_fun_arccos -->
+	<skip />
+	<!-- no translation found for desc_fun_arctan -->
+	<skip />
+	<!-- no translation found for desc_fun_naturExp -->
+	<skip />
+	<!-- no translation found for desc_fun_comExp -->
+	<skip />
+	<!-- no translation found for desc_fun_sqr -->
+	<skip />
+	<!-- no translation found for desc_clr -->
+	<skip />
+	<!-- no translation found for desc_del -->
+	<skip />
+	<!-- no translation found for desc_eq -->
+	<skip />
+	<!---->
+	<string name="copy_result_toast">"Resultatet kopieres"</string>
+	<!---->
+	<string name="tips_label">"Stryg ned for at få vist din seneste beregningshistorik"</string>
+	<!---->
+	<string name="tips_btn_text">"Forstået"</string>
+	<!---->
+	<string name="no_history">"Ingen oversigt"</string>
+	<!---->
+	<string name="copy">"Kopiér"</string>
+	<!---->
+	<string name="paste">"Indsæt"</string>
+	<!---->
+	<string name="swipe_down">"Stryg nedad for historik"</string>
+	<!---->
+	<string name="swipe_left">"Stryg til venstre for \n videnskabelig lommeregner"</string>
+	<!-- no translation found for dec_point_rel4 -->
+	<skip />
+	<!-- no translation found for drawer_title -->
+	<skip />
+	<!-- no translation found for drawer_open -->
+	<skip />
+	<!-- no translation found for drawer_close -->
+	<skip />
+	<!---->
+	<string name="convert_length">"Længde"</string>
+	<!---->
+	<string name="convert_area">"Område"</string>
+	<!---->
+	<string name="convert_mass">"Mængde"</string>
+	<!---->
+	<string name="convert_volume">"Lydstyrke"</string>
+	<!---->
+	<string name="convert_temperature">"Temperatur"</string>
+	<!---->
+	<string name="convert_fuel">"Brændstof"</string>
+	<!-- no translation found for convert_shoes -->
+	<skip />
+	<!-- no translation found for convert_clothes -->
+	<skip />
+	<!---->
+	<string name="convert_cooking">"Koger"</string>
+	<!---->
+	<string name="currency_time">"Opdater:"</string>
+	<!---->
+	<string name="afghani">"Afghani"</string>
+	<!---->
+	<string name="azerbaijani_manat">"Aserbajdsjansk manat"</string>
+	<!---->
+	<string name="algerian_dinar">"Algerisk dinar"</string>
+	<!---->
+	<string name="aruba_florin">"Aruba florin"</string>
+	<!---->
+	<string name="argentine_peso">"Argentinsk peso"</string>
+	<!---->
+	<string name="albanian_lek">"Albansk lek"</string>
+	<!---->
+	<string name="australian_dollar">"Australsk dollar"</string>
+	<!---->
+	<string name="cayman_islands_dollar">"Cayman Islands dollar"</string>
+	<!---->
+	<string name="cambodian_riel">"Cambodjansk riel"</string>
+	<!---->
+	<string name="croatian_kuna">"Kroatisk kuna"</string>
+	<!---->
+	<string name="czech_koruna">"Tjekkisk koruna"</string>
+	<!---->
+	<string name="cuban_peso">"Cubansk peso"</string>
+	<!---->
+	<string name="costa_rica_colon">"Costa Rica colon"</string>
+	<!---->
+	<string name="colombian_peso">"Colombiansk peso"</string>
+	<!---->
+	<string name="chilean_peso">"Chilensk peso"</string>
+	<!---->
+	<string name="cape_verde_escudo">"Kap Verde escudo"</string>
+	<!---->
+	<string name="chinese_yuan">"Kinesisk yuan"</string>
+	<!---->
+	<string name="indian_rupee">"Indiske Rupee"</string>
+	<!---->
+	<string name="canadian_dollar">"Canadisk dollar"</string>
+	<!---->
+	<string name="bitcoin">"Bitcoin"</string>
+	<!---->
+	<string name="bosnian_convertible_mark">"Bosnisk konverterbar mark"</string>
+	<!---->
+	<string name="british_pound">"Britisk pund"</string>
+	<!---->
+	<string name="burundi_franc">"Burundi franc"</string>
+	<!---->
+	<string name="bulgarian_lev">"Bulgarske lev"</string>
+	<!---->
+	<string name="brunei_dollar">"Brunei dollar"</string>
+	<!---->
+	<string name="brazilian_real">"Brasilianske real"</string>
+	<!---->
+	<string name="botswanna_pula">"Botswana pula"</string>
+	<!---->
+	<string name="bolivian_boliviano">"Boliviansk boliviano"</string>
+	<!---->
+	<string name="bhutan_ngultrum">"Bhutan ngultrum"</string>
+	<!---->
+	<string name="bermuda_dollar">"Bermuda dollar"</string>
+	<!---->
+	<string name="belize_dollar">"Belize dollar"</string>
+	<!---->
+	<string name="belarus_ruble">"Belarus rubel"</string>
+	<!---->
+	<string name="barbados_dollar">"Barbados dollar"</string>
+	<!---->
+	<string name="bangladesh_taka">"Bangladesh taka"</string>
+	<!---->
+	<string name="bahraini_dinar">"Bahrain dinar"</string>
+	<!---->
+	<string name="bahamian_dollar">"Bahamian dollar"</string>
+	<!---->
+	<string name="angolan_kwanza">"Angolas kwanza"</string>
+	<!---->
+	<string name="armenian_dram">"Armensk dram"</string>
+	<!---->
+	<string name="iraqi_dinar">"Irakisk dinar"</string>
+	<!---->
+	<string name="iranian_rial">"Iransk rial"</string>
+	<!---->
+	<string name="iceland_krona">"Islandsk krone"</string>
+	<!---->
+	<string name="indonesian_rupiah">"Indonesisk rupiah"</string>
+	<!---->
+	<string name="hungarian_forint">"Ungarnsk forint"</string>
+	<!---->
+	<string name="honduras_lempira">"Honduras lempira"</string>
+	<!---->
+	<string name="haiti_gourde">"Haiti gourde"</string>
+	<!---->
+	<string name="hongkong_dollar">"Hongkong dollar"</string>
+	<!---->
+	<string name="gold">"Guld"</string>
+	<!---->
+	<string name="ghanaian_cedi">"Ganesisk cedi"</string>
+	<!---->
+	<string name="georgian_lari">"Georgisk lari"</string>
+	<!---->
+	<string name="guyana_dollar">"Guyana dollar"</string>
+	<!---->
+	<string name="guinea_franc">"Guinea franc"</string>
+	<!---->
+	<string name="guatemala_quetzal">"Guatemala quetzai"</string>
+	<!---->
+	<string name="gibraltar_pound">"Gibraltar pund"</string>
+	<!---->
+	<string name="gambian_dalasi">"Gambisk dalasi"</string>
+	<!---->
+	<string name="fiji_dollar">"Fiji dollar"</string>
+	<!---->
+	<string name="falkland_islands_pound">"Pund fra Falklandsøerne"</string>
+	<!---->
+	<string name="east_caribbean_dollar">"Østcaraibisk dollar"</string>
+	<!---->
+	<string name="ethiopian_birr">"Etiopisk birr"</string>
+	<!---->
+	<string name="eritrea_nakfa">"Ertrea nakfa"</string>
+	<!---->
+	<string name="egyptian_pound">"Ægyptisk pund"</string>
+	<!---->
+	<string name="euro">"Euro"</string>
+	<!---->
+	<string name="dominican_peso">"Dominikansk peso"</string>
+	<!---->
+	<string name="djibout_franc">"Djibouti franc"</string>
+	<!---->
+	<string name="danish_krone">"Dansk krone"</string>
+	<!---->
+	<string name="congolese_frank">"Congolesisk frank"</string>
+	<!---->
+	<string name="cfa_francl_beac">"CFA Francl (BEAC)"</string>
+	<!---->
+	<string name="cfa_franc_bceao">"CFA Franc (BCEAO)"</string>
+	<!---->
+	<string name="comoros_franc">"Comorererne franc"</string>
+	<!---->
+	<string name="namibian_dollar">"Namibisk dollar"</string>
+	<!---->
+	<string name="north_korean_won">"Nordkoreanske won"</string>
+	<!---->
+	<string name="neth_antilles_guilder">"Neth Antiller gylden"</string>
+	<!---->
+	<string name="mozambican_metical">"Mozambiquiske metical"</string>
+	<!---->
+	<string name="malagasy_ariary">"Malagasy ariary"</string>
+	<!---->
+	<string name="myanmar_kyat">"Myanmar kyat"</string>
+	<!---->
+	<string name="moroccan_dirham">"Marokkansk dirham"</string>
+	<!---->
+	<string name="mongolian_tugrik">"Mongolsk tugrik"</string>
+	<!---->
+	<string name="moldovan_leu">"Moldovas leu"</string>
+	<!---->
+	<string name="mexican_peso">"Mexicansk peso"</string>
+	<!---->
+	<string name="mauritius_rupee">"Mauritius rupee"</string>
+	<!---->
+	<string name="mauritanian_ougulya">"Mauretanske ougulya"</string>
+	<!---->
+	<string name="maldives_rufiyaa">"Maldiverne rufiyaa"</string>
+	<!---->
+	<string name="malaysian_ringgit">"Malaysiske ringgit"</string>
+	<!---->
+	<string name="malawi_kwacha">"Malawi kwacha"</string>
+	<!---->
+	<string name="macedonian_denar">"Makedonsk denar"</string>
+	<!---->
+	<string name="macau_pataca">"Macau pataca"</string>
+	<!---->
+	<string name="libyan_dinar">"Libysk dinar"</string>
+	<!---->
+	<string name="leberian_dollar">"Leberian dollar"</string>
+	<!---->
+	<string name="lesotho_loti">"Lesotho loti"</string>
+	<!---->
+	<string name="lebanese_pound">"Libanesisk pund"</string>
+	<!---->
+	<string name="lao_kipi">"Lao kipi"</string>
+	<!---->
+	<string name="kyrgyzstani_som">"Kyrgyzstani angkor"</string>
+	<!---->
+	<string name="kazakhstani_tenge">"Kazakhstansk tenge"</string>
+	<!---->
+	<string name="kuwaiti_dinar">"Kuwaitisk dinar"</string>
+	<!---->
+	<string name="kenyan_shilling">"Kenyanske shilling"</string>
+	<!---->
+	<string name="jordanian_dinar">"Jordansk dinar"</string>
+	<!---->
+	<string name="jamaican_dollar">"Jamaican dollar"</string>
+	<!---->
+	<string name="japanese_yen">"Japanske yen"</string>
+	<!---->
+	<string name="israeli_shekel">"Israelsk shekel"</string>
+	<!---->
+	<string name="st_henlena_pound">"St Helena pund"</string>
+	<!---->
+	<string name="somali_shilling">"Somali shilling"</string>
+	<!---->
+	<string name="solomon_islands_dollar">"Salomondollar"</string>
+	<!---->
+	<string name="singapore_dollar">"Singapore dollar"</string>
+	<!---->
+	<string name="sierra_leone_leone">"Sierra Leone leone"</string>
+	<!---->
+	<string name="seychelles_rupee">"Seychellerne rupee"</string>
+	<!---->
+	<string name="saudi_arabian_riyal">"Saudiarabiske riyal"</string>
+	<!---->
+	<string name="sao_tome_dobra">"Sao Tome Dobra"</string>
+	<!---->
+	<string name="sri_lanka_rupee">"Srilankanske rupee"</string>
+	<!---->
+	<string name="south_korean_won">"Sydkoreanske won"</string>
+	<!---->
+	<string name="swiss_franc">"Schweizer franc"</string>
+	<!---->
+	<string name="rwanda_franc">"Rwandiske franc"</string>
+	<!---->
+	<string name="russian_rouble">"Russisk rubel"</string>
+	<!---->
+	<string name="romanian_new_leu">"Rumænsk ny leu"</string>
+	<!---->
+	<string name="qatar_rial">"Qutar rial"</string>
+	<!---->
+	<string name="platinum">"Platinum"</string>
+	<!---->
+	<string name="pacific_franc">"Pacific franc"</string>
+	<!---->
+	<string name="polish_zloty">"Polsk zloty"</string>
+	<!---->
+	<string name="philippine_peso">"Filippinske peso"</string>
+	<!---->
+	<string name="peruvian_nuevo_sol">"peruvianske neuvo sol"</string>
+	<!---->
+	<string name="paraguayan_guarani">"Paraguays guarani"</string>
+	<!---->
+	<string name="papua_new_guinea_kina">"Papua Ny Guinea kina"</string>
+	<!---->
+	<string name="panama_balboa">"Panama balboa"</string>
+	<!---->
+	<string name="pakistani_rupee">"Pakistanske rupee"</string>
+	<!---->
+	<string name="omani_rial">"Oman rial"</string>
+	<!---->
+	<string name="norwegian_krone">"Norske krone"</string>
+	<!---->
+	<string name="nigerian_naira">"Nigerianske naira"</string>
+	<!---->
+	<string name="nicaragua_cordoba">"Nicaragua cordoba"</string>
+	<!---->
+	<string name="new_zealand_dollar">"New Zealand dollar"</string>
+	<!---->
+	<string name="nepalese_rupee">"Nepalesisk rupee"</string>
+	<!---->
+	<string name="zibabwe_dollar">"Zibabwe dollar"</string>
+	<!---->
+	<string name="zabian_kwacha">"Zabiske kwacha"</string>
+	<!---->
+	<string name="yemen_riyal">"Yemen riyal"</string>
+	<!---->
+	<string name="venezuelan_bolivar_fuetre">"Venezuelanske bolivar fuetre"</string>
+	<!---->
+	<string name="vanuatu_vatu">"Vanuatu vatu"</string>
+	<!---->
+	<string name="vietnam_dong">"Vietnamesiske dong"</string>
+	<!---->
+	<string name="uzbekistani_som">"Uzbekiske ankor"</string>
+	<!---->
+	<string name="uruguayan_new_peso">"Uruguayanske nye peso"</string>
+	<!---->
+	<string name="ukraine_hryvnia">"Ukrainske hryvnia"</string>
+	<!---->
+	<string name="ugandan_shilling">"Ugandiske shilling"</string>
+	<!---->
+	<string name="united_states_dollar">"Amerikanske"</string>
+	<!---->
+	<string name="uae_dirham">"UAE dirham"</string>
+	<!---->
+	<string name="turkmenistani_manet">"Turkmenistani manet"</string>
+	<!---->
+	<string name="tajikistani_somoni">"Tadsjikiske somoni"</string>
+	<!---->
+	<string name="tunisian_dinar">"Tunesisk dinar"</string>
+	<!---->
+	<string name="trinnidad_tobago_dollar">"Trinnidad og Tobago Dollar"</string>
+	<!---->
+	<string name="tonga_pa_ang">"Tonga pa\'ang"</string>
+	<!---->
+	<string name="tanzanian_shilling">"Tanzania shilling"</string>
+	<!---->
+	<string name="turkish_lira">"Tyrkiske lire"</string>
+	<!---->
+	<string name="taiwan_dollar">"Taiwan dollar"</string>
+	<!---->
+	<string name="thai_baht">"Thai Baht"</string>
+	<!---->
+	<string name="Silver">"Sølv"</string>
+	<!---->
+	<string name="serbian_dinars">"Serbiske dinarer"</string>
+	<!---->
+	<string name="surinam_florin">"Surinam florin"</string>
+	<!---->
+	<string name="south_african_rand">"Sydafrikanske rand"</string>
+	<!---->
+	<string name="samoa_tala">"Samoa tala"</string>
+	<!---->
+	<string name="syrian_pound">"Syriske pund"</string>
+	<!---->
+	<string name="swedish_krona">"Svensk krone"</string>
+	<!---->
+	<string name="swaziland_lilageni">"Swaziland lilageni"</string>
+	<!---->
+	<string name="sudanese_pound">"Sudansk pund"</string>
+	<!---->
+	<string name="au_1">"Au"</string>
+	<!---->
+	<string name="btb">"Btb"</string>
+	<!---->
+	<string name="ag_2">"Ag"</string>
+	<!---->
+	<string name="pt_3">"Pt"</string>
+	<!-- no translation found for convert_category_length -->
+	<skip />
+	<!---->
+	<string name="convert_length_mm">"millimeter"</string>
+	<!---->
+	<string name="convert_length_cm">"centimeter"</string>
+	<!---->
+	<string name="convert_length_m">"meter"</string>
+	<!---->
+	<string name="convert_length_km">"kilometer"</string>
+	<!---->
+	<string name="convert_length_mi">"mile"</string>
+	<!---->
+	<string name="convert_length_yd">"yard"</string>
+	<!---->
+	<string name="convert_length_ft">"fod"</string>
+	<!---->
+	<string name="convert_length_in">"tomme"</string>
+	<!---->
+	<string name="convert_length_kt">"Sømil"</string>
+	<!-- no translation found for convert_category_area -->
+	<skip />
+	<!---->
+	<string name="convert_area_mm2">"kvadratmillimeter"</string>
+	<!---->
+	<string name="convert_area_cm2">"kvadratcentimeter"</string>
+	<!---->
+	<string name="convert_area_m2">"kvadratmeter"</string>
+	<!---->
+	<string name="convert_area_in2">"kvadrattomme"</string>
+	<!---->
+	<string name="convert_area_ft2">"kvadratfod"</string>
+	<!---->
+	<string name="convert_area_yd2">"kvadratyard"</string>
+	<!---->
+	<string name="convert_area_ha">"hektarer"</string>
+	<!---->
+	<string name="convert_area_km2">"kvadratkilometer"</string>
+	<!---->
+	<string name="convert_area_ac">"hektar"</string>
+	<!---->
+	<string name="convert_area_mi2">"kvadratmil"</string>
+	<!-- no translation found for convert_category_mass -->
+	<skip />
+	<!---->
+	<string name="convert_mass_mg">"milligram"</string>
+	<!---->
+	<string name="convert_mass_g">"gram"</string>
+	<!---->
+	<string name="convert_mass_kg">"kilogram"</string>
+	<!---->
+	<string name="convert_mass_t">"metrisk ton"</string>
+	<!---->
+	<string name="convert_mass_tonuk">"langt ton"</string>
+	<!---->
+	<string name="convert_mass_tonus">"kort ton"</string>
+	<!---->
+	<string name="convert_mass_lb">"pund"</string>
+	<!---->
+	<string name="convert_mass_oz">"ounce"</string>
+	<!---->
+	<string name="convert_mass_st">"stone"</string>
+	<!---->
+	<string name="convert_mass_ct">"karat"</string>
+	<!-- no translation found for convert_category_temperature -->
+	<skip />
+	<!---->
+	<string name="convert_temp_c">"celsius"</string>
+	<!---->
+	<string name="convert_temp_f">"fahrenheit"</string>
+	<!---->
+	<string name="convert_temp_k">"kelvin"</string>
+	<!-- no translation found for convert_category_volume -->
+	<skip />
+	<!---->
+	<string name="convert_volume_mm3">"kubikmillimeter"</string>
+	<!---->
+	<string name="convert_volume_cm3">"kubikcentimeter"</string>
+	<!---->
+	<string name="convert_volume_dm3">"kubikdecimeter"</string>
+	<!---->
+	<string name="convert_volume_m3">"kubikmeter"</string>
+	<!---->
+	<string name="convert_volume_ml">"millimeter"</string>
+	<!---->
+	<string name="convert_volume_liter">"liter"</string>
+	<!---->
+	<string name="convert_volume_ft3">"kubik fod"</string>
+	<!---->
+	<string name="convert_volume_in3">"kubik tomme"</string>
+	<!---->
+	<string name="convert_volume_gal_us">"(US)gallon"</string>
+	<!---->
+	<string name="convert_volume_qt_us">"(US)quart"</string>
+	<!---->
+	<string name="convert_volume_pt_us">"(US)pint"</string>
+	<!---->
+	<string name="convert_volume_oz_us">"(US)ounce"</string>
+	<!---->
+	<string name="convert_volume_cup_us">"(US)kop"</string>
+	<!---->
+	<string name="convert_volume_tbsp_us">"(US)spiseske"</string>
+	<!---->
+	<string name="convert_volume_tsp_us">"(US)teske"</string>
+	<!---->
+	<string name="convert_volume_gal_uk">"(UK)gallon"</string>
+	<!---->
+	<string name="convert_volume_qt_uk">"(UK)quart"</string>
+	<!---->
+	<string name="convert_volume_pt_uk">"(UK)pint"</string>
+	<!---->
+	<string name="convert_volume_oz_uk">"(UK)ounce"</string>
+	<!---->
+	<string name="convert_volume_cup_uk">"(UK)kop"</string>
+	<!---->
+	<string name="convert_volume_tbsp_uk">"(UK)spiseske"</string>
+	<!---->
+	<string name="convert_volume_tsp_uk">"(UK)teske"</string>
+	<!---->
+	<string name="convert_volume_dr">"dram"</string>
+	<!---->
+	<string name="convert_volume_bbl">"tønde"</string>
+	<!---->
+	<string name="convert_volume_cord">"ledning"</string>
+	<!---->
+	<string name="convert_volume_gill">"gill"</string>
+	<!-- no translation found for convert_category_cooking -->
+	<skip />
+	<!---->
+	<string name="convert_cooking_milliliter">"millimeter"</string>
+	<!---->
+	<string name="convert_cooking_gal_us">"gallon"</string>
+	<!---->
+	<string name="convert_cooking_qt_us">"quart"</string>
+	<!---->
+	<string name="convert_cooking_pt_us">"pint"</string>
+	<!---->
+	<string name="convert_cooking_oz_us">"ounce"</string>
+	<!---->
+	<string name="convert_cooking_floz_us">"(US)fluid ounce"</string>
+	<!---->
+	<string name="convert_cooking_cup_us">"kop"</string>
+	<!---->
+	<string name="convert_cooking_tbsp_us">"spiseske"</string>
+	<!---->
+	<string name="convert_cooking_tsp_us">"teske"</string>
+	<!---->
+	<string name="convert_cooking_gal_uk">"gallon"</string>
+	<!---->
+	<string name="convert_cooking_qt_uk">"quart"</string>
+	<!---->
+	<string name="convert_cooking_pt_uk">"pint"</string>
+	<!---->
+	<string name="convert_cooking_floz_uk">"(UK)fluid ounce"</string>
+	<!---->
+	<string name="convert_cooking_oz_uk">"ounce"</string>
+	<!---->
+	<string name="convert_cooking_cup_uk">"kop"</string>
+	<!---->
+	<string name="convert_cooking_tbsp_uk">"spiseske"</string>
+	<!---->
+	<string name="convert_cooking_tsp_uk">"teske"</string>
+	<!-- no translation found for convert_category_fuel -->
+	<skip />
+	<!---->
+	<string name="convert_fuel_galperhundredmile_uk">"gallons(UK)/100 miles"</string>
+	<!---->
+	<string name="convert_fuel_galperhundredmile_us">"gallons(US)/100 miles"</string>
+	<!---->
+	<string name="convert_fuel_kilometerperliter">"kilometer/liter"</string>
+	<!---->
+	<string name="convert_fuel_literperhundredkilometer">"liter/100 kilometer"</string>
+	<!---->
+	<string name="convert_fuel_mpg_uk">"(UK)mil pr. gallon"</string>
+	<!---->
+	<string name="convert_fuel_mpg_us">"(US)miles pr. gallon"</string>
+	<!-- no translation found for convert_shoes_mem -->
+	<skip />
+	<!-- no translation found for convert_shoes_womem -->
+	<skip />
+	<!---->
+	<string name="splash_tv_open">"Angiv"</string>
+	<!---->
+	<string name="splash_tv_next">"Næste"</string>
+	<!---->
+	<string name="splash_tv_skip">"Skip"</string>
+	<!---->
+	<string name="splash_tv_calculate_title">"Beregn"</string>
+	<!---->
+	<string name="splash_tv_calculate_content">"Kom i gang med denne lommeregner og tryk på knappen eller skub til venstre for at bruge det videnskabelige panel."</string>
+	<!---->
+	<string name="splash_tv_currency_title">"Valutatjek"</string>
+	<!---->
+	<string name="splash_tv_currency_content">"Understøtter over 150 landes tjek og opdateringer hver dag. \n(Dataressourcen kommer fra www.xe.com)"</string>
+	<!---->
+	<string name="splash_tv_convert_title">"Enhedskonvertering"</string>
+	<!---->
+	<string name="splash_tv_convert_content">"Længde? Mængde? Område? \nKonvertering af enheder er ikke længere noget problem."</string>
+	<!---->
+	<string name="no_internet_access">"Ingen internetadgang"</string>
+	<!---->
+	<string name="updating">"Opdaterer..."</string>
+	<!-- no translation found for search_edit_hint -->
+	<skip />
+	<!---->
+	<string name="bt_right_more">"Flere"</string>
+	<!---->
+	<string name="bt_left_more">"Flere"</string>
+	<!---->
+	<string name="pop_cancel">"ANNULLER"</string>
+	<!---->
+	<string name="pop_ok">"OK"</string>
+</resources>

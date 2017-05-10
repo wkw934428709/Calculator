@@ -1,0 +1,706 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+	<!--
+		this file is built by arct
+	-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<!---->
+	<string name="app_name">"Kalkulator"</string>
+	<!---->
+	<string name="error_nan">"Bukan nombor"</string>
+	<!---->
+	<string name="error_syntax">"Ralat"</string>
+	<!-- no translation found for dec_point -->
+	<skip />
+	<!-- no translation found for digit_0 -->
+	<skip />
+	<!-- no translation found for digit_1 -->
+	<skip />
+	<!-- no translation found for digit_2 -->
+	<skip />
+	<!-- no translation found for digit_3 -->
+	<skip />
+	<!-- no translation found for digit_4 -->
+	<skip />
+	<!-- no translation found for digit_5 -->
+	<skip />
+	<!-- no translation found for digit_6 -->
+	<skip />
+	<!-- no translation found for digit_7 -->
+	<skip />
+	<!-- no translation found for digit_8 -->
+	<skip />
+	<!-- no translation found for digit_9 -->
+	<skip />
+	<!-- no translation found for fun_cos -->
+	<skip />
+	<!-- no translation found for fun_ln -->
+	<skip />
+	<!-- no translation found for fun_log -->
+	<skip />
+	<!-- no translation found for fun_sin -->
+	<skip />
+	<!-- no translation found for fun_tan -->
+	<skip />
+	<!-- no translation found for op_inv -->
+	<skip />
+	<!-- no translation found for op_deg -->
+	<skip />
+	<!-- no translation found for op_rad -->
+	<skip />
+	<!-- no translation found for fun_arccos -->
+	<skip />
+	<!-- no translation found for fun_arcsin -->
+	<skip />
+	<!-- no translation found for fun_arctan -->
+	<skip />
+	<!-- no translation found for fun_naturExp -->
+	<skip />
+	<!-- no translation found for fun_comExp -->
+	<skip />
+	<!-- no translation found for fun_sqr -->
+	<skip />
+	<!-- no translation found for clr -->
+	<skip />
+	<!---->
+	<string name="del">"Padam"</string>
+	<!-- no translation found for desc_const_e -->
+	<skip />
+	<!-- no translation found for desc_const_pi -->
+	<skip />
+	<!-- no translation found for desc_dec_point -->
+	<skip />
+	<!---->
+	<string name="desc_lparen">"tanda kurung kiri"</string>
+	<!---->
+	<string name="desc_rparen">"tanda kurung kanan"</string>
+	<!-- no translation found for desc_fun_cos -->
+	<skip />
+	<!---->
+	<string name="desc_fun_ln">"logaritma asli"</string>
+	<!-- no translation found for desc_fun_log -->
+	<skip />
+	<!-- no translation found for desc_fun_sin -->
+	<skip />
+	<!-- no translation found for desc_fun_tan -->
+	<skip />
+	<!-- no translation found for desc_op_add -->
+	<skip />
+	<!-- no translation found for desc_op_div -->
+	<skip />
+	<!-- no translation found for desc_op_fact -->
+	<skip />
+	<!-- no translation found for desc_op_mul -->
+	<skip />
+	<!-- no translation found for desc_op_pow -->
+	<skip />
+	<!---->
+	<string name="desc_op_sqrt">"punca kuasa dua"</string>
+	<!-- no translation found for desc_op_sub -->
+	<skip />
+	<!-- no translation found for desc_op_inv -->
+	<skip />
+	<!-- no translation found for desc_op_deg -->
+	<skip />
+	<!-- no translation found for desc_op_rad -->
+	<skip />
+	<!-- no translation found for desc_op_per -->
+	<skip />
+	<!-- no translation found for desc_fun_arcsin -->
+	<skip />
+	<!-- no translation found for desc_fun_arccos -->
+	<skip />
+	<!-- no translation found for desc_fun_arctan -->
+	<skip />
+	<!-- no translation found for desc_fun_naturExp -->
+	<skip />
+	<!-- no translation found for desc_fun_comExp -->
+	<skip />
+	<!-- no translation found for desc_fun_sqr -->
+	<skip />
+	<!-- no translation found for desc_clr -->
+	<skip />
+	<!-- no translation found for desc_del -->
+	<skip />
+	<!-- no translation found for desc_eq -->
+	<skip />
+	<!---->
+	<string name="copy_result_toast">"Hasil disalin"</string>
+	<!---->
+	<string name="tips_label">"Leret ke bawah untuk melihat sejarah pengiraan terkini anda"</string>
+	<!---->
+	<string name="tips_btn_text">"Dapat"</string>
+	<!---->
+	<string name="no_history">"Tiada sejarah"</string>
+	<!---->
+	<string name="copy">"Salin"</string>
+	<!---->
+	<string name="paste">"Tampal"</string>
+	<!---->
+	<string name="swipe_down">"Leret ke bawah untuk sejarah"</string>
+	<!---->
+	<string name="swipe_left">"Leret ke kiri untuk \n pengiraan saintifik"</string>
+	<!-- no translation found for dec_point_rel4 -->
+	<skip />
+	<!-- no translation found for drawer_title -->
+	<skip />
+	<!-- no translation found for drawer_open -->
+	<skip />
+	<!-- no translation found for drawer_close -->
+	<skip />
+	<!---->
+	<string name="convert_length">"Panjang"</string>
+	<!---->
+	<string name="convert_area">"Keluasan"</string>
+	<!---->
+	<string name="convert_mass">"Jisim"</string>
+	<!---->
+	<string name="convert_volume">"Kelantangan"</string>
+	<!---->
+	<string name="convert_temperature">"Suhu"</string>
+	<!---->
+	<string name="convert_fuel">"Bahan api"</string>
+	<!-- no translation found for convert_shoes -->
+	<skip />
+	<!-- no translation found for convert_clothes -->
+	<skip />
+	<!---->
+	<string name="convert_cooking">"Memasak"</string>
+	<!---->
+	<string name="currency_time">"Mengemas kini:"</string>
+	<!---->
+	<string name="afghani">"Afghani"</string>
+	<!---->
+	<string name="azerbaijani_manat">"Manat Azerbaijan"</string>
+	<!---->
+	<string name="algerian_dinar">"Dinar Algeria"</string>
+	<!---->
+	<string name="aruba_florin">"Florin Aruba"</string>
+	<!---->
+	<string name="argentine_peso">"Peso Argentina"</string>
+	<!---->
+	<string name="albanian_lek">"Lek Albania"</string>
+	<!---->
+	<string name="australian_dollar">"Dolar Australia"</string>
+	<!---->
+	<string name="cayman_islands_dollar">"Dolar Kepulauan Cayman"</string>
+	<!---->
+	<string name="cambodian_riel">"Riel Cambodia"</string>
+	<!---->
+	<string name="croatian_kuna">"Kuna Croatia"</string>
+	<!---->
+	<string name="czech_koruna">"Koruna Czech"</string>
+	<!---->
+	<string name="cuban_peso">"Peso Cuba"</string>
+	<!---->
+	<string name="costa_rica_colon">"Colon Costa Rica"</string>
+	<!---->
+	<string name="colombian_peso">"Peso Colombia"</string>
+	<!---->
+	<string name="chilean_peso">"Peso Chile"</string>
+	<!---->
+	<string name="cape_verde_escudo">"Escudo Cape Verde"</string>
+	<!---->
+	<string name="chinese_yuan">"Yuan China"</string>
+	<!---->
+	<string name="indian_rupee">"Rupee India"</string>
+	<!---->
+	<string name="canadian_dollar">"Dolar Kanada"</string>
+	<!---->
+	<string name="bitcoin">"Bitcoin"</string>
+	<!---->
+	<string name="bosnian_convertible_mark">"Mark Boleh Tukar Bosnia"</string>
+	<!---->
+	<string name="british_pound">"Paun British"</string>
+	<!---->
+	<string name="burundi_franc">"Franc Burundi"</string>
+	<!---->
+	<string name="bulgarian_lev">"Lev Bulgaria"</string>
+	<!---->
+	<string name="brunei_dollar">"Dolar Brunei"</string>
+	<!---->
+	<string name="brazilian_real">"Real Brazil"</string>
+	<!---->
+	<string name="botswanna_pula">"Pula Botswana"</string>
+	<!---->
+	<string name="bolivian_boliviano">"Boliviano Bolivia"</string>
+	<!---->
+	<string name="bhutan_ngultrum">"Ngultrum Bhutan"</string>
+	<!---->
+	<string name="bermuda_dollar">"Dolar Bermuda"</string>
+	<!---->
+	<string name="belize_dollar">"Dolar Belize"</string>
+	<!---->
+	<string name="belarus_ruble">"Rubel Belarus"</string>
+	<!---->
+	<string name="barbados_dollar">"Dolar Barbados"</string>
+	<!---->
+	<string name="bangladesh_taka">"Taka Bangladesh"</string>
+	<!---->
+	<string name="bahraini_dinar">"Dinar Bahrain"</string>
+	<!---->
+	<string name="bahamian_dollar">"Dolar Bahamas"</string>
+	<!---->
+	<string name="angolan_kwanza">"Kwanza Angola"</string>
+	<!---->
+	<string name="armenian_dram">"Dram Armenia"</string>
+	<!---->
+	<string name="iraqi_dinar">"Dinar Iraq"</string>
+	<!---->
+	<string name="iranian_rial">"Rial Iran"</string>
+	<!---->
+	<string name="iceland_krona">"Krona Iceland"</string>
+	<!---->
+	<string name="indonesian_rupiah">"Rupiah Indonesia"</string>
+	<!---->
+	<string name="hungarian_forint">"Forint Hungary"</string>
+	<!---->
+	<string name="honduras_lempira">"Lempira Honduras"</string>
+	<!---->
+	<string name="haiti_gourde">"Gourde Haiti"</string>
+	<!---->
+	<string name="hongkong_dollar">"Dolar Hongkong"</string>
+	<!---->
+	<string name="gold">"Emas"</string>
+	<!---->
+	<string name="ghanaian_cedi">"Cedi Ghana"</string>
+	<!---->
+	<string name="georgian_lari">"Lari Georgia"</string>
+	<!---->
+	<string name="guyana_dollar">"Dolar Guyana"</string>
+	<!---->
+	<string name="guinea_franc">"Franc Guinea"</string>
+	<!---->
+	<string name="guatemala_quetzal">"Quetzal Guatemala"</string>
+	<!---->
+	<string name="gibraltar_pound">"Paun Gibraltar"</string>
+	<!---->
+	<string name="gambian_dalasi">"Dalasi Gambia"</string>
+	<!---->
+	<string name="fiji_dollar">"Dolar Fiji"</string>
+	<!---->
+	<string name="falkland_islands_pound">"Paun Kepulauan Falkland"</string>
+	<!---->
+	<string name="east_caribbean_dollar">"Dolar Caribbean Timur"</string>
+	<!---->
+	<string name="ethiopian_birr">"Birr Etiopia"</string>
+	<!---->
+	<string name="eritrea_nakfa">"Nakfa Eritrea"</string>
+	<!---->
+	<string name="egyptian_pound">"Paun Mesir"</string>
+	<!---->
+	<string name="euro">"Euro"</string>
+	<!---->
+	<string name="dominican_peso">"Peso Dominica"</string>
+	<!---->
+	<string name="djibout_franc">"Franc Djibouti"</string>
+	<!---->
+	<string name="danish_krone">"Krone Denmark"</string>
+	<!---->
+	<string name="congolese_frank">"Frank Congo"</string>
+	<!---->
+	<string name="cfa_francl_beac">"Franc CFA(BEAC)"</string>
+	<!---->
+	<string name="cfa_franc_bceao">"Franc CFA(BCEAO)"</string>
+	<!---->
+	<string name="comoros_franc">"Franc Comoros"</string>
+	<!---->
+	<string name="namibian_dollar">"Dolar Namibia"</string>
+	<!---->
+	<string name="north_korean_won">"Won Korea Utara"</string>
+	<!---->
+	<string name="neth_antilles_guilder">"Guilder Antilles Belanda"</string>
+	<!---->
+	<string name="mozambican_metical">"Metical Mozambique"</string>
+	<!---->
+	<string name="malagasy_ariary">"Ariary Malagasy"</string>
+	<!---->
+	<string name="myanmar_kyat">"Kyat Myanmar"</string>
+	<!---->
+	<string name="moroccan_dirham">"Dirham Morocco"</string>
+	<!---->
+	<string name="mongolian_tugrik">"Tugrik Mongolia"</string>
+	<!---->
+	<string name="moldovan_leu">"Leu Moldova"</string>
+	<!---->
+	<string name="mexican_peso">"Peso Mexico"</string>
+	<!---->
+	<string name="mauritius_rupee">"Rupee Mauritius"</string>
+	<!---->
+	<string name="mauritanian_ougulya">"Ougulya Mauritania"</string>
+	<!---->
+	<string name="maldives_rufiyaa">"Rufiyaa Maldives"</string>
+	<!---->
+	<string name="malaysian_ringgit">"Ringgit Malaysia"</string>
+	<!---->
+	<string name="malawi_kwacha">"Kwacha Malawi"</string>
+	<!---->
+	<string name="macedonian_denar">"Denar Macedonia"</string>
+	<!---->
+	<string name="macau_pataca">"Pataca Macau"</string>
+	<!---->
+	<string name="libyan_dinar">"Dinar Libya"</string>
+	<!---->
+	<string name="leberian_dollar">"Dolar Liberia"</string>
+	<!---->
+	<string name="lesotho_loti">"Loti Lesotho"</string>
+	<!---->
+	<string name="lebanese_pound">"Paun Lebanon"</string>
+	<!---->
+	<string name="lao_kipi">"Kipi Laos"</string>
+	<!---->
+	<string name="kyrgyzstani_som">"Som Kyrgyzstan"</string>
+	<!---->
+	<string name="kazakhstani_tenge">"Tenge Kazakhstan"</string>
+	<!---->
+	<string name="kuwaiti_dinar">"Dinar Kuwait"</string>
+	<!---->
+	<string name="kenyan_shilling">"Shilling Kenya"</string>
+	<!---->
+	<string name="jordanian_dinar">"Dinar Jordan"</string>
+	<!---->
+	<string name="jamaican_dollar">"Dolar Jamaica"</string>
+	<!---->
+	<string name="japanese_yen">"Yen Jepun"</string>
+	<!---->
+	<string name="israeli_shekel">"Shekel Israel"</string>
+	<!---->
+	<string name="st_henlena_pound">"Paun St Helena"</string>
+	<!---->
+	<string name="somali_shilling">"Shilling Somalia"</string>
+	<!---->
+	<string name="solomon_islands_dollar">"Dolar Kepulauan Solomon"</string>
+	<!---->
+	<string name="singapore_dollar">"Dolar Singapura"</string>
+	<!---->
+	<string name="sierra_leone_leone">"Leone Sierra Leone"</string>
+	<!---->
+	<string name="seychelles_rupee">"Rupee Seychelles"</string>
+	<!---->
+	<string name="saudi_arabian_riyal">"Riyal Arab Saudi"</string>
+	<!---->
+	<string name="sao_tome_dobra">"Dobra Sao Tome"</string>
+	<!---->
+	<string name="sri_lanka_rupee">"Rupee Sri Lanka"</string>
+	<!---->
+	<string name="south_korean_won">"Won Korea Selatan"</string>
+	<!---->
+	<string name="swiss_franc">"Franc Switzerland"</string>
+	<!---->
+	<string name="rwanda_franc">"Franc Rwanda"</string>
+	<!---->
+	<string name="russian_rouble">"Rubel Rusia"</string>
+	<!---->
+	<string name="romanian_new_leu">"Leu Baharu Romania"</string>
+	<!---->
+	<string name="qatar_rial">"Rial Qatar"</string>
+	<!---->
+	<string name="platinum">"Platinum"</string>
+	<!---->
+	<string name="pacific_franc">"Franc Pasifik"</string>
+	<!---->
+	<string name="polish_zloty">"Zloty Poland"</string>
+	<!---->
+	<string name="philippine_peso">"Peso Filipina"</string>
+	<!---->
+	<string name="peruvian_nuevo_sol">"Nuevo Sol Peru"</string>
+	<!---->
+	<string name="paraguayan_guarani">"Guarani Paraguay"</string>
+	<!---->
+	<string name="papua_new_guinea_kina">"Kina Papua New Guinea"</string>
+	<!---->
+	<string name="panama_balboa">"Balboa Panama"</string>
+	<!---->
+	<string name="pakistani_rupee">"Rupee Pakistan"</string>
+	<!---->
+	<string name="omani_rial">"Rial Oman"</string>
+	<!---->
+	<string name="norwegian_krone">"Krone Norway"</string>
+	<!---->
+	<string name="nigerian_naira">"Naira Nigeria"</string>
+	<!---->
+	<string name="nicaragua_cordoba">"Cordoba Nicaragua"</string>
+	<!---->
+	<string name="new_zealand_dollar">"Dolar New Zealand"</string>
+	<!---->
+	<string name="nepalese_rupee">"Rupee Nepal"</string>
+	<!---->
+	<string name="zibabwe_dollar">"Dolar Zimbabwe"</string>
+	<!---->
+	<string name="zabian_kwacha">"Kwacha Zambia"</string>
+	<!---->
+	<string name="yemen_riyal">"Riyal Yemen"</string>
+	<!---->
+	<string name="venezuelan_bolivar_fuetre">"Bolivar Fuetre Venezuela"</string>
+	<!---->
+	<string name="vanuatu_vatu">"Vatu Vanuatu"</string>
+	<!---->
+	<string name="vietnam_dong">"Dong Vietnam"</string>
+	<!---->
+	<string name="uzbekistani_som">"Som Uzbekistan"</string>
+	<!---->
+	<string name="uruguayan_new_peso">"Peso Baharu Uruguay"</string>
+	<!---->
+	<string name="ukraine_hryvnia">"Hryvnia Ukraine"</string>
+	<!---->
+	<string name="ugandan_shilling">"Shilling Uganda"</string>
+	<!---->
+	<string name="united_states_dollar">"Dolar Amerika Syarikat"</string>
+	<!---->
+	<string name="uae_dirham">"Dirham UAE"</string>
+	<!---->
+	<string name="turkmenistani_manet">"Manet Turkmenistan"</string>
+	<!---->
+	<string name="tajikistani_somoni">"Somoni Tajikistan"</string>
+	<!---->
+	<string name="tunisian_dinar">"Dinar Tunisia"</string>
+	<!---->
+	<string name="trinnidad_tobago_dollar">"Dolar Trinnidad dan Tobago"</string>
+	<!---->
+	<string name="tonga_pa_ang">"Pa’ang Tonga"</string>
+	<!---->
+	<string name="tanzanian_shilling">"Shilling Tanzania"</string>
+	<!---->
+	<string name="turkish_lira">"Lira Turki"</string>
+	<!---->
+	<string name="taiwan_dollar">"Dolar Taiwan"</string>
+	<!---->
+	<string name="thai_baht">"Baht Thai"</string>
+	<!---->
+	<string name="Silver">"Perak"</string>
+	<!---->
+	<string name="serbian_dinars">"Dinar Serbia"</string>
+	<!---->
+	<string name="surinam_florin">"Florin Surinam"</string>
+	<!---->
+	<string name="south_african_rand">"Rand Afrika Selatan"</string>
+	<!---->
+	<string name="samoa_tala">"Tala Samoa"</string>
+	<!---->
+	<string name="syrian_pound">"Paun Syria"</string>
+	<!---->
+	<string name="swedish_krona">"Krona Sweden"</string>
+	<!---->
+	<string name="swaziland_lilageni">"Lilageni Swaziland"</string>
+	<!---->
+	<string name="sudanese_pound">"Paun Sudan"</string>
+	<!---->
+	<string name="au_1">"Au"</string>
+	<!---->
+	<string name="btb">"Btb"</string>
+	<!---->
+	<string name="ag_2">"Ag"</string>
+	<!---->
+	<string name="pt_3">"Pt"</string>
+	<!-- no translation found for convert_category_length -->
+	<skip />
+	<!---->
+	<string name="convert_length_mm">"milimeter"</string>
+	<!---->
+	<string name="convert_length_cm">"sentimeter"</string>
+	<!---->
+	<string name="convert_length_m">"meter"</string>
+	<!---->
+	<string name="convert_length_km">"kilometer"</string>
+	<!---->
+	<string name="convert_length_mi">"batu"</string>
+	<!---->
+	<string name="convert_length_yd">"ela"</string>
+	<!---->
+	<string name="convert_length_ft">"kaki"</string>
+	<!---->
+	<string name="convert_length_in">"inci"</string>
+	<!---->
+	<string name="convert_length_kt">"Batu nautika"</string>
+	<!-- no translation found for convert_category_area -->
+	<skip />
+	<!---->
+	<string name="convert_area_mm2">"milimeter persegi"</string>
+	<!---->
+	<string name="convert_area_cm2">"sentimeter persegi"</string>
+	<!---->
+	<string name="convert_area_m2">"meter persegi"</string>
+	<!---->
+	<string name="convert_area_in2">"inci persegi"</string>
+	<!---->
+	<string name="convert_area_ft2">"kaki persegi"</string>
+	<!---->
+	<string name="convert_area_yd2">"ela persegi"</string>
+	<!---->
+	<string name="convert_area_ha">"hektar"</string>
+	<!---->
+	<string name="convert_area_km2">"kilometer persegi"</string>
+	<!---->
+	<string name="convert_area_ac">"ekar"</string>
+	<!---->
+	<string name="convert_area_mi2">"batu persegi"</string>
+	<!-- no translation found for convert_category_mass -->
+	<skip />
+	<!---->
+	<string name="convert_mass_mg">"miligram"</string>
+	<!---->
+	<string name="convert_mass_g">"gram"</string>
+	<!---->
+	<string name="convert_mass_kg">"kilogram"</string>
+	<!---->
+	<string name="convert_mass_t">"tan metrik"</string>
+	<!---->
+	<string name="convert_mass_tonuk">"tan panjang"</string>
+	<!---->
+	<string name="convert_mass_tonus">"tan pendek"</string>
+	<!---->
+	<string name="convert_mass_lb">"paun"</string>
+	<!---->
+	<string name="convert_mass_oz">"auns"</string>
+	<!---->
+	<string name="convert_mass_st">"ston"</string>
+	<!---->
+	<string name="convert_mass_ct">"karat"</string>
+	<!-- no translation found for convert_category_temperature -->
+	<skip />
+	<!---->
+	<string name="convert_temp_c">"celsius"</string>
+	<!---->
+	<string name="convert_temp_f">"fahrenheit"</string>
+	<!---->
+	<string name="convert_temp_k">"kelvin"</string>
+	<!-- no translation found for convert_category_volume -->
+	<skip />
+	<!---->
+	<string name="convert_volume_mm3">"milimeter padu"</string>
+	<!---->
+	<string name="convert_volume_cm3">"sentimeter padu"</string>
+	<!---->
+	<string name="convert_volume_dm3">"desimeter padu"</string>
+	<!---->
+	<string name="convert_volume_m3">"meter padu"</string>
+	<!---->
+	<string name="convert_volume_ml">"mililiter"</string>
+	<!---->
+	<string name="convert_volume_liter">"liter"</string>
+	<!---->
+	<string name="convert_volume_ft3">"kaki padu"</string>
+	<!---->
+	<string name="convert_volume_in3">"inci padu"</string>
+	<!---->
+	<string name="convert_volume_gal_us">"(AS)gelen"</string>
+	<!---->
+	<string name="convert_volume_qt_us">"(AS)kuart"</string>
+	<!---->
+	<string name="convert_volume_pt_us">"(AS)pain"</string>
+	<!---->
+	<string name="convert_volume_oz_us">"(AS)auns"</string>
+	<!---->
+	<string name="convert_volume_cup_us">"(AS)cawan"</string>
+	<!---->
+	<string name="convert_volume_tbsp_us">"(AS)sudu besar"</string>
+	<!---->
+	<string name="convert_volume_tsp_us">"(AS)sudu teh"</string>
+	<!---->
+	<string name="convert_volume_gal_uk">"(UK)gelen"</string>
+	<!---->
+	<string name="convert_volume_qt_uk">"(UK)kuart"</string>
+	<!---->
+	<string name="convert_volume_pt_uk">"(UK)pain"</string>
+	<!---->
+	<string name="convert_volume_oz_uk">"(UK)auns"</string>
+	<!---->
+	<string name="convert_volume_cup_uk">"(UK)cawan"</string>
+	<!---->
+	<string name="convert_volume_tbsp_uk">"(UK)sudu besar"</string>
+	<!---->
+	<string name="convert_volume_tsp_uk">"(UK)sudu teh"</string>
+	<!---->
+	<string name="convert_volume_dr">"dram"</string>
+	<!---->
+	<string name="convert_volume_bbl">"tong"</string>
+	<!---->
+	<string name="convert_volume_cord">"kord"</string>
+	<!---->
+	<string name="convert_volume_gill">"gil"</string>
+	<!-- no translation found for convert_category_cooking -->
+	<skip />
+	<!---->
+	<string name="convert_cooking_milliliter">"mililiter"</string>
+	<!---->
+	<string name="convert_cooking_gal_us">"gelen"</string>
+	<!---->
+	<string name="convert_cooking_qt_us">"kuart"</string>
+	<!---->
+	<string name="convert_cooking_pt_us">"pain"</string>
+	<!---->
+	<string name="convert_cooking_oz_us">"auns"</string>
+	<!---->
+	<string name="convert_cooking_floz_us">"(AS)auns bendalir"</string>
+	<!---->
+	<string name="convert_cooking_cup_us">"cawan"</string>
+	<!---->
+	<string name="convert_cooking_tbsp_us">"sudu besar"</string>
+	<!---->
+	<string name="convert_cooking_tsp_us">"sudu teh"</string>
+	<!---->
+	<string name="convert_cooking_gal_uk">"gelen"</string>
+	<!---->
+	<string name="convert_cooking_qt_uk">"kuart"</string>
+	<!---->
+	<string name="convert_cooking_pt_uk">"pain"</string>
+	<!---->
+	<string name="convert_cooking_floz_uk">"(UK)auns bendalir"</string>
+	<!---->
+	<string name="convert_cooking_oz_uk">"auns"</string>
+	<!---->
+	<string name="convert_cooking_cup_uk">"cawan"</string>
+	<!---->
+	<string name="convert_cooking_tbsp_uk">"sudu besar"</string>
+	<!---->
+	<string name="convert_cooking_tsp_uk">"sudu teh"</string>
+	<!-- no translation found for convert_category_fuel -->
+	<skip />
+	<!---->
+	<string name="convert_fuel_galperhundredmile_uk">"gelen(UK)/100 batu"</string>
+	<!---->
+	<string name="convert_fuel_galperhundredmile_us">"gelen(AS)/100 batu"</string>
+	<!---->
+	<string name="convert_fuel_kilometerperliter">"kilometer/liter"</string>
+	<!---->
+	<string name="convert_fuel_literperhundredkilometer">"liter/100 kilometer"</string>
+	<!---->
+	<string name="convert_fuel_mpg_uk">"(UK)batu segelen"</string>
+	<!---->
+	<string name="convert_fuel_mpg_us">"(AS)batu segelen"</string>
+	<!-- no translation found for convert_shoes_mem -->
+	<skip />
+	<!-- no translation found for convert_shoes_womem -->
+	<skip />
+	<!---->
+	<string name="splash_tv_open">"Masuk"</string>
+	<!---->
+	<string name="splash_tv_next">"Seterusnya"</string>
+	<!---->
+	<string name="splash_tv_skip">"Langkau"</string>
+	<!---->
+	<string name="splash_tv_calculate_title">"Hitung"</string>
+	<!---->
+	<string name="splash_tv_calculate_content">"Mulakan dengan kalkulator ini dan tab butang atau leret ke kiri untuk menggunakan panel saintifik."</string>
+	<!---->
+	<string name="splash_tv_currency_title">"Semak mata wang"</string>
+	<!---->
+	<string name="splash_tv_currency_content">"Menyokong semakan dan kemas kinian untuk lebih 150 negara setiap hari. \n(Sumber data daripada www.xe.com)"</string>
+	<!---->
+	<string name="splash_tv_convert_title">"Tukar unit"</string>
+	<!---->
+	<string name="splash_tv_convert_content">"Panjang? Jisim? Keluasan? \nPenukaran unit tidak lagi menjadi masalah."</string>
+	<!---->
+	<string name="no_internet_access">"Tiada akses Internet"</string>
+	<!---->
+	<string name="updating">"Mengemas kini..."</string>
+	<!-- no translation found for search_edit_hint -->
+	<skip />
+	<!---->
+	<string name="bt_right_more">"Lagi"</string>
+	<!---->
+	<string name="bt_left_more">"Lagi"</string>
+	<!---->
+	<string name="pop_cancel">"BATAL"</string>
+	<!---->
+	<string name="pop_ok">"OK"</string>
+</resources>

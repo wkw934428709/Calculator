@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">"Kikokotozi"</string>
+    <string name="copy">"Nakili"</string>
+    <string name="copy_result_toast">"Matokeo yamenakiliwa"</string>
+    <string name="desc_fun_ln">"logi asili"</string>
+    <string name="desc_lparen">"mabano ya kushoto"</string>
+    <string name="desc_op_sqrt">"mizizi ya mraba"</string>
+    <string name="desc_rparen">"mabano ya kulia"</string>
+    <string name="error_syntax">"Hitilafu"</string>
+    <string name="no_history">"Hakuna historia"</string>
+    <string name="paste">"Bandika"</string>
+    <string name="pop_cancel">"GHAIRI"</string>
+    <string name="swipe_down">"Telezesha chini upate historia"</string>
+    <string name="swipe_left">"Telezesha kushoto kwa \n ukokotoaji wa kisayansi"</string>
+    <string name="tips_btn_text">"Nimeelewa"</string>
+    <string name="tips_label">"Telezesha chini ili utazame historia yako ya ukokotoaji wa hivi karibuni"</string>
+</resources>

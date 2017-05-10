@@ -1,0 +1,21 @@
+buildscript {
+    repositories {
+        maven { url "http://172.16.12.20:8081/nexus/content/repositories/central/"}
+        maven { url "http://maven.lab.tclclouds.com/nexus/content/repositories/mie" }
+        maven { url "http://central.maven.org/maven2" }
+        jcenter()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:2.1.0'
+
+    }
+}
+
+allprojects {
+    repositories {
+        maven { url "http://maven.lab.tclclouds.com/nexus/content/repositories/mie" }
+        maven { url "http://central.maven.org/maven2" }
+        jcenter()
+    }
+}
+

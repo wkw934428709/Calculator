@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="diaplyoverlay_y_range_slowmove">30dp</dimen>
+    <dimen name="currency_layout_top_anim_height">70dp</dimen>
+    <dimen name="currency_formula_edit_height">40dp</dimen>
+    <dimen name="shape_equals_bottom_left_corners">30dp</dimen>
+    <dimen name="shape_equals_corners">30dp</dimen>
+    <dimen name="calculator_keyboard_pad_top">10dp</dimen>
+</resources>

@@ -1,0 +1,656 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  Copyright (C) 2014 The Android Open Source Project
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+  -->
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--  parent="@android:style/Theme.Material.Light"-->
+    <style name="CalculatorTheme" parent="@android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:colorPrimary">@color/calculator_accent_color</item>
+        <item name="android:navigationBarColor">@color/calculator_accent_color</item>
+        <item name="android:statusBarColor">@color/color_calculator_log_bg</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:colorControlHighlight">@color/pad_button_ripple_color</item>
+    </style>
+
+    <style name="DisplayEditTextStyle" parent="@android:style/Widget.Material.Light.EditText">
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:cursorVisible">false</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:gravity">bottom|end</item>
+    </style>
+
+    <style name="CommonDisplayEditTextStyle" parent="@android:style/Widget.Material.Light.EditText">
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:gravity">bottom|end</item>
+    </style>
+
+    <style name="PadButtonStyle" parent="@android:style/Widget.Material.Light.Button.Borderless">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@drawable/pad_button_background</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+        <item name="android:gravity">center</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:minWidth">0dip</item>
+        <item name="android:minHeight">0dip</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:textColor">@color/pad_button_text_color</item>
+    </style>
+
+    <style name="PadAdvencedButtonStyle" parent="@android:style/Widget.Material.Light.Button.Borderless">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@drawable/pad_button_background</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+        <item name="android:gravity">center</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:minWidth">0dip</item>
+        <item name="android:minHeight">0dip</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:textColor">@color/pad_button_text_color</item>
+    </style>
+
+    <style name="PadLayoutStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+    </style>
+
+    <style name="copyPasteButtonStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <!--PR557458 START change copy&paste button background and textcolor. update by xiaolu.li SEPT 6 2015 -->
+        <item name="android:background">@drawable/copy_paste_background</item>
+        <item name="android:paddingTop">@dimen/display_copy_paste_padding_top</item>
+        <item name="android:paddingBottom">@dimen/display_copy_paste_padding_bottom</item>
+        <item name="android:paddingLeft">@dimen/display_copy_paste_padding_left_right</item>
+        <item name="android:paddingRight">@dimen/display_copy_paste_padding_left_right</item>
+        <item name="android:textColor">@drawable/copy_paste_text_colors</item>
+        <!--PR557458 END change copy&paste button background and textcolor. update by xiaolu.li SEPT 6 2015 -->
+        <item name="android:textSize">@dimen/display_copy_paste_textsize</item>
+        <item name="android:textAllCaps">true</item>
+    </style>
+
+    <style name="DisplayEditTextStyle.Formula.MultiWindow_land">
+        <item name="android:paddingTop">24dip</item>
+        <item name="android:paddingBottom">12dip</item>
+        <item name="android:paddingStart">16dip</item>
+        <item name="android:paddingEnd">16dip</item>
+        <item name="maxTextSize">34sp</item>
+        <item name="minTextSize">18sp</item>
+        <item name="stepTextSize">8sp</item>
+    </style>
+
+    <style name="DisplayEditTextStyle.Result.MultiWindow_land">
+        <item name="android:paddingTop">12dip</item>
+        <item name="android:paddingBottom">12dip</item>
+        <item name="android:paddingStart">16dip</item>
+        <item name="android:paddingEnd">16dip</item>
+        <item name="maxTextSize">21sp</item>
+        <item name="minTextSize">14sp</item>
+        <item name="stepTextSize">3sp</item>
+    </style>
+
+    <style name="DisplayEditTextStyle.Formula.TwoInThree">
+        <item name="android:paddingTop">45dip</item>
+        <item name="android:paddingBottom">18dip</item>
+        <item name="android:paddingStart">16dip</item>
+        <item name="android:paddingEnd">16dip</item>
+        <item name="maxTextSize">38sp</item>
+        <item name="minTextSize">22sp</item>
+        <item name="stepTextSize">10sp</item>
+    </style>
+
+    <style name="DisplayEditTextStyle.Result.TwoInThree">
+        <item name="android:paddingTop">20dip</item>
+        <item name="android:paddingBottom">20dip</item>
+        <item name="android:paddingStart">16dip</item>
+        <item name="android:paddingEnd">16dip</item>
+        <item name="maxTextSize">24sp</item>
+        <item name="minTextSize">16sp</item>
+        <item name="stepTextSize">6sp</item>
+    </style>
+
+    <style name="CopyPastLocationStyle.MultiWindow_land">
+        <item name="android:paddingRight">12dp</item>
+        <item name="android:layout_below">@id/formula</item>
+        <!--<item name="android:layout_marginTop">-4dp</item>-->
+    </style>
+
+    <style name="CopyLocationStyle.MultiWindow_land">
+        <item name="android:paddingRight">12dp</item>
+        <item name="android:layout_above">@id/result</item>
+        <item name="android:layout_marginBottom">-11dp</item>
+    </style>
+
+    <style name="DisplayDegreeTextStyle.MultiWindow_land">
+        <item name="android:layout_marginLeft">16dp</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <style name="PadButtonStyle.Numeric.MultiWindow_land">
+        <item name="android:layout_margin">4dip</item>
+        <item name="android:textSize">21sp</item>
+        <item name="android:textColor">#B2ffffff</item>
+    </style>
+
+    <style name="PadButtonStyle.Numeric.MultiWindow_port">
+        <item name="android:layout_margin">4dip</item>
+        <item name="android:textSize">21sp</item>
+        <item name="android:textColor">#B2ffffff</item>
+    </style>
+
+    <style name="PadLayoutStyle.Numeric.MultiWindow_land">
+        <item name="android:layout_width">0dip</item>
+        <item name="android:layout_weight">240</item>
+        <item name="android:paddingTop">8dip</item>
+        <item name="android:paddingBottom">8dip</item>
+        <item name="android:paddingStart">8dip</item>
+        <item name="android:paddingEnd">8dip</item>
+    </style>
+
+    <style name="PadLayoutStyle.Numeric.MultiWindow_port">
+        <item name="android:layout_width">0dip</item>
+        <item name="android:layout_weight">240</item>
+        <item name="android:paddingTop">8dip</item>
+        <item name="android:paddingBottom">8dip</item>
+        <item name="android:paddingStart">8dip</item>
+        <item name="android:paddingEnd">8dip</item>
+    </style>
+
+    <style name="PadLayoutStyle.Operator.MultiWindow_land">
+        <item name="android:layout_width">0dip</item>
+        <item name="android:layout_weight">96</item>
+        <item name="android:paddingTop">8dip</item>
+        <item name="android:paddingBottom">24dip</item>
+        <item name="android:paddingStart">4dip</item>
+        <item name="android:paddingEnd">28dip</item>
+    </style>
+
+    <style name="PadLayoutStyle.Operator.MultiWindow_port">
+        <item name="android:layout_width">0dip</item>
+        <item name="android:layout_weight">80</item>
+        <item name="android:paddingTop">8dip</item>
+        <item name="android:paddingBottom">8dip</item>
+        <item name="android:paddingStart">8dip</item>
+        <item name="android:paddingEnd">32dip</item>
+    </style>
+
+    <style name="PadButtonStyle.Operator.Text.MultiWindow_port">
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:textColor">#ffffff</item>
+    </style>
+
+    <style name="PadButtonStyle.Operator.MultiWindow_port">
+        <item name="android:layout_margin">0dip</item>
+        <item name="android:textSize">23sp</item>
+        <item name="android:textColor">#ffffff</item>
+    </style>
+
+    <style name="PadLayoutStyle.Advanced.MultiWindow_land">
+        <item name="android:layout_width">0dip</item>
+        <item name="android:paddingTop">4dip</item>
+        <item name="android:paddingBottom">4dip</item>
+        <item name="android:paddingStart">8dip</item>
+        <item name="android:paddingEnd">8dip</item>
+        <item name="android:columnCount">3</item>
+        <item name="android:rowCount">5</item>
+    </style>
+
+    <style name="PadLayoutStyle.Advanced.MultiWindow_port">
+        <item name="android:layout_width">0dip</item>
+        <item name="android:paddingTop">4dip</item>
+        <item name="android:paddingBottom">4dip</item>
+        <item name="android:paddingStart">8dip</item>
+        <item name="android:paddingEnd">8dip</item>
+        <item name="android:columnCount">3</item>
+        <item name="android:rowCount">5</item>
+    </style>
+
+    <style name="PadButtonStyle.Advanced.MultiWindow_land">
+        <item name="android:layout_margin">4dip</item>
+        <item name="android:background">@drawable/pad_button_advanced_background</item>
+        <item name="android:textColor">@color/pad_button_advanced_text_color</item>
+        <item name="android:textSize">15sp</item>
+    </style>
+
+    <style name="PadButtonStyle.Advanced.MultiWindow_port">
+        <item name="android:layout_margin">4dip</item>
+        <item name="android:background">@drawable/pad_button_advanced_background</item>
+        <item name="android:textColor">@color/pad_button_advanced_text_color</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="PadButtonStyle.Numeric.Equals.MultiWindow_port">
+        <item name="android:visibility">visible</item>
+    </style>
+
+    <style name="TwoInThirdDisplayDegreeTextStyle">
+        <item name="android:layout_marginTop">8dp</item>
+        <item name="android:layout_marginLeft">16dp</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <style name="TipButtonStyleInMultiwindow" parent="@android:style/Widget.Material.Light.Button.Borderless">
+        <item name="android:layout_width">130dp</item>
+        <item name="android:layout_height">34dp</item>
+        <item name="android:layout_marginTop">@dimen/tips_btn_margin_top</item>
+        <item name="android:layout_marginBottom">20dp</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">@color/tip_btn_text_color</item>
+        <item name="android:background">@drawable/button_line</item>
+    </style>
+
+    <style name="CurrencyDisplayEditTextStyle" parent="@android:style/Widget.Material.Light.EditText">
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:gravity">bottom|end</item>
+    </style>
+
+    <style name="Theme.Calculator" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:windowBackground">@color/colorPrimaryDarkGreen</item>
+    </style>
+
+    <style name="CalculatorLogStyle" parent="@android:style/Widget.Material.Light.Button.Borderless">
+        <item name="android:background">@drawable/pad_log_background</item>
+    </style>
+
+
+    <style name="PadButtonStyle.Numeric.PortHalf">
+        <item name="android:layout_margin">2dip</item>
+        <item name="android:textSize">30sp</item>
+        <!--PR538732 change textcolor [Calculator_v5.2.1.2.0303.0]The color of the digital display is not obvious in number Panel update by xiaolu.li 8/27/2015-->
+        <item name="android:textColor">#B2ffffff</item>
+    </style>
+
+    <style name="PadButtonStyle.Operator.Text.Split">
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textSize">30sp</item>
+        <item name="android:textColor">#ffffff</item>
+    </style>
+
+
+
+
+    <style name="DisplayEditTextStyle.Formula.Multity.Land">
+        <item name="android:paddingTop">8dip</item>
+        <item name="android:paddingBottom">6dip</item>
+        <item name="android:paddingStart">16dip</item>
+        <item name="android:paddingEnd">16dip</item>
+        <item name="minTextSize">36sp</item>
+        <item name="maxTextSize">40sp</item>
+        <item name="stepTextSize">8sp</item>
+    </style>
+
+    <style name="DisplayEditTextStyle.Formula">
+        <item name="android:paddingTop">48dip</item>
+        <item name="android:paddingBottom">24dip</item>
+        <item name="android:paddingStart">16dip</item>
+        <item name="android:paddingEnd">16dip</item>
+        <item name="minTextSize">36sp</item>
+        <item name="maxTextSize">64sp</item>
+        <item name="stepTextSize">8sp</item>
+    </style>
+
+    <style name="DisplayEditTextStyle.Result">
+        <item name="android:paddingTop">24dip</item>
+        <item name="android:paddingBottom">48dip</item>
+        <item name="android:paddingStart">16dip</item>
+        <item name="android:paddingEnd">16dip</item>
+        <!-- TS: kaifeng.lu 2016-01-25 Calculator BUGFIX-1496316  MOD_S -->
+        <item name="maxTextSize">36sp</item>
+        <item name="minTextSize">26sp</item>
+        <item name="stepTextSize">3sp</item>
+        <!-- TS: kaifeng.lu 2016-01-25 Calculator BUGFIX-1496316  MOD_E -->
+    </style>
+
+    <style name="CommonDisplayEditTextStyle.Formula">
+        <item name="android:paddingStart">10dip</item>
+        <item name="android:paddingEnd">16dip</item>
+        <item name="minTextSize">28sp</item>
+        <item name="maxTextSize">51sp</item>
+        <item name="stepTextSize">6sp</item>
+    </style>
+
+    <style name="CommonDisplayEditTextStyle.Result">
+        <item name="android:paddingStart">10dip</item>
+        <item name="android:paddingEnd">16dip</item>
+        <item name="maxTextSize">@dimen/convert_bottom_editText_maxTextSize</item>
+        <item name="android:singleLine">true</item>
+        <item name="minTextSize">20sp</item>
+        <item name="stepTextSize">2sp</item>
+    </style>
+    <style name="HistoryText">
+        <item name="android:layout_height">wrap_content</item>
+
+        <item name="android:paddingTop">8dip</item>
+        <item name="android:paddingBottom">8dip</item>
+        <item name="android:paddingStart">8dip</item>
+        <item name="android:paddingEnd">8dip</item>
+        <item name="minTextSize">36sp</item>
+        <item name="maxTextSize">64sp</item>
+        <item name="stepTextSize">8sp</item>
+        <item name="android:scrollHorizontally">true</item>
+    </style>
+
+    <style name="HistoryText.Formula">
+        <item name="android:textColor">@color/history_formula_text_color</item>
+        <!--PR1074687  need change history font style & number panal is so blank then show .update by xiaolu.li Aug 25 2015 -->
+        <item name="android:fontFamily">sans-serif-light</item>
+        <item name="android:textSize">24sp</item>
+    </style>
+
+    <style name="HistoryText.Result">
+        <item name="android:textColor">@color/history_result_text_color</item>
+        <!--PR1074687  need change history font style & number panal is so blank then show .update by xiaolu.li Aug 25 2015 -->
+        <item name="android:fontFamily">sans-serif-light</item>
+        <item name="android:textSize">32sp</item>
+    </style>
+
+    <style name="PadButtonStyle.Advanced">
+        <item name="android:layout_margin">4dip</item>
+        <item name="android:background">@drawable/pad_button_advanced_background</item>
+        <item name="android:textColor">@color/pad_button_advanced_text_color</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+    </style>
+
+    <style name="PadButtonStyle.Inv" parent="PadButtonStyle.Advanced">
+        <item name="android:fontFamily">sans-serif-medium</item>
+    </style>
+
+    <style name="PadButtonStyle.Numeric">
+        <item name="android:layout_margin">4dip</item>
+        <item name="android:textSize">32sp</item>
+        <!--PR538732 change textcolor [Calculator_v5.2.1.2.0303.0]The color of the digital display is not obvious in number Panel update by xiaolu.li 8/27/2015-->
+        <item name="android:textColor">#B2ffffff</item>
+    </style>
+
+    <style name="PadButtonStyle.Numeric.Equals">
+        <item name="android:visibility">visible</item>
+    </style>
+
+    <style name="PadButtonStyle.Operator">
+        <item name="android:layout_margin">4dip</item>
+        <item name="android:textSize">32sp</item>
+        <item name="android:textColor">#ffffff</item>
+    </style>
+
+    <style name="PadButtonStyle.Operator.Text">
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:textColor">#ffffff</item>
+    </style>
+
+    <style name="PadLayoutStyle.Advanced">
+        <item name="android:elevation">4dip</item>
+        <item name="android:paddingTop">12dip</item>
+        <item name="android:paddingBottom">20dip</item>
+        <item name="android:paddingStart">20dip</item>
+        <item name="android:paddingEnd">20dip</item>
+        <item name="android:columnCount">3</item>
+        <item name="android:rowCount">5</item>
+    </style>
+
+    <style name="PadLayoutStyle.Convert">
+        <item name="android:elevation">4dip</item>
+        <item name="android:paddingTop">0dip</item>
+        <item name="android:paddingBottom">0dip</item>
+        <item name="android:paddingStart">0dip</item>
+        <item name="android:paddingEnd">0dip</item>
+        <item name="android:columnCount">1</item>
+        <item name="android:rowCount">1</item>
+    </style>
+
+    <style name="PadLayoutStyle.Numeric">
+        <item name="android:layout_width">0dip</item>
+        <item name="android:layout_weight">264</item>
+        <item name="android:paddingTop">12dip</item>
+        <item name="android:paddingBottom">20dip</item>
+        <item name="android:paddingStart">12dip</item>
+        <item name="android:paddingEnd">12dip</item>
+    </style>
+
+    <style name="PadLayoutStyle.Operator">
+        <item name="android:layout_width">0dip</item>
+        <item name="android:layout_weight">96</item>
+        <item name="android:paddingTop">8dip</item>
+        <item name="android:paddingBottom">24dip</item>
+        <item name="android:paddingStart">4dip</item>
+        <item name="android:paddingEnd">28dip</item>
+    </style>
+
+    <style name="TipButtonStyle" parent="@android:style/Widget.Material.Light.Button.Borderless">
+        <!-- TS: yanhua.chen 2015-12-3 Calculator BUGFIX-1031268 MOD_S -->
+        <item name="android:layout_width">130dp</item>
+        <item name="android:layout_height">34dp</item>
+        <!--<item name="android:paddingTop">@dimen/tips_btn_padding_top_bottom</item>-->
+        <!--<item name="android:paddingBottom">@dimen/tips_btn_padding_top_bottom</item>-->
+        <!--<item name="android:paddingLeft">@dimen/tips_btn_padding_left_right</item>-->
+        <!--<item name="android:paddingRight">@dimen/tips_btn_padding_left_right</item>-->
+        <!-- TS: yanhua.chen 2015-12-3 Calculator BUGFIX-1031268 MOD_E -->
+        <item name="android:layout_centerHorizontal">true</item>
+        <item name="android:layout_marginBottom">@dimen/tips_btn_margin_bottom</item>
+        <item name="android:layout_marginTop">@dimen/tips_btn_margin_top</item>
+        <item name="android:textSize">@dimen/tips_btn_textsize</item>
+        <item name="android:textColor">@color/tip_btn_text_color</item>
+        <!--<item name="android:background">@drawable/tips_btn_background</item>-->
+        <item name="android:background">@drawable/button_line</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_alignParentBottom">true</item>
+    </style>
+
+    <style name="TipLabelStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_centerHorizontal">true</item>
+        <item name="android:lineSpacingExtra">@dimen/tips_label_line_height</item>
+        <item name="android:layout_marginTop">@dimen/tips_btn_margin_top</item>
+        <item name="android:textSize">@dimen/tips_label_textsize</item>
+        <item name="android:textColor">@color/tip_label_text_color</item>
+        <item name="android:layout_marginLeft">@dimen/tips_label_margin_left_right</item>
+        <item name="android:layout_gravity">center_horizontal</item>
+        <item name="android:layout_marginRight">@dimen/tips_label_margin_left_right</item>
+    </style>
+
+    <style name="deleteButtonStyle" parent="@android:style/Widget.Material.Light.Button.Borderless">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">@dimen/delete_height</item>
+        <item name="android:background">@drawable/delete_btn_background</item>
+        <item name="android:layout_gravity">center</item>
+    </style>
+    <!-- TS: jian.xu 2015-12-04 EMAIL BUGFIX-958406 ADD_S -->
+    <style name="DisplayDegreeTextStyle">
+        <item name="android:layout_marginLeft">16dp</item>
+        <item name="android:layout_marginTop">16dp</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+    <!-- TS: jian.xu 2015-12-04 EMAIL BUGFIX-958406 ADD_E -->
+    <!-- TS: tianjing.su 2015-12-11 EMAIL BUGFIX-1074185 ADD_S -->
+    <style name="CopyPastLocationStyle">
+        <item name="android:paddingRight">12dp</item>
+        <item name="android:layout_below">@id/formula</item>
+        <item name="android:layout_marginTop">-13dp</item>
+    </style>
+
+    <style name="CopyLocationStyle">
+        <item name="android:paddingRight">12dp</item>
+        <item name="android:layout_alignBottom">@id/result</item>
+        <item name="android:layout_marginBottom">-5dp</item>
+    </style>
+
+    <style name="CommonTopCopyPastLocationStyle">
+        <item name="android:paddingRight">12dp</item>
+        <item name="android:layout_below">@id/common_top_formula</item>
+        <item name="android:layout_marginTop">-13dp</item>
+    </style>
+
+    <style name="CommonTopCopyLocationStyle">
+        <item name="android:paddingRight">12dp</item>
+        <item name="android:layout_alignBottom">@id/common_top_result</item>
+        <item name="android:layout_marginBottom">-5dp</item>
+    </style>
+
+    <style name="CommonBottomCopyLocationStyle">
+        <item name="android:paddingRight">12dp</item>
+        <item name="android:layout_alignBottom">@id/common_bottom_result</item>
+        <item name="android:layout_marginBottom">-5dp</item>
+    </style>
+    <!-- TS: tianjing.su 2015-12-11 EMAIL BUGFIX-1074185 ADD_S -->
+
+    <style name="PadButtonStyle.Numeric.Top">
+        <item name="android:layout_margin">4dip</item>
+        <item name="android:textSize">32sp</item>
+        <!--PR538732 change textcolor [Calculator_v5.2.1.2.0303.0]The color of the digital display is not obvious in number Panel update by xiaolu.li 8/27/2015-->
+        <item name="android:textColor">@color/color_green</item>
+    </style>
+
+    <style name="PadButtonStyle.Numeric.SEVEN">
+        <item name="android:layout_margin">4dip</item>
+        <item name="android:textSize">32sp</item>
+        <!--PR538732 change textcolor [Calculator_v5.2.1.2.0303.0]The color of the digital display is not obvious in number Panel update by xiaolu.li 8/27/2015-->
+        <item name="android:textColor">#B2ffffff</item>
+    </style>
+
+    <style name="CurrencyDisplayEditTextStyle.Formula">
+        <item name="android:paddingEnd">5dip</item>
+        <item name="minTextSize">25sp</item>
+        <item name="maxTextSize">40sp</item>
+        <item name="stepTextSize">6sp</item>
+    </style>
+
+    <!-- Add wave effect for log of calculator、currency and converter screen. -->
+    <style name="CalculatorLogStyle.Operator">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="CommonDisplayEditTextStyle.Formula.multi">
+        <item name="minTextSize">5sp</item>
+        <item name="android:singleLine">true</item>
+        <item name="maxTextSize">20sp</item>
+        <item name="stepTextSize">6sp</item>
+    </style>
+
+    <style name="CommonDisplayEditTextStyle.Result.multi">
+        <item name="android:paddingTop">10dip</item>
+        <item name="android:paddingBottom">10dip</item>
+        <item name="android:paddingStart">16dip</item>
+        <item name="android:paddingEnd">16dip</item>
+        <item name="maxTextSize">24sp</item>
+        <item name="android:singleLine">true</item>
+        <item name="stepTextSize">2sp</item>
+    </style>
+
+    <style name="DisplayEditTextStyle.Formula.Multity">
+        <item name="android:paddingTop">22dip</item>
+        <item name="android:paddingBottom">18dip</item>
+        <item name="android:paddingStart">16dip</item>
+        <item name="android:paddingEnd">16dip</item>
+        <item name="minTextSize">24sp</item>
+        <item name="maxTextSize">40sp</item>
+        <item name="stepTextSize">8sp</item>
+    </style>
+
+    <style name="PadButtonStyle.Numeric.Top.Mulity">
+        <item name="android:layout_margin">0dip</item>
+        <item name="android:textSize">26sp</item>
+        <!--PR538732 change textcolor [Calculator_v5.2.1.2.0303.0]The color of the digital display is not obvious in number Panel update by xiaolu.li 8/27/2015-->
+        <item name="android:textColor">@color/color_green</item>
+    </style>
+
+
+    <style name="DisplayDegreeTextStyle.Multi">
+        <item name="android:layout_marginLeft">12dp</item>
+        <item name="android:layout_marginTop">4dp</item>
+        <item name="android:textSize">10sp</item>
+    </style>
+
+    <style name="PadButtonStyle.Numeric.PortHalf.Multi">
+        <item name="android:layout_margin">2dip</item>
+        <item name="android:textSize">20sp</item>
+        <!--PR538732 change textcolor [Calculator_v5.2.1.2.0303.0]The color of the digital display is not obvious in number Panel update by xiaolu.li 8/27/2015-->
+        <item name="android:textColor">#B2ffffff</item>
+    </style>
+
+    <style name="CurrencyDisplayEditTextStyle.Formula.Multi">
+        <item name="android:paddingEnd">5dip</item>
+        <item name="minTextSize">18sp</item>
+        <item name="maxTextSize">28sp</item>
+        <item name="stepTextSize">6sp</item>
+    </style>
+
+    <style name="CommonDisplayEditTextStyle.Result.Multy">
+        <item name="android:paddingStart">10dip</item>
+        <item name="android:paddingEnd">16dip</item>
+        <item name="maxTextSize">14sp</item>
+        <item name="android:singleLine">true</item>
+        <item name="minTextSize">10sp</item>
+        <item name="stepTextSize">2sp</item>
+    </style>
+
+
+    <style name="CommonDisplayEditTextStyle.Result.Split">
+        <item name="android:paddingStart">10dip</item>
+        <item name="android:paddingEnd">16dip</item>
+        <item name="maxTextSize">16sp</item>
+        <item name="android:singleLine">true</item>
+        <item name="minTextSize">10sp</item>
+        <item name="stepTextSize">2sp</item>
+    </style>
+
+    <style name="DisplayEditTextStyle.Formula.Land">
+        <item name="android:paddingTop">24dip</item>
+        <item name="android:paddingBottom">24dip</item>
+        <item name="android:paddingStart">16dip</item>
+        <item name="android:paddingEnd">16dip</item>
+        <item name="minTextSize">36sp</item>
+        <item name="maxTextSize">64sp</item>
+        <item name="stepTextSize">8sp</item>
+    </style>
+
+    <style name="DisplayEditTextStyle.Result.Land">
+        <item name="android:paddingTop">24dip</item>
+        <item name="android:paddingBottom">48dip</item>
+        <item name="android:paddingStart">16dip</item>
+        <item name="android:paddingEnd">16dip</item>
+        <!-- TS: kaifeng.lu 2016-01-25 Calculator BUGFIX-1496316  MOD_S -->
+        <item name="maxTextSize">36sp</item>
+        <item name="minTextSize">26sp</item>
+        <item name="stepTextSize">3sp</item>
+        <!-- TS: kaifeng.lu 2016-01-25 Calculator BUGFIX-1496316  MOD_E -->
+    </style>
+
+    <style name="CurrencyExpandGuideStyle">
+        <item name="android:paddingTop">20dp</item>
+        <item name="android:paddingBottom">12dp</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+
+     <!--bugfix :  3534304   -start -->
+    <style name="PadButtonStyle.Advanced.MultiWindow_port_log">
+        <item name="android:layout_margin">4dip</item>
+        <item name="android:background">@drawable/pad_button_advanced_background</item>
+        <item name="android:textColor">@color/pad_button_advanced_text_color</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+    <!--bugfix :  3534304   -end -->
+</resources>

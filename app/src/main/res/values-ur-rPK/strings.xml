@@ -1,0 +1,706 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+	<!--
+		this file is built by arct
+	-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<!---->
+	<string name="app_name">"کیلکولیٹر"</string>
+	<!---->
+	<string name="error_nan">"نمبر نہیں ہے"</string>
+	<!---->
+	<string name="error_syntax">"خرابی"</string>
+	<!-- no translation found for dec_point -->
+	<skip />
+	<!-- no translation found for digit_0 -->
+	<skip />
+	<!-- no translation found for digit_1 -->
+	<skip />
+	<!-- no translation found for digit_2 -->
+	<skip />
+	<!-- no translation found for digit_3 -->
+	<skip />
+	<!-- no translation found for digit_4 -->
+	<skip />
+	<!-- no translation found for digit_5 -->
+	<skip />
+	<!-- no translation found for digit_6 -->
+	<skip />
+	<!-- no translation found for digit_7 -->
+	<skip />
+	<!-- no translation found for digit_8 -->
+	<skip />
+	<!-- no translation found for digit_9 -->
+	<skip />
+	<!-- no translation found for fun_cos -->
+	<skip />
+	<!-- no translation found for fun_ln -->
+	<skip />
+	<!-- no translation found for fun_log -->
+	<skip />
+	<!-- no translation found for fun_sin -->
+	<skip />
+	<!-- no translation found for fun_tan -->
+	<skip />
+	<!-- no translation found for op_inv -->
+	<skip />
+	<!-- no translation found for op_deg -->
+	<skip />
+	<!-- no translation found for op_rad -->
+	<skip />
+	<!-- no translation found for fun_arccos -->
+	<skip />
+	<!-- no translation found for fun_arcsin -->
+	<skip />
+	<!-- no translation found for fun_arctan -->
+	<skip />
+	<!-- no translation found for fun_naturExp -->
+	<skip />
+	<!-- no translation found for fun_comExp -->
+	<skip />
+	<!-- no translation found for fun_sqr -->
+	<skip />
+	<!-- no translation found for clr -->
+	<skip />
+	<!---->
+	<string name="del">"حذف کریں"</string>
+	<!-- no translation found for desc_const_e -->
+	<skip />
+	<!-- no translation found for desc_const_pi -->
+	<skip />
+	<!-- no translation found for desc_dec_point -->
+	<skip />
+	<!---->
+	<string name="desc_lparen">"بایاں قوس"</string>
+	<!---->
+	<string name="desc_rparen">"دایاں قوس"</string>
+	<!-- no translation found for desc_fun_cos -->
+	<skip />
+	<!---->
+	<string name="desc_fun_ln">"قدرتی لاگرتھم"</string>
+	<!-- no translation found for desc_fun_log -->
+	<skip />
+	<!-- no translation found for desc_fun_sin -->
+	<skip />
+	<!-- no translation found for desc_fun_tan -->
+	<skip />
+	<!-- no translation found for desc_op_add -->
+	<skip />
+	<!-- no translation found for desc_op_div -->
+	<skip />
+	<!-- no translation found for desc_op_fact -->
+	<skip />
+	<!-- no translation found for desc_op_mul -->
+	<skip />
+	<!-- no translation found for desc_op_pow -->
+	<skip />
+	<!---->
+	<string name="desc_op_sqrt">"جذر مربع"</string>
+	<!-- no translation found for desc_op_sub -->
+	<skip />
+	<!-- no translation found for desc_op_inv -->
+	<skip />
+	<!-- no translation found for desc_op_deg -->
+	<skip />
+	<!-- no translation found for desc_op_rad -->
+	<skip />
+	<!-- no translation found for desc_op_per -->
+	<skip />
+	<!-- no translation found for desc_fun_arcsin -->
+	<skip />
+	<!-- no translation found for desc_fun_arccos -->
+	<skip />
+	<!-- no translation found for desc_fun_arctan -->
+	<skip />
+	<!-- no translation found for desc_fun_naturExp -->
+	<skip />
+	<!-- no translation found for desc_fun_comExp -->
+	<skip />
+	<!-- no translation found for desc_fun_sqr -->
+	<skip />
+	<!-- no translation found for desc_clr -->
+	<skip />
+	<!-- no translation found for desc_del -->
+	<skip />
+	<!-- no translation found for desc_eq -->
+	<skip />
+	<!---->
+	<string name="copy_result_toast">"نتیجہ کی نقل کی جاتی ہے"</string>
+	<!---->
+	<string name="tips_label">"اپنے حالیہ حساب کتاب کی تاریخ کو دیکھنے کے لئے نیچے کی طرف سوائپ کریں"</string>
+	<!---->
+	<string name="tips_btn_text">"سمجھ گیا"</string>
+	<!---->
+	<string name="no_history">"کوئی تاریخ نہیں"</string>
+	<!---->
+	<string name="copy">"کاپی کریں"</string>
+	<!---->
+	<string name="paste">"پیسٹ کریں"</string>
+	<!---->
+	<string name="swipe_down">"ہسٹری کے لئے نیچے سوائپ کریں"</string>
+	<!---->
+	<string name="swipe_left">"\n سائنسی حساب کتاب کے لئے بائیں سوائپ کریں"</string>
+	<!-- no translation found for dec_point_rel4 -->
+	<skip />
+	<!-- no translation found for drawer_title -->
+	<skip />
+	<!-- no translation found for drawer_open -->
+	<skip />
+	<!-- no translation found for drawer_close -->
+	<skip />
+	<!---->
+	<string name="convert_length">"لمبائی"</string>
+	<!---->
+	<string name="convert_area">"علاقہ"</string>
+	<!---->
+	<string name="convert_mass">"ماس"</string>
+	<!---->
+	<string name="convert_volume">"والیوم"</string>
+	<!---->
+	<string name="convert_temperature">"درجۂ حرارت"</string>
+	<!---->
+	<string name="convert_fuel">"ایندھن"</string>
+	<!-- no translation found for convert_shoes -->
+	<skip />
+	<!-- no translation found for convert_clothes -->
+	<skip />
+	<!---->
+	<string name="convert_cooking">"پکوان"</string>
+	<!---->
+	<string name="currency_time">"اپ ڈیٹ کریں:"</string>
+	<!---->
+	<string name="afghani">"افغانی"</string>
+	<!---->
+	<string name="azerbaijani_manat">"آزربائیجانی منات"</string>
+	<!---->
+	<string name="algerian_dinar">"الجزائر دینار"</string>
+	<!---->
+	<string name="aruba_florin">"اروبا فلورن"</string>
+	<!---->
+	<string name="argentine_peso">"ارجنٹائن پیسہ"</string>
+	<!---->
+	<string name="albanian_lek">"البانی لک"</string>
+	<!---->
+	<string name="australian_dollar">"آسٹریلین ڈالر"</string>
+	<!---->
+	<string name="cayman_islands_dollar">"جزائر کیمن ڈالر"</string>
+	<!---->
+	<string name="cambodian_riel">"کمبوڈیا ریئل"</string>
+	<!---->
+	<string name="croatian_kuna">"کروشین کونا"</string>
+	<!---->
+	<string name="czech_koruna">"چیک کرونا"</string>
+	<!---->
+	<string name="cuban_peso">"کیوبا پیسہ"</string>
+	<!---->
+	<string name="costa_rica_colon">"کوسٹا ریکا قولون"</string>
+	<!---->
+	<string name="colombian_peso">"کولمیین پیسہ"</string>
+	<!---->
+	<string name="chilean_peso">"چلین پیسہ"</string>
+	<!---->
+	<string name="cape_verde_escudo">"کیپ ورڈے ایسکودو"</string>
+	<!---->
+	<string name="chinese_yuan">"چینی یوآن"</string>
+	<!---->
+	<string name="indian_rupee">"انڈین روپیہ"</string>
+	<!---->
+	<string name="canadian_dollar">"کینیڈین ڈالر"</string>
+	<!---->
+	<string name="bitcoin">"بٹ کوائن"</string>
+	<!---->
+	<string name="bosnian_convertible_mark">"بوسنی بدلنے مارک"</string>
+	<!---->
+	<string name="british_pound">"برطانوی پاؤنڈ"</string>
+	<!---->
+	<string name="burundi_franc">"برنڈی فرانک"</string>
+	<!---->
+	<string name="bulgarian_lev">"بلغارین لیو"</string>
+	<!---->
+	<string name="brunei_dollar">"برونائی ڈالر"</string>
+	<!---->
+	<string name="brazilian_real">"برازیلی ریئل"</string>
+	<!---->
+	<string name="botswanna_pula">"بوٹسوانا پولا"</string>
+	<!---->
+	<string name="bolivian_boliviano">"بولیوین بولیویانو"</string>
+	<!---->
+	<string name="bhutan_ngultrum">"بھوٹان گلٹرم"</string>
+	<!---->
+	<string name="bermuda_dollar">"برمودا ڈالر"</string>
+	<!---->
+	<string name="belize_dollar">"بیلیز ڈالر"</string>
+	<!---->
+	<string name="belarus_ruble">"بیلارس روبل"</string>
+	<!---->
+	<string name="barbados_dollar">"بارباڈوس ڈالر"</string>
+	<!---->
+	<string name="bangladesh_taka">"بنگلا دیش ٹکا"</string>
+	<!---->
+	<string name="bahraini_dinar">"بحرین دینار"</string>
+	<!---->
+	<string name="bahamian_dollar">"بہامانی ڈالر"</string>
+	<!---->
+	<string name="angolan_kwanza">"انگولا کوانزا"</string>
+	<!---->
+	<string name="armenian_dram">"آرمینیائی ڈرم"</string>
+	<!---->
+	<string name="iraqi_dinar">"عراقی دینار"</string>
+	<!---->
+	<string name="iranian_rial">"ایرانی ریال"</string>
+	<!---->
+	<string name="iceland_krona">"آئس لینڈ کرونا"</string>
+	<!---->
+	<string name="indonesian_rupiah">"انڈونیشین روپیہ"</string>
+	<!---->
+	<string name="hungarian_forint">"ہنگرین فورنٹ"</string>
+	<!---->
+	<string name="honduras_lempira">"ہونڈوراس لیمپیرا"</string>
+	<!---->
+	<string name="haiti_gourde">"ہیٹی گؤرڈی"</string>
+	<!---->
+	<string name="hongkong_dollar">"ہانگ کانگ ڈالر"</string>
+	<!---->
+	<string name="gold">"سونا"</string>
+	<!---->
+	<string name="ghanaian_cedi">"گھانا کیڈی"</string>
+	<!---->
+	<string name="georgian_lari">"جارجی لاری"</string>
+	<!---->
+	<string name="guyana_dollar">"گیانا ڈالر"</string>
+	<!---->
+	<string name="guinea_franc">"گنی فرانک"</string>
+	<!---->
+	<string name="guatemala_quetzal">"گوئٹے مالا کوئٹزل"</string>
+	<!---->
+	<string name="gibraltar_pound">"جبرالٹر پاؤنڈ"</string>
+	<!---->
+	<string name="gambian_dalasi">"گیمبیا ڈلاسی"</string>
+	<!---->
+	<string name="fiji_dollar">"فجی ڈالر"</string>
+	<!---->
+	<string name="falkland_islands_pound">"جزائر فاک لینڈ پاؤنڈ"</string>
+	<!---->
+	<string name="east_caribbean_dollar">"مشرقی کارائیب ڈالر"</string>
+	<!---->
+	<string name="ethiopian_birr">"ایتھوپیا ہوئ"</string>
+	<!---->
+	<string name="eritrea_nakfa">"اریٹیریا نافکا"</string>
+	<!---->
+	<string name="egyptian_pound">"مصری پاؤنڈ"</string>
+	<!---->
+	<string name="euro">"یورو"</string>
+	<!---->
+	<string name="dominican_peso">"ڈومینیکن پیسہ"</string>
+	<!---->
+	<string name="djibout_franc">"جبوتی فرانک"</string>
+	<!---->
+	<string name="danish_krone">"ڈینش کرون"</string>
+	<!---->
+	<string name="congolese_frank">"کانگو فرینک"</string>
+	<!---->
+	<string name="cfa_francl_beac">"سی ایف اے فرانکل(BEAC)"</string>
+	<!---->
+	<string name="cfa_franc_bceao">"سی ایف اے فرانک(BCEAO)"</string>
+	<!---->
+	<string name="comoros_franc">"کوموروس فرانک"</string>
+	<!---->
+	<string name="namibian_dollar">"نمیبیا ڈالر"</string>
+	<!---->
+	<string name="north_korean_won">"شمالی کوریائی وان"</string>
+	<!---->
+	<string name="neth_antilles_guilder">"نیدر لینڈ آنتیل گیلدر"</string>
+	<!---->
+	<string name="mozambican_metical">"موزمبیق میٹیکال"</string>
+	<!---->
+	<string name="malagasy_ariary">"ملاگاسی اریاری"</string>
+	<!---->
+	<string name="myanmar_kyat">"میانمار کیاٹ"</string>
+	<!---->
+	<string name="moroccan_dirham">"مراکشی درہم"</string>
+	<!---->
+	<string name="mongolian_tugrik">"منگؤلی ٹگرک"</string>
+	<!---->
+	<string name="moldovan_leu">"مالدیپ لیو"</string>
+	<!---->
+	<string name="mexican_peso">"میکسیکی پیسو"</string>
+	<!---->
+	<string name="mauritius_rupee">"ماریشس روپیہ"</string>
+	<!---->
+	<string name="mauritanian_ougulya">"موریتانی اوگویای"</string>
+	<!---->
+	<string name="maldives_rufiyaa">"مالدیپ روفیہ"</string>
+	<!---->
+	<string name="malaysian_ringgit">"ملائیشیا کا رنگٹ"</string>
+	<!---->
+	<string name="malawi_kwacha">"ملاوی کواچا"</string>
+	<!---->
+	<string name="macedonian_denar">"مقدونیائی دینار"</string>
+	<!---->
+	<string name="macau_pataca">"ماکاؤ  پتاکا"</string>
+	<!---->
+	<string name="libyan_dinar">"لیبیا دینار"</string>
+	<!---->
+	<string name="leberian_dollar">"لیبیریا ڈالر"</string>
+	<!---->
+	<string name="lesotho_loti">"لیسوتھو لوٹی"</string>
+	<!---->
+	<string name="lebanese_pound">"لبنانی پاؤنڈ"</string>
+	<!---->
+	<string name="lao_kipi">"لاؤشین کیپی"</string>
+	<!---->
+	<string name="kyrgyzstani_som">"کرغزستان سوم"</string>
+	<!---->
+	<string name="kazakhstani_tenge">"قزاخستانی ٹینگ"</string>
+	<!---->
+	<string name="kuwaiti_dinar">"کویتی دینار"</string>
+	<!---->
+	<string name="kenyan_shilling">"کینیا شلنگ"</string>
+	<!---->
+	<string name="jordanian_dinar">"اردنی دینار"</string>
+	<!---->
+	<string name="jamaican_dollar">"جمایکا ڈالر"</string>
+	<!---->
+	<string name="japanese_yen">"جاپانی ین"</string>
+	<!---->
+	<string name="israeli_shekel">"اسرائیلی شیکل"</string>
+	<!---->
+	<string name="st_henlena_pound">"سینٹ ہینلینا پاؤنڈ"</string>
+	<!---->
+	<string name="somali_shilling">"صومالی شلننگ"</string>
+	<!---->
+	<string name="solomon_islands_dollar">"جزائر سولومن کا ڈالر"</string>
+	<!---->
+	<string name="singapore_dollar">"سنگاٹور ڈالر"</string>
+	<!---->
+	<string name="sierra_leone_leone">"سیرالیون لیون"</string>
+	<!---->
+	<string name="seychelles_rupee">"سے شلز روپیہ"</string>
+	<!---->
+	<string name="saudi_arabian_riyal">"سعودی ریال"</string>
+	<!---->
+	<string name="sao_tome_dobra">"ساؤٹومے دوبرا"</string>
+	<!---->
+	<string name="sri_lanka_rupee">"سری لنکا روپیہ"</string>
+	<!---->
+	<string name="south_korean_won">"جنوبی کوریائی وان"</string>
+	<!---->
+	<string name="swiss_franc">"سویس فرانک"</string>
+	<!---->
+	<string name="rwanda_franc">"روانڈا فرانک"</string>
+	<!---->
+	<string name="russian_rouble">"روسی روبل"</string>
+	<!---->
+	<string name="romanian_new_leu">"رومنی نیو لیو"</string>
+	<!---->
+	<string name="qatar_rial">"قطری ریال"</string>
+	<!---->
+	<string name="platinum">"پلاٹنیم"</string>
+	<!---->
+	<string name="pacific_franc">"پیسیفک فرانک"</string>
+	<!---->
+	<string name="polish_zloty">"پالیش زولتی"</string>
+	<!---->
+	<string name="philippine_peso">"فلپائینی پیسہ"</string>
+	<!---->
+	<string name="peruvian_nuevo_sol">"پیروین نیووسول"</string>
+	<!---->
+	<string name="paraguayan_guarani">"پیراگوئے گارانی"</string>
+	<!---->
+	<string name="papua_new_guinea_kina">"پاپاؤ نیو گنی کینا"</string>
+	<!---->
+	<string name="panama_balboa">"پاناما بالبوآ"</string>
+	<!---->
+	<string name="pakistani_rupee">"پاکستانی روپیہ"</string>
+	<!---->
+	<string name="omani_rial">"عمانی روپیہ"</string>
+	<!---->
+	<string name="norwegian_krone">"نارویجی کرون"</string>
+	<!---->
+	<string name="nigerian_naira">"نائجیریا نیرا"</string>
+	<!---->
+	<string name="nicaragua_cordoba">"کوردوبا نیکاراگوئه"</string>
+	<!---->
+	<string name="new_zealand_dollar">"نیوزی لینڈ ڈالر"</string>
+	<!---->
+	<string name="nepalese_rupee">"نیپالی روپیہ"</string>
+	<!---->
+	<string name="zibabwe_dollar">"زمبابوے ڈالر"</string>
+	<!---->
+	<string name="zabian_kwacha">"زامیا کواچا"</string>
+	<!---->
+	<string name="yemen_riyal">"یمن ریال"</string>
+	<!---->
+	<string name="venezuelan_bolivar_fuetre">"وینزویلا بولیور"</string>
+	<!---->
+	<string name="vanuatu_vatu">"واتوی وانواتو"</string>
+	<!---->
+	<string name="vietnam_dong">"ویت نام ڈونگ"</string>
+	<!---->
+	<string name="uzbekistani_som">"ازبکستان سوم"</string>
+	<!---->
+	<string name="uruguayan_new_peso">"یوراگوئےنیو پیسو"</string>
+	<!---->
+	<string name="ukraine_hryvnia">"یوکرائن ہریونیا"</string>
+	<!---->
+	<string name="ugandan_shilling">"یوگینڈا شلننگ"</string>
+	<!---->
+	<string name="united_states_dollar">"امریکی ڈالر"</string>
+	<!---->
+	<string name="uae_dirham">"اماراتی درہم"</string>
+	<!---->
+	<string name="turkmenistani_manet">"ترکمانستانی مانت"</string>
+	<!---->
+	<string name="tajikistani_somoni">"تاجکستانی سومونی"</string>
+	<!---->
+	<string name="tunisian_dinar">"تیونسی دینار"</string>
+	<!---->
+	<string name="trinnidad_tobago_dollar">"ٹرینیڈاڈ اور ٹوباگو ڈالر"</string>
+	<!---->
+	<string name="tonga_pa_ang">"ٹونگا پانگا"</string>
+	<!---->
+	<string name="tanzanian_shilling">"تنزانیہ شلننگ"</string>
+	<!---->
+	<string name="turkish_lira">"ترکی لیرا"</string>
+	<!---->
+	<string name="taiwan_dollar">"تائیوان ڈالر"</string>
+	<!---->
+	<string name="thai_baht">"تھائی باھت"</string>
+	<!---->
+	<string name="Silver">"چاندی"</string>
+	<!---->
+	<string name="serbian_dinars">"صربی دینار"</string>
+	<!---->
+	<string name="surinam_florin">"سورینام فلورن"</string>
+	<!---->
+	<string name="south_african_rand">"جنوبی افریقی رانڈ"</string>
+	<!---->
+	<string name="samoa_tala">"ساموا ٹال"</string>
+	<!---->
+	<string name="syrian_pound">"شامی پاؤنڈ"</string>
+	<!---->
+	<string name="swedish_krona">"سویڈش کرونا"</string>
+	<!---->
+	<string name="swaziland_lilageni">"لیلانگنی سوازیلند"</string>
+	<!---->
+	<string name="sudanese_pound">"سوڈانی پاؤنڈ"</string>
+	<!---->
+	<string name="au_1">"Au"</string>
+	<!---->
+	<string name="btb">"Btb"</string>
+	<!---->
+	<string name="ag_2">"Ag"</string>
+	<!---->
+	<string name="pt_3">"Pt"</string>
+	<!-- no translation found for convert_category_length -->
+	<skip />
+	<!---->
+	<string name="convert_length_mm">"ملی میٹر"</string>
+	<!---->
+	<string name="convert_length_cm">"سنٹی میٹر"</string>
+	<!---->
+	<string name="convert_length_m">"میٹر"</string>
+	<!---->
+	<string name="convert_length_km">"کلو میٹر"</string>
+	<!---->
+	<string name="convert_length_mi">"میل"</string>
+	<!---->
+	<string name="convert_length_yd">"یارڈ"</string>
+	<!---->
+	<string name="convert_length_ft">"فوٹ"</string>
+	<!---->
+	<string name="convert_length_in">"انچ"</string>
+	<!---->
+	<string name="convert_length_kt">"مربع میل"</string>
+	<!-- no translation found for convert_category_area -->
+	<skip />
+	<!---->
+	<string name="convert_area_mm2">"مربع ملی میٹر"</string>
+	<!---->
+	<string name="convert_area_cm2">"مربع سنٹی میٹر"</string>
+	<!---->
+	<string name="convert_area_m2">"مربع میٹر"</string>
+	<!---->
+	<string name="convert_area_in2">"مربع انچ"</string>
+	<!---->
+	<string name="convert_area_ft2">"مربع فوٹ"</string>
+	<!---->
+	<string name="convert_area_yd2">"مربع گز"</string>
+	<!---->
+	<string name="convert_area_ha">"ہیکٹر"</string>
+	<!---->
+	<string name="convert_area_km2">"مربع کلومیٹر"</string>
+	<!---->
+	<string name="convert_area_ac">"ایکر"</string>
+	<!---->
+	<string name="convert_area_mi2">"مربع میل"</string>
+	<!-- no translation found for convert_category_mass -->
+	<skip />
+	<!---->
+	<string name="convert_mass_mg">"ملی گرام"</string>
+	<!---->
+	<string name="convert_mass_g">"گرام"</string>
+	<!---->
+	<string name="convert_mass_kg">"کلوگرام"</string>
+	<!---->
+	<string name="convert_mass_t">"میٹرک"</string>
+	<!---->
+	<string name="convert_mass_tonuk">"طویل ٹن"</string>
+	<!---->
+	<string name="convert_mass_tonus">"مختصر ٹن"</string>
+	<!---->
+	<string name="convert_mass_lb">"پاؤنڈ"</string>
+	<!---->
+	<string name="convert_mass_oz">"اونس"</string>
+	<!---->
+	<string name="convert_mass_st">"پتھر"</string>
+	<!---->
+	<string name="convert_mass_ct">"کیرٹ"</string>
+	<!-- no translation found for convert_category_temperature -->
+	<skip />
+	<!---->
+	<string name="convert_temp_c">"سیلسیس"</string>
+	<!---->
+	<string name="convert_temp_f">"فارن ہائیٹ"</string>
+	<!---->
+	<string name="convert_temp_k">"کیلون"</string>
+	<!-- no translation found for convert_category_volume -->
+	<skip />
+	<!---->
+	<string name="convert_volume_mm3">"کیوبک ملی میٹر"</string>
+	<!---->
+	<string name="convert_volume_cm3">"کیونک سینٹی میٹر"</string>
+	<!---->
+	<string name="convert_volume_dm3">"کیوبک ڈسیمیٹر"</string>
+	<!---->
+	<string name="convert_volume_m3">"کیوبک میٹر"</string>
+	<!---->
+	<string name="convert_volume_ml">"ملی لیٹر"</string>
+	<!---->
+	<string name="convert_volume_liter">"لیٹر"</string>
+	<!---->
+	<string name="convert_volume_ft3">"کیوبک فوٹ"</string>
+	<!---->
+	<string name="convert_volume_in3">"کیوبک انچ"</string>
+	<!---->
+	<string name="convert_volume_gal_us">"(US)گیلن"</string>
+	<!---->
+	<string name="convert_volume_qt_us">"(US)چوتھائی"</string>
+	<!---->
+	<string name="convert_volume_pt_us">"(US)پنٹ"</string>
+	<!---->
+	<string name="convert_volume_oz_us">"(US)اونس"</string>
+	<!---->
+	<string name="convert_volume_cup_us">"(US)کپ"</string>
+	<!---->
+	<string name="convert_volume_tbsp_us">"(US)کہانے کا چمچ"</string>
+	<!---->
+	<string name="convert_volume_tsp_us">"(US)چائے کا چمچ"</string>
+	<!---->
+	<string name="convert_volume_gal_uk">"(UK)گیلن"</string>
+	<!---->
+	<string name="convert_volume_qt_uk">"(UK)چوتھائی"</string>
+	<!---->
+	<string name="convert_volume_pt_uk">"(UK)"</string>
+	<!---->
+	<string name="convert_volume_oz_uk">"(UK)اونس"</string>
+	<!---->
+	<string name="convert_volume_cup_uk">"(UK)کپ"</string>
+	<!---->
+	<string name="convert_volume_tbsp_uk">"(UK)کہانے کا چمچ"</string>
+	<!---->
+	<string name="convert_volume_tsp_uk">"(UK)چائے کا چمچ"</string>
+	<!---->
+	<string name="convert_volume_dr">"ڈریم"</string>
+	<!---->
+	<string name="convert_volume_bbl">"بیرل"</string>
+	<!---->
+	<string name="convert_volume_cord">"کورڈ"</string>
+	<!---->
+	<string name="convert_volume_gill">"گِل"</string>
+	<!-- no translation found for convert_category_cooking -->
+	<skip />
+	<!---->
+	<string name="convert_cooking_milliliter">"ملی لیٹر"</string>
+	<!---->
+	<string name="convert_cooking_gal_us">"گیلن"</string>
+	<!---->
+	<string name="convert_cooking_qt_us">"چوتھائی"</string>
+	<!---->
+	<string name="convert_cooking_pt_us">"پنٹ"</string>
+	<!---->
+	<string name="convert_cooking_oz_us">"اونس"</string>
+	<!---->
+	<string name="convert_cooking_floz_us">"(US)سیال اونس"</string>
+	<!---->
+	<string name="convert_cooking_cup_us">"کپ"</string>
+	<!---->
+	<string name="convert_cooking_tbsp_us">"کہانے کا چمچ"</string>
+	<!---->
+	<string name="convert_cooking_tsp_us">"چائے کا چمچ"</string>
+	<!---->
+	<string name="convert_cooking_gal_uk">"گیلن"</string>
+	<!---->
+	<string name="convert_cooking_qt_uk">"چوتھائی"</string>
+	<!---->
+	<string name="convert_cooking_pt_uk">"پنٹ"</string>
+	<!---->
+	<string name="convert_cooking_floz_uk">"(UK)سیال اونس"</string>
+	<!---->
+	<string name="convert_cooking_oz_uk">"اونس"</string>
+	<!---->
+	<string name="convert_cooking_cup_uk">"کپ"</string>
+	<!---->
+	<string name="convert_cooking_tbsp_uk">"کہانے کا چمچ"</string>
+	<!---->
+	<string name="convert_cooking_tsp_uk">"چائے کا چمچ"</string>
+	<!-- no translation found for convert_category_fuel -->
+	<skip />
+	<!---->
+	<string name="convert_fuel_galperhundredmile_uk">"گیلن(UK)/میل"</string>
+	<!---->
+	<string name="convert_fuel_galperhundredmile_us">"گیلن(US)/میل"</string>
+	<!---->
+	<string name="convert_fuel_kilometerperliter">"کلومیٹر/لیٹر"</string>
+	<!---->
+	<string name="convert_fuel_literperhundredkilometer">"لیٹر/100 کلومیٹر"</string>
+	<!---->
+	<string name="convert_fuel_mpg_uk">"(UK)میل فی گیلن"</string>
+	<!---->
+	<string name="convert_fuel_mpg_us">"(US)گیلن فی میل"</string>
+	<!-- no translation found for convert_shoes_mem -->
+	<skip />
+	<!-- no translation found for convert_shoes_womem -->
+	<skip />
+	<!---->
+	<string name="splash_tv_open">"انٹر"</string>
+	<!---->
+	<string name="splash_tv_next">"اگلا"</string>
+	<!---->
+	<string name="splash_tv_skip">"چھوڑ دیں"</string>
+	<!---->
+	<string name="splash_tv_calculate_title">"حساب لگائيں"</string>
+	<!---->
+	<string name="splash_tv_calculate_content">"اس کیلکولیٹر کے ساتھ شروع کریں اور سائنسی پینل کو استعمال کرنے کے لئے بٹن پر ٹیب کریں یا بائيں سوائپ کریں۔"</string>
+	<!---->
+	<string name="splash_tv_currency_title">"کرنسی چیک"</string>
+	<!---->
+	<string name="splash_tv_currency_content">"150 سے زائد ممالک کی چانچ کی تائید کرتا ہے اور ہر روز تجدید کرتا ہے۔ \n(ڈیٹا کا ماخذ www.xe.com سے آتا ہے)"</string>
+	<!---->
+	<string name="splash_tv_convert_title">"یونٹ تبدیل کریں"</string>
+	<!---->
+	<string name="splash_tv_convert_content">"لمبائی؟ ماس؟ ایریا؟ \n یونٹ تبدیلی اب کوئی مسئلہ نہیں ہے۔"</string>
+	<!---->
+	<string name="no_internet_access">"کوئی انٹرنیٹ رسائی نہیں"</string>
+	<!---->
+	<string name="updating">"اپ ڈیٹ کررہا ہے…"</string>
+	<!-- no translation found for search_edit_hint -->
+	<skip />
+	<!---->
+	<string name="bt_right_more">"مزید"</string>
+	<!---->
+	<string name="bt_left_more">"مزید"</string>
+	<!---->
+	<string name="pop_cancel">"منسوخ کریں"</string>
+	<!---->
+	<string name="pop_ok">"ٹھیک ہے"</string>
+</resources>

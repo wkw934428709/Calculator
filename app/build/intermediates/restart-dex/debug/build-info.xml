@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="24"
+    density="420dpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="355553787145612"
+    token="-8099704008665665365"
+    verifier="COLD_SWAP_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="82" />
+    <task
+        name="verifier"
+        duration="5" />
+
+    <artifact
+        location="/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+        type="RESOURCES" />
+    <artifact
+        location="/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.0.0_30464db8380937bf5cc4791a1aa71863662be5a8/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_5/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_fcb265e90e4173066be63fcc67177eedf4b853b9/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.0.0_822d4de1c69f2e885122e50ef8a4139f5c64e8f2/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_3b3e9d5afc6e107730b27b1d8514a2a1bb7c1c74/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/2/statistics-sdk-v2.0.3_046bb1a8bbdb7117defae38c5440a29fe3aa9c24/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/ca.barrenechea.header-decor-header-decor-0.2.6_7b23e52bb5b8316d26b0a6d037ed9005abd3d0b1/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.0.0_9073dbd1c271c099e68d3ab029d953428ab08202/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.0.0_76c6adf926f730c229ab7fafe741b11d0d4843b3/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/2/arity-2.1.2_c09847491b18133d99b26643be1db5841e11c905/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/tcl-database_4b5af23ea43dc5ba3b7e2741a18a7103174a52a3/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_44d1521ea541f06c84c26b79aafd6ac0236d94a8/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.0.0_a5351d0ebd3c5af264b27134b5b33a9b92b304a8/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.tcl.update-mie_updateSdk-1.1.0_ae0c77a0fcfb27a9caf0bf7a6b0b9b573fde8e89/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.0.0_4ceada166def6c551e94e5c66d2af77ff21df2cf/classes.dex"
+        type="DEX" />
+
+    <build
+        timestamp="353254666272185"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="355553787145612"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+            type="RESOURCES" />
+        <artifact
+            location="/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.0.0_30464db8380937bf5cc4791a1aa71863662be5a8/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_5/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_fcb265e90e4173066be63fcc67177eedf4b853b9/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.0.0_822d4de1c69f2e885122e50ef8a4139f5c64e8f2/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_3b3e9d5afc6e107730b27b1d8514a2a1bb7c1c74/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/2/statistics-sdk-v2.0.3_046bb1a8bbdb7117defae38c5440a29fe3aa9c24/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/ca.barrenechea.header-decor-header-decor-0.2.6_7b23e52bb5b8316d26b0a6d037ed9005abd3d0b1/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.0.0_9073dbd1c271c099e68d3ab029d953428ab08202/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.0.0_76c6adf926f730c229ab7fafe741b11d0d4843b3/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/2/arity-2.1.2_c09847491b18133d99b26643be1db5841e11c905/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/tcl-database_4b5af23ea43dc5ba3b7e2741a18a7103174a52a3/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_44d1521ea541f06c84c26b79aafd6ac0236d94a8/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.0.0_a5351d0ebd3c5af264b27134b5b33a9b92b304a8/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.tcl.update-mie_updateSdk-1.1.0_ae0c77a0fcfb27a9caf0bf7a6b0b9b573fde8e89/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/kevin/work/GAPP/Calculator/99_Calculator/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.0.0_4ceada166def6c551e94e5c66d2af77ff21df2cf/classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>

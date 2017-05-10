@@ -1,0 +1,706 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+	<!--
+		this file is built by arct
+	-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<!---->
+	<string name="app_name">"計算機"</string>
+	<!---->
+	<string name="error_nan">"並非一個號碼"</string>
+	<!---->
+	<string name="error_syntax">"錯誤"</string>
+	<!-- no translation found for dec_point -->
+	<skip />
+	<!-- no translation found for digit_0 -->
+	<skip />
+	<!-- no translation found for digit_1 -->
+	<skip />
+	<!-- no translation found for digit_2 -->
+	<skip />
+	<!-- no translation found for digit_3 -->
+	<skip />
+	<!-- no translation found for digit_4 -->
+	<skip />
+	<!-- no translation found for digit_5 -->
+	<skip />
+	<!-- no translation found for digit_6 -->
+	<skip />
+	<!-- no translation found for digit_7 -->
+	<skip />
+	<!-- no translation found for digit_8 -->
+	<skip />
+	<!-- no translation found for digit_9 -->
+	<skip />
+	<!-- no translation found for fun_cos -->
+	<skip />
+	<!-- no translation found for fun_ln -->
+	<skip />
+	<!-- no translation found for fun_log -->
+	<skip />
+	<!-- no translation found for fun_sin -->
+	<skip />
+	<!-- no translation found for fun_tan -->
+	<skip />
+	<!-- no translation found for op_inv -->
+	<skip />
+	<!-- no translation found for op_deg -->
+	<skip />
+	<!-- no translation found for op_rad -->
+	<skip />
+	<!-- no translation found for fun_arccos -->
+	<skip />
+	<!-- no translation found for fun_arcsin -->
+	<skip />
+	<!-- no translation found for fun_arctan -->
+	<skip />
+	<!-- no translation found for fun_naturExp -->
+	<skip />
+	<!-- no translation found for fun_comExp -->
+	<skip />
+	<!-- no translation found for fun_sqr -->
+	<skip />
+	<!-- no translation found for clr -->
+	<skip />
+	<!---->
+	<string name="del">"刪除"</string>
+	<!-- no translation found for desc_const_e -->
+	<skip />
+	<!-- no translation found for desc_const_pi -->
+	<skip />
+	<!-- no translation found for desc_dec_point -->
+	<skip />
+	<!---->
+	<string name="desc_lparen">"左括弧"</string>
+	<!---->
+	<string name="desc_rparen">"右括弧"</string>
+	<!-- no translation found for desc_fun_cos -->
+	<skip />
+	<!---->
+	<string name="desc_fun_ln">"自然對數"</string>
+	<!-- no translation found for desc_fun_log -->
+	<skip />
+	<!-- no translation found for desc_fun_sin -->
+	<skip />
+	<!-- no translation found for desc_fun_tan -->
+	<skip />
+	<!-- no translation found for desc_op_add -->
+	<skip />
+	<!-- no translation found for desc_op_div -->
+	<skip />
+	<!-- no translation found for desc_op_fact -->
+	<skip />
+	<!-- no translation found for desc_op_mul -->
+	<skip />
+	<!-- no translation found for desc_op_pow -->
+	<skip />
+	<!---->
+	<string name="desc_op_sqrt">"平方根"</string>
+	<!-- no translation found for desc_op_sub -->
+	<skip />
+	<!-- no translation found for desc_op_inv -->
+	<skip />
+	<!-- no translation found for desc_op_deg -->
+	<skip />
+	<!-- no translation found for desc_op_rad -->
+	<skip />
+	<!-- no translation found for desc_op_per -->
+	<skip />
+	<!-- no translation found for desc_fun_arcsin -->
+	<skip />
+	<!-- no translation found for desc_fun_arccos -->
+	<skip />
+	<!-- no translation found for desc_fun_arctan -->
+	<skip />
+	<!-- no translation found for desc_fun_naturExp -->
+	<skip />
+	<!-- no translation found for desc_fun_comExp -->
+	<skip />
+	<!-- no translation found for desc_fun_sqr -->
+	<skip />
+	<!-- no translation found for desc_clr -->
+	<skip />
+	<!-- no translation found for desc_del -->
+	<skip />
+	<!-- no translation found for desc_eq -->
+	<skip />
+	<!---->
+	<string name="copy_result_toast">"已複製結果"</string>
+	<!---->
+	<string name="tips_label">"向下滑動以檢視您的最近計算歷史記錄"</string>
+	<!---->
+	<string name="tips_btn_text">"知道了"</string>
+	<!---->
+	<string name="no_history">"無歷程記錄"</string>
+	<!---->
+	<string name="copy">"複製"</string>
+	<!---->
+	<string name="paste">"貼上"</string>
+	<!---->
+	<string name="swipe_down">"下滑查看歷史記錄"</string>
+	<!---->
+	<string name="swipe_left">"向左滑動查看 \n 科學計數"</string>
+	<!-- no translation found for dec_point_rel4 -->
+	<skip />
+	<!-- no translation found for drawer_title -->
+	<skip />
+	<!-- no translation found for drawer_open -->
+	<skip />
+	<!-- no translation found for drawer_close -->
+	<skip />
+	<!---->
+	<string name="convert_length">"長度"</string>
+	<!---->
+	<string name="convert_area">"面積"</string>
+	<!---->
+	<string name="convert_mass">"質量"</string>
+	<!---->
+	<string name="convert_volume">"音量"</string>
+	<!---->
+	<string name="convert_temperature">"溫度"</string>
+	<!---->
+	<string name="convert_fuel">"燃料"</string>
+	<!-- no translation found for convert_shoes -->
+	<skip />
+	<!-- no translation found for convert_clothes -->
+	<skip />
+	<!---->
+	<string name="convert_cooking">"烹飪"</string>
+	<!---->
+	<string name="currency_time">"更新:"</string>
+	<!---->
+	<string name="afghani">"阿富汗尼"</string>
+	<!---->
+	<string name="azerbaijani_manat">"阿塞拜疆馬納特"</string>
+	<!---->
+	<string name="algerian_dinar">"阿爾及利亞第納爾"</string>
+	<!---->
+	<string name="aruba_florin">"阿魯巴弗羅林"</string>
+	<!---->
+	<string name="argentine_peso">"阿根廷比索"</string>
+	<!---->
+	<string name="albanian_lek">"阿爾巴尼亞列克"</string>
+	<!---->
+	<string name="australian_dollar">"澳元"</string>
+	<!---->
+	<string name="cayman_islands_dollar">"開曼群島美元"</string>
+	<!---->
+	<string name="cambodian_riel">"柬埔寨瑞爾"</string>
+	<!---->
+	<string name="croatian_kuna">"克羅地亞庫納"</string>
+	<!---->
+	<string name="czech_koruna">"捷克克朗"</string>
+	<!---->
+	<string name="cuban_peso">"古巴比索"</string>
+	<!---->
+	<string name="costa_rica_colon">"哥斯達黎加科朗"</string>
+	<!---->
+	<string name="colombian_peso">"哥倫比亞比索"</string>
+	<!---->
+	<string name="chilean_peso">"智利比索"</string>
+	<!---->
+	<string name="cape_verde_escudo">"佛得角埃斯庫多"</string>
+	<!---->
+	<string name="chinese_yuan">"人民幣"</string>
+	<!---->
+	<string name="indian_rupee">"印度盧比"</string>
+	<!---->
+	<string name="canadian_dollar">"加拿大元"</string>
+	<!---->
+	<string name="bitcoin">"比特幣"</string>
+	<!---->
+	<string name="bosnian_convertible_mark">"波斯尼亞可兌換馬克"</string>
+	<!---->
+	<string name="british_pound">"英鎊"</string>
+	<!---->
+	<string name="burundi_franc">"布隆迪法郎"</string>
+	<!---->
+	<string name="bulgarian_lev">"保加利亞列弗"</string>
+	<!---->
+	<string name="brunei_dollar">"文萊元"</string>
+	<!---->
+	<string name="brazilian_real">"巴西雷亞爾"</string>
+	<!---->
+	<string name="botswanna_pula">"博茨瓦納普拉"</string>
+	<!---->
+	<string name="bolivian_boliviano">"玻利維亞玻利維亞諾"</string>
+	<!---->
+	<string name="bhutan_ngultrum">"不丹努爾特魯姆"</string>
+	<!---->
+	<string name="bermuda_dollar">"百慕大元"</string>
+	<!---->
+	<string name="belize_dollar">"伯利茲元"</string>
+	<!---->
+	<string name="belarus_ruble">"白俄羅斯盧布"</string>
+	<!---->
+	<string name="barbados_dollar">"巴巴多斯元"</string>
+	<!---->
+	<string name="bangladesh_taka">"孟加拉國塔卡"</string>
+	<!---->
+	<string name="bahraini_dinar">"巴林第納爾"</string>
+	<!---->
+	<string name="bahamian_dollar">"巴哈馬元"</string>
+	<!---->
+	<string name="angolan_kwanza">"安哥拉寬扎"</string>
+	<!---->
+	<string name="armenian_dram">"亞美尼亞德拉姆"</string>
+	<!---->
+	<string name="iraqi_dinar">"伊拉克第納爾"</string>
+	<!---->
+	<string name="iranian_rial">"伊朗里亞爾"</string>
+	<!---->
+	<string name="iceland_krona">"冰島克羅納"</string>
+	<!---->
+	<string name="indonesian_rupiah">"印尼盧比"</string>
+	<!---->
+	<string name="hungarian_forint">"匈牙利福林"</string>
+	<!---->
+	<string name="honduras_lempira">"洪都拉斯倫皮拉"</string>
+	<!---->
+	<string name="haiti_gourde">"海地古德"</string>
+	<!---->
+	<string name="hongkong_dollar">"港元"</string>
+	<!---->
+	<string name="gold">"金"</string>
+	<!---->
+	<string name="ghanaian_cedi">"加納塞地"</string>
+	<!---->
+	<string name="georgian_lari">"格魯吉亞拉里"</string>
+	<!---->
+	<string name="guyana_dollar">"圭亞那元"</string>
+	<!---->
+	<string name="guinea_franc">"幾內亞法郎"</string>
+	<!---->
+	<string name="guatemala_quetzal">"危地馬拉格查爾"</string>
+	<!---->
+	<string name="gibraltar_pound">"直布羅陀鎊"</string>
+	<!---->
+	<string name="gambian_dalasi">"岡比亞達拉西"</string>
+	<!---->
+	<string name="fiji_dollar">"斐濟元"</string>
+	<!---->
+	<string name="falkland_islands_pound">"福克蘭群島鎊"</string>
+	<!---->
+	<string name="east_caribbean_dollar">"東加勒比元"</string>
+	<!---->
+	<string name="ethiopian_birr">"埃塞俄比亞比爾"</string>
+	<!---->
+	<string name="eritrea_nakfa">"厄立特里亞納克法"</string>
+	<!---->
+	<string name="egyptian_pound">"埃及鎊"</string>
+	<!---->
+	<string name="euro">"歐元"</string>
+	<!---->
+	<string name="dominican_peso">"多米尼加比索"</string>
+	<!---->
+	<string name="djibout_franc">"吉布提法郎"</string>
+	<!---->
+	<string name="danish_krone">"丹麥克朗"</string>
+	<!---->
+	<string name="congolese_frank">"剛果法郎"</string>
+	<!---->
+	<string name="cfa_francl_beac">"CFA 法郎 (BEAC)"</string>
+	<!---->
+	<string name="cfa_franc_bceao">"CFA 法郎 (BCEAO)"</string>
+	<!---->
+	<string name="comoros_franc">"科摩羅法郎"</string>
+	<!---->
+	<string name="namibian_dollar">"納米比亞元"</string>
+	<!---->
+	<string name="north_korean_won">"北韓元"</string>
+	<!---->
+	<string name="neth_antilles_guilder">"列斯荷蘭盾"</string>
+	<!---->
+	<string name="mozambican_metical">"莫桑比克梅蒂卡爾"</string>
+	<!---->
+	<string name="malagasy_ariary">"馬達加斯加阿里亞里"</string>
+	<!---->
+	<string name="myanmar_kyat">"緬甸元"</string>
+	<!---->
+	<string name="moroccan_dirham">"摩洛哥迪拉姆"</string>
+	<!---->
+	<string name="mongolian_tugrik">"蒙古圖格里克"</string>
+	<!---->
+	<string name="moldovan_leu">"摩爾多瓦列伊"</string>
+	<!---->
+	<string name="mexican_peso">"墨西哥比索"</string>
+	<!---->
+	<string name="mauritius_rupee">"毛里求斯盧比"</string>
+	<!---->
+	<string name="mauritanian_ougulya">"毛裏塔尼亞烏吉亞"</string>
+	<!---->
+	<string name="maldives_rufiyaa">"馬爾地夫拉菲亞"</string>
+	<!---->
+	<string name="malaysian_ringgit">"馬來西亞林吉特"</string>
+	<!---->
+	<string name="malawi_kwacha">"馬拉威克瓦查"</string>
+	<!---->
+	<string name="macedonian_denar">"馬其頓第納爾"</string>
+	<!---->
+	<string name="macau_pataca">"澳門幣"</string>
+	<!---->
+	<string name="libyan_dinar">"利比亞第納爾"</string>
+	<!---->
+	<string name="leberian_dollar">"利比里亞元"</string>
+	<!---->
+	<string name="lesotho_loti">"萊索托洛蒂"</string>
+	<!---->
+	<string name="lebanese_pound">"黎巴嫩鎊"</string>
+	<!---->
+	<string name="lao_kipi">"寮國基普"</string>
+	<!---->
+	<string name="kyrgyzstani_som">"吉爾吉斯斯坦索姆"</string>
+	<!---->
+	<string name="kazakhstani_tenge">"哈薩克斯坦堅戈"</string>
+	<!---->
+	<string name="kuwaiti_dinar">"科威特第納爾"</string>
+	<!---->
+	<string name="kenyan_shilling">"肯尼亞先令"</string>
+	<!---->
+	<string name="jordanian_dinar">"約旦第納爾"</string>
+	<!---->
+	<string name="jamaican_dollar">"牙買加元"</string>
+	<!---->
+	<string name="japanese_yen">"日元"</string>
+	<!---->
+	<string name="israeli_shekel">"以色列謝克爾"</string>
+	<!---->
+	<string name="st_henlena_pound">"聖赫勒拿磅"</string>
+	<!---->
+	<string name="somali_shilling">"索馬里先令"</string>
+	<!---->
+	<string name="solomon_islands_dollar">"所羅門群島元"</string>
+	<!---->
+	<string name="singapore_dollar">"新加坡元"</string>
+	<!---->
+	<string name="sierra_leone_leone">"塞拉利昂利昂"</string>
+	<!---->
+	<string name="seychelles_rupee">"塞舌爾盧比"</string>
+	<!---->
+	<string name="saudi_arabian_riyal">"沙特阿拉伯里亞爾"</string>
+	<!---->
+	<string name="sao_tome_dobra">"聖多美多布拉"</string>
+	<!---->
+	<string name="sri_lanka_rupee">"斯里蘭卡盧比"</string>
+	<!---->
+	<string name="south_korean_won">"韓元"</string>
+	<!---->
+	<string name="swiss_franc">"瑞士法郎"</string>
+	<!---->
+	<string name="rwanda_franc">"盧旺達法郎"</string>
+	<!---->
+	<string name="russian_rouble">"俄羅斯盧布"</string>
+	<!---->
+	<string name="romanian_new_leu">"羅馬尼亞新萊昂"</string>
+	<!---->
+	<string name="qatar_rial">"卡塔爾里亞爾"</string>
+	<!---->
+	<string name="platinum">"鉑"</string>
+	<!---->
+	<string name="pacific_franc">"太平洋法郎"</string>
+	<!---->
+	<string name="polish_zloty">"波蘭茲羅提"</string>
+	<!---->
+	<string name="philippine_peso">"菲律賓比索"</string>
+	<!---->
+	<string name="peruvian_nuevo_sol">"秘魯新索爾"</string>
+	<!---->
+	<string name="paraguayan_guarani">"巴拉圭瓜拉尼"</string>
+	<!---->
+	<string name="papua_new_guinea_kina">"巴布新幾內亞基納"</string>
+	<!---->
+	<string name="panama_balboa">"巴拿馬巴波亞"</string>
+	<!---->
+	<string name="pakistani_rupee">"巴基斯坦盧比"</string>
+	<!---->
+	<string name="omani_rial">"阿曼里亞爾"</string>
+	<!---->
+	<string name="norwegian_krone">"挪威克朗"</string>
+	<!---->
+	<string name="nigerian_naira">"尼日利亞奈拉"</string>
+	<!---->
+	<string name="nicaragua_cordoba">"尼加拉瓜科多巴"</string>
+	<!---->
+	<string name="new_zealand_dollar">"紐西蘭元"</string>
+	<!---->
+	<string name="nepalese_rupee">"尼泊爾盧比"</string>
+	<!---->
+	<string name="zibabwe_dollar">"津巴布韋元"</string>
+	<!---->
+	<string name="zabian_kwacha">"贊比亞克瓦查"</string>
+	<!---->
+	<string name="yemen_riyal">"也門里亞爾"</string>
+	<!---->
+	<string name="venezuelan_bolivar_fuetre">"委內瑞拉強勢玻利瓦爾"</string>
+	<!---->
+	<string name="vanuatu_vatu">"瓦努阿圖瓦圖"</string>
+	<!---->
+	<string name="vietnam_dong">"越南盾"</string>
+	<!---->
+	<string name="uzbekistani_som">"烏茲別克斯坦索姆"</string>
+	<!---->
+	<string name="uruguayan_new_peso">"烏拉圭新比索"</string>
+	<!---->
+	<string name="ukraine_hryvnia">"烏克蘭格里夫納"</string>
+	<!---->
+	<string name="ugandan_shilling">"烏干達先令"</string>
+	<!---->
+	<string name="united_states_dollar">"美元"</string>
+	<!---->
+	<string name="uae_dirham">"阿聯酋迪拉姆"</string>
+	<!---->
+	<string name="turkmenistani_manet">"土庫曼斯坦馬納特"</string>
+	<!---->
+	<string name="tajikistani_somoni">"塔吉克索莫尼"</string>
+	<!---->
+	<string name="tunisian_dinar">"突尼斯第納爾"</string>
+	<!---->
+	<string name="trinnidad_tobago_dollar">"特立尼達和多巴哥元"</string>
+	<!---->
+	<string name="tonga_pa_ang">"湯加潘加"</string>
+	<!---->
+	<string name="tanzanian_shilling">"坦桑尼亞先令"</string>
+	<!---->
+	<string name="turkish_lira">"土耳其里拉"</string>
+	<!---->
+	<string name="taiwan_dollar">"台幣"</string>
+	<!---->
+	<string name="thai_baht">"泰銖"</string>
+	<!---->
+	<string name="Silver">"銀"</string>
+	<!---->
+	<string name="serbian_dinars">"塞爾維亞第納爾"</string>
+	<!---->
+	<string name="surinam_florin">"蘇里南弗洛林"</string>
+	<!---->
+	<string name="south_african_rand">"南非蘭特"</string>
+	<!---->
+	<string name="samoa_tala">"薩摩亞塔拉"</string>
+	<!---->
+	<string name="syrian_pound">"敘利亞鎊"</string>
+	<!---->
+	<string name="swedish_krona">"瑞典克朗"</string>
+	<!---->
+	<string name="swaziland_lilageni">"斯威士蘭裡蘭吉尼"</string>
+	<!---->
+	<string name="sudanese_pound">"蘇丹鎊"</string>
+	<!---->
+	<string name="au_1">"Au"</string>
+	<!---->
+	<string name="btb">"Btb"</string>
+	<!---->
+	<string name="ag_2">"Ag"</string>
+	<!---->
+	<string name="pt_3">"Pt"</string>
+	<!-- no translation found for convert_category_length -->
+	<skip />
+	<!---->
+	<string name="convert_length_mm">"毫米"</string>
+	<!---->
+	<string name="convert_length_cm">"厘米"</string>
+	<!---->
+	<string name="convert_length_m">"米"</string>
+	<!---->
+	<string name="convert_length_km">"千米"</string>
+	<!---->
+	<string name="convert_length_mi">"英里"</string>
+	<!---->
+	<string name="convert_length_yd">"碼"</string>
+	<!---->
+	<string name="convert_length_ft">"英尺"</string>
+	<!---->
+	<string name="convert_length_in">"英寸"</string>
+	<!---->
+	<string name="convert_length_kt">"海裡"</string>
+	<!-- no translation found for convert_category_area -->
+	<skip />
+	<!---->
+	<string name="convert_area_mm2">"平方毫米"</string>
+	<!---->
+	<string name="convert_area_cm2">"平方厘米"</string>
+	<!---->
+	<string name="convert_area_m2">"平方米"</string>
+	<!---->
+	<string name="convert_area_in2">"平方英寸"</string>
+	<!---->
+	<string name="convert_area_ft2">"平方英尺"</string>
+	<!---->
+	<string name="convert_area_yd2">"平方碼"</string>
+	<!---->
+	<string name="convert_area_ha">"公頃"</string>
+	<!---->
+	<string name="convert_area_km2">"平方公里"</string>
+	<!---->
+	<string name="convert_area_ac">"英畝"</string>
+	<!---->
+	<string name="convert_area_mi2">"平方英里"</string>
+	<!-- no translation found for convert_category_mass -->
+	<skip />
+	<!---->
+	<string name="convert_mass_mg">"毫克"</string>
+	<!---->
+	<string name="convert_mass_g">"克"</string>
+	<!---->
+	<string name="convert_mass_kg">"公斤"</string>
+	<!---->
+	<string name="convert_mass_t">"公噸"</string>
+	<!---->
+	<string name="convert_mass_tonuk">"長噸"</string>
+	<!---->
+	<string name="convert_mass_tonus">"短噸"</string>
+	<!---->
+	<string name="convert_mass_lb">"鎊"</string>
+	<!---->
+	<string name="convert_mass_oz">"盎司"</string>
+	<!---->
+	<string name="convert_mass_st">"石頭"</string>
+	<!---->
+	<string name="convert_mass_ct">"克拉"</string>
+	<!-- no translation found for convert_category_temperature -->
+	<skip />
+	<!---->
+	<string name="convert_temp_c">"攝氏度"</string>
+	<!---->
+	<string name="convert_temp_f">"華氏"</string>
+	<!---->
+	<string name="convert_temp_k">"開爾文"</string>
+	<!-- no translation found for convert_category_volume -->
+	<skip />
+	<!---->
+	<string name="convert_volume_mm3">"立方毫米"</string>
+	<!---->
+	<string name="convert_volume_cm3">"立方厘米"</string>
+	<!---->
+	<string name="convert_volume_dm3">"立方分米"</string>
+	<!---->
+	<string name="convert_volume_m3">"立方米"</string>
+	<!---->
+	<string name="convert_volume_ml">"毫升"</string>
+	<!---->
+	<string name="convert_volume_liter">"升"</string>
+	<!---->
+	<string name="convert_volume_ft3">"立方英尺"</string>
+	<!---->
+	<string name="convert_volume_in3">"立方英寸"</string>
+	<!---->
+	<string name="convert_volume_gal_us">"（美國）加侖"</string>
+	<!---->
+	<string name="convert_volume_qt_us">"（美國）夸脫"</string>
+	<!---->
+	<string name="convert_volume_pt_us">"（美國）品脫"</string>
+	<!---->
+	<string name="convert_volume_oz_us">"（美國）盎司"</string>
+	<!---->
+	<string name="convert_volume_cup_us">"（美國）杯"</string>
+	<!---->
+	<string name="convert_volume_tbsp_us">"（美國）湯匙"</string>
+	<!---->
+	<string name="convert_volume_tsp_us">"（美國）茶匙"</string>
+	<!---->
+	<string name="convert_volume_gal_uk">"（英國）加侖"</string>
+	<!---->
+	<string name="convert_volume_qt_uk">"（英國）夸脫"</string>
+	<!---->
+	<string name="convert_volume_pt_uk">"（英國）品脫"</string>
+	<!---->
+	<string name="convert_volume_oz_uk">"（英國）盎司"</string>
+	<!---->
+	<string name="convert_volume_cup_uk">"（英國）杯"</string>
+	<!---->
+	<string name="convert_volume_tbsp_uk">"（英國）湯匙"</string>
+	<!---->
+	<string name="convert_volume_tsp_uk">"（英國）茶匙"</string>
+	<!---->
+	<string name="convert_volume_dr">"少許"</string>
+	<!---->
+	<string name="convert_volume_bbl">"桶"</string>
+	<!---->
+	<string name="convert_volume_cord">"層積"</string>
+	<!---->
+	<string name="convert_volume_gill">"及耳"</string>
+	<!-- no translation found for convert_category_cooking -->
+	<skip />
+	<!---->
+	<string name="convert_cooking_milliliter">"毫升"</string>
+	<!---->
+	<string name="convert_cooking_gal_us">"加侖"</string>
+	<!---->
+	<string name="convert_cooking_qt_us">"夸脫"</string>
+	<!---->
+	<string name="convert_cooking_pt_us">"品脫"</string>
+	<!---->
+	<string name="convert_cooking_oz_us">"盎司"</string>
+	<!---->
+	<string name="convert_cooking_floz_us">"（美國）液體盎司"</string>
+	<!---->
+	<string name="convert_cooking_cup_us">"杯"</string>
+	<!---->
+	<string name="convert_cooking_tbsp_us">"湯匙"</string>
+	<!---->
+	<string name="convert_cooking_tsp_us">"茶匙"</string>
+	<!---->
+	<string name="convert_cooking_gal_uk">"加侖"</string>
+	<!---->
+	<string name="convert_cooking_qt_uk">"夸脫"</string>
+	<!---->
+	<string name="convert_cooking_pt_uk">"品脫"</string>
+	<!---->
+	<string name="convert_cooking_floz_uk">"（英國）液體盎司"</string>
+	<!---->
+	<string name="convert_cooking_oz_uk">"盎司"</string>
+	<!---->
+	<string name="convert_cooking_cup_uk">"杯"</string>
+	<!---->
+	<string name="convert_cooking_tbsp_uk">"湯匙"</string>
+	<!---->
+	<string name="convert_cooking_tsp_uk">"茶匙"</string>
+	<!-- no translation found for convert_category_fuel -->
+	<skip />
+	<!---->
+	<string name="convert_fuel_galperhundredmile_uk">"加侖（英國）/ 100英里"</string>
+	<!---->
+	<string name="convert_fuel_galperhundredmile_us">"加侖（美國）/ 100英里"</string>
+	<!---->
+	<string name="convert_fuel_kilometerperliter">"公里/升"</string>
+	<!---->
+	<string name="convert_fuel_literperhundredkilometer">"升/ 100公里"</string>
+	<!---->
+	<string name="convert_fuel_mpg_uk">"（英國）英里每加侖"</string>
+	<!---->
+	<string name="convert_fuel_mpg_us">"（美國）英里每加侖"</string>
+	<!-- no translation found for convert_shoes_mem -->
+	<skip />
+	<!-- no translation found for convert_shoes_womem -->
+	<skip />
+	<!---->
+	<string name="splash_tv_open">"Enter 鍵"</string>
+	<!---->
+	<string name="splash_tv_next">"下一頁"</string>
+	<!---->
+	<string name="splash_tv_skip">"略過"</string>
+	<!---->
+	<string name="splash_tv_calculate_title">"計算"</string>
+	<!---->
+	<string name="splash_tv_calculate_content">"開始使用此計算器並點選按鈕或向左滑動即可使用科學面板。"</string>
+	<!---->
+	<string name="splash_tv_currency_title">"貨幣檢查"</string>
+	<!---->
+	<string name="splash_tv_currency_content">"支援超過 150 個國家/地區的每天檢查和更新。 \n（數據資源來自 www.xe.com）"</string>
+	<!---->
+	<string name="splash_tv_convert_title">"單位換算"</string>
+	<!---->
+	<string name="splash_tv_convert_content">"長度？質量？面積？\n單位轉換不再是問題。"</string>
+	<!---->
+	<string name="no_internet_access">"沒有網絡存取"</string>
+	<!---->
+	<string name="updating">"正在更新"</string>
+	<!-- no translation found for search_edit_hint -->
+	<skip />
+	<!---->
+	<string name="bt_right_more">"更多"</string>
+	<!---->
+	<string name="bt_left_more">"更多"</string>
+	<!---->
+	<string name="pop_cancel">"取消"</string>
+	<!---->
+	<string name="pop_ok">"確定"</string>
+</resources>

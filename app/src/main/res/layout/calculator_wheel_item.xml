@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/wheel_item_height">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:paddingBottom="3dp"
+        android:paddingTop="3dp">
+
+        <TextView
+            android:id="@+id/full_name"
+            android:layout_width="@dimen/wheel_text_width"
+            android:layout_height="0dp"
+            android:paddingTop="@dimen/wheel_text_paddingtop"
+            android:layout_alignParentTop="true"
+            android:layout_weight="1"
+            android:fontFamily="Roboto-Regular"
+            android:singleLine="true"
+            android:textColor="@color/color_calculator_wheel_item"
+            android:textSize="@dimen/convert_wheel_top_text_size" />
+
+        <TextView
+
+            android:id="@+id/abbreviation"
+            android:layout_width="@dimen/wheel_text_width"
+            android:layout_height="0dp"
+            android:paddingBottom="@dimen/wheel_text_paddingbuttom"
+            android:layout_below="@+id/full_name"
+            android:layout_weight="1"
+            android:fontFamily="Roboto-Regular"
+            android:singleLine="true"
+            android:textColor="@color/color_calculator_wheel_item"
+            android:textSize="@dimen/convert_wheel_bottom_text_size" />
+    </LinearLayout>
+</RelativeLayout>

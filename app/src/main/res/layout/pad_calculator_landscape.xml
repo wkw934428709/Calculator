@@ -1,0 +1,615 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2016 Tcl Corporation Limited -->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/color_status_bar_advenced_bg"
+        android:orientation="horizontal">
+
+        <RelativeLayout
+            android:id="@+id/calculator_advenced"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="0.8">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:orientation="vertical">
+
+                    <Button
+                        android:id="@+id/op_inv"
+                        style="@style/PadButtonStyle.Operator"
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="1"
+                        android:contentDescription="@string/desc_op_inv"
+                        android:gravity="center"
+                        android:text="@string/op_inv"
+                        android:textColor="@color/white"
+                        />
+
+                    <Button
+                        android:id="@+id/const_e"
+                        style="@style/PadButtonStyle.Operator"
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="1"
+                        android:contentDescription="@string/desc_const_e"
+                        android:gravity="center"
+                        android:text="@string/const_e"
+                        android:textColor="@color/white"
+                        />
+
+                    <Button
+                        android:id="@+id/fun_sin"
+                        style="@style/PadButtonStyle.Operator"
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="1"
+                        android:contentDescription="@string/desc_fun_sin"
+                        android:gravity="center"
+                        android:text="@string/fun_sin"
+                        android:textColor="@color/white"
+                        />
+
+                    <Button
+                        android:id="@+id/fun_arcsin"
+                        style="@style/PadButtonStyle.Operator"
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="1"
+                        android:contentDescription="@string/desc_fun_arcsin"
+                        android:gravity="center"
+                        android:text="@string/fun_arcsin"
+                        android:textStyle="bold"
+                        android:textColor="@color/white"
+                        android:visibility="gone"
+                        />
+
+                    <Button
+                        android:id="@+id/lparen"
+                        style="@style/PadButtonStyle.Operator"
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="1"
+                        android:contentDescription="@string/lparen"
+                        android:gravity="center"
+                        android:text="@string/lparen"
+                        android:textColor="@color/white"
+                        />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:orientation="vertical">
+
+                    <Button
+                        android:id="@+id/op_rad"
+                        style="@style/PadButtonStyle.Operator"
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="1"
+                        android:contentDescription="@string/desc_op_rad"
+                        android:gravity="center"
+                        android:text="@string/op_rad"
+                        android:textColor="@color/white"
+                        />
+
+
+                    <Button
+                        android:id="@+id/op_deg"
+                        style="@style/PadButtonStyle.Operator"
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="1"
+                        android:contentDescription="@string/desc_op_deg"
+                        android:gravity="center"
+                        android:text="@string/op_deg"
+                        android:textColor="@color/colorPrimaryRed"
+                        android:visibility="gone"
+                        />
+
+
+                    <Button
+                        android:id="@+id/op_fact"
+                        style="@style/PadButtonStyle.Operator"
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="1"
+                        android:contentDescription="@string/desc_op_fact"
+                        android:gravity="center"
+                        android:text="@string/op_fact"
+                        android:textColor="@color/white"
+                        />
+
+                    <Button
+                        android:id="@+id/fun_arccos"
+                        style="@style/PadButtonStyle.Operator"
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="1"
+                        android:contentDescription="@string/desc_fun_arccos"
+                        android:gravity="center"
+                        android:text="@string/fun_arccos"
+                        android:textStyle="bold"
+                        android:textColor="@color/white"
+                        android:visibility="gone"
+                        />
+
+                    <Button
+                        android:id="@+id/fun_cos"
+                        style="@style/PadButtonStyle.Operator"
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="1"
+                        android:contentDescription="@string/desc_fun_cos"
+                        android:gravity="center"
+                        android:text="@string/fun_cos"
+                        android:textColor="@color/white"
+                        />
+
+                    <Button
+                        android:id="@+id/rparen"
+                        style="@style/PadButtonStyle.Operator"
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="1"
+                        android:contentDescription="@string/rparen"
+                        android:gravity="center"
+                        android:text="@string/rparen"
+                        android:textColor="@color/white"
+                        />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:orientation="vertical">
+
+                    <Button
+                        android:id="@+id/op_per"
+                        style="@style/PadButtonStyle.Operator"
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="1"
+                        android:contentDescription="@string/desc_op_per"
+                        android:gravity="center"
+                        android:text="@string/op_per"
+                        android:textColor="@color/white"
+                        />
+
+                    <Button
+                        android:id="@+id/fun_ln"
+                        style="@style/PadButtonStyle.Operator"
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="1"
+                        android:contentDescription="@string/desc_fun_ln"
+                        android:gravity="center"
+                        android:text="@string/fun_ln"
+                        android:textColor="@color/white"
+                        />
+
+                    <Button
+                        android:id="@+id/fun_naturExp"
+                        style="@style/PadButtonStyle.Operator"
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="1"
+                        android:contentDescription="@string/desc_fun_naturExp"
+                        android:gravity="center"
+                        android:text="@string/fun_naturExp"
+                        android:textStyle="bold"
+                        android:textColor="@color/white"
+                        android:visibility="gone"
+                        />
+
+                    <Button
+                        android:id="@+id/fun_tan"
+                        style="@style/PadButtonStyle.Operator"
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="1"
+                        android:contentDescription="@string/desc_fun_tan"
+                        android:gravity="center"
+                        android:text="@string/fun_tan"
+                        android:textColor="@color/white"
+                        />
+
+                    <Button
+                        android:id="@+id/fun_arctan"
+                        style="@style/PadButtonStyle.Operator"
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="1"
+                        android:contentDescription="@string/desc_fun_arctan"
+                        android:gravity="center"
+                        android:text="@string/fun_arctan"
+                        android:textStyle="bold"
+                        android:textColor="@color/white"
+                        android:visibility="gone"
+                        />
+
+                    <Button
+                        android:id="@+id/op_sqrt"
+                        style="@style/PadButtonStyle.Operator"
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="1"
+                        android:contentDescription="@string/desc_op_sqrt"
+                        android:gravity="center"
+                        android:text="@string/op_sqrt"
+                        android:textColor="@color/white"
+                        />
+
+                    <Button
+                        android:id="@+id/fun_sqr"
+                        style="@style/PadButtonStyle.Operator"
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="1"
+                        android:contentDescription="@string/desc_fun_sqr"
+                        android:gravity="center"
+                        android:text="@string/fun_sqr"
+                        android:textStyle="bold"
+                        android:textColor="@color/white"
+                        android:visibility="gone"
+                        />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:orientation="vertical">
+
+                    <Button
+                        android:id="@+id/const_pi"
+                        style="@style/PadButtonStyle.Operator"
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="1"
+                        android:contentDescription="@string/desc_const_pi"
+                        android:gravity="center"
+                        android:text="@string/const_pi"
+                        android:textColor="@color/white"
+                        />
+
+                    <Button
+                        android:id="@+id/fun_log"
+                        style="@style/PadButtonStyle.Operator"
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="1"
+                        android:contentDescription="@string/desc_fun_log"
+                        android:gravity="center"
+                        android:text="@string/fun_log"
+                        android:textColor="@color/white"
+                        />
+
+                    <Button
+                        android:id="@+id/fun_comExp"
+                        style="@style/PadButtonStyle.Operator"
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="1"
+                        android:contentDescription="@string/desc_fun_comExp"
+                        android:gravity="center"
+                        android:text="@string/fun_comExp"
+                        android:textStyle="bold"
+                        android:textColor="@color/white"
+                        android:visibility="gone"
+                        />
+
+                    <Button
+                        android:id="@+id/button_null"
+                        style="@style/PadButtonStyle.Operator"
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="1"
+                        android:clickable="false"
+                        android:gravity="center"
+                        android:textColor="@color/white"
+                        />
+
+                    <Button
+                        android:id="@+id/op_pow"
+                        style="@style/PadButtonStyle.Operator"
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="1"
+                        android:contentDescription="@string/desc_op_pow"
+                        android:gravity="center"
+                        android:text="@string/op_pow"
+                        android:textColor="@color/white"
+                        />
+                </LinearLayout>
+            </LinearLayout>
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:orientation="vertical">
+
+                    <Button
+                        android:id="@+id/digit_7"
+                        style="@style/PadButtonStyle.Numeric"
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="1"
+                        android:text="@string/digit_7"
+                        android:textColor="@color/white"/>
+
+                    <Button
+                        android:id="@+id/digit_4"
+                        style="@style/PadButtonStyle.Numeric"
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="1"
+                        android:text="@string/digit_4"
+                        android:textColor="@color/white"/>
+
+                    <Button
+                        android:id="@+id/digit_1"
+                        style="@style/PadButtonStyle.Numeric"
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="1"
+                        android:text="@string/digit_1"
+                        android:textColor="@color/white"/>
+
+                    <Button
+                        android:id="@+id/dec_point"
+                        style="@style/PadButtonStyle.Numeric"
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="1"
+                        android:text="@string/dec_point_rel4"
+                        android:textColor="@color/white"
+                        android:textSize="32sp"/>
+
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:orientation="vertical">
+
+                    <Button
+                        android:id="@+id/digit_8"
+                        style="@style/PadButtonStyle.Numeric"
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="1"
+                        android:text="@string/digit_8"
+                        android:textColor="@color/white"/>
+
+                    <Button
+                        android:id="@+id/digit_5"
+                        style="@style/PadButtonStyle.Numeric"
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="1"
+                        android:text="@string/digit_5"
+                        android:textColor="@color/white"/>
+
+                    <Button
+                        android:id="@+id/digit_2"
+                        style="@style/PadButtonStyle.Numeric"
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="1"
+                        android:text="@string/digit_2"
+                        android:textColor="@color/white"/>
+
+                    <Button
+                        android:id="@+id/digit_0"
+                        style="@style/PadButtonStyle.Numeric"
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="1"
+                        android:text="@string/digit_0"
+                        android:textColor="@color/white"/>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:orientation="vertical">
+
+
+                    <Button
+                        android:id="@+id/digit_9"
+                        style="@style/PadButtonStyle.Numeric"
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="1"
+                        android:onClick="onButtonClick"
+                        android:text="@string/digit_9"
+                        android:textColor="@color/white"/>
+
+                    <Button
+                        android:id="@+id/digit_6"
+                        style="@style/PadButtonStyle.Numeric"
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="1"
+                        android:onClick="onButtonClick"
+                        android:text="@string/digit_6"
+                        android:textColor="@color/white"/>
+
+                    <Button
+                        android:id="@+id/digit_3"
+                        style="@style/PadButtonStyle.Numeric"
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="1"
+                        android:onClick="onButtonClick"
+                        android:text="@string/digit_3"
+                        android:textColor="@color/white"/>
+
+                    <Button
+                        style="@style/PadButtonStyle.Numeric"
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="1"
+                        android:text="@string/digit_3"
+                        android:textColor="@color/color_green"
+                        android:visibility="invisible"/>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:background="@color/color_keyboard_bg_more_dark"
+                    android:layout_weight="1"
+                    android:orientation="vertical">
+
+                    <Button
+                        android:id="@+id/op_div"
+                        style="@style/PadButtonStyle.Operator"
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="1"
+                        android:contentDescription="@string/desc_op_div"
+                        android:onClick="onButtonClick"
+                        android:text="@string/op_div"
+                        android:textColor="@color/white"/>
+
+                    <Button
+                        android:id="@+id/op_mul"
+                        style="@style/PadButtonStyle.Operator"
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="1"
+                        android:contentDescription="@string/desc_op_mul"
+                        android:text="@string/op_mul"
+                        android:textColor="@color/white"/>
+
+                    <Button
+                        android:id="@+id/op_sub"
+                        style="@style/PadButtonStyle.Operator"
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="1"
+                        android:contentDescription="@string/desc_op_sub"
+                        android:text="@string/op_sub"
+                        android:textColor="@color/white"/>
+
+                    <Button
+                        android:id="@+id/op_add"
+                        style="@style/PadButtonStyle.Operator"
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="1"
+                        android:contentDescription="@string/desc_op_add"
+                        android:text="@string/op_add"
+                        android:textColor="@color/white"/>
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@drawable/number_panel_right_bg_land"
+                    android:gravity="center"
+                    android:orientation="vertical">
+
+                    <ImageView
+                        android:id="@+id/clear"
+                        style="@style/PadButtonStyle.Operator.Text"
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_centerHorizontal="true"
+                        android:layout_weight="1"
+                        android:contentDescription="@string/desc_clr"
+                        android:onClick="onButtonClick"
+                        android:scaleType="center"
+                        android:src="@drawable/ic_delete_convert"/>
+
+                    <Button
+                        android:id="@+id/del2"
+                        style="@style/PadButtonStyle.Operator.Text"
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="1"
+                        android:contentDescription="@string/desc_del"
+                        android:scaleType="center"
+                        android:src="@string/op_mul"
+                        android:text="C"
+                        android:textColor="@android:color/white"
+                        android:textSize="23sp"
+                        android:textStyle="bold"/>
+
+
+                    <Button
+                        style="@style/PadButtonStyle.Operator"
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="0.5"
+                        android:contentDescription="@string/desc_op_add"
+                        android:textColor="@color/white"
+                        android:visibility="invisible"/>
+
+                    <ImageView
+                        android:id="@+id/expend"
+                        style="@style/PadButtonStyle.Numeric.Equals"
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="1"
+                        android:contentDescription="@string/desc_del"
+                        android:onClick="onButtonClick"
+                        android:scaleType="center"
+                        android:src="@drawable/ic_scientific_calculator"
+                        android:visibility="gone"/>
+                    <Button
+                        android:id="@+id/eq"
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="1.5"
+                        android:background="@drawable/equals_bg3"
+                        android:contentDescription="@string/desc_eq"
+                        android:text="@string/eq"
+                        android:textColor="@android:color/white"
+                        android:textSize="@dimen/keyboard_equal_text_size"/>
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+
+        </RelativeLayout>
+
+    </LinearLayout>
+
+</RelativeLayout>

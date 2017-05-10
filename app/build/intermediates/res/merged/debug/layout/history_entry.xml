@@ -1,0 +1,39 @@
+<com.tct.calculator.view.HistoryLine
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:focusable="true"
+    android:background="@drawable/historyline_background"
+    >
+
+    <TextView
+        android:id="@+id/historyExpr"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="right"
+        android:ellipsize="start"
+        android:layout_marginLeft="@dimen/history_entry_margin_horizon"
+        android:layout_marginRight="@dimen/history_entry_margin_horizon"
+        style="@style/HistoryText.Formula"
+        android:padding="0dp"
+        android:layout_marginTop="@dimen/history_entry_margin_top"/>
+
+
+    <TextView
+        android:id="@+id/historyResult"
+        android:gravity="right"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/history_entry_margin_horizon"
+        android:layout_marginRight="@dimen/history_entry_margin_horizon"
+        android:padding="0dp"
+        style="@style/HistoryText.Result"
+        android:layout_marginBottom="@dimen/history_entry_margin_top"/>
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="1dp"
+        android:background="@color/history_divide"
+        />
+
+</com.tct.calculator.view.HistoryLine>

@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="android_rules" default="tdebug">
+
+    <!-- ******************************************************* -->
+    <!-- ******************* TCT Build Conf ******************** -->
+    <!-- **** Please custom the tct.genericapp.tools.dir ******* -->
+    <!-- ******************************************************* -->
+    <!-- TCT genericapp tools -->
+    <property name="tct.genericapp.tools.dir" value="./../GenericAppTools" />
+
+    <!-- TCT SDK tools -->
+    <property name="tct.sdk.tools.dir" value="${tct.genericapp.tools.dir}/sdk-tools" />
+    <property name="signapk.path" location="${tct.sdk.tools.dir}/lib/signapk.jar" />
+
+    <!-- TCT key tool -->
+    <property name="tct.security.dir" value="${tct.genericapp.tools.dir}/security" />
+    <property name="tct.security.absolute.dir" location="${tct.security.dir}" />
+    <!-- key type, default is testkey, value:testkey/media/platform/shared -->
+    <property name="tct.key.type" value="platform" />
+
+    <!-- TCT Lib alto5 is L, m812 is KK-->
+    <!--<property name="tct.lib.dir" value="${tct.genericapp.tools.dir}/l-alto5-lib" />-->
+    <!--<property name="tct.lib.dir" value="${tct.genericapp.tools.dir}/tct-lib-m812" />-->
+    <property name="tct.lib.dir" value="${tct.genericapp.tools.dir}/tct-lib-l" />
+
+    <property name="tct.lib.absolute.dir" location="${tct.lib.dir}" />
+
+    <!-- Do not use the default android.jar for build -->
+    <property name="tct.android.path" location="${tct.lib.dir}/android_stubs_current_intermediates/classes.jar" />
+
+    <property name="aapt.resource.filter" value="hdpi" />
+
+    <!-- Add dependency lib to classpath -->
+    <path id="tct.classpath">
+        <pathelement location="${tct.lib.dir}/framework_intermediates/classes.jar"></pathelement>
+        <pathelement location="${tct.lib.dir}/framework2_intermediates/classes.jar"></pathelement>
+        <pathelement location="${tct.lib.dir}/android_stubs_current_intermediates/classes.jar"></pathelement>
+        <pathelement location="${tct.lib.dir}/core_intermediates/classes.jar"></pathelement>
+        <pathelement location="${tct.lib.dir}/framework-base_intermediates/classes.jar"></pathelement>
+        <pathelement location="${tct.lib.dir}/qcom.fmradio_intermediates/classes.jar"></pathelement>
+        <pathelement location="${tct.lib.dir}/mediatek-common_intermediates/classes.jar"></pathelement>
+        <pathelement location="../../../sdb/Generic_app_workspace/Android-PullToRefresh-master/library/bin/classes.jar"></pathelement>
+        <fileset dir="libs" includes="*.jar" />
+    </path>
+
+    <!-- ******************************************************* -->
+    <!-- ******************** Build Targets ******************** -->
+    <!-- ******************************************************* -->
+
+    <!-- Code Generation: compile resources (aapt -> R.java), aidl, renderscript -->
+    <target name="-tcode-gen">
+        <!-- always merge manifest -->
+        <mergemanifest
+                appManifest="${manifest.abs.file}"
+                outManifest="${out.manifest.abs.file}"
+                enabled="${manifestmerger.enabled}">
+            <library refid="project.library.manifest.file.path" />
+        </mergemanifest>
+
+        <do-only-if-manifest-hasCode
+                elseText="hasCode = false. Skipping aidl/renderscript/R.java">
+            <echo level="info">Handling aidl files...</echo>
+            <aidl executable="${aidl}"
+                    framework="${project.target.framework.aidl}"
+                    libraryBinAidlFolderPathRefid="project.library.bin.aidl.folder.path"
+                    genFolder="${gen.absolute.dir}"
+                    aidlOutFolder="${out.aidl.absolute.dir}">
+                <source path="${source.absolute.dir}"/>
+            </aidl>
+
+            <!-- renderscript generates resources so it must be called before aapt -->
+            <echo level="info">----------</echo>
+            <echo level="info">Handling RenderScript files...</echo>
+            <!-- set the rs target prop in case it hasn't been set. -->
+            <property name="renderscript.target" value="${project.minSdkVersion}" />
+            <!--
+            <renderscript executable="${renderscript}"
+                    includePathRefId="android.renderscript.include.path"
+                    genFolder="${gen.absolute.dir}"
+                    resFolder="${out.res.absolute.dir}/raw"
+                    targetApi="${renderscript.target}"
+                    optLevel="${renderscript.opt.level}"
+                    buildType="${build.is.packaging.debug}"
+                    previousBuildType="${build.last.is.packaging.debug}">
+                <source path="${source.absolute.dir}"/>
+            </renderscript>
+            -->
+
+            <renderscript
+                    buildToolsRoot="${android.build.tools.dir}"
+                    genFolder="${gen.absolute.dir}"
+                    resFolder="${out.res.absolute.dir}"
+                    rsObjFolder="${out.rs.obj.absolute.dir}"
+                    libsFolder="${out.rs.libs.absolute.dir}"
+                    targetApi="${renderscript.target}"
+                    optLevel="${renderscript.opt.level}"
+                    supportMode="${renderscript.support.mode}"
+                    binFolder="${out.absolute.dir}"
+                    buildType="${build.is.packaging.debug}"
+                    previousBuildType="${build.last.is.packaging.debug}">
+                <source path="${source.absolute.dir}"/>
+            </renderscript>
+
+            <echo level="info">----------</echo>
+            <echo level="info">Handling Resources...</echo>
+            <aapt executable="${aapt}"
+                    command="package"
+                    verbose="${verbose}"
+                    manifest="${out.manifest.abs.file}"
+                    originalManifestPackage="${project.app.package}"
+                    resourcefilter="${aapt.resource.filter}"
+                    androidjar="${tct.android.path}"
+                    rfolder="${gen.absolute.dir}"
+                    nonConstantId="${android.library}"
+                    libraryResFolderPathRefid="project.library.res.folder.path"
+                    libraryPackagesRefid="project.library.packages"
+                    libraryRFileRefid="project.library.bin.r.file.path"
+                    ignoreAssets="${aapt.ignore.assets}"
+                    binFolder="${out.absolute.dir}"
+                    proguardFile="${out.absolute.dir}/proguard.txt">
+                <res path="${out.res.absolute.dir}" />
+                <res path="${resource.absolute.dir}" />
+            </aapt>
+
+            <echo level="info">----------</echo>
+            <echo level="info">Handling BuildConfig class...</echo>
+            <buildconfig
+                    genFolder="${gen.absolute.dir}"
+                    package="${project.app.package}"
+                    buildType="${build.is.packaging.debug}"
+                    previousBuildType="${build.last.is.packaging.debug}"/>
+
+        </do-only-if-manifest-hasCode>
+    </target>
+
+    <!-- empty default pre-compile target. Create a similar target in
+         your build.xml and it'll be called instead of this one. -->
+    <target name="-pre-compile"/>
+
+    <!-- Compiles this project's .java files into .class files. -->
+    <target name="-tcompile" depends="-pre-build, -build-setup, -tcode-gen, -pre-compile">
+        <do-only-if-manifest-hasCode elseText="hasCode = false. Skipping...">
+            <!-- merge the project's own classpath and the tested project's classpath -->
+            <path id="project.javac.classpath">
+                <path refid="tct.classpath" />
+           <!-- <path refid="project.all.jars.path" />
+                <path refid="tested.project.classpath" />
+                <path path="${java.compiler.classpath}" />  -->
+            </path>
+            <javac encoding="${java.encoding}"
+                    source="${java.source}" target="${java.target}"
+                    debug="true" extdirs="" includeantruntime="false"
+                    destdir="${out.classes.absolute.dir}"
+                    verbose="${verbose}"
+                    classpathref="project.javac.classpath"
+                    fork="${need.javac.fork}">
+                <src path="${source.absolute.dir}" />
+                <src path="${gen.absolute.dir}" />
+                <compilerarg line="${java.compilerargs}" />
+            </javac>
+
+            <!-- if the project is instrumented, intrument the classes -->
+            <if condition="${build.is.instrumented}">
+                <then>
+                    <echo level="info">Instrumenting classes from ${out.absolute.dir}/classes...</echo>
+
+                    <!-- build the filter to remove R, Manifest, BuildConfig -->
+                    <getemmafilter
+                            appPackage="${project.app.package}"
+                            libraryPackagesRefId="project.library.packages"
+                            filterOut="emma.default.filter"/>
+
+                    <!-- define where the .em file is going. This may have been
+                         setup already if this is a library -->
+                    <property name="emma.coverage.absolute.file" location="${out.absolute.dir}/coverage.em" />
+
+                    <!-- It only instruments class files, not any external libs -->
+                    <emma enabled="true">
+                        <instr verbosity="${verbosity}"
+                               mode="overwrite"
+                               instrpath="${out.absolute.dir}/classes"
+                               outdir="${out.absolute.dir}/classes"
+                               metadatafile="${emma.coverage.absolute.file}">
+                            <filter excludes="${emma.default.filter}" />
+                            <filter value="${emma.filter}" />
+                        </instr>
+                    </emma>
+                </then>
+            </if>
+
+            <!-- if the project is a library then we generate a jar file -->
+            <if condition="${project.is.library}">
+                <then>
+                    <echo level="info">Creating library output jar file...</echo>
+                    <property name="out.library.jar.file" location="${out.absolute.dir}/classes.jar" />
+                    <if>
+                        <condition>
+                            <length string="${android.package.excludes}" trim="true" when="greater" length="0" />
+                        </condition>
+                        <then>
+                            <echo level="info">Custom jar packaging exclusion: ${android.package.excludes}</echo>
+                        </then>
+                    </if>
+
+                    <propertybyreplace name="project.app.package.path" input="${project.app.package}" replace="." with="/" />
+
+                    <jar destfile="${out.library.jar.file}">
+                        <fileset dir="${out.classes.absolute.dir}"
+                                includes="**/*.class"
+                                excludes="${project.app.package.path}/R.class ${project.app.package.path}/R$*.class ${project.app.package.path}/BuildConfig.class"/>
+                        <fileset dir="${source.absolute.dir}" excludes="**/*.java ${android.package.excludes}" />
+                    </jar>
+                </then>
+            </if>
+
+        </do-only-if-manifest-hasCode>
+    </target>
+
+    <!-- Converts this project's .class files into .dex files -->
+    <target name="-tdex" depends="-tcompile, -post-compile, -obfuscate">
+        <do-only-if-manifest-hasCode elseText="hasCode = false. Skipping...">
+            <!-- only convert to dalvik bytecode is *not* a library -->
+            <do-only-if-not-library elseText="Library project: do not convert bytecode..." >
+                <!-- special case for instrumented builds: need to use no-locals and need
+                     to pass in the emma jar. -->
+                <if condition="${build.is.instrumented}">
+                    <then>
+                        <dex-helper nolocals="true">
+                            <external-libs>
+                                <fileset file="${emma.dir}/emma_device.jar" />
+                            </external-libs>
+                        </dex-helper>
+                    </then>
+                    <else>
+                        <dex-helper />
+                    </else>
+                </if>
+            </do-only-if-not-library>
+        </do-only-if-manifest-hasCode>
+    </target>
+
+    <!-- Packages the application. -->
+    <target name="-tpackage" depends="-tdex, -package-resources">
+        <!-- only package apk if *not* a library project -->
+        <do-only-if-not-library elseText="Library project: do not package apk..." >
+            <if condition="${build.is.instrumented}">
+                <then>
+                    <package-helper>
+                        <extra-jars>
+                            <!-- Injected from external file -->
+                            <jarfile path="${emma.dir}/emma_device.jar" />
+                        </extra-jars>
+                    </package-helper>
+                </then>
+                <else>
+                    <package-helper />
+                </else>
+            </if>
+        </do-only-if-not-library>
+    </target>
+    <!-- ******************************************************* -->
+    <!-- *************TCT Debug specific targets *************** -->
+    <!-- ******************************************************* -->
+
+    <target name="-set-tdebug-files" depends="-set-mode-check">
+
+        <property name="out.packaged.file" location="${out.absolute.dir}/${ant.project.name}_debug_unsigned_${tct.key.type}.apk" />
+        <property name="out.final.file" location="${out.absolute.dir}/${ant.project.name}_debug_signed_${tct.key.type}.apk" />
+        <property name="build.is.mode.set" value="true" />
+    </target>
+
+
+    <target name="-set-tdebug-mode" depends="-setup">
+        <!-- record the current build target -->
+        <property name="build.target" value="debug" />
+
+        <if>
+            <condition>
+                <and>
+                    <istrue value="${project.is.testapp}" />
+                    <istrue value="${emma.enabled}" />
+                </and>
+            </condition>
+            <then>
+                <property name="build.is.instrumented" value="true" />
+            </then>
+            <else>
+                <property name="build.is.instrumented" value="false" />
+            </else>
+        </if>
+
+        <!-- whether the build is a debug build. always set. -->
+        <property name="build.is.packaging.debug" value="true" />
+
+        <!-- signing mode: debug -->
+        <property name="build.is.signing.debug" value="true" />
+
+        <!-- Renderscript optimization level: none -->
+        <property name="renderscript.opt.level" value="${renderscript.debug.opt.level}" />
+
+    </target>
+
+    <!-- Builds debug output package -->
+    <target name="-do-tdebug" depends="-set-tdebug-mode, -debug-obfuscation-check, -tpackage, -post-package">
+        <!-- only create apk if *not* a library project -->
+        <do-only-if-not-library elseText="Library project: do not create apk..." >
+            <sequential>
+                <property name="out.unaligned.file" location="${out.absolute.dir}/${ant.project.name}_debug_unaligned.apk" />
+
+                <!-- Sign with a debug/share/platform/media key -->
+                <echo level="info">Sign with ${tct.key.type} key:${out.packaged.file}</echo>
+                <exec executable="java" failonerror="true">
+                    <arg value="-jar" />
+                    <arg value="${signapk.path}" />
+                    <arg value="${tct.security.dir}/${tct.key.type}.x509.pem" />
+                    <arg value="${tct.security.dir}/${tct.key.type}.pk8" />
+                    <arg value="${out.packaged.file}" />
+                    <arg value="${out.unaligned.file}" />
+                </exec>
+
+                <zipalign-helper in.package="${out.unaligned.file}" out.package="${out.final.file}" />
+                <echo level="info">Debug Package: ${out.final.file}</echo>
+            </sequential>
+        </do-only-if-not-library>
+        <record-build-info />
+    </target>
+
+    <!-- Builds TCT debug output package -->
+    <target name="tdebug" depends="-set-tdebug-files, -do-tdebug, -post-build"
+                description="Builds the application and signs it with TCT debug key.">
+        <echo level="info">Build is completed. Please install ${out.final.file} manually</echo>
+    </target>
+
+
+
+    <!-- ******************************************************* -->
+    <!-- *********** TCT Release specific targets ************** -->
+    <!-- ******************************************************* -->
+
+    <target name="-trelease-obfuscation-check">
+        <echo level="info">proguard.config is ${proguard.config}</echo>
+        <condition property="proguard.enabled" value="true" else="false">
+            <and>
+                <isset property="build.is.mode.release" />
+                <isset property="proguard.config" />
+            </and>
+        </condition>
+        <if condition="${proguard.enabled}">
+            <then>
+                <echo level="info">Proguard.config is enabled</echo>
+                <!-- Secondary dx input (jar files) is empty since all the
+                     jar files will be in the obfuscated jar -->
+                <path id="out.dex.jar.input.ref" />
+            </then>
+        </if>
+    </target>
+
+    <target name="-set-trelease-mode" depends="-set-mode-check">
+        <property name="out.packaged.file" location="${out.absolute.dir}/${ant.project.name}_unsigned_${tct.key.type}.apk" />
+        <property name="out.final.file" location="${out.absolute.dir}/${ant.project.name}_release_unsigned_${tct.key.type}.apk" />
+        <property name="build.is.mode.set" value="true" />
+
+        <!-- record the current build target -->
+        <property name="build.target" value="release" />
+
+        <property name="build.is.instrumented" value="false" />
+
+        <!-- release mode is only valid if the manifest does not explicitly
+             set debuggable to true. default is false. -->
+        <xpath input="${manifest.abs.file}" expression="/manifest/application/@android:debuggable"
+                output="build.is.packaging.debug" default="false"/>
+
+        <!-- signing mode: release -->
+        <property name="build.is.signing.debug" value="false" />
+
+        <!-- Renderscript optimization level: aggressive -->
+        <property name="renderscript.opt.level" value="${renderscript.release.opt.level}" />
+
+        <if condition="${build.is.packaging.debug}">
+            <then>
+                <echo>*************************************************</echo>
+                <echo>****  Android Manifest has debuggable=true   ****</echo>
+                <echo>**** Doing DEBUG packaging with RELEASE keys ****</echo>
+                <echo>*************************************************</echo>
+            </then>
+            <else>
+                <!-- property only set in release mode.
+                     Useful for if/unless attributes in target node
+                     when using Ant before 1.8 -->
+                <property name="build.is.mode.release" value="true"/>
+            </else>
+        </if>
+    </target>
+
+    <target name="-trelease-nosign">
+        <!-- no release builds for library project -->
+        <do-only-if-not-library elseText="" >
+            <sequential>
+                <echo level="info">Platform release</echo>
+                <echo level="info">Please sign ${out.packaged.file} manually</echo>
+                <echo level="info">and run zipalign from the Android SDK tools.</echo>
+            </sequential>
+        </do-only-if-not-library>
+        <record-build-info />
+    </target>
+
+    <!-- This runs -package-release and -release-nosign first and then runs
+         only if release-sign is true (set in -release-check,
+         called by -release-no-sign)-->
+    <target name="trelease"
+                depends="-set-trelease-mode, -trelease-obfuscation-check, -tpackage, -post-package, -trelease-nosign, -post-build"
+                description="Builds the application in release mode with platform key.">
+    </target>
+
+	<!-- This signed by platform debug key... INT team will overwrite the key info -->
+    <target name="treleasesigned"
+                depends="-set-trelease-mode, -trelease-obfuscation-check, -tpackage, -post-package, -trelease-nosign, -post-build"
+                description="Builds the application in release mode with platform key.">
+        <!-- only create apk if *not* a library project -->
+        <do-only-if-not-library elseText="Library project: do not create apk..." >
+            <sequential>
+                <property name="out.unaligned.file" location="${out.absolute.dir}/${ant.project.name}_unsigned_unaligned.apk" />
+
+                <!-- Sign with a debug/share/platform/media key -->
+                <echo level="info">Sign with ${tct.key.type} key:${out.packaged.file}</echo>
+                <exec executable="java" failonerror="true">
+                    <arg value="-jar" />
+                    <arg value="${signapk.path}" />
+                    <arg value="${tct.security.dir}/${tct.key.type}.x509.pem" />
+                    <arg value="${tct.security.dir}/${tct.key.type}.pk8" />
+                    <arg value="${out.packaged.file}" />
+                    <arg value="${out.unaligned.file}" />
+                </exec>
+
+                <zipalign-helper in.package="${out.unaligned.file}" out.package="${out.final.file}" />
+                <echo level="info">Apk signed by platform debug key: ${out.final.file}</echo>
+            </sequential>
+        </do-only-if-not-library>
+        <record-build-info />
+    </target>
+	
+</project>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <!-- Name of the application. [CHAR_LIMIT=NONE] -->
+    <string name="app_name">"Kalkulatori"</string>
+
+    <!-- Error displayed when expression evaluates to NaN. [CHAR_LIMIT=14] -->
+    <string name="error_nan">"jo një numër"</string>
+    <!-- Error displayed when expression contains a syntax error. [CHAR_LIMIT=14] -->
+    <string name="error_syntax">"Gabim"</string>
+
+   <!-- no translation found for digit0 -->
+	<skip />
+	<!-- no translation found for digit1 -->
+	<skip />
+	<!-- no translation found for digit2 -->
+	<skip />
+	<!-- no translation found for digit3 -->
+	<skip />
+	<!-- no translation found for digit4 -->
+	<skip />
+	<!-- no translation found for digit5 -->
+	<skip />
+	<!-- no translation found for digit6 -->
+	<skip />
+	<!-- no translation found for digit7 -->
+	<skip />
+	<!-- no translation found for digit8 -->
+	<skip />
+	<!-- no translation found for digit9 -->
+	<skip />
+	<!-- no translation found for div -->
+	<skip />
+	<!-- no translation found for mul -->
+	<skip />
+	<!-- no translation found for plus -->
+	<skip />
+	<!-- no translation found for minus -->
+	<skip />
+	<!-- no translation found for dot -->
+	<skip />
+	<!-- no translation found for equal -->
+	<skip />
+	<!-- no translation found for enter -->
+	<skip />
+	<!-- no translation found for sin -->
+	<skip />
+	<!-- no translation found for sin_mathematical_value -->
+	<skip />
+	<!-- no translation found for cos -->
+	<skip />
+	<!-- no translation found for cos_mathematical_value -->
+	<skip />
+	<!-- no translation found for tan -->
+	<skip />
+	<!-- no translation found for tan_mathematical_value -->
+	<skip />
+	<!-- no translation found for pi -->
+	<skip />
+	<!-- no translation found for e -->
+	<skip />
+	<!-- no translation found for e_mathematical_value -->
+	<skip />
+	<!-- no translation found for ln -->
+	<skip />
+	<!-- no translation found for ln_mathematical_value -->
+	<skip />
+	<!-- no translation found for lg -->
+	<skip />
+	<!-- no translation found for lg_mathematical_value -->
+	<skip />
+	<!-- no translation found for sqrt -->
+	<skip />
+	<!-- no translation found for power -->
+	<skip />
+	<!-- no translation found for factorial -->
+	<skip />
+	<!-- no translation found for squared -->
+	<skip />
+	<!-- no translation found for topower -->
+	<skip />
+
+    <!-- Clear operation to clear the currently entered expression. [CHAR_LIMIT=3] -->
+    <string name="clr">"F"</string>
+    <!-- Delete operation to remove last entered token. [CHAR_LIMIT=3] -->
+    <string name="del">"Fshi"</string>
+
+    <!-- Content Descriptions -->
+    <eat-comment />
+
+    <!-- Content description for 'e' button. [CHAR_LIMIT=NONE] -->
+    <string name="desc_const_e">"Numër i Eulerit"</string>
+    <!-- Content description for 'π' button. [CHAR_LIMIT=NONE] -->
+    <string name="desc_const_pi">"Pi"</string>
+
+    <!-- Content description for '.' button. [CHAR_LIMIT=NONE] -->
+    <string name="desc_dec_point">point</string>
+
+    <!-- Content description for '(' button. [CHAR_LIMIT=NONE] -->
+    <string name="desc_lparen">"Kllapë e majtë"</string>
+    <!-- Content description for ')' button. [CHAR_LIMIT=NONE] -->
+    <string name="desc_rparen">"Kllapë e djathtë"</string>
+
+    <!-- Content description for 'cos' button. [CHAR_LIMIT=NONE] -->
+    <string name="desc_fun_cos">"kosinusi"</string>
+    <!-- Content description for 'ln' button. [CHAR_LIMIT=NONE] -->
+    <string name="desc_fun_ln">"logaritëm natyror"</string>
+    <!-- Content description for 'log' button. [CHAR_LIMIT=NONE] -->
+    <string name="desc_fun_log">"logaritmi"</string>
+    <!-- Content description for 'sin' button. [CHAR_LIMIT=NONE] -->
+    <string name="desc_fun_sin">"sinusi"</string>
+    <!-- Content description for 'tan' button. [CHAR_LIMIT=NONE] -->
+    <string name="desc_fun_tan">"tangjente"</string>
+
+    <!-- Content description for '+' button. [CHAR_LIMIT=NONE] -->
+    <string name="desc_op_add">"plus"</string>
+    <!-- Content description for '÷' button. [CHAR_LIMIT=NONE] -->
+    <string name="desc_op_div">"pjesëto"</string>
+    <!-- Content description for '!' button. [CHAR_LIMIT=NONE] -->
+    <string name="desc_op_fact">"faktorial"</string>
+    <!-- Content description for '×' button. [CHAR_LIMIT=NONE] -->
+    <string name="desc_op_mul">"shumëzo"</string>
+    <!-- Content description for '^' button. [CHAR_LIMIT=NONE] -->
+    <string name="desc_op_pow">"Ndezje"</string>
+    <!-- Content description for '√' button. [CHAR_LIMIT=NONE] -->
+    <string name="desc_op_sqrt">"Rrënjë katrore"</string>
+    <!-- Content description for '-' button. [CHAR_LIMIT=NONE] -->
+    <string name="desc_op_sub">"minus"</string>
+
+    <!-- Content description for "clr" button. [CHAR_LIMIT=NONE] -->
+    <string name="desc_clr">"Fshij"</string>
+    <!-- Content description for "del" button. [CHAR_LIMIT=NONE] -->
+    <string name="desc_del">"fshij"</string>
+    <!-- Content description for '=' button. [CHAR_LIMIT=NONE] -->
+    <string name="desc_eq">"është i barabartë me"</string>
+
+	<string name="dec_point_rel4">","</string>
+    
+</resources>

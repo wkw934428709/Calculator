@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2017 Tcl Corporation Limited -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:right="2dp">
+        <shape xmlns:android="http://schemas.android.com/apk/res/android">
+            <solid android:color="#2B2D41" />
+            <size android:width="5dp"/>
+            <corners android:radius="2dp"/>
+            <stroke android:color="#111111" android:width="2px"/>
+        </shape>
+    </item>
+</layer-list>

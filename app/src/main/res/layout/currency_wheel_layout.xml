@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+<RelativeLayout
+        android:id="@+id/wheel_picker_layout"
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/popupWindow_layout_height"
+        android:layout_alignParentTop="true"
+        android:background="@android:color/white">
+
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="@dimen/popupWindow_layout_height"
+            android:layout_alignParentTop="true"
+            android:background="@color/color_light_green">
+
+            <com.tct.calculator.view.scrollwheel.ScrollWheelPickerView
+                android:id="@+id/currency_wheel_picker_view"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true"
+                android:layout_gravity="center_horizontal"/>
+
+            <TextView
+                android:id="@+id/currency_wheel_picker_divider"
+                android:layout_width="3dp"
+                android:layout_height="wrap_content"
+                android:layout_alignBottom="@+id/currency_wheel_picker_view"
+                android:layout_alignTop="@+id/currency_wheel_picker_view"
+                android:layout_centerHorizontal="true"
+                android:background="@android:color/black"
+                android:visibility="invisible"/>
+        </RelativeLayout>
+
+    </RelativeLayout>
+
+</RelativeLayout>

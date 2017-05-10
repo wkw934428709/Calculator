@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="tips_label_line_height">4dp</dimen>
+    <dimen name="tips_label_margin_left_right">32sp</dimen>
+</resources>

@@ -1,0 +1,37 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 24
+    buildToolsVersion "23.0.1"
+
+    aaptOptions.cruncherEnabled = false
+    aaptOptions.useNewCruncher = false
+
+    defaultConfig {
+        targetSdkVersion 24
+        versionCode Integer.valueOf("0417050601")
+        versionName "v7.0.1.2.0437.1"
+    }
+
+    compileOptions {
+        //sourceCompatibility JavaVersion.VERSION_1_7
+        //targetCompatibility JavaVersion.VERSION_1_7
+    }
+
+    lintOptions {
+        checkReleaseBuilds false
+        // Or, if you prefer, you can continue to check for errors in release builds,
+        // but continue the build even when errors are found:
+        abortOnError false
+    }
+}
+dependencies {
+    compile 'com.android.support:appcompat-v7:24.0.0'
+    compile 'com.android.support:recyclerview-v7:24.0.0'
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+//    compile files('libs/statistics-sdk-v1.7.4.jar')
+    compile 'com.tcl.update:mie_updateSdk:1.1.0@aar'
+    compile 'ca.barrenechea.header-decor:header-decor:0.2.6'
+    //    compile files('libs/mie_updateSdk-1.1.8.jar')
+    compile files('libs/statistics-sdk-v2.0.3.jar')
+}

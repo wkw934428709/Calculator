@@ -1,0 +1,706 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+	<!--
+		this file is built by arct
+	-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<!---->
+	<string name="app_name">"Máy tính"</string>
+	<!---->
+	<string name="error_nan">"Không phải là một số"</string>
+	<!---->
+	<string name="error_syntax">"Lỗi"</string>
+	<!-- no translation found for dec_point -->
+	<skip />
+	<!-- no translation found for digit_0 -->
+	<skip />
+	<!-- no translation found for digit_1 -->
+	<skip />
+	<!-- no translation found for digit_2 -->
+	<skip />
+	<!-- no translation found for digit_3 -->
+	<skip />
+	<!-- no translation found for digit_4 -->
+	<skip />
+	<!-- no translation found for digit_5 -->
+	<skip />
+	<!-- no translation found for digit_6 -->
+	<skip />
+	<!-- no translation found for digit_7 -->
+	<skip />
+	<!-- no translation found for digit_8 -->
+	<skip />
+	<!-- no translation found for digit_9 -->
+	<skip />
+	<!-- no translation found for fun_cos -->
+	<skip />
+	<!-- no translation found for fun_ln -->
+	<skip />
+	<!-- no translation found for fun_log -->
+	<skip />
+	<!-- no translation found for fun_sin -->
+	<skip />
+	<!-- no translation found for fun_tan -->
+	<skip />
+	<!-- no translation found for op_inv -->
+	<skip />
+	<!-- no translation found for op_deg -->
+	<skip />
+	<!-- no translation found for op_rad -->
+	<skip />
+	<!-- no translation found for fun_arccos -->
+	<skip />
+	<!-- no translation found for fun_arcsin -->
+	<skip />
+	<!-- no translation found for fun_arctan -->
+	<skip />
+	<!-- no translation found for fun_naturExp -->
+	<skip />
+	<!-- no translation found for fun_comExp -->
+	<skip />
+	<!-- no translation found for fun_sqr -->
+	<skip />
+	<!-- no translation found for clr -->
+	<skip />
+	<!---->
+	<string name="del">"Xóa"</string>
+	<!-- no translation found for desc_const_e -->
+	<skip />
+	<!-- no translation found for desc_const_pi -->
+	<skip />
+	<!-- no translation found for desc_dec_point -->
+	<skip />
+	<!---->
+	<string name="desc_lparen">"dấu ngoặc trái"</string>
+	<!---->
+	<string name="desc_rparen">"dấu ngoặc phải"</string>
+	<!-- no translation found for desc_fun_cos -->
+	<skip />
+	<!---->
+	<string name="desc_fun_ln">"logarit tự nhiên"</string>
+	<!-- no translation found for desc_fun_log -->
+	<skip />
+	<!-- no translation found for desc_fun_sin -->
+	<skip />
+	<!-- no translation found for desc_fun_tan -->
+	<skip />
+	<!-- no translation found for desc_op_add -->
+	<skip />
+	<!-- no translation found for desc_op_div -->
+	<skip />
+	<!-- no translation found for desc_op_fact -->
+	<skip />
+	<!-- no translation found for desc_op_mul -->
+	<skip />
+	<!-- no translation found for desc_op_pow -->
+	<skip />
+	<!---->
+	<string name="desc_op_sqrt">"dấu khai căn"</string>
+	<!-- no translation found for desc_op_sub -->
+	<skip />
+	<!-- no translation found for desc_op_inv -->
+	<skip />
+	<!-- no translation found for desc_op_deg -->
+	<skip />
+	<!-- no translation found for desc_op_rad -->
+	<skip />
+	<!-- no translation found for desc_op_per -->
+	<skip />
+	<!-- no translation found for desc_fun_arcsin -->
+	<skip />
+	<!-- no translation found for desc_fun_arccos -->
+	<skip />
+	<!-- no translation found for desc_fun_arctan -->
+	<skip />
+	<!-- no translation found for desc_fun_naturExp -->
+	<skip />
+	<!-- no translation found for desc_fun_comExp -->
+	<skip />
+	<!-- no translation found for desc_fun_sqr -->
+	<skip />
+	<!-- no translation found for desc_clr -->
+	<skip />
+	<!-- no translation found for desc_del -->
+	<skip />
+	<!-- no translation found for desc_eq -->
+	<skip />
+	<!---->
+	<string name="copy_result_toast">"Đã sao chép kết quả"</string>
+	<!---->
+	<string name="tips_label">"Kéo xuống để xem lịch sử tính toán gần đây của bạn"</string>
+	<!---->
+	<string name="tips_btn_text">"Đã xong"</string>
+	<!---->
+	<string name="no_history">"Không có lịch sử"</string>
+	<!---->
+	<string name="copy">"Sao chép"</string>
+	<!---->
+	<string name="paste">"Dán"</string>
+	<!---->
+	<string name="swipe_down">"Trượt xuống để xem lịch sử"</string>
+	<!---->
+	<string name="swipe_left">"Trượt sang trái để \n tính toán khoa học"</string>
+	<!-- no translation found for dec_point_rel4 -->
+	<skip />
+	<!-- no translation found for drawer_title -->
+	<skip />
+	<!-- no translation found for drawer_open -->
+	<skip />
+	<!-- no translation found for drawer_close -->
+	<skip />
+	<!---->
+	<string name="convert_length">"Độ dài"</string>
+	<!---->
+	<string name="convert_area">"Khu vực"</string>
+	<!---->
+	<string name="convert_mass">"Số lượng"</string>
+	<!---->
+	<string name="convert_volume">"Âm lượng"</string>
+	<!---->
+	<string name="convert_temperature">"Nhiệt độ"</string>
+	<!---->
+	<string name="convert_fuel">"Nhiên liệu"</string>
+	<!-- no translation found for convert_shoes -->
+	<skip />
+	<!-- no translation found for convert_clothes -->
+	<skip />
+	<!---->
+	<string name="convert_cooking">"Nấu nướng"</string>
+	<!---->
+	<string name="currency_time">"Cập nhật:"</string>
+	<!---->
+	<string name="afghani">"Afghani"</string>
+	<!---->
+	<string name="azerbaijani_manat">"Manat Azerbaijani"</string>
+	<!---->
+	<string name="algerian_dinar">"Dinar Algeria"</string>
+	<!---->
+	<string name="aruba_florin">"Florin Aruba"</string>
+	<!---->
+	<string name="argentine_peso">"Peso Argentine"</string>
+	<!---->
+	<string name="albanian_lek">"Lek Albania"</string>
+	<!---->
+	<string name="australian_dollar">"Đô la Australia"</string>
+	<!---->
+	<string name="cayman_islands_dollar">"Đô la Quần đảo Cayman"</string>
+	<!---->
+	<string name="cambodian_riel">"Riel Campuchia"</string>
+	<!---->
+	<string name="croatian_kuna">"Kuna Croatia"</string>
+	<!---->
+	<string name="czech_koruna">"Koruna Séc"</string>
+	<!---->
+	<string name="cuban_peso">"Peso Cuba"</string>
+	<!---->
+	<string name="costa_rica_colon">"Colon Costa Rica"</string>
+	<!---->
+	<string name="colombian_peso">"Peso Colombia"</string>
+	<!---->
+	<string name="chilean_peso">"Peso Chile"</string>
+	<!---->
+	<string name="cape_verde_escudo">"Escudo Cape Verde"</string>
+	<!---->
+	<string name="chinese_yuan">"Yuan Trung Quốc"</string>
+	<!---->
+	<string name="indian_rupee">"Rupi Ấn Độ"</string>
+	<!---->
+	<string name="canadian_dollar">"Đô la Canada"</string>
+	<!---->
+	<string name="bitcoin">"Bitcoin"</string>
+	<!---->
+	<string name="bosnian_convertible_mark">"Convertible Mark Bosnia"</string>
+	<!---->
+	<string name="british_pound">"Bảng Anh"</string>
+	<!---->
+	<string name="burundi_franc">"Phrăng Burundi"</string>
+	<!---->
+	<string name="bulgarian_lev">"Lev Bulgaria"</string>
+	<!---->
+	<string name="brunei_dollar">"Đô la Brunei"</string>
+	<!---->
+	<string name="brazilian_real">"Real Brazil"</string>
+	<!---->
+	<string name="botswanna_pula">"Pula Botswana"</string>
+	<!---->
+	<string name="bolivian_boliviano">"Boliviano Bolivia"</string>
+	<!---->
+	<string name="bhutan_ngultrum">"Ngultrum Bhutan"</string>
+	<!---->
+	<string name="bermuda_dollar">"Đô la Bermuda"</string>
+	<!---->
+	<string name="belize_dollar">"Đô la Belize"</string>
+	<!---->
+	<string name="belarus_ruble">"Ruble Belarus"</string>
+	<!---->
+	<string name="barbados_dollar">"Đô la Barbados"</string>
+	<!---->
+	<string name="bangladesh_taka">"Taka Bangladesh"</string>
+	<!---->
+	<string name="bahraini_dinar">"Dinar Bahraini"</string>
+	<!---->
+	<string name="bahamian_dollar">"Đô la Bahamia"</string>
+	<!---->
+	<string name="angolan_kwanza">"Kwanza Angolan"</string>
+	<!---->
+	<string name="armenian_dram">"Dram Armenia"</string>
+	<!---->
+	<string name="iraqi_dinar">"Dinar Iraq"</string>
+	<!---->
+	<string name="iranian_rial">"Rial Iran"</string>
+	<!---->
+	<string name="iceland_krona">"Krona Iceland"</string>
+	<!---->
+	<string name="indonesian_rupiah">"Rupiah Indonesia"</string>
+	<!---->
+	<string name="hungarian_forint">"Forint Hungary"</string>
+	<!---->
+	<string name="honduras_lempira">"Lempira Honduras"</string>
+	<!---->
+	<string name="haiti_gourde">"Gourde Haiti"</string>
+	<!---->
+	<string name="hongkong_dollar">"Đô la Hồng Kông"</string>
+	<!---->
+	<string name="gold">"Vàng"</string>
+	<!---->
+	<string name="ghanaian_cedi">"Cedi Ghana"</string>
+	<!---->
+	<string name="georgian_lari">"Lari Georgia"</string>
+	<!---->
+	<string name="guyana_dollar">"Đô la Guyana"</string>
+	<!---->
+	<string name="guinea_franc">"Phrăng Guinea"</string>
+	<!---->
+	<string name="guatemala_quetzal">"Quetzal Guatemala"</string>
+	<!---->
+	<string name="gibraltar_pound">"Bảng Gibraltar"</string>
+	<!---->
+	<string name="gambian_dalasi">"Dalasi Gambia"</string>
+	<!---->
+	<string name="fiji_dollar">"Đô la Fiji"</string>
+	<!---->
+	<string name="falkland_islands_pound">"Bảng Quần đảo Falkland"</string>
+	<!---->
+	<string name="east_caribbean_dollar">"Đô la Đông Ca-ri-bê"</string>
+	<!---->
+	<string name="ethiopian_birr">"Birr Ethiopia"</string>
+	<!---->
+	<string name="eritrea_nakfa">"Nakfa Eritrea"</string>
+	<!---->
+	<string name="egyptian_pound">"Bảng Ai Cập"</string>
+	<!---->
+	<string name="euro">"Euro"</string>
+	<!---->
+	<string name="dominican_peso">"Peso Dominica"</string>
+	<!---->
+	<string name="djibout_franc">"Phrăng Djibouti"</string>
+	<!---->
+	<string name="danish_krone">"Krone Đan Mạch"</string>
+	<!---->
+	<string name="congolese_frank">"Frank Công-gô"</string>
+	<!---->
+	<string name="cfa_francl_beac">"Francl Trung Phi (CFA) (BEAC)"</string>
+	<!---->
+	<string name="cfa_franc_bceao">"Phrăng CFA (BCEAO)"</string>
+	<!---->
+	<string name="comoros_franc">"Phrăng Comoros"</string>
+	<!---->
+	<string name="namibian_dollar">"Đô la Namibian"</string>
+	<!---->
+	<string name="north_korean_won">"Won Bắc Triều Tiên"</string>
+	<!---->
+	<string name="neth_antilles_guilder">"Guilder Neth Antilles"</string>
+	<!---->
+	<string name="mozambican_metical">"Metical Mozambica"</string>
+	<!---->
+	<string name="malagasy_ariary">"Ariary Malagasy"</string>
+	<!---->
+	<string name="myanmar_kyat">"Kyat Myanmar"</string>
+	<!---->
+	<string name="moroccan_dirham">"Dirham Morocca"</string>
+	<!---->
+	<string name="mongolian_tugrik">"Tugrik Mongolia"</string>
+	<!---->
+	<string name="moldovan_leu">"Leu Moldova"</string>
+	<!---->
+	<string name="mexican_peso">"Peso Mexicô"</string>
+	<!---->
+	<string name="mauritius_rupee">"Rúp Mauritius"</string>
+	<!---->
+	<string name="mauritanian_ougulya">"Ougulya Mauritania"</string>
+	<!---->
+	<string name="maldives_rufiyaa">"Rufiyaa Maldives"</string>
+	<!---->
+	<string name="malaysian_ringgit">"Ringgit Malaysia"</string>
+	<!---->
+	<string name="malawi_kwacha">"Kwacha Malawi"</string>
+	<!---->
+	<string name="macedonian_denar">"Denar Macedonia"</string>
+	<!---->
+	<string name="macau_pataca">"Pataca Ma Cao"</string>
+	<!---->
+	<string name="libyan_dinar">"Dinar Libya"</string>
+	<!---->
+	<string name="leberian_dollar">"Đô la Leberia"</string>
+	<!---->
+	<string name="lesotho_loti">"Loti Lesotho"</string>
+	<!---->
+	<string name="lebanese_pound">"Bảng Leban"</string>
+	<!---->
+	<string name="lao_kipi">"Kipi Laos"</string>
+	<!---->
+	<string name="kyrgyzstani_som">"Som Kyrgyzstani"</string>
+	<!---->
+	<string name="kazakhstani_tenge">"Tenge Kazakhstani"</string>
+	<!---->
+	<string name="kuwaiti_dinar">"Dinar Kuwaiti"</string>
+	<!---->
+	<string name="kenyan_shilling">"Shilling Kenya"</string>
+	<!---->
+	<string name="jordanian_dinar">"Dinar Jordania"</string>
+	<!---->
+	<string name="jamaican_dollar">"Đô la Jamaica"</string>
+	<!---->
+	<string name="japanese_yen">"Yen Nhật"</string>
+	<!---->
+	<string name="israeli_shekel">"Shekel Israel"</string>
+	<!---->
+	<string name="st_henlena_pound">"Bảng St Henlena"</string>
+	<!---->
+	<string name="somali_shilling">"Shilling Somali"</string>
+	<!---->
+	<string name="solomon_islands_dollar">"Đô la Quần đảo Solomon"</string>
+	<!---->
+	<string name="singapore_dollar">"Đô la Singapore"</string>
+	<!---->
+	<string name="sierra_leone_leone">"Leone Sierra Leone"</string>
+	<!---->
+	<string name="seychelles_rupee">"Rúp Seychelles"</string>
+	<!---->
+	<string name="saudi_arabian_riyal">"Riyal Ả Rập Saudi"</string>
+	<!---->
+	<string name="sao_tome_dobra">"Dobra Sao Tome"</string>
+	<!---->
+	<string name="sri_lanka_rupee">"Rúp Sri Lanka"</string>
+	<!---->
+	<string name="south_korean_won">"Won Hàn Quốc"</string>
+	<!---->
+	<string name="swiss_franc">"Phrăng Thụy Sĩ"</string>
+	<!---->
+	<string name="rwanda_franc">"Phrăng Rwanda"</string>
+	<!---->
+	<string name="russian_rouble">"Rúp Nga"</string>
+	<!---->
+	<string name="romanian_new_leu">"New Leu Romania"</string>
+	<!---->
+	<string name="qatar_rial">"Rial Qatar"</string>
+	<!---->
+	<string name="platinum">"Bạch Kim"</string>
+	<!---->
+	<string name="pacific_franc">"Franc Pacific"</string>
+	<!---->
+	<string name="polish_zloty">"Zloty Ba Lan"</string>
+	<!---->
+	<string name="philippine_peso">"Peso Philippine"</string>
+	<!---->
+	<string name="peruvian_nuevo_sol">"Nuevo Sol Peruvia"</string>
+	<!---->
+	<string name="paraguayan_guarani">"Guarani Paraguaya"</string>
+	<!---->
+	<string name="papua_new_guinea_kina">"Kina Papua New Guinea"</string>
+	<!---->
+	<string name="panama_balboa">"Balboa Panama"</string>
+	<!---->
+	<string name="pakistani_rupee">"Rúp Pakistan"</string>
+	<!---->
+	<string name="omani_rial">"Rial Omani"</string>
+	<!---->
+	<string name="norwegian_krone">"Krone Norwegia"</string>
+	<!---->
+	<string name="nigerian_naira">"Naira Nigeria"</string>
+	<!---->
+	<string name="nicaragua_cordoba">"Cordoba Nicaragua"</string>
+	<!---->
+	<string name="new_zealand_dollar">"Đô la New Zealand"</string>
+	<!---->
+	<string name="nepalese_rupee">"Rúp Nepal"</string>
+	<!---->
+	<string name="zibabwe_dollar">"Đô la Zibabwe"</string>
+	<!---->
+	<string name="zabian_kwacha">"Kwacha Zabian"</string>
+	<!---->
+	<string name="yemen_riyal">"Riyal Yemen"</string>
+	<!---->
+	<string name="venezuelan_bolivar_fuetre">"Bolivar Fuetre Venezuela"</string>
+	<!---->
+	<string name="vanuatu_vatu">"Vatu Vanuatu"</string>
+	<!---->
+	<string name="vietnam_dong">"Đồng Việt Nam"</string>
+	<!---->
+	<string name="uzbekistani_som">"Som Uzbekistani"</string>
+	<!---->
+	<string name="uruguayan_new_peso">"New Peso Uruguayan"</string>
+	<!---->
+	<string name="ukraine_hryvnia">"Hryvnia Ukraine"</string>
+	<!---->
+	<string name="ugandan_shilling">"Shilling Ugandan"</string>
+	<!---->
+	<string name="united_states_dollar">"Đô la Mỹ"</string>
+	<!---->
+	<string name="uae_dirham">"Dirham Các Tiểu Vương quốc Ả Rập Thống nhất (UAE)"</string>
+	<!---->
+	<string name="turkmenistani_manet">"Manet Turkmenistani"</string>
+	<!---->
+	<string name="tajikistani_somoni">"Somoni Tajikistani"</string>
+	<!---->
+	<string name="tunisian_dinar">"Dinar Tunisi"</string>
+	<!---->
+	<string name="trinnidad_tobago_dollar">"Đô la Trinnidad và Tobago"</string>
+	<!---->
+	<string name="tonga_pa_ang">"Pa’ang Tonga"</string>
+	<!---->
+	<string name="tanzanian_shilling">"Shilling Tanzan"</string>
+	<!---->
+	<string name="turkish_lira">"Lira Thổ Nhĩ Kỳ"</string>
+	<!---->
+	<string name="taiwan_dollar">"Đô la Đài Loan"</string>
+	<!---->
+	<string name="thai_baht">"Baht Thái"</string>
+	<!---->
+	<string name="Silver">"Bạc"</string>
+	<!---->
+	<string name="serbian_dinars">"Dinars Serbia"</string>
+	<!---->
+	<string name="surinam_florin">"Florin Surinam"</string>
+	<!---->
+	<string name="south_african_rand">"Rand Nam Phi"</string>
+	<!---->
+	<string name="samoa_tala">"Tala Samoa"</string>
+	<!---->
+	<string name="syrian_pound">"Bảng Syria"</string>
+	<!---->
+	<string name="swedish_krona">"Krona Thụy Điển"</string>
+	<!---->
+	<string name="swaziland_lilageni">"Lilageni Swaziland"</string>
+	<!---->
+	<string name="sudanese_pound">"Bảng Sudan"</string>
+	<!---->
+	<string name="au_1">"Vàng"</string>
+	<!---->
+	<string name="btb">"Bitcoin"</string>
+	<!---->
+	<string name="ag_2">"Bạc"</string>
+	<!---->
+	<string name="pt_3">"Platinum"</string>
+	<!-- no translation found for convert_category_length -->
+	<skip />
+	<!---->
+	<string name="convert_length_mm">"millimét"</string>
+	<!---->
+	<string name="convert_length_cm">"centimét"</string>
+	<!---->
+	<string name="convert_length_m">"mét"</string>
+	<!---->
+	<string name="convert_length_km">"kilomét"</string>
+	<!---->
+	<string name="convert_length_mi">"dặm"</string>
+	<!---->
+	<string name="convert_length_yd">"thước"</string>
+	<!---->
+	<string name="convert_length_ft">"foot"</string>
+	<!---->
+	<string name="convert_length_in">"inch"</string>
+	<!---->
+	<string name="convert_length_kt">"Hải lý"</string>
+	<!-- no translation found for convert_category_area -->
+	<skip />
+	<!---->
+	<string name="convert_area_mm2">"millimét vuông"</string>
+	<!---->
+	<string name="convert_area_cm2">"centimét vuông"</string>
+	<!---->
+	<string name="convert_area_m2">"mét vuông"</string>
+	<!---->
+	<string name="convert_area_in2">"inch vuông"</string>
+	<!---->
+	<string name="convert_area_ft2">"foot vuông"</string>
+	<!---->
+	<string name="convert_area_yd2">"thước vuông"</string>
+	<!---->
+	<string name="convert_area_ha">"héc ta"</string>
+	<!---->
+	<string name="convert_area_km2">"kilomét vuông"</string>
+	<!---->
+	<string name="convert_area_ac">"mẫu"</string>
+	<!---->
+	<string name="convert_area_mi2">"dặm vuông"</string>
+	<!-- no translation found for convert_category_mass -->
+	<skip />
+	<!---->
+	<string name="convert_mass_mg">"milligam"</string>
+	<!---->
+	<string name="convert_mass_g">"gam"</string>
+	<!---->
+	<string name="convert_mass_kg">"kilogam"</string>
+	<!---->
+	<string name="convert_mass_t">"tấn mét"</string>
+	<!---->
+	<string name="convert_mass_tonuk">"tấn Anh"</string>
+	<!---->
+	<string name="convert_mass_tonus">"tấn Mỹ"</string>
+	<!---->
+	<string name="convert_mass_lb">"pao"</string>
+	<!---->
+	<string name="convert_mass_oz">"ao-xơ"</string>
+	<!---->
+	<string name="convert_mass_st">"xtôn"</string>
+	<!---->
+	<string name="convert_mass_ct">"cara"</string>
+	<!-- no translation found for convert_category_temperature -->
+	<skip />
+	<!---->
+	<string name="convert_temp_c">"độ C"</string>
+	<!---->
+	<string name="convert_temp_f">"độ F"</string>
+	<!---->
+	<string name="convert_temp_k">"kelvin"</string>
+	<!-- no translation found for convert_category_volume -->
+	<skip />
+	<!---->
+	<string name="convert_volume_mm3">"milimét khối"</string>
+	<!---->
+	<string name="convert_volume_cm3">"centimét khối"</string>
+	<!---->
+	<string name="convert_volume_dm3">"deximét khối"</string>
+	<!---->
+	<string name="convert_volume_m3">"mét khối"</string>
+	<!---->
+	<string name="convert_volume_ml">"mililít"</string>
+	<!---->
+	<string name="convert_volume_liter">"lít"</string>
+	<!---->
+	<string name="convert_volume_ft3">"foot khối"</string>
+	<!---->
+	<string name="convert_volume_in3">"inch khối"</string>
+	<!---->
+	<string name="convert_volume_gal_us">"(Hoa Kỳ) galông"</string>
+	<!---->
+	<string name="convert_volume_qt_us">"(Hoa Kỳ) lít Anh"</string>
+	<!---->
+	<string name="convert_volume_pt_us">"(Hoa Kỳ) panh"</string>
+	<!---->
+	<string name="convert_volume_oz_us">"(Hoa Kỳ) ao-xơ"</string>
+	<!---->
+	<string name="convert_volume_cup_us">"(Hoa Kỳ) cốc"</string>
+	<!---->
+	<string name="convert_volume_tbsp_us">"(Hoa Kỳ) muỗng canh"</string>
+	<!---->
+	<string name="convert_volume_tsp_us">"(Hoa Kỳ) muỗng cà phê"</string>
+	<!---->
+	<string name="convert_volume_gal_uk">"(Anh) galông"</string>
+	<!---->
+	<string name="convert_volume_qt_uk">"(Anh) lít Anh"</string>
+	<!---->
+	<string name="convert_volume_pt_uk">"(Anh) panh"</string>
+	<!---->
+	<string name="convert_volume_oz_uk">"(Anh) ao-xơ"</string>
+	<!---->
+	<string name="convert_volume_cup_uk">"(Anh) cốc"</string>
+	<!---->
+	<string name="convert_volume_tbsp_uk">"(Anh) muỗng canh"</string>
+	<!---->
+	<string name="convert_volume_tsp_uk">"(Anh) muỗng cà phê"</string>
+	<!---->
+	<string name="convert_volume_dr">"đồn đram"</string>
+	<!---->
+	<string name="convert_volume_bbl">"thùng"</string>
+	<!---->
+	<string name="convert_volume_cord">"cooc"</string>
+	<!---->
+	<string name="convert_volume_gill">"gin"</string>
+	<!-- no translation found for convert_category_cooking -->
+	<skip />
+	<!---->
+	<string name="convert_cooking_milliliter">"mililít"</string>
+	<!---->
+	<string name="convert_cooking_gal_us">"galông"</string>
+	<!---->
+	<string name="convert_cooking_qt_us">"lít Anh"</string>
+	<!---->
+	<string name="convert_cooking_pt_us">"panh"</string>
+	<!---->
+	<string name="convert_cooking_oz_us">"ao-xơ"</string>
+	<!---->
+	<string name="convert_cooking_floz_us">"(Hoa Kỳ) đơn vị ao-xơ Mỹ"</string>
+	<!---->
+	<string name="convert_cooking_cup_us">"cốc"</string>
+	<!---->
+	<string name="convert_cooking_tbsp_us">"muỗng canh"</string>
+	<!---->
+	<string name="convert_cooking_tsp_us">"muỗng cà phê"</string>
+	<!---->
+	<string name="convert_cooking_gal_uk">"galông"</string>
+	<!---->
+	<string name="convert_cooking_qt_uk">"lít Anh"</string>
+	<!---->
+	<string name="convert_cooking_pt_uk">"panh"</string>
+	<!---->
+	<string name="convert_cooking_floz_uk">"(Anh) đơn vị ao-xơ Mỹ"</string>
+	<!---->
+	<string name="convert_cooking_oz_uk">"ao-xơ"</string>
+	<!---->
+	<string name="convert_cooking_cup_uk">"cốc"</string>
+	<!---->
+	<string name="convert_cooking_tbsp_uk">"muỗng canh"</string>
+	<!---->
+	<string name="convert_cooking_tsp_uk">"muỗng cà phê"</string>
+	<!-- no translation found for convert_category_fuel -->
+	<skip />
+	<!---->
+	<string name="convert_fuel_galperhundredmile_uk">"galông (Anh)/100 dặm"</string>
+	<!---->
+	<string name="convert_fuel_galperhundredmile_us">"galông (Hoa Kỳ)/100 dặm"</string>
+	<!---->
+	<string name="convert_fuel_kilometerperliter">"km/lít"</string>
+	<!---->
+	<string name="convert_fuel_literperhundredkilometer">"lít/100 km"</string>
+	<!---->
+	<string name="convert_fuel_mpg_uk">"(Anh) dặm cho mỗi galông"</string>
+	<!---->
+	<string name="convert_fuel_mpg_us">"(Hoa Kỳ) dặm cho mỗi galông"</string>
+	<!-- no translation found for convert_shoes_mem -->
+	<skip />
+	<!-- no translation found for convert_shoes_womem -->
+	<skip />
+	<!---->
+	<string name="splash_tv_open">"Nhập"</string>
+	<!---->
+	<string name="splash_tv_next">"Tiếp theo"</string>
+	<!---->
+	<string name="splash_tv_skip">"Bỏ qua"</string>
+	<!---->
+	<string name="splash_tv_calculate_title">"Tính toán"</string>
+	<!---->
+	<string name="splash_tv_calculate_content">"Bắt đầu với chiếc máy tính này và chạm vào nút hoặc vuốt sang trái để sử dụng bảng điều khiển khoa học."</string>
+	<!---->
+	<string name="splash_tv_currency_title">"Kiểm tra tiền tệ"</string>
+	<!---->
+	<string name="splash_tv_currency_content">"Hỗ trợ hơn 150 quốc gia kiểm tra và cập nhật hàng ngày. \n(Tài nguyên dữ liệu đến từ www.xe.com)"</string>
+	<!---->
+	<string name="splash_tv_convert_title">"Chuyển đổi đơn vị"</string>
+	<!---->
+	<string name="splash_tv_convert_content">"Chiều dài? Số lượng? Khu vực? \nĐơn vị chuyển đổi còn là vấn đề nữa."</string>
+	<!---->
+	<string name="no_internet_access">"Không có kết nối internet"</string>
+	<!---->
+	<string name="updating">"Đang cập nhật..."</string>
+	<!-- no translation found for search_edit_hint -->
+	<skip />
+	<!---->
+	<string name="bt_right_more">"Khác"</string>
+	<!---->
+	<string name="bt_left_more">"Khác"</string>
+	<!---->
+	<string name="pop_cancel">"HỦY"</string>
+	<!---->
+	<string name="pop_ok">"OK"</string>
+</resources>
